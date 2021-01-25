@@ -2,6 +2,12 @@
 
 Misc notes for future reference and placement.  Some of the record may be for the same person.
 
+## Peter Galbreath
+
+From Angus Martin's book, Kintyre Country Life, Appendix 1 "Tenants of Argyll Estate Convicted of Malting or Distilling Illegally 20 Oct 1800 to 2 April 1801":
+
+* Peter Galbreath, Laggan
+
 ## Archibald Galbraith, Maltster
 
 From "A List of the Matriculated Members of the Merchants House of Glasgow
