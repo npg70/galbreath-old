@@ -1,6 +1,21 @@
 # Galbreath Brewers and Distillers in Campbeltown 1700-1800
 
-Misc notes for future reference and placement.
+Misc notes for future reference and placement.  Some of the record may be for the same person.
+
+## Archibald Galbraith, Maltster
+
+From https://www.google.com/books/edition/A_List_of_the_Matriculated_Members_of_th/csYxAQAAMAAJ?hl=en&gbpv=1&bsq=galbraith
+
+Lists "Archibald Galbraitth, Maltster, Campbeltown" with two sons admitted to Glasgow Merchant House
+
+* "Galbraith, Arch.", matriculated in 1843, elected 1856 as Director
+* "Galbraith, And.", matriculated in 1843, elected 1850 as "Dean of Guild"
+
+Also note this source lists a "James Galbraith, Merchant, Campbeltown" with son  "Galbraith, Archd." admitted in 1870 as "Merchant"
+
+## Archibald Galbreath, Distiller
+
+Living 1797.
 
 ## Archibald Galbreath 1806 brewer
 
