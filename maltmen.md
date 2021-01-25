@@ -12,7 +12,7 @@ page 46:
 
 > The name Galbreath is one associated particularly with malting
 > with David, John and Samuel, all maltmen, and
-> later in the century Achibald, a distiller.
+> later in the century Archibald, a distiller.
 > The Harveys or Harvies participated in malting and 
 > traded extensively in grain.  The Orr business passed from father to son to grandson.
 
