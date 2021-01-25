@@ -65,13 +65,45 @@ Nice summaries of Campbeltown families involved at the time.
 > the Prohibition on Malting, 1783; Archibald, distiller, signed the Memorial to the Excise, 1797.
 > James, a shipmaster, was a member of the Relief congregation, 1767.
 
+# Catherine Galbreath
+
+The Greenlees were a major family involved with distilling.
+
+> The Greenlees family came to Kintyre in about 1640,
+> when a miller of that name moved from Lochwinnoch (Renfrcwshire)
+> to Southend. In 1810, James Greenlees, farmer at Peninver
+> (north of Campbeltown), married *Catherine Galbreath*. Peninver
+> was the farm originally worked by Catherine's father, *Samuel Galbreath*. 
+> The couple had 11 children, the first born son (b. 1812) being named Samuel,
+> after James's father. James died in 1850 leaving £186 18s 7 d,
+> of which £137 18s 9d represented cattle, horses and farm implements.
+
+ref: http://www.ralstongenealogy.com/number67kintmag.htm
+Argyll's Forgotten Whisky Barons
+by Robert Haydock
+
+## James Galbreath
+
+1789
+
+> The orignal partners in the business ... were James Armour, cooper, and John Armour, merchant. 
+> Then, after the death of the latter, Hugh Ferguson ands James Galbreath joined
+> James Armour in the partnership.
+
+## FLorence Galbraith
+
+From _The Distilleries of Campbeltown_
+
+Sometime in 1813-1826.  "Brewerie" distillery.
+
 ## Peter Galbreath
 
-From Angus Martin's book, Kintyre Country Life, Appendix 1 "Tenants of Argyll Estate Convicted of Malting or Distilling Illegally 20 Oct 1800 to 2 April 1801":
+From Angus Martin's book, _Kintyre Country Life_, Appendix 1 "Tenants of Argyll Estate Convicted of Malting or Distilling Illegally 20 Oct 1800 to 2 April 1801"
 
 * Peter Galbreath, Laggan
 
-ref: http://www.kintyreforum.com/viewtopic.php?f=60&t=14373
+* ref: http://www.kintyreforum.com/viewtopic.php?f=60&t=14373
+* ref: http://ralstongenealogy.com/kintyrecrountylifeindex.htm
 
 ## Archibald Galbraith, Maltster
 
@@ -87,6 +119,11 @@ Lists "Archibald Galbraitth, Maltster, Campbeltown" with two sons admitted to Gl
 
 Also note this source lists a "James Galbraith, Merchant, Campbeltown" with son  "Galbraith, Archd." admitted in 1870 as "Merchant"
 
+## John Galbraith 
+
+Provost (of what)? North Park
+Founded Scotia Distillery in 1832? 
+
 ## Archibald Galbreath, Distiller
 
 Living 1797.
@@ -97,8 +134,6 @@ from 1841 Census: Long Row, Campbeltown:
 https://www.findmypast.com/transcript?id=GBC%2F1841%2F0016597151
 all in	Argyllshire, Scotland.  Unclear on parents.
   
-
-
 * Archibald Galbreath birth year: 1806
 * Barbara: 1806
 * Duncan: 1810
