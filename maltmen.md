@@ -1,6 +1,6 @@
+# Galbreath Brewers and Distillers in Campbeltown 1700-1800
 
-
-# Archibald Galbreath 1806 brewer
+## Archibald Galbreath 1806 brewer
 
 from 1841 Census: Long Row, Campbelton:
 https://www.findmypast.com/transcript?id=GBC%2F1841%2F0016597151
