@@ -64,11 +64,19 @@ Page 354:
 
 Nice summaries of Campbeltown families involved at the time. 
 
-> Galbreath or Galbraith: John and David, maltmen, signde the Maltster Declaration, 1743
-> They were members of the Lowland congregation and later the Relief congregation , 1767.
-> Samuel, maltman, traded extensively in malt and bear to Belfast; John, David, and Samuel
-> were all town councillors.  William, maltman and member of relief congregation, 1767, signed
-> the Prohibition on Malting, 1783; Archibald, distiller, signed the Memorial to the Excise, 1797.
+> Galbreath or Galbraith: 
+> John and David, maltmen, signde the Maltster Declaration, 1743
+> They were members of the Lowland congregation and later the Relief congregation, 1767.
+>
+> Samuel, maltman, traded extensively in malt and bear to Belfast;
+> 
+> John, David, and Samuel were all town councillors.
+>
+> William, maltman and member of relief congregation, 1767, signed
+> the Prohibition on Malting, 1783;
+>
+> Archibald, distiller, signed the Memorial to the Excise, 1797.
+>
 > James, a shipmaster, was a member of the Relief congregation, 1767.
 
 # Catherine Galbreath
