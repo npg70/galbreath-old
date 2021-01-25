@@ -2,6 +2,12 @@
 
 Misc notes for future reference and placement.  Some of the record may be for the same person.
 
+## Alexander Galbreath
+
+1851 Scotland Census: https://www.findmypast.com/transcript?id=GBC%2F1851%2F0019255793
+
+Lists occupation as "Maltman", born ~1816
+
 ## Trade and Economic Development in Eighteenth-Century Campbeltown
 
 Thesis for PhD U of Edinburgh, 1982
