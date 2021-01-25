@@ -84,7 +84,9 @@ by Robert Haydock
 
 ## James Galbreath
 
-1789
+From _The Distilleries of Campbeltown_
+
+Around 1789?, refering to a un-named distillery.
 
 > The orignal partners in the business ... were James Armour, cooper, and John Armour, merchant. 
 > Then, after the death of the latter, Hugh Ferguson ands James Galbreath joined
