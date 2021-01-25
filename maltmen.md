@@ -8,6 +8,8 @@ From Angus Martin's book, Kintyre Country Life, Appendix 1 "Tenants of Argyll Es
 
 * Peter Galbreath, Laggan
 
+ref: http://www.kintyreforum.com/viewtopic.php?f=60&t=14373
+
 ## Archibald Galbraith, Maltster
 
 From "A List of the Matriculated Members of the Merchants House of Glasgow
