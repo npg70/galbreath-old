@@ -6,6 +6,8 @@ Misc notes for future reference and placement.  Some of the record may be for th
 
 Thesis for PhD U of Edinburgh, 1982
 
+https://era.ed.ac.uk/handle/1842/19071
+
 page 46:
 
 > The name Galbreath is one associated particularly with malting
