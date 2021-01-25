@@ -2,7 +2,7 @@
 
 ## Archibald Galbreath 1806 brewer
 
-from 1841 Census: Long Row, Campbelton:
+from 1841 Census: Long Row, Campbeltown:
 https://www.findmypast.com/transcript?id=GBC%2F1841%2F0016597151
 all in	Argyllshire, Scotland.  Unclear on parents.
   
