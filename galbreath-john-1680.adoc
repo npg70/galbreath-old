@@ -6,15 +6,15 @@ death:: 1750
 
 == Mary Mitchell
 
-birth:: 1684 • Campbeltown, Argyll, , Scotland
+birth:: 1684; Campbeltown, Argyll, Scotland
 death:: abt 1730
-marriage:: 16 Mar 1707 • Campbeltown, Argyll, , Scotland
+marriage:: 16 Mar 1707; Campbeltown, Argyll, Scotland
 
 === Children
 
 link:galbreath-archibald-1708.adoc[Archibald Galbreath]:: b. 30 May 1708, m. *Martha White*.
 Mary Galbreath:: b. 25 Dec. 1709.  Assumed died in early childhood.
-Janet Galbreath:: b. 14 Oct. 1711
+link:galbreath-janet-1711.adoc["Janet Galbreath"]:: b. 14 Oct. 1711, m. *
 James Galbreath:: b. 22 Mar 1713.  Assumed died in infancy.
 Katharine Galbreath:: b. 8 Aug 1714
 James Galbreath:: b. 11 May 1716.  Assumed died in infancy.
