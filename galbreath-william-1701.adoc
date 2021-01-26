@@ -1,0 +1,24 @@
+= William Galbreath
+
+parents:: link:galbreath-james-1672.adoc[James Galbreath];
+birth:: 16 Nov 1701
+
+== Margaret Kilpatrick
+
+parents: *James Kilpatrick* b.  Glasgow, 3 Nov 1652 d. Glasgow 1725;   Married 31 Jan 1704 to *Ann Brackenridge* b. 1683, d. 1723.
+marriage:: 31 Jul 1724.
+
+=== Children
+
+Mary Galbreath::  b. 23 May 1725.  Another record under "WILLIAM CALBREATH/MARGARET KILPATRICK".
+James Galbreath:: b. 2 Oct 1726.  Another record under "WILLIAM CALBREATH/MARGARET KILPATRICK"
+Ann Galbreath:: b. 23 Dec 1727.  Assumed died in infancy.
+link:galbreath-mary-1729[Mary Galbreath]:: b. 19 Oct 1729, {m "William Armour"}
+John Galbreath:: b. 14 May 1732. Two records. One under "Calbreath"
+Jean Galbreath:: b. 2 Jul 1733.
+Janet Galbreath:: b. 27 Apr 1735.
+Ann Galbreath:: b. 22 Jan 1738.
+Henry Galbreath:: b. Apr 1739. Note two records same names/dates.
+Margaret Galbreath:: b. 1 Sept 1740
+link:david-galbreath-isobell-watson[David Galbreath]:: ??? b. say 1690.  Married {spouse "Isobell Watson"}. TODO
+
