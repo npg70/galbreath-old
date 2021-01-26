@@ -9,10 +9,12 @@ death:: 1799
 parents:: *John White*, unknown
 birth:: 13 Aug 1712; Lochgoilhead, Argyll, Scotland
 marriage:: 1 Apr 1733; Campbeltown, Argyll, Scotland
-children::
- . link:robert-galbreath-1778.adoc[Robert Galbreath]
- . *Martha Galbreath*, b. 1781
- . *Archibald Galbreath*, b.  1783
- . *Catherine Galbreath*, b. 1788
- . *Samuel Galbreath*, b. 1793
- . *John Galbreath*, b. 1796
+
+=== Children
+
+link:robert-galbreath-1778.adoc[Robert Galbreath]:: b. 1778; m. *Katherine Harvie*
+Martha Galbreath:: b. 1781
+Archibald Galbreath:: b.  1783
+Catherine Galbreath:: b. 1788
+Samuel Galbreath:: b. 1793
+John Galbreath:: b. 1796
