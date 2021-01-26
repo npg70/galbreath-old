@@ -1,6 +1,6 @@
 = Samuel Galbreath
 
-parents:: link:archibald-galbreath-1708.adoc[Archibald Galbreath]; *Margaret White*
+parents:: link:galbreath-archibald-1708.adoc[Archibald Galbreath]; *Margaret White*
 birth:: 4 FEB 1736; Campbeltown, Argyll, Scotland
 death:: 1799
 
@@ -12,7 +12,7 @@ marriage:: 1 Apr 1733; Campbeltown, Argyll, Scotland
 
 === Children
 
-link:robert-galbreath-1778.adoc[Robert Galbreath]:: b. 1778; m. *Katherine Harvie*
+link:galbreath-robert.1778.adoc[Robert Galbreath]:: b. 1778; m. *Katherine Harvie*
 Martha Galbreath:: b. 1781
 Archibald Galbreath:: b.  1783
 Catherine Galbreath:: b. 1788
