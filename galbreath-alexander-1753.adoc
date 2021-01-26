@@ -4,6 +4,10 @@ parents:: link:galbreath-john-1721.adoc[John Galbreath]; *Agnes Langwill*
 birth:: 25 June 1753; Campbeltown
 death::  1 Nov 1819;  York, PA, USA
 
+.Notes
+- "emigrated and landed in Baltimore on 1st September 1785": http://www.ralstongenealogy.com/number35kintmag.htm
+- all died in York County, Pennsylvania, USA
+
 == Agnes Flemming
 
 === Children
