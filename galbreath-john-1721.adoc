@@ -1,5 +1,6 @@
 = John Galbreath
 
+parents:: link:galbreath-john-1680.adoc[John Galbreath]; *Mary Mitchell*
 birth:: 9 Dec 1721
 
 == Agnes Langwill
