@@ -8,6 +8,30 @@ Misc notes for future reference and placement.  Some of the record may be for th
 
 Lists occupation as "Maltman", born ~1816
 
+## Janet Galbraith, married David Ryburn, brother of Samuel
+
+http://netspeed.com.au/rryburn/Downloads/Kintyre%20Ryburns.pdf
+
+re: Ryburn family
+
+> The names of William’s children appear to confirm the connection, 
+> but not rigorously. Mathew and Elizabeth had nine children – 
+> James (1697), John (1699), David (1701), William (1704), Neil (1706), 
+> Jean (1709), Janet (1712), Elizabeth (1715) and Mathew (1716).
+> Again, none of the children may have died young, as no names are repeated.
+> David appears to have become a successful ‘maltster’ in Cambeltown,
+> marrying Janet Galbraith in 1735 and raising six children. 
+> David died in 1776, leaving a three-page testament dative (see www.scotlandspeople.com)
+> that mentions a Samuel Galbraith, his probable brother in law and business partner. 
+
+other mentioned
+
+> In 1743 David Ryburn Senior (son of Mathew & Elizabeth) and Janet Galbreath
+> had a son Arthur who was almost certainly the Arthur Ryburn who was master 
+> of the ‘Sloop Privateer Mercury’, a British ‘victualler’ during the 
+> American War of Independence (‘Publications’, 1916, p25). 
+
+
 ## Trade and Economic Development in Eighteenth-Century Campbeltown
 
 Thesis for PhD U of Edinburgh, 1982
