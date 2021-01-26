@@ -1,0 +1,15 @@
+= Robert Galbreath
+
+parents:: link:samuel-galbreath-1736[Samuel Galbreath]; *Janet McNair*
+birth:: 12 Oct 1778; Campbeltown, Argyll, Scotland
+death:: 19 May 1847; Neville, Clermont, Ohio, USA
+
+== Catherine Harvie
+
+parents:: *James Harvie*; link:katherine-galbreath-1714.adoc[Katherine Galbreath]
+birth:: 29 JUL 1780; Campbeltown, Argyll, Scotland
+death:: 21 JUN 1847; Neville, Clermont, Ohio, USA
+marriage:: 18 Apr 1805; Campbeltown, Argyll, Scotland
+children::
+ . Jane Galbreath, b. 1806 iufnasoiuc yuwnritcuw yubrixwbi uyniwxriw rybxiwryciwytc
+ . link:samuel-galbreath-1809.adoc[Samuel Galbreath]
