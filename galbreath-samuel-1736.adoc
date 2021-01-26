@@ -14,7 +14,7 @@ marriage:: 1 Apr 1733; Campbeltown, Argyll, Scotland
 
 link:galbreath-robert-1778.adoc[Robert Galbreath]:: b. 1778; m. *Katherine Harvie*
 Martha Galbreath:: b. 1781
-Archibald Galbreath:: b.  1783
-Catherine Galbreath:: b. 1788
+Archibald Galbreath:: b. 1783
+link:galbreath-catherine-1788[Catherine Galbreath]:: b. 1788; m. James Greenlees.
 Samuel Galbreath:: b. 1793
 John Galbreath:: b. 1796
