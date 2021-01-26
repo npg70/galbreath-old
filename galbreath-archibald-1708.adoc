@@ -11,7 +11,7 @@ marriage:: 1 Apr 1733; Campbeltown, Argyll, Scotland
 === Children
 
 John Galbreath:: b. 3 Mar 1734 mother listed as "Martha Whyte".
-link:galbreath-samuel-1736[Samuel Galbreath]:: b. 4 Feb 1736, m. *Janet McNair*
+link:galbreath-samuel-1736.adoc[Samuel Galbreath]:: b. 4 Feb 1736, m. *Janet McNair*
 John Galbreath:: b. 20 Dec. 1738.
 Katharine Galbreath:: b. 3 May 1741.  Maybe married 17 Sept 1761 to James Harvie (source #785 Jean Orr Simpson application).  Descendants moved to USA.
 Margaret Galbreath:: b. 27 Oct 1743.
