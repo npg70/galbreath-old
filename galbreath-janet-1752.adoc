@@ -1,6 +1,7 @@
 = Janet Galbreath
 
-birth: 26 Nov 1752
+parents:: link:galbreath-archibald-1708.adoc[Archibald Galbreath]; *Margaret White*
+birth:: 26 Nov 1752
 
 == James Armour
 
