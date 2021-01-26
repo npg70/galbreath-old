@@ -1,5 +1,6 @@
 = Alexander Galbreath
 
+parents: link:galbreath-john-1721.adoc[John Galbreath]; *Agnes Langwill*
 birth:: 25 June 1753; Campbeltown
 death::  1 Nov 1819;  York, PA, USA
 
