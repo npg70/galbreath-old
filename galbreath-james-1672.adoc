@@ -1,6 +1,6 @@
 = James Galbreath
 
-link:galbreath-archibald-1708.adoc[Archibald Galbreath]:: b. 30 May 1708, m. *Martha White*.
+parents:: link:galbreath-james-1659.adoc[James Galbreath]; *Mary Nielson*
 birth:: 25 Aug 1672; Kintyre, Argyllshire, Scotland
 
 == Mary Fleming
