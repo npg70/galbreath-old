@@ -1,6 +1,6 @@
 = William Galbreath
 
-parents:: link:galbreath-james-1672.adoc[James Galbreath];
+parents:: link:galbreath-james-1672.adoc[James Galbreath]; *Mary Fleming*
 birth:: 16 Nov 1701
 
 == Margaret Kilpatrick
