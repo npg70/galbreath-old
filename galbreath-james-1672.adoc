@@ -18,4 +18,4 @@ James Galbreath:: b. 20 Aug 1713.  Listed under "James Galbreath/Mary Fleming"
 Partrick Galbreath:: b. 20 Aug 1713.
 Archibald Galbreath:: b. 9 Sept 1715.  Two records, "JAMES GALBREATH/MARY FLEEMING", "JAMES CALBREATH/MARY FLEEMING"
 David Galbreath:: b. 28 Apr 1719.
-link:galbreath-agnes-1722[Agnes Galbreath]:: b. 18 Feb 1722; m. *James Clark*.  Note two records for birth: "JAMES GALBREATH/MARY FLEEMING" and "JAMES CALBREATH/MARY FLEEMING"
+link:galbreath-agnes-1722.adoc[Agnes Galbreath]:: b. 18 Feb 1722; m. *James Clark*.  Note two records for birth: "JAMES GALBREATH/MARY FLEEMING" and "JAMES CALBREATH/MARY FLEEMING"
