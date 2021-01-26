@@ -1,6 +1,6 @@
 = James Galbreath
 
-
+link:galbreath-archibald-1708.adoc[Archibald Galbreath]:: b. 30 May 1708, m. *Martha White*.
 birth:: 25 Aug 1672; Kintyre, Argyllshire, Scotland
 
 == Mary Fleming
