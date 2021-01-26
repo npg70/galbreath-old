@@ -1,5 +1,6 @@
 = Archibald Galbreath
 
+parents:: link:galbreath-john-1680.adoc[John Galbreath]; *Mary Mitchell*
 birth:: 30 MAY 1708; Campbeltown, Argyll, Scotland
 death:: 1789; Campbeltown, Argyll, Scotland
 
