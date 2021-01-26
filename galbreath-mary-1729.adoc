@@ -1,5 +1,6 @@
 = Mary Galbreath
 
+parents:: link:galbreath-william-1701.adoc[William Galbreath]; *Margaret Kilpatrick*
 birth:: 19 Oct 1729
 
 == William Armour
