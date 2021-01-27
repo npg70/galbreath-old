@@ -1,5 +1,6 @@
 = Margaret Galbreath
 
+parents:: link:galbreath-archibald-1708.adoc[Archibald Galbreath]; *Margaret White*
 birth:: 27 Oct 1743, Campbeltown
 
 == Alexander Dunlop
