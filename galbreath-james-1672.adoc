@@ -9,7 +9,7 @@ marriage:: 8 Dec 1696
 
 === Children
 
-Jenat Galbreath:: b. 24 Feb 1698.
+link:galbreath-janet-1698.adoc[Jenat Galbreath]:: b. 24 Feb 1698, m. *Peter Langwill*.
 link:galbreath-william-1701.adoc[William Galbreath]:: b. 16 Nov 1701,  m. *Maraget Kilpatrick*.
 Mary Galbreath:: b. 30 Apr 1704.
 James Galbreath:: b. 4 Aug 1706.  Listed under "James Galbreath/Marion Fleeming"}.  Assumed died in infancy.
