@@ -4,11 +4,12 @@ parents:: link:galbreath-archibald-1708.adoc[Archibald Galbreath]; *Margaret Whi
 birth:: 4 FEB 1736; Campbeltown, Argyll, Scotland
 death:: 1799
 
-== Martha White
+== 
 
-parents:: *John White*, unknown
-birth:: 13 Aug 1712; Lochgoilhead, Argyll, Scotland
-marriage:: 1 Apr 1733; Campbeltown, Argyll, Scotland
+parents:: *Robert McNair*, *Janet Galbreath*
+birth:: 12 OCT 1755; Campbeltown, Argyll, Scotland
+death:: 07 JUL 1831
+marriage:: 1774 • Peninver, Argyll, Scotland
 
 === Children
 
