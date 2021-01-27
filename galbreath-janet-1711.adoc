@@ -6,7 +6,7 @@ death:: 1758
 
 == David Ryburn
 
-birth:: 1701; Campbelltown, Argyll, Scotland
+birth:: 15 Feb 1702; Campbelltown, Argyll, Scotland
 marriage:: 22 February 1735 • Campbelltown, Argyll, Scotland (listed under David Ryeburn/Janet Calbraith)
 
 === Children
@@ -20,5 +20,6 @@ Isobell Ryburn:: b. 6 Jul 1747
 
 = Source
 
+- David Ryburn birth https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=ryeburn&surname_so=fuzzy&forename=david&forename_so=starts&from_year=1701&to_year=1702&parent_names_so=exact&parent_name_two_so=exact&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches[ScotlandPeople]
 - Marriage https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=M&record_type%5B0%5D=opr_marriages&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-banns-marriages&surname=ryeburn&surname_so=fuzzy&forename=david&forename_so=starts&sex=M&spouse_name=calbraith&spouse_name_so=exact&from_year=1735&to_year=1735&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches[ScotlandPeople]
 - Children link:https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=ryburn&surname_so=fuzzy&forename_so=starts&from_year=1735&to_year=1747&parent_names=ryburn&parent_names_so=exact&parent_name_two=galbreath&parent_name_two_so=exact&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&field=parent_names&sort=asc&order=Parents/%20Other%20Details[ScotlandPeople]
