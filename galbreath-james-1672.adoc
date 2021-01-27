@@ -14,7 +14,7 @@ link:galbreath-william-1701.adoc[William Galbreath]:: b. 16 Nov 1701,  m. *Marag
 Mary Galbreath:: b. 30 Apr 1704.
 James Galbreath:: b. 4 Aug 1706.  Listed under "James Galbreath/Marion Fleeming"}.  Assumed died in infancy.
 Margaret Galbreath:: b. 14 Aug 1711
-James Galbreath:: b. 20 Aug 1713.  Listed under "James Galbreath/Mary Fleming"
+link:galbreath-james-1713.adoc[James Galbreath]:: b. 20 Aug 1713, m. *Margaret Adams*.  Listed under "James Galbreath/Mary Fleming"
 Partrick Galbreath:: b. 20 Aug 1713.
 Archibald Galbreath:: b. 9 Sept 1715.  Two records, "JAMES GALBREATH/MARY FLEEMING", "JAMES CALBREATH/MARY FLEEMING"
 David Galbreath:: b. 28 Apr 1719.
