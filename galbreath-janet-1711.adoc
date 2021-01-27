@@ -1,4 +1,8 @@
 = Janet Galbreath
 
 parents:: link:galbreath-john-1680.adoc[John Galbreath]; *Mary Mitchell*
-birth:: 1711; Campbeltown, Argyll, Scotland
+birth:: 14 Oct 1711; Campbeltown, Argyll, Scotland
+
+== Unknown
+
+=== Children
