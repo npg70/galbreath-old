@@ -1,0 +1,27 @@
+= Margaret Galbreath
+
+birth:: 27 Oct 1743, Campbeltown
+
+== Alexander Dunlop
+
+marriage:: 3 May 1768, Campbeltown
+
+=== Children
+
+All in Campbeltown unless otherwise listed:
+
+Isabell Dunlop:: b. 2 Dec 1770; under "Mary Galbreath"
+Martha Dunlop:: b. 22 Sep 1772; under "Mary Galbreath"
+Margaret Dunlop:: b. 28 Apr 1776; under "Mary Galbreath"
+Agnes Dunlop:: b. 7 Sep 1777; under "Mary Galbreath"
+Mary Dunlop:: b. 1 Oct 1780; under "Mary Galbreath"
+Margaret Dunlop:: b. 28 Dec 1781; under "Mary Galbraith"
+Katherine Dunlop:: b. 15 Jan 1783; under "Mary Galbreath"
+Archibald Dunlop:: b. 14 Jan 1784; under "Margaret Galbreath"
+Archibald Dunlop:: b. 9 Mar 1785, Killean and Kilchenzie; under "Mary Galbreath"
+Ann Dunlop:: b. 3 May 1786; under "Margaret Galbraith"
+Robert Dunlop:: b. Jun 1787, Killean and Kilchenzie;  Under "Mary Galbreath"
+
+= Source
+
+Children of Margaret and Alexander link:https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=dunlop&surname_so=exact&forename_so=starts&from_year=1768&to_year=1790&parent_names=dunlop&parent_names_so=exact&parent_name_two=galbr&parent_name_two_so=starts&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&sort=asc&order=Date&field=year[Scotland People]
