@@ -1,7 +1,7 @@
 = Jean Galbraith
 
 parents:: link:galbreath-archibald-1760.adoc[Archibald Galbreath]; *Jean Corbet*
-birth::
+birth:: 7 Apr 1805
 death:: 1864
 
 == John Coville Jr
