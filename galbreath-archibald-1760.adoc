@@ -4,7 +4,8 @@ birth:: 12 Oct 1760
 
 == Martha Langwill
 
-death:: 1789?
+birth:: 1769
+death:: 1789
 marriage:: 14 Sep 1787; Campbeltown, Argyll, Scotland
 
 === Children
@@ -14,6 +15,7 @@ William Galbreath:: b. 12 Feb 1789
 == Jean Corbet
 
 birth:: 1771
+death:: 1816
 marriage::  should be around 1789-1791, but can't find it in OPR
 
 === Children
