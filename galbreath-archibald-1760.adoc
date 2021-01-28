@@ -29,7 +29,7 @@ marriage:: should be around 1789-1791, but can't find it in OPR
 Martha Galbreath:: b. 19 Mar 1792
 William Galbreath:: b. 9 Nov 1794
 Agnes Galbreath:: b. 4 Feb 1797
-link:galbraith-andrew-1799.adoc[Andrew Galbraith]:: b. 10 Feb 1799
+link:galbraith-andrew-1799.adoc[Andrew Galbraith]:: b. 10 Feb 1799, m. *Margaret Bogle Scott*. Lord Provost of Glasgow 1857-60
 William Galbreath:: b. 8 Feb 1801
 Margaret Galbreath:: b. 19 Jan 1803
 link:galbraith-jean-1805.adoc[Jean Galbraith]:: b. 7 Apr 1805, m. *John Coville Jr*
