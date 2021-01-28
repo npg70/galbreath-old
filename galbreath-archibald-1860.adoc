@@ -1,0 +1,25 @@
+= Archibald Galbreath
+
+birth:: 12 Oct 1760
+
+== Jean Corbet
+
+birth:: 1771
+
+=== Children
+
+Martha Galbreath:: b. 19 Mar 1792
+William Galbreath:: b. 9 Nov 1794
+Agnes Galbreath:: b. 4 Feb 1797
+Andrew Galbreath:: b. 10 Feb 1799
+William Galbreath:: b. 8 Feb 1801
+Margaret Galbreath:: b. 19 Jan 1803
+Jean Galbreath:: b. 7 Apr 1805
+Archibald Galbreath:: b. 31 May 1807
+link:galbraith-john-1809[John Galbreath]:: b. 5 Sept. 1809
+Mary Galbreath:: b. 16 Jan 1814.  Under "Archd. Galbreath/Jean Corbert"
+
+= Sources
+
+* Family listed in 1841 Census: https://www.findmypast.com/transcript?id=GBC%2F1841%2F0016605235 (Grazier: a pastoral farmer, producing livestock rather than crops)
+* OPR: Jean Corbet is listed under "Corbet", "Corbett", "Corbit", and "Corbert" in link:https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=exact&forename_so=starts&from_year=1792&to_year=1820&parent_names=galbreath&parent_names_so=exact&parent_name_two=cor&parent_name_two_so=starts&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&sort=asc&order=Date&field=year[ScotlandPeople]
