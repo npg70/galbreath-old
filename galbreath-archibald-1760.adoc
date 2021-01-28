@@ -8,7 +8,7 @@ burial:: Kilkerran Cemetery,Campbeltown, Argyll and Bute, Scotland
 
 birth:: 12 May 1768; Campbeltown, Argyll and Bute, Scotland
 death:: 1789; Campbeltown, Argyll and Bute, Scotland
-burial:: Kilkerran Cemetery,Campbeltown, Argyll and Bute, Scotland
+burial:: Kilkerran Cemetery, Campbeltown, Argyll and Bute, Scotland
 marriage:: 14 Sep 1787; Campbeltown, Argyll, Scotland
 
 === Children
