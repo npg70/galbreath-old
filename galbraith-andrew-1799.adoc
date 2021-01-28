@@ -1,6 +1,6 @@
 = Andrew Galbraith
 
-parents::
+parents:: link:galbreath-archibald-1760.adoc[Archibald Galbreath]; *Jean Corbet*
 birth:: 6 FEB 1799; Campbeltown, Argyle, Scotland
 death::  29 NOV 1885
 
