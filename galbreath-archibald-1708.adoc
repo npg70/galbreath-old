@@ -11,9 +11,9 @@ marriage:: 1 Apr 1733; Campbeltown, Argyll, Scotland
 
 === Children
 
-John Galbreath:: b. 3 Mar 1734, mother listed as "Martha Whyte".
+John Galbreath:: b. 3 Mar 1734, d. 1735. mother listed as "Martha Whyte".
 link:galbreath-samuel-1736.adoc[Samuel Galbreath]:: b. 4 Feb 1736, m. *Janet McNair*
-John Galbreath:: b. 20 Dec 1738.
+John Galbreath:: b. 20 Dec 1738.  TODO: maybe m. Isobell Clark
 link:galbreath-katharine-1741.adoc[Katharine Galbreath]:: b. 3 May 1741, m. *James Harvie*
 link:galbreath-margaret-1743.adoc[Margaret Galbreath]:: b. 27 Oct 1743, m. *Alexander Dunlop*.
 Mary Galbreath:: b. 29 Oct 1747.
