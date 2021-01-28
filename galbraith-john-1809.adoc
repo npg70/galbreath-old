@@ -3,8 +3,8 @@
 Provost of Campbeltown 1860-66
 
 parents:: link:galbreath-archibald-1760.adoc[Archibald Galbreath]; *Jean Corbet*
-birth:: 3 SEP 1809; Campbeltown, Argyleshire, Scotland
-death:: 12 SEP 1881; Didsbury Manchester Lancashire, United Kingdom
+birth:: 3 Sep 1809; Campbeltown, Argyleshire, Scotland
+death:: 12 Sep 1881; Didsbury Manchester Lancashire, United Kingdom
 
 == Mary Colvill McEwing
 
