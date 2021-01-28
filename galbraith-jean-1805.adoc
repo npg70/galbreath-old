@@ -1,6 +1,6 @@
 = Jean Galbraith
 
-parents:: 
+parents:: link:galbreath-archibald-1760.adoc[Archibald Galbreath]; *Jean Corbet*
 birth::
 death:: 1864
 
