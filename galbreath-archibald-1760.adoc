@@ -32,7 +32,7 @@ Agnes Galbreath:: b. 4 Feb 1797
 Andrew Galbreath:: b. 10 Feb 1799
 William Galbreath:: b. 8 Feb 1801
 Margaret Galbreath:: b. 19 Jan 1803
-Jean Galbreath:: b. 7 Apr 1805
+link:galbraith-jean-1805.adoc[Jean Galbraith]:: b. 7 Apr 1805, m. *John Coville Jr*
 Archibald Galbreath:: b. 31 May 1807
 link:galbraith-john-1809.adoc[John Galbreath]:: b. 5 Sept. 1809, m. *Mary Colvill McEwing*
 Mary Galbreath:: b. 16 Jan 1814.  Under "Archd. Galbreath/Jean Corbert"
