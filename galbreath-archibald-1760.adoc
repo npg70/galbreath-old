@@ -24,7 +24,7 @@ William Galbreath:: b. 8 Feb 1801
 Margaret Galbreath:: b. 19 Jan 1803
 Jean Galbreath:: b. 7 Apr 1805
 Archibald Galbreath:: b. 31 May 1807
-link:galbraith-john-1809[John Galbreath]:: b. 5 Sept. 1809
+link:galbraith-john-1809.adoc[John Galbreath]:: b. 5 Sept. 1809
 Mary Galbreath:: b. 16 Jan 1814.  Under "Archd. Galbreath/Jean Corbert"
 
 = Sources
