@@ -1,10 +1,12 @@
 = William Galbreath
 
-birth:: 1736 TODO SPECULATIVE.  May need to rename file.
+birth:: 1736 TODO SPECULATIVE FROM INTERWEB NO SOURCES.  May need to rename file.
 parents:: not clear yet
 
 == Margaret Dunlop
 
+parents:: *James Dunlop*; *Mary Caldwell*  SPECULATIVE
+birth:: 14 Dec 1735; Campbeltown SPECULATIVE
 marriage:: 12 Jan 1760
 
 === Children
