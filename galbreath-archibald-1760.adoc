@@ -1,11 +1,14 @@
 = Archibald Galbreath
 
-birth:: 12 Oct 1760
+birth:: 12 Oct 1760; Campbeltown, Argyll and Bute, Scotland
+death:: 1846; Campbeltown, Argyll and Bute, Scotland
+burial:: Kilkerran Cemetery,Campbeltown, Argyll and Bute, Scotland
 
 == Martha Langwill
 
-birth:: 1769
-death:: 1789
+birth:: 12 May 1768; Campbeltown, Argyll and Bute, Scotland
+death:: 1789; Campbeltown, Argyll and Bute, Scotland
+burial:: Kilkerran Cemetery,Campbeltown, Argyll and Bute, Scotland
 marriage:: 14 Sep 1787; Campbeltown, Argyll, Scotland
 
 === Children
