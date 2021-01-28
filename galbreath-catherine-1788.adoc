@@ -1,5 +1,6 @@
 = Catharine Galbreath
 
+parents:: link:galbreath-samuel-1736.adoc[Samuel Galbreath]; *Janet McNair*
 birth:: 16 MAY 1788; Campbeltown, Argyll, Scotland
 death:: 21 April 1878; Moys, Campbeltown, Argyll, Scotland
 
