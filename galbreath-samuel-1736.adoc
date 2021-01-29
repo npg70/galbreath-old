@@ -1,15 +1,15 @@
 = Samuel Galbreath
 
 parents:: link:galbreath-archibald-1708.adoc[Archibald Galbreath]; *Margaret White*
-birth:: 4 FEB 1736; Campbeltown, Argyll, Scotland
+birth:: 4 Feb 1736; Campbeltown, Argyll, Scotland
 death:: 1799
 
 == Janet McNair
 
 parents:: *Robert McNair*, *Janet Galbreath*
-birth:: 12 OCT 1755; Campbeltown, Argyll, Scotland
-death:: 07 JUL 1831
-marriage:: 1774 • Peninver, Argyll, Scotland
+birth:: 12 Oct 1755; Campbeltown, Argyll, Scotland
+death:: 07 Jul 1831
+marriage:: 1774; Peninver, Argyll, Scotland
 
 === Children
 
