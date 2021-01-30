@@ -1,5 +1,6 @@
 = Patrick Galbreath
 
+parents:: link:galbreath-james-1672.adoc[James Galbreath]; *Mary Fleming*
 birth:: 20 August 1713; Campbeltown, Argyll, Scotland
 
 == Martha Shiddan
