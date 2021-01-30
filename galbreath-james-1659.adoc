@@ -12,6 +12,8 @@ marriage:: ABT 1671; Campbeltown, Argyll, Scotland
 
 === Children
 
+NOTE: ten year gap in children.  Probably lost records.
+
 link:galbreath-james-1672.adoc[James Galbreath]:: b. 25 Aug 1672, d. 1742?; m *Mary Fleming*. Record under "James Galbreath/Mary Neilsone".
 Patrick Galbraith:: b. 28 Oct 1674. Possibly married *Bessie Watson* on 4 Jan 1700, recorded under "Cabreth".  But no record of any children.
 link:galbreath-archibald-1678.adoc[Archibald Galbreath]:: b. 17 Jul 1678; m. *Elizabeth Johns*.
