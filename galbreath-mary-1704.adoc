@@ -1,5 +1,6 @@
 = Mary Galbreath
 
+parents:: link:galbreath-james-1672.adoc[James Galbreath]; *Mary Fleming*
 birth:: 30 Apr 1704
 
 == Matthew Ryburn
