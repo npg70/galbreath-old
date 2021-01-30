@@ -2,6 +2,7 @@
 
 Note: there are two David Galbreaths, that married a Jean Langwill and a Mary Langwill, and both had first childs in 1743
 
+parents:: link:galbreath-james-1672.adoc[James Galbreath]; *Mary Fleming*
 birth:: 28 Apr 1719
 
 == Jean Langwill
