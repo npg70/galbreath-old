@@ -1,6 +1,6 @@
 = James Galbreath
 
-parents:: link:galbreath-william-1702.adoc[William Galbreath]; *Margaret Kilpatrick*
+parents:: link:galbreath-william-1701.adoc[William Galbreath]; *Margaret Kilpatrick*
 birth:: 2 Oct 1726
 
 == Margaret Anderson
