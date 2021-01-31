@@ -1,7 +1,7 @@
 # William Galbreath
 
-- parents: [James Galbreath](galbreath-james-1672.adoc); *Mary Fleming*
-- birth: 16 Nov 1701
+- parents :: [James Galbreath](galbreath-james-1672.adoc); *Mary Fleming*
+- birth :: 16 Nov 1701
 
 ## Margaret Kilpatrick
 
