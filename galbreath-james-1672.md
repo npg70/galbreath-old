@@ -1,4 +1,4 @@
-= James Galbreath
+# James Galbreath
 
 - parents: [James Galbreath](galbreath-james-1659.md); *Mary Nielson*
 - birth: 25 Aug 1672; Kintyre, Argyllshire, Scotland
