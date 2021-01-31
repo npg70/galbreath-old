@@ -10,6 +10,8 @@
 
 ### Children
 
+Children of William and Margaret (Kilpatrick):
+
 1. Mary Galbreath, b. 23 May 1725. Another record under "WILLIAM CALBREATH/MARGARET KILPATRICK".
 2. [James Galbreath](galbreath-james-1726.adoc), b. 2 Oct 1726; m. *Margaret Anderson*.  Birth listed under "WILLIAM CALBREATH/MARGARET KILPATRICK"
 3. Ann Galbreath, b. 23 Dec 1727. Assumed died in infancy.
