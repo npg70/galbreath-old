@@ -1,6 +1,6 @@
 # William Galbreath
 
-parents:: link:galbreath-james-1672.adoc[James Galbreath]; *Mary Fleming*
+parents:: [James Galbreath](galbreath-james-1672.adoc); *Mary Fleming*
 birth:: 16 Nov 1701
 
 ## Margaret Kilpatrick
@@ -10,17 +10,17 @@ marriage:: 31 Jul 1724.
 
 ### Children
 
-1. Mary Galbreath  b. 23 May 1725.  Another record under "WILLIAM CALBREATH/MARGARET KILPATRICK".
-2. link:galbreath-james-1726.adoc[James Galbreath] b. 2 Oct 1726; m. *Margaret Anderson*.  Birth listed under "WILLIAM CALBREATH/MARGARET KILPATRICK"
-3. Ann Galbreath:: b. 23 Dec 1727.  Assumed died in infancy.
-4. link:galbreath-mary-1729.adoc[Mary Galbreath]:: b. 19 Oct 1729, m. *William Armour*
-5. John Galbreath:: b. 14 May 1732. Two records. One under "Calbreath"
-6. Jean Galbreath:: b. 2 Jul 1733.
-7. Janet Galbreath:: b. 27 Apr 1735.
-8. Ann Galbreath:: b. 22 Jan 1738.
-9. Henry Galbreath:: b. Apr 1739. Note two records same names/dates.
-10. Margaret Galbreath:: b. 1 Sept 1740
-11. link:david-galbreath-isobell-watson[David Galbreath]:: ??? b. say 1690.  Married {spouse "Isobell Watson"}. TODO
+1. Mary Galbreath, b. 23 May 1725.  Another record under "WILLIAM CALBREATH/MARGARET KILPATRICK".
+2. [James Galbreath](galbreath-james-1726.adoc) b. 2 Oct 1726; m. *Margaret Anderson*.  Birth listed under "WILLIAM CALBREATH/MARGARET KILPATRICK"
+3. Ann Galbreath, b. 23 Dec 1727.  Assumed died in infancy.
+4. [Mary Galbreath](galbreath-mary-1729.adoc), b. 19 Oct 1729, m. *William Armour*
+5. John Galbreath, b. 14 May 1732. Two records. One under "Calbreath"
+6. Jean Galbreath, b. 2 Jul 1733.
+7. Janet Galbreath, b. 27 Apr 1735.
+8. Ann Galbreath, b. 22 Jan 1738.
+9. Henry Galbreath, b. Apr 1739. Note two records same names/dates.
+10. Margaret Galbreath, b. 1 Sept 1740
+11. [David Galbreath](david-galbreath-isobell-watson), ??? b. say 1690.  Married {spouse "Isobell Watson"}. TODO
 
 # Sources
 
