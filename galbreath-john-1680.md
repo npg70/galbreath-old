@@ -39,7 +39,8 @@ Children of John and Katherine (McCallum) Galbreath:
 
 - The second marriage is referenced in http://www.ralstongenealogy.com/number35kintmag.htm#start quote:
   > On Mary Mitchell's death John senior married 
-  > Katherine McCallum who gave him one son, Archibald."
+  > Katherine McCallum who gave him one son, Archibald.
+ 
   The birth is confirmed in OPR via link [ScotlandsPeople][sp1].
 
 
