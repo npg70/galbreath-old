@@ -1,6 +1,6 @@
 # John Galbreath
 
-- parents: link:galbreath-james-1659.md[James Galbreath]; *Mary Nielson*
+- parents: [James Galbreath](galbreath-james-1659.md); *Mary Nielson*
 - birth: 29 MAY 1680; Campbeltown, Argyll, Scotland
 - death: 1750
 
