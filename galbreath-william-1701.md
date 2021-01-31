@@ -13,7 +13,7 @@
 1. Mary Galbreath, b. 23 May 1725. Another record under "WILLIAM CALBREATH/MARGARET KILPATRICK".
 2. [James Galbreath](galbreath-james-1726.adoc), b. 2 Oct 1726; m. *Margaret Anderson*.  Birth listed under "WILLIAM CALBREATH/MARGARET KILPATRICK"
 3. Ann Galbreath, b. 23 Dec 1727. Assumed died in infancy.
-4. [Mary Galbreath](galbreath-mary-1729.adoc), b. 19 Oct 1729, m. *William Armour*
+4. [Mary Galbreath][], b. 19 Oct 1729, m. *William Armour*
 5. John Galbreath, b. 14 May 1732. Two records. One under "Calbreath"
 6. Jean Galbreath, b. 2 Jul 1733.
 7. Janet Galbreath, b. 27 Apr 1735.
@@ -24,3 +24,5 @@
 
 # Sources
 
+
+[Mary Galbreath]: galbreath-mary-1729.adoc
