@@ -15,9 +15,9 @@
 2. [Samuel Galbreath](galbreath-samuel-1736.md), b. 4 Feb 1736, m. *Janet McNair*
 3. John Galbreath, b. 20 Dec 1738.  TODO: maybe m. Isobell Clark
 4. [Katharine Galbreath](galbreath-katharine-1741.md), b. 3 May 1741, m. *James Harvie*
-5. [Margaret Galbreath](galbreath-margaret-1743.md) b. 27 Oct 1743, m. *Alexander Dunlop*.
-6. Mary Galbreath:: b. 29 Oct 1747.
-7. Ann Galbreath:: b. 15 Apr 1750.
+5. [Margaret Galbreath](galbreath-margaret-1743.md), b. 27 Oct 1743, m. *Alexander Dunlop*.
+6. Mary Galbreath, b. 29 Oct 1747.
+7. Ann Galbreath, b. 15 Apr 1750.
 8. [Janet Galbreath](galbreath-janet-1752.md), b. 26 Nov 1752, m. *James Armour*.
 9. Martha Galbreath, b. 22 Feb 1756. Two records "Galbreath" and "Galbraith".
 
