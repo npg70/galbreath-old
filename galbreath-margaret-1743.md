@@ -23,7 +23,7 @@ All in Campbeltown unless otherwise listed:
 8. Archibald Dunlop, b. 14 Jan 1784; under "Margaret Galbreath"
 9. Archibald Dunlop, b. 9 Mar 1785, Killean and Kilchenzie; under "Mary Galbreath"
 10. Ann Dunlop, b. 3 May 1786; under "Margaret Galbraith"
-11 .Robert Dunlop, b. Jun 1787, Killean and Kilchenzie;  Under "Mary Galbreath"
+11. Robert Dunlop, b. Jun 1787, Killean and Kilchenzie;  Under "Mary Galbreath"
 
 # Sources
 
