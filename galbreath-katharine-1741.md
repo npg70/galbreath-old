@@ -1,8 +1,8 @@
 # Katharine Galbreath
 
-- birth: 1741
+- birth: 3 May 1741
 
-## Spouse
+## James Harvie
 
 ### Children
 
