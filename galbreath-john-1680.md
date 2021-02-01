@@ -10,8 +10,6 @@
 - death: abt 1730
 - marriage: 16 Mar 1707; Campbeltown, Argyll, Scotland
 
-## Katherine McCallum
-
 ### Children
 
 Children of John and Mary (Mitchel) Galbreath:
@@ -28,6 +26,10 @@ Children of John and Mary (Mitchel) Galbreath:
 10. [John Galbreath](galbreath-john-1721.md), b. 9 Dec 1721, m. *Agnes Langwill*.
 11. David Galbreath, b. 24 Nov. 1723.  Note: two records.
 12. Samuel Galbreath, b. 8 Aug 1725.  Note: two records.
+
+## Katherine McCallum
+
+### Children
 
 Children of John and Katherine (McCallum) Galbreath:
 
