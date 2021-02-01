@@ -35,7 +35,7 @@
 7. [Jean Galbreath](galbraith-jean-1805.md), b. 7 Apr 1805, m. *John Coville Jr*
 8. [Archibald Galbreath](galbraith-archibald.md), b. 31 May 1807.  Cotton Merchant & Manufacturer A&A Galbraith
 9. [John Galbraith](galbraith-john-1809.md), b. 5 Sept. 1809, m. *Mary Colvill McEwing*. Provost of Campbeltown 1860-66
-10. Mary Galbreath:: b. 16 Jan 1814.  Under "Archd. Galbreath/Jean Corbert"
+10. Mary Galbreath, b. 16 Jan 1814.  Under "Archd. Galbreath/Jean Corbert"
 
 # Sources
 
