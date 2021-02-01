@@ -5,6 +5,8 @@
 
 ## Agnes Langwill
 
+- birth: 23 Aug 1730; Campbeltown, Argyll, Scotland
+- death: 1792; Campbeltown, Argyll, Scotland
 
 ### Children
 
