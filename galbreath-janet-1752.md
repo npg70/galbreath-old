@@ -5,7 +5,7 @@
 
 ## James Armour
 
-- parent:: *William Armour*; *Mary Galbreath*
+- parents: *William Armour*; *Mary Galbreath*
 
 ### Children
 
