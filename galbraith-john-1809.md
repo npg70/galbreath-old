@@ -23,7 +23,7 @@ https://www.ancestry.com/family-tree/person/tree/3451498/person/6195109645/facts
 
 http://www.ralstongenealogy.com/number35kintmag.htm#start
 
-Note error in death.  Says 1861 but should be 1881
+
 
 > Perhaps the most distinguished member of the family who remained 
 > in Kintyre was John Galbraith (1809-1861) who was Provost of
@@ -31,4 +31,9 @@ Note error in death.  Says 1861 but should be 1881
 > ill-fated banker James Nicol Fleming (Magazine No. 28).
 > He too was descended like the emigrant from John in Kilteddan 
 > and Mary Mitchell, but through their oldest son Archibald. 
+
+- Note error in death.  Says 1861 but should be 1881
+- Here the "emmigrant" refers to [Alexander Galbreath](galbreath-alexander-1853.md) (to immigrated to Balitmore).
+- "John in Kilteddan and Mary Mitchell" is [John Galbreath](galbreath-john-1680.md) (also "Kilteddan" is never defined the article, a Google returns nothing).
+- "oldest son Archibald" is [Archibald Galbreath](galbreath-archibald-1708.md)
 
