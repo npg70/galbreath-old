@@ -16,22 +16,22 @@
 
 Children of John and Mary (Mitchel) Galbreath:
 
-1. link:galbreath-archibald-1708.adoc[Archibald Galbreath]:: b. 30 May 1708, m. *Martha White*.
-2. Mary Galbreath:: b. 25 Dec. 1709.  Assumed died in early childhood.
-3. link:galbreath-janet-1711.adoc[Janet Galbreath]:: b. 14 Oct. 1711, m. *David Ryburn*
-4. James Galbreath:: b. 22 Mar 1713.  Assumed died in infancy.
-5. Katharine Galbreath:: b. 8 Aug 1714
-6. James Galbreath:: b. 11 May 1716.  Assumed died in infancy.
-7. Patrick Galbreath:: b. 31 May 1718.
-8. James Galbreath:: b. 28 July 1719.  Twins!
-9. Mary Galbreath:: b. 28 July 1719.  Twins!
-10. link:galbreath-john-1721.adoc[John Galbreath]:: b. 9 Dec 1721, m. *Agnes Langwill*.
-11. David Galbreath:: b. 24 Nov. 1723.  Note: two records.
-12. Samuel Galbreath:: b. 8 Aug 1725.  Note: two records.
+1. link:galbreath-archibald-1708.adoc[Archibald Galbreath], b. 30 May 1708, m. *Martha White*.
+2. Mary Galbreath, b. 25 Dec. 1709.  Assumed died in early childhood.
+3. link:galbreath-janet-1711.adoc[Janet Galbreath], b. 14 Oct. 1711, m. *David Ryburn*
+4. James Galbreath, b. 22 Mar 1713.  Assumed died in infancy.
+5. Katharine Galbreath, b. 8 Aug 1714
+6. James Galbreath, b. 11 May 1716.  Assumed died in infancy.
+7. Patrick Galbreath, b. 31 May 1718.
+8. James Galbreath, b. 28 July 1719.  Twins!
+9. Mary Galbreath, b. 28 July 1719.  Twins!
+10. link:galbreath-john-1721.adoc[John Galbreath], b. 9 Dec 1721, m. *Agnes Langwill*.
+11. David Galbreath, b. 24 Nov. 1723.  Note: two records.
+12. Samuel Galbreath, b. 8 Aug 1725.  Note: two records.
 
 Children of John and Katherine (McCallum) Galbreath:
 
-1. Archibald Galbreath:: b. July 1729
+1. Archibald Galbreath, b. July 1729
 
 # Sources
 
