@@ -1,0 +1,21 @@
+# Jean Galbraith
+
+- parents: [Archibald Galbreath](galbreath-archibald-1760.md); *Jean Corbet*
+- birth: 7 Apr 1805
+- death: 1864
+
+## John Coville Jr
+
+Provost of Campbeltown 1842-1848.
+
+- parents: *Archibald Coville*, *Janet Clark*
+- death: 5 Dec 1851
+- marriage: 1824
+
+### Children
+
+yes
+
+# Sources
+
+- Marin, Angus. "Campbeltown Whisky. An Encyclopia."  page 44.
