@@ -23,7 +23,7 @@
 
 - Marriage of William and Margaret Dunlop in OPR in [ScotlandPeoples](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=M&record_type%5B0%5D=opr_marriages&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-banns-marriages&surname=galbreath&surname_so=fuzzy&forename=w&forename_so=starts&spouse_name=dunlop&spouse_name_so=exact&from_year=1760&to_year=1760&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
 - FamilySearch is a mess 
- - [L6FC-1XM]https://www.familysearch.org/tree/person/details/L6FC-1XM - Descendants looks good, just no parents
- - [KCR3-2HS]https://www.familysearch.org/tree/person/details/KCR3-2HS - Lists child William b. 1766 that has another child
- - [9M98-MBW]https://www.familysearch.org/tree/person/details/9M98-MBW - almost no info, mergable
- - [M1YS-TXV]https://www.familysearch.org/tree/person/details/M1YS-TXV - lists as "Colbreath", one child.
+  - [L6FC-1XM](https://www.familysearch.org/tree/person/details/L6FC-1XM) - Descendants looks good, just no parents
+  - [KCR3-2HS](https://www.familysearch.org/tree/person/details/KCR3-2HS) - Lists child William b. 1766 that has another child
+  - [9M98-MBW](https://www.familysearch.org/tree/person/details/9M98-MBW) - almost no info, mergable
+  - [M1YS-TXV](https://www.familysearch.org/tree/person/details/M1YS-TXV) - lists as "Colbreath", one child.
