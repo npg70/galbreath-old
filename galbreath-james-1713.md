@@ -1,11 +1,11 @@
-= James Galbreath
+# James Galbreath
 
 - parents: [James Galbreath](galbreath-james-1672.md); *Mary Fleming*
 - birth: 20 Aug 1713
 
-== Margaret Adams
+## Margaret Adams
 
-=== Children
+### Children
 
 1. Mary Galbreath, b. 18 Mar 1740
 2. Archibald Galbreath, b. Dec 1743
