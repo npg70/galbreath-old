@@ -7,8 +7,8 @@
 ## Catherine Harvie
 
 - parents: *James Harvie*; [Katherine Galbreath](katherine-galbreath-1714.md)
-- birth: 29 JUL 1780; Campbeltown, Argyll, Scotland
-- death: 21 JUN 1847; Neville, Clermont, Ohio, USA
+- birth: 29 Jul 1780; Campbeltown, Argyll, Scotland
+- death: 21 Jun 1847; Neville, Clermont, Ohio, USA
 - marriage: 18 Apr 1805; Campbeltown, Argyll, Scotland
 
 ###  Children
@@ -19,7 +19,7 @@
 4. Robert Galbreath, b. 25 Feb 1812. d. 24 Aug 1842 in Clermont County.
 5. Archibald Galbreath, b. 9 Feb 1814. bp 22 Feb 1815. m. *Eliza Rice*
 6. John Galbreath, b. 16 Apr 1817. m. *Jane McMath*.
-7. Andrew Galbreath, b. 1 July 1819 in Clermont Co, Ohio, USA. m. *Elizabeth Shotwell*.
+7. Andrew Galbreath, b. 1 Jul 1819 in Clermont Co, Ohio, USA. m. *Elizabeth Shotwell*.
 8. Harvie Galbreath, b. 8 Oct 1821 in Clermont County. n. *Nancy Carr Winters*.
 
 # Sources
