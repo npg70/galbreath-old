@@ -21,8 +21,7 @@ Children of William and Margaret (Kilpatrick):
 7. Janet Galbreath, b. 27 Apr 1735.
 8. Ann Galbreath, b. 22 Jan 1738.
 9. Henry Galbreath, b. Apr 1739. Note two records same names/dates.
-10. Margaret Galbreath, b. 1 Sept 1740
-11. David Galbreath, ??? b. say 1690. m. *Isobell Watson*. TODO
+
 
 # Sources
 
