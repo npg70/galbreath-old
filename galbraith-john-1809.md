@@ -42,5 +42,7 @@ From Angus Martin's "Campbeltown Whisky: An Encyclopaedia", page 77:
 > parents were Archibald Galbreath, merchant, and Jean
 > Corbet. His grandfather, Archibald Galbreath, was a 
 > merchant in Campbeltown, and his great-grandfather,
-> William, was a maltster.
+> William, was a maltster. Each of these, like his father,
+> married into a Plantation family: Langwill and Dunlop,
+> respectively
 
