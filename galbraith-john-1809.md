@@ -14,7 +14,7 @@ Provost of Campbeltown 1860-66
 
 ### Children
 
-1. Elizabeth Galbraith, m. *James Nicol Fleming* 
+1. Elizabeth Galbraith, b. 1841, m. *James Nicol Fleming* 
 
 
 # Sources
