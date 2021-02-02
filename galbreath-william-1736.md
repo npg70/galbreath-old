@@ -11,7 +11,7 @@
 
 ### Children
 
-1. [Archibald Galbreath](galbreath-archibald-1760.md), b. 12 Oct 1760 m. *Jean Corbet*
+1. [Archibald Galbreath](galbreath-archibald-1760.md), b. 12 Oct 1760, m. *Jean Corbet*.  Listed unnder Galbreath and Colbreath.
 2. Margaret Galbreath, b. 8 Dec 1762.  Two records "WILLIAM GALBREATH/MARGARET DUNLOP" and "WILEAM GALBREATH/MARGRAT DUNLOP"
 3. Mary Galbreath, b. 23 Aug 1764. Two records, Galbreath vs. Galbraith
 4. Rachel Galbreath, b. 29 AUg 1765. Two rcords, Galbreath vs. Galbraith
