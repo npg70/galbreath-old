@@ -18,4 +18,4 @@ yes
 
 # Sources
 
-- Marin, Angus. "Campbeltown Whisky. An Encyclopia."  page 44.
+- Martin, Angus. "Campbeltown Whisky. An Encyclopaedia."  page 44.
