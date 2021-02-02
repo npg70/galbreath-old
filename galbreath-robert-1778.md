@@ -8,6 +8,7 @@
 
 - parents: *James Harvie*; [Katherine Galbreath](galbreath-katharine-1741.md)
 - birth: 29 Jul 1780; Campbeltown, Argyll, Scotland
+- baptism: 30 Jul 1780
 - death: 21 Jun 1847; Neville, Clermont, Ohio, USA
 - marriage: 18 Apr 1805; Campbeltown, Argyll, Scotland
 
