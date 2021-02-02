@@ -27,7 +27,7 @@
 
 ### Children
 
-1. Martha Galbreath b. 19 Mar 1792
+1. Martha Galbreath, b. 19 Mar 1792
 2. William Galbreath, b. 9 Nov 1794
 3. Agnes Galbreath, b. 4 Feb 1797
 4. [Andrew Galbraith](galbraith-andrew-1799.md), b. 10 Feb 1799, m. *Margaret Bogle Scott*. Lord Provost of Glasgow 1857-60
