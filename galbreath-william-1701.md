@@ -26,3 +26,4 @@ Children of William and Margaret (Kilpatrick):
 
 # Sources
 
+- William Galbreath on [FamilySearch](https://www.familysearch.org/tree/person/details/G3PJ-SDL)
