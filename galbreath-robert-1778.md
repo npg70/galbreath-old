@@ -11,7 +11,7 @@
 - death: 21 Jun 1847; Neville, Clermont, Ohio, USA
 - marriage: 18 Apr 1805; Campbeltown, Argyll, Scotland
 
-###  Children
+### Children
 
 1. Jane Galbreath, b. 11 Mar 1806
 2. Samuel Galbreath, b. 22 Mar 1808.
