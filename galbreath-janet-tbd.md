@@ -5,6 +5,7 @@
 ## William Kelly
 
 - marriage: 7 Dec 1830
+- death: 1844
 
 ### Children
 
