@@ -19,7 +19,7 @@
 5. John Harvey, b. 1772
 6. Samuel Harvey, b. 1775
 7. Robert Harvey, b. 1777
-8. Katharine Harvie, b. 1780
+8. Katharine Harvie, b. 29 Jul 1780, m. [Robert Galbreath](galbreath-robert-1778.md), emmigrant.
 9. Andrew Harvey, b. 1783
 10. Agnes Harvie, b. 1785
 
