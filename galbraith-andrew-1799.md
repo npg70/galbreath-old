@@ -12,10 +12,10 @@
 
 ### Children
 
-- Janet Henrietta Galbraith, b. 7 Dec 1826 Glasgow, d. 17 Oct 1904.  m. James Fisher.
-- Margaret Galbraith, b. Abt. 1834, d. 18 Feb 1915, m. William Inglis Scott.
-- Agnes Galbraith, b. 11 Dec 1834, Glasgow. 
-- Willamina Galbraith, b. 1838, Glasgow.  d. 1920.  m. Hugh Cowan.
+1. Janet Henrietta Galbraith, b. 7 Dec 1826 Glasgow, d. 17 Oct 1904.  m. James Fisher.
+2. Margaret Galbraith, b. Abt. 1834, d. 18 Feb 1915, m. William Inglis Scott.
+3. Agnes Galbraith, b. 11 Dec 1834, Glasgow. 
+4. Willamina Galbraith, b. 1838, Glasgow.  d. 1920.  m. Hugh Cowan.
 
 # Sources
 
