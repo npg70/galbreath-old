@@ -9,7 +9,7 @@ Occupation "Malt man"
 
 - parents: _____; *Margaret _____*, b. 1787 "Formerly a weaver's wife"
 - birth: Abt 1815
-- marriage: 02 Jun 1845
+- marriage: 2 Jun 1845
 
 ### Children
 
