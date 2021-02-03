@@ -16,7 +16,7 @@ Occupation "Malt man", emmigrated around 1850s.
 
 ### Children
 
-1. Archibald Galbreath, b. 20 Jan 1846, Southend
+1. [Archibald Galbreath](galbreath-archibald-1846), b. 20 Jan 1846, Southend
 2. Alexander Galbreath, b. 14 Nov 1850; d. 1 July 1925, Parkersburg, Wood, West Virginia, United States
 3. Margaret Elizabeth Galbreath, b. 1858, Veto, Washington, Ohio, United States; d. 12 July 1937, Wood, West Virginia, United States
 4. Alonzo Edward Galbraith, b. 1864, Quebec, Canada?
