@@ -1,6 +1,6 @@
 # Archibald Galbreath
 
-Cotton Merchant & Manufacturer 
+Cotton Merchant & Manufacturer.
 
 - parents: [Archibald Galbreath](galbreath-archibald-1760.md); *Jean Corbet*
 - birth: 29 May 1807; Campbeltown, Argyll, Scotland
@@ -9,3 +9,4 @@ Cotton Merchant & Manufacturer
 
 # Sources
 
+- [FamilySearch](https://www.familysearch.org/tree/person/details/KHGS-TGQ)
