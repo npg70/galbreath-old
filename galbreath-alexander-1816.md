@@ -4,6 +4,7 @@ Occupation "Malt man"
 
 - parents: *Archibald Galbreath*; _____
 - baptism: 20 Apr 1816; Southend, Argyll, Scotland
+- death: 1898; Washington, Ohio, United States
 
 ## Elisabeth McCualskey
 
