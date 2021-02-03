@@ -4,7 +4,7 @@ Occupation "Malt man", emmigrated around 1850s.
 
 The father based on baptism dates, should be born 1774-1784, married around 1803.
 
-- parents: [Archibald Galbreath](galbreath-archibald-unknown.md; _____
+- parents: [Archibald Galbreath](galbreath-archibald-unknown.md); _____
 - baptism: 20 Apr 1816; Southend, Argyll, Scotland
 - death: 1898; Washington, Ohio, United States
 
