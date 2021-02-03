@@ -1,6 +1,6 @@
 # Archibald Galbreath
 
-- parents: [William Galbreath](galbreath-william-1736.md); *Margaret Dunlop* SPECULATIVE
+- parents: [William Galbreath](galbreath-william-1736.md); *Margaret Dunlop*
 - birth: 12 Oct 1760; Campbeltown, Argyll and Bute, Scotland
 - death: 1846; Campbeltown, Argyll and Bute, Scotland
 - burial: Kilkerran Cemetery, Campbeltown, Argyll and Bute, Scotland
