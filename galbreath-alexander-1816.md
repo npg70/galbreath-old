@@ -26,6 +26,7 @@ The father based on baptism dates, should be born 1774-1784, married around 1803
 # Sources
 
 - 1851 Census in [FindMyPast](https://www.findmypast.com/transcript?id=GBC%2F1851%2F0019255793) for "Saddel Street, Campbeltown, Cantyre, Argyllshire, Scotland"
+- The entry for [FamilySearch](https://www.familysearch.org/tree/person/details/9NN7-9JW) and other places lists Lochgilphead as possible birth place.  Note that the Parish wasn't built until 1828 (see [FamilySearch entry for Lochgilphead](https://www.familysearch.org/wiki/en/Lochgilphead,_Argyllshire,_Scotland_Genealogy)
 
 
 
