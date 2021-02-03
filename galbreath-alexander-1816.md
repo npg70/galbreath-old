@@ -17,7 +17,7 @@ Occupation "Malt man"
 ### Children
 
 1. Archibald Galbreath, b. 1846
-2. Alexander Galbreath, b. 1851
+2. Alexander Galbreath, b. 14 Nov 1850; d. 1 July 1925, Parkersburg, Wood, West Virginia, United States
 3. Margaret Elizabeth Galbreath, b. 1858, Veto, Washington, Ohio, United States; d. 12 July 1937, Wood, West Virginia, United States
 4. Alonzo Edward Galbraith, b. 1864, Quebec, Canada?
 
