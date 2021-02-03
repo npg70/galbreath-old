@@ -1,20 +1,20 @@
 # Alexander Galbreath
 
-Occupation "Maltman"
+Occupation "Malt man"
 
 - parents: *Archibald Galbreath*; _____
 - birth: 20 Apr 1816
 
 ## Elisabeth McCualskey
 
-- parents: _____; *Margaret _____*, b. 1787 "A weaver's wife"
+- parents: _____; *Margaret _____*, b. 1787 "Formerly a weaver's wife"
 - birth: Abt 1815
 - marriage: 02 Jun 1845
 
 ### Children
 
-- Archibald Galbreath, b. 1846
-- Alexander Galbreath, b. 1851
+1. Archibald Galbreath, b. 1846
+2. Alexander Galbreath, b. 1851
 
 # Sources
 
