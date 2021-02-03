@@ -4,7 +4,7 @@ Occupation "Malt man", emmigrated around 1850s.
 
 The father based on baptism dates, should be born 1774-1784, married around 1803.
 
-- parents: *Archibald Galbreath*; _____
+- parents: [Archibald Galbreath](galbreath-archibald-unknown.md; _____
 - baptism: 20 Apr 1816; Southend, Argyll, Scotland
 - death: 1898; Washington, Ohio, United States
 
@@ -26,6 +26,6 @@ The father based on baptism dates, should be born 1774-1784, married around 1803
 # Sources
 
 - 1851 Census in [FindMyPast](https://www.findmypast.com/transcript?id=GBC%2F1851%2F0019255793) for "Saddel Street, Campbeltown, Cantyre, Argyllshire, Scotland"
-- OPR of birth in Southend Parish: [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname_so=syn&forename_so=starts&from_year=1800&to_year=1825&parent_names=galbreath&parent_names_so=exact&parent_name_two_so=exact&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&rd_real_name%5B0%5D=SOUTHEND&rd_display_name%5B0%5D=SOUTHEND_SOUTHEND&rd_label%5B0%5D=SOUTHEND&rd_name%5B0%5D=SOUTHEND&sort=asc&order=Date&field=year).  Alexander is the last child in 1816.  First was born in 1804.  No record of mother.
+
 
 
