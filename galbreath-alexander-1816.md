@@ -14,7 +14,7 @@ The father based on baptism dates, should be born 1774-1784, married around 1803
 - birth: 6 May 1815; Lochgilphead, Argyll, Scotland
 - baptism: 8 May 1815;  Campbeltown, Argyll, Scotland
 - death: 1904; Parkersburg, Wood, West Virginia, United States
-- marriage: 2 Jun 1845; Campbeltown, Argyll, Scotland
+- marriage: 2 Jun 1845; Southend, Argyll, Scotland
 
 ### Children
 
