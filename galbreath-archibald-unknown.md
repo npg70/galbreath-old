@@ -14,7 +14,7 @@ All baptisms in Southend Parish:
 4. Ronald Galbreath, b. 20 Dec 1809
 5. Neil Galbreath, b. 9 Nov 1811
 6. Duncan Galbreath, b. 19 May 1814
-7. [Alexander Galbreath](galbreath-alexander-1816.md), b. 20 Apr 1816
+7. [Alexander Galbreath](galbreath-alexander-1816.md), b. 20 Apr 1816, m *Elisabeth McCualskey*
 
 # Sources
 
