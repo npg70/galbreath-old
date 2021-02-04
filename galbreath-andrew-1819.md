@@ -6,7 +6,7 @@
 
 ## Elizabeth Shotwell
 
-1. "Elizabeth Galbreath, b. Ohio, 1847; Appears in 1850 and 1860 census then vanishes.
+1. Elizabeth Galbreath, b. Ohio, 1847; Appears in 1850 and 1860 census then vanishes.
 2. Jane Galbreath, b. Ohio, 1848; Appears in 1850 and 1860 Census then disappers.
 3. [Wallace Walter Galbreath](galbreath-wallace-walter-1850.md), b. Ohio, 21 Feb 1850; m. *Ruth Ella Laberee*
 4. Catherine Galbreath, b. Ohio, 1854;
