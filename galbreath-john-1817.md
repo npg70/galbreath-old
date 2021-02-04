@@ -1,5 +1,6 @@
 # John Galbreath
 
+- parents: [Robert Galbreath](galbreath-robert-1778.md); *Catherine Harvey*
 - birth: 1817; Clermont, Ohio, United States
 
 ## Jane McMath
