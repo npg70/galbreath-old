@@ -1,6 +1,6 @@
 # Mary Catharine Galbreath
 
-- parents: [John Galbreath](galbreath-john-1817.md); *Jane McMath*
+- parents: [James Galbreath](galbreath-james-1809.md); *Nancy Cole*
 - birth 1837
 
 ## XXX McNicol
