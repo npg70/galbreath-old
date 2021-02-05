@@ -8,4 +8,4 @@
 ### Children
 
 1. Catherine Jane Duhme, b. 16 Mar 1897; m *William Alfred Lucking*.
-2. Claribel Duhme" d. 1922. m  *_____*, and had one child who died as in infant.
+2. Claribel Duhme, d. 1922. m  *_____*, and had one child who died as in infant.
