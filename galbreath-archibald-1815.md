@@ -10,7 +10,7 @@
 ### Children
 
 1. Marion Galbreath, b. 9 Nov 1850; d. 23 Dec 1853
-2. [Samuel Newton Galbreath](galbreath-samuel-newton-1852.md), b. 20-May-1852, m *Jennie Holmes Johnson*
+2. [Samuel Newton Galbreath](galbreath-samuel-newton-1852.md), b. 20 May 1852, m *Jennie Holmes Johnson*
 3. Jane Nancy Galbreath, b. 1854?; d. 1890?
 4. Mary Lousia Galbreath, b. 11 Feb 1856; d. 17 Mar 1882
 5. Douglas David Galbreath, b. 21 Oct 1857; d. 31 Dec 1876? Last seen in 1870 Federal Census.  No known marriage or children.
