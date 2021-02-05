@@ -8,7 +8,7 @@
 Children of Henry and Mary (Galbreath) McNicol:
 
 ###
-1. Claribel McNicol, m* Franklin Ives.  FOLLOW
+1. Claribel McNicol, m *Franklin Ives*.  FOLLOW
 
 ## XXX Duhme
 
