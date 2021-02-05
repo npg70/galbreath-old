@@ -3,8 +3,9 @@
 - parents: [Robert Galbreath](galbreath-robert-1778.md); *Catherine Harvey*
 - birth: 1 Jul 1819; Clermont, Ohio, United States
 
-
 ## Elizabeth Shotwell
+
+### Children
 
 1. Elizabeth Galbreath, b. Ohio, 1847; Appears in 1850 and 1860 census then vanishes.
 2. Jane Galbreath, b. Ohio, 1848; Appears in 1850 and 1860 Census then disappers.
