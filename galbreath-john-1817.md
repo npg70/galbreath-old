@@ -8,7 +8,7 @@
 ### Children
 
 1. Mary Catherine Galbreath, b. 1 Feb 1853; d. Cincinnati, Ohio, 10 Oct 1925; m. *Orlando Alonzo Myer*.  Three children.
-2. Robert W Galbreath, b. 13 Nov 1854; d. Ohio County, Indiana 4 Nov 1947; *Effie Blanch Harris*
+2. [Robert W Galbreat](galbreath-robert-w-1854.md), b. 13 Nov 1854; d. Ohio County, Indiana 4 Nov 1947; *Effie Blanch Harris*
 3. Charles F Galbreath, b. 12 Oct 1856; d. Hamiliton, OH, 26 Feb 1940. Unmarried.
 4. Seda Belle Galbreath, b. 30 Jan 1860; d. 12 May 1861.
 5. Anna Galbreath, b. 12 Jul 1861; d. Brown County, Ohio, 25 Mar 1948.  Unmarried.
