@@ -7,5 +7,5 @@
 
 ### Children
 
-1. [Mary Catharine Galbreath](galbreath-mary-catharine-1837.md), b. Cincinatti 10 Aug 1837 m. *John McNicoll* m. *John Herman Gerard Duhme*
+1. [Mary Catharine Galbreath](galbreath-mary-catharine-1837.md), b. 10 Aug 1837, Cincinatti; m. *John McNicoll* m. *John Herman Gerard Duhme*
 2. Robert Harvey Galbreath, b. 8 Sep 1843, Cincinnati, Ohio. m. *Emily J Smith*. No children.
