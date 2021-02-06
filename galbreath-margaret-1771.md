@@ -1,5 +1,7 @@
 # Margaret Galbreath
 
+Immigrated with family to Canada in June 1821.
+
 - parents: [Henry Galbreath](galbreath-henry-1739.md); *Agnes Armour*
 - birth: 1 November 1771, Campbeltown, Argyll, Scotland
 - death: 1861, New Mills, Restigouche, New Brunswick, Canada
