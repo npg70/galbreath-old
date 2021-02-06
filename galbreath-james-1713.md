@@ -17,5 +17,5 @@
 8. Janet Galbreath, b. 4 Feb 1757
 9. Margaret Galbreath, b. 31 May 1761  Two records but with same names.
 10. Margaret Galbreath, b. 17 Oct 1762. One record has mother listed as "Margarat Addam"
-11. Mary Galbreath, b. 28 Nov 1765. Two records but with same name.
+11. Mary Galbreath, b. 25 Nov 1765, bp. 28 Nov 1765. Two records but with same name.
 
