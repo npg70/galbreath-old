@@ -1,14 +1,14 @@
 # Janet Galbreath
 
 - parents: [John Galbreath](galbreath-john-1680.md); *Mary Mitchell*
-- birth: 14 Oct 1711; Campbeltown, Argyll, Scotland
+- birth: 14 Oct 1711, Campbeltown, Argyll, Scotland
 - death: 1758
 
 ## David Ryburn
 
 - parents: *Matthew Ryburn*, *Elizabeth _____*
-- birth: 15 Feb 1702; Campbeltown, Argyll, Scotland
-- marriage: 22 Feb 1735; Campbeltown, Argyll, Scotland
+- birth: 15 Feb 1702, Campbeltown, Argyll, Scotland
+- marriage: 22 Feb 1735, Campbeltown, Argyll, Scotland
 
 ### Children
 
