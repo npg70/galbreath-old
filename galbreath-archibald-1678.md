@@ -1,5 +1,7 @@
 # Archibald Galbreath
 
+The records exist for marriage and children, however the linkage to James and Mary is circumstantial based on dates and lack of other Archibalds that match.
+
 - parents: [James Galbreath](galbreath-james-1659.md); *Mary Nielson*
 - birth: 17 Jul 1678
 
@@ -7,7 +9,7 @@
 
 - parents: *Jo. Johns*; *Elizabeth Flemyng* of Glasgow
 - birth: 22 Dec 1676
-- marriage: 11 Oct 1693; Renfew. 
+- marriage: 11 Oct 1693; Renfrew. 
 
 ### Children
 
@@ -21,8 +23,7 @@ Children of Archibald and Elizabeth (Johns) Galbreath, all in Rutherglen Parish:
 
 # Sources
 
-notes:
-- [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=M&record_type%5B0%5D=opr_marriages&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-banns-marriages&surname=galbreath&surname_so=syn&forename_so=starts&sex=M&spouse_name=johns&spouse_name_so=exact&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
-- [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=carbreath&surname_so=syn&forename_so=starts&from_year=1700&to_year=1710&parent_names=carbreath&parent_names_so=fuzzy&parent_name_two=johns&parent_name_two_so=exact&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&sort=asc&order=Date&field=year)
+- Marriage on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=M&record_type%5B0%5D=opr_marriages&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-banns-marriages&surname=galbreath&surname_so=syn&forename_so=starts&sex=M&spouse_name=johns&spouse_name_so=exact&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
+- Children on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=carbreath&surname_so=syn&forename_so=starts&from_year=1700&to_year=1710&parent_names=carbreath&parent_names_so=fuzzy&parent_name_two=johns&parent_name_two_so=exact&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&sort=asc&order=Date&field=year)
 
-The records certainly exist, but unclear if this Archibald Galbreath is the same.  The only other candidate is Archibald GALBRAITHE , b. 9 Mar 1648 in Glasgow.  Which implies he had children from age 53 to 61 with his wife 28 years younger.
+
