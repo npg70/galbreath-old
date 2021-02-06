@@ -2,6 +2,8 @@
 
 - parents: [William Galbreath](galbreath-william-1701.md); *Margaret Kilpatrick*
 - birth: Apr 1739
+- death: 15 July 1789
+- burial:  ,Kilchousland Graveyard, Argyll and Bute, Scotland
 
 ## Agnes Armour
 
@@ -10,7 +12,7 @@
 ### Children
 
 1. James Galbreath, b. 1768
-2. Margaret Galbreath, b. 1771
+2. [Margaret Galbreath](galbreath-margaret-1771.md), b. 1 Nov 1771, m. *Nathaniel McNair Sr*.  Immigrant to Canada.
 3. Flora Galbreath, b. 1776
 4. William Galbreath, b. 1780
 5. Mary Galbreath, b. 1782
