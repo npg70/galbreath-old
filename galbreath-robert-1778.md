@@ -1,15 +1,15 @@
 # Robert Galbreath
 
 - parents: [Samuel Galbreath](galbreath-samuel-1736.md); *Janet McNair*
-- birth: 12 Oct 1778; Campbeltown, Argyll, Scotland
-- death: 19 May 1847; Neville, Clermont, Ohio, USA
+- birth: 12 Oct 1778, Campbeltown, Argyll, Scotland
+- death: 19 May 1847, Neville, Clermont, Ohio, USA
 
 ## Catherine Harvie
 
 - parents: *James Harvie*; [Katherine Galbreath](galbreath-katharine-1741.md)
-- birth: 29 Jul 1780; Campbeltown, Argyll, Scotland
+- birth: 29 Jul 1780, Campbeltown, Argyll, Scotland
 - baptism: 30 Jul 1780
-- death: 21 Jun 1847; Neville, Clermont, Ohio, USA
+- death: 21 Jun 1847, Neville, Clermont, Ohio, USA
 - marriage: 18 Apr 1805; Campbeltown, Argyll, Scotland
 
 ### Children
@@ -21,6 +21,6 @@
 5. [Archibald Galbreath](galbreath-archibald-1815.md), b. 9 Feb 1815. bp 22 Feb 1815. m. *Eliza Rice*
 6. [John Galbreath](galbreath-john-1817.md), b. 16 Apr 1817. m. *Jane McMath*.
 7. [Andrew Galbreath](galbreath-andrew-1819.md), b. 1 Jul 1819 in Clermont Co, Ohio, USA. m. *Elizabeth Shotwell*.
-8. [Harvie Galbreath](galbreath-harvie-1821.md), b. 8 Oct 1821 in Clermont County. n. *Nancy Carr Winters*.
+8. [Harvie Galbreath](galbreath-harvie-1821.md), b. 8 Oct 1821 in Clermont County. m. *Nancy Carr Winters*.
 
 # Sources
