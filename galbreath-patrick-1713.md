@@ -1,7 +1,7 @@
 # Patrick Galbreath
 
 - parents: [James Galbreath](galbreath-james-1672.md); *Mary Fleming*
-- birth: 20 Augt 1713; Campbeltown, Argyll, Scotland
+- birth: 20 Augt 1713, Campbeltown, Argyll, Scotland
 
 ## Martha Shiddan
 
