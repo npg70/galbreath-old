@@ -1,5 +1,6 @@
 # Margaret Galbreath
 
+- parents: [Henry Galbreath](galbreath-henry-1739.md), 
 - birth: 1 November 1771, Cambeltown, Argyll, Scotland
 - death: 1861, New Mills, Restigouche, New Brunswick, Canada
 
