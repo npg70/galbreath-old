@@ -1,13 +1,13 @@
 # James Galbreath
 
-- birth: 3 Apr 1659; Campbeltown, Argyll, Scotland
+- birth: 3 Apr 1659, Campbeltown, Argyll, Scotland
 - death: 1716?
 
 ## Mary Nielson
 
-- birth: 1650; Campbeltown, Argyll, Scotland
+- birth: 1650, Campbeltown, Argyll, Scotland
 - death: 1720
-- marriage: ABT 1671; Campbeltown, Argyll, Scotland
+- marriage: ABT 1671, Campbeltown, Argyll, Scotland
 
 ### Children
 
