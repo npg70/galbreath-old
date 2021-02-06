@@ -1,6 +1,6 @@
 # Margaret Galbreath
 
-- parents: [Henry Galbreath](galbreath-henry-1739.md), 
+- parents: [Henry Galbreath](galbreath-henry-1739.md); *Agnes Armour*
 - birth: 1 November 1771, Cambeltown, Argyll, Scotland
 - death: 1861, New Mills, Restigouche, New Brunswick, Canada
 
