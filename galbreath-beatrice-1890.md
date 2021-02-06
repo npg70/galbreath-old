@@ -1,4 +1,4 @@
-# Galbreath Beatrice 
+# Beatrice Galbreath
 
 - birth: 21 Jun 1890, Enderlin City, Ransom, North Dakota, United States
 
