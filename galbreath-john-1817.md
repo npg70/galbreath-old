@@ -1,7 +1,7 @@
 # John Galbreath
 
 - parents: [Robert Galbreath](galbreath-robert-1778.md); *Catherine Harvey*
-- birth: 16 Apr 1817; Campbeltown, Arygll, Scotland
+- birth: 16 Apr 1817, Campbeltown, Arygll, Scotland
 
 ## Jane McMath
 
