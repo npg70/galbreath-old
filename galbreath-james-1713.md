@@ -19,3 +19,6 @@
 10. Margaret Galbreath, b. 17 Oct 1762. One record has mother listed as "Margarat Addam"
 11. Mary Galbreath, b. 25 Nov 1765, bp. 28 Nov 1765. Two records but with same name.
 
+# Sources
+
+- [FamilySearch](https://www.familysearch.org/tree/person/details/G3PJ-D5Z)
