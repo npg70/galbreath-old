@@ -1,7 +1,7 @@
 # Mary Galbreath
 
 - parents: [James Galbreath](galbreath-james-1672.md); *Mary Fleming*
-- birth: 30 Apr 1704; Campbeltown, Argyll, Scotland
+- birth: 30 Apr 1704, Campbeltown, Argyll, Scotland
 
 ## Matthew Ryburn
 
