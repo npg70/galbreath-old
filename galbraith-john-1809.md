@@ -3,19 +3,18 @@
 Provost of Campbeltown 1860-66
 
 - parents: [Archibald Galbreath](galbreath-archibald-1760.md); *Jean Corbet*
-- birth: 3 Sep 1809; Campbeltown, Argyleshire, Scotland
-- death: 12 Sep 1881; Didsbury Manchester Lancashire, United Kingdom
+- birth: 3 Sep 1809, Campbeltown, Argyleshire, Scotland
+- death: 12 Sep 1881, Didsbury Manchester Lancashire, United Kingdom
 
 ## Mary Colvill McEwing
 
-- birth: ; Argyll
+- birth: ,Argyll,Scotland
 - death: 1900
-- marriage: 25 Jun 1838; Campbeltown, Argyle, Scotland
+- marriage: 25 Jun 1838, Campbeltown, Argyll, Scotland
 
 ### Children
 
 1. Elizabeth Galbraith, b. 1841, m. *James Nicol Fleming* 
-
 
 # Sources
 
@@ -45,4 +44,7 @@ From Angus Martin's "Campbeltown Whisky: An Encyclopaedia", page 77:
 > William, was a maltster. Each of these, like his father,
 > married into a Plantation family: Langwill and Dunlop,
 > respectively
+
+- The two "Archibald Galbreath" are the same person.  He married twice, first to Margaret Langwill, then to Jean Corbet.
+- Using this correction, the grand-father is William Dunlop
 
