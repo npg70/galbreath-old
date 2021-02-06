@@ -7,8 +7,7 @@
 
 ### Children
 
-1. Cinda Sontag, b. 2 Dec 1949.  m *Charles Joseph Haas*,  one child *Carey Michele Hass* b. 1972
-m *Mark Saucier* one daughter "Morgan Saucier" b unknown.  https://www.legacy.com/obituaries/postgazette/obituary.aspx?n=mark-e-saucier&pid=184092484&fhid=17313
+1. Cinda Sontag, b. 2 Dec 1949.  m *Charles Joseph Haas*, one child *Carey Michele Hass* b. 1972, m *Mark Saucier* one daughter "Morgan Saucier" b unknown.  https://www.legacy.com/obituaries/postgazette/obituary.aspx?n=mark-e-saucier&pid=184092484&fhid=17313
 2. Carl Robert Sontag, m *Debra L Buttram*, m *Carla Jeanne McGuire*
 
 ## Kenneth Joseph Colonel
