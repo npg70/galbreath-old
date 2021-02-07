@@ -13,7 +13,7 @@ Stray.  No known parents or records for children other than birth.
 
 ### Children
 
-1. Mary Galbreath, b. 26 Nov 1714
+1. Mary Galbreath, b. 26 Nov 1714, d. 1719
 2. Janet Galbreath, b. 13 Aug 1715
 3. David Galbreath, b. 2 Oct 1718
 
