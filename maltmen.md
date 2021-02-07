@@ -4,7 +4,7 @@ Misc notes for future reference and placement.  Some of the record may be for th
 
 ## Alexander Galbreath
 
-1851 Scotland Census: https://www.findmypast.com/transcript?id=GBC%2F1851%2F0019255793
+[1851 Scotland Census](https://www.findmypast.com/transcript?id=GBC%2F1851%2F0019255793)
 
 Lists occupation as "Maltman", born ~1816
 
@@ -31,11 +31,9 @@ other mentioned
 > of the ‘Sloop Privateer Mercury’, a British ‘victualler’ during the 
 > American War of Independence (‘Publications’, 1916, p25). 
 
-BUT I can't find any marriage record.. I'm guess it's inferred
-https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=M&record_type%5B0%5D=opr_marriages&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-banns-marriages&surname=ryburn&surname_so=fuzzy&forename_so=starts&sex=M&spouse_name=galbreath&spouse_name_so=syn&from_year=1700&to_year=1800&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches
+BUT I can't find any marriage record.. I'm guess it's inferred  [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=M&record_type%5B0%5D=opr_marriages&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-banns-marriages&surname=ryburn&surname_so=fuzzy&forename_so=starts&sex=M&spouse_name=galbreath&spouse_name_so=syn&from_year=1700&to_year=1800&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
 
-Children match:
-https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=ryburn&surname_so=fuzzy&forename_so=starts&from_year=1735&to_year=1776&parent_names=ryburn&parent_names_so=exact&parent_name_two=galbreath&parent_name_two_so=exact&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&sort=asc&order=Parents/%20Other%20Details&field=parent_names
+Children match on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=ryburn&surname_so=fuzzy&forename_so=starts&from_year=1735&to_year=1776&parent_names=ryburn&parent_names_so=exact&parent_name_two=galbreath&parent_name_two_so=exact&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&sort=asc&order=Parents/%20Other%20Details&field=parent_names)
 
 ## Trade and Economic Development in Eighteenth-Century Campbeltown
 
@@ -178,8 +176,7 @@ Living 1797.
 
 ## Archibald Galbreath 1806 brewer
 
-from 1841 Census: Long Row, Campbeltown:
-https://www.findmypast.com/transcript?id=GBC%2F1841%2F0016597151
+from 1841 Census: Long Row, Campbeltown on [FindMyPast](https://www.findmypast.com/transcript?id=GBC%2F1841%2F0016597151)
 all in	Argyllshire, Scotland.  Unclear on parents.
   
 * Archibald Galbreath birth year: 1806
