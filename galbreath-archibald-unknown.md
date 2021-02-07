@@ -24,4 +24,4 @@ All baptisms in Southend Parish:
     - Neil may have some duplicates of interest
     - Duncan may have a duplicate
     - Alexander not linked.
-    - not hints on parents
+    - no hints on parents
