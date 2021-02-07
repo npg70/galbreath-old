@@ -52,3 +52,4 @@ Likely occupation was Maltster.
 - "A List of the Matriculated Members of the Merchants House of Glasgow From 3rd October, 1768, to 10th June, 1891 : Arranged Alphabetically, in Chronological Order: to which is Appended a List of the Deans of Guild : and Collectors of the House, from the Date of the Letter of Guildry in the Year 1605, to the Present Time", available on [Google Books](https://www.google.com/books/edition/A_List_of_the_Matriculated_Members_of_th/csYxAQAAMAAJ?hl=en&gbpv=1&bsq=galbraith).  Lists "Archibald Galbraitth, Maltster, Campbeltown" with two sons admitted to Glasgow Merchant House
     - "Galbraith, Arch.", matriculated in 1843, elected 1856 as Director
     - "Galbraith, And.", matriculated in 1843, elected 1850 as "Dean of Guild"
+  However, an Archibald with two sons Archibald and Andrew is far from unique.
