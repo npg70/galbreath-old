@@ -53,4 +53,4 @@ Likely occupation was Maltster.
     - "Galbraith, Arch.", matriculated in 1843, elected 1856 as Director
     - "Galbraith, And.", matriculated in 1843, elected 1850 as "Dean of Guild"
     
-  However, an Archibald with two sons Archibald and Andrew is far from unique.
+  However, an Archibald with two sons Archibald and Andrew is far from unique.  However his other son John became an founding member of Scotia distillery.
