@@ -162,6 +162,8 @@ Lists "Archibald Galbraitth, Maltster, Campbeltown" with two sons admitted to Gl
 * "Galbraith, Arch.", matriculated in 1843, elected 1856 as Director
 * "Galbraith, And.", matriculated in 1843, elected 1850 as "Dean of Guild"
 
+I suspect this is [Archibald Galbreath](galbreath-archibald-1760.md), whose son's [Archibald](galbraith-archibald-1807.md) and [Andrew](galbreath-archibald-1760.md), both moved to Glasgow.
+
 Also note this source lists a "James Galbraith, Merchant, Campbeltown" with son  "Galbraith, Archd." admitted in 1870 as "Merchant"
 
 ## John Galbraith 
