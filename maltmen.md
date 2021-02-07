@@ -43,7 +43,7 @@ Thesis for PhD U of Edinburgh, 1982
 
 https://era.ed.ac.uk/handle/1842/19071
 
-page 46:
+page 46, referring to the 1700s:
 
 > The name Galbreath is one associated particularly with malting
 > with David, John and Samuel, all maltmen, and
@@ -132,10 +132,10 @@ From _The Distilleries of Campbeltown_
 Around 1789?, refering to a un-named distillery.
 
 > The orignal partners in the business ... were James Armour, cooper, and John Armour, merchant. 
-> Then, after the death of the latter, Hugh Ferguson ands James Galbreath joined
+> Then, after the death of the latter, Hugh Ferguson and James Galbreath joined
 > James Armour in the partnership.
 
-## FLorence Galbraith
+## Florence Galbraith
 
 From _The Distilleries of Campbeltown_
 
@@ -166,8 +166,9 @@ Also note this source lists a "James Galbraith, Merchant, Campbeltown" with son 
 
 ## John Galbraith 
 
-Provost (of what)? North Park
-Founded Scotia Distillery in 1832? 
+See [John Galbraith](galbraith-john-1809.md)
+
+Provost of Campbeltown, Founded Scotia Distillery in 1832? 
 
 ## Archibald Galbreath, Distiller
 
