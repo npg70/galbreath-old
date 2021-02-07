@@ -1,6 +1,6 @@
 # Alexander Galbreath
 
-Occupation "Malt man", emmigrated around 1851-1857. 
+Occupation "Malt man" according to 1851 Census, emmigrated around 1851-1857. 
 
 The father based on baptism dates, should be born 1774-1784, married around 1803.
 
