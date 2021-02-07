@@ -1,5 +1,7 @@
 # Archibald Galbreath
 
+Likely occupation was Maltster.
+
 - parents: [William Galbreath](galbreath-william-1736.md); *Margaret Dunlop*
 - birth: 12 Oct 1760; Campbeltown, Argyll and Bute, Scotland
 - death: 1846; Campbeltown, Argyll and Bute, Scotland
@@ -47,3 +49,6 @@
 - OPR Children of Archibald and Jean Corbet/Corbett/Corbit/Corbert in [ScotlandPeoples](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=exact&forename_so=starts&from_year=1792&to_year=1820&parent_names=galbreath&parent_names_so=exact&parent_name_two=cor&parent_name_two_so=starts&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&sort=asc&order=Date&field=year)
 - Archibald Galbreath in [FindAGrave](https://www.findagrave.com/memorial/204250177/archibald-galbraith)
 - Jean Corbert in [FindAGrave](https://www.findagrave.com/memorial/207287627/jean-galbraith)
+- "A List of the Matriculated Members of the Merchants House of Glasgow From 3rd October, 1768, to 10th June, 1891 : Arranged Alphabetically, in Chronological Order: to which is Appended a List of the Deans of Guild : and Collectors of the House, from the Date of the Letter of Guildry in the Year 1605, to the Present Time", available on [Google Books](https://www.google.com/books/edition/A_List_of_the_Matriculated_Members_of_th/csYxAQAAMAAJ?hl=en&gbpv=1&bsq=galbraith).  Lists "Archibald Galbraitth, Maltster, Campbeltown" with two sons admitted to Glasgow Merchant House
+    - "Galbraith, Arch.", matriculated in 1843, elected 1856 as Director
+    - "Galbraith, And.", matriculated in 1843, elected 1850 as "Dean of Guild"
