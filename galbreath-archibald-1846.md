@@ -1,7 +1,5 @@
 # Archibald Galbreath
 
-According to the 1851 Census, his occupation was "Malt Man"
-
 - parents: [Alexander Galbreath](galbreath-alexander-1816.md), *Elizabeth McCualsky*
 - birth: 20 Jan 1846; Southend, Argyll, Scotland
 
