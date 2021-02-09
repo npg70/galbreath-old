@@ -20,4 +20,4 @@
 
 # Sources
 
-- James on [FamilySearch](https://www.familysearch.org/tree/person/details/K898-WXH)
+- David on [FamilySearch](https://www.familysearch.org/tree/person/details/K898-WXH)
