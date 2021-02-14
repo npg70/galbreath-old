@@ -12,9 +12,9 @@
 3. James Galbriath, b. 30 Dec 1786, bp. 31 Dec 1786.  Listed under "DAVID OR SAMUEL GALBRAITH MARY FLEEMING"
 4. [Mary Galbreath](galbreath-mary-1788.md), b. 29 Aug 1788, m. *Robert Clark*
 5. Janet Galbraith, b. 23 Dec 1790, bp. 24 Dec 1790
-6. David Galbreath, b. 27 Aug 1793, Ardnacross,Campbeltown,Argyll,Scotland
+6. David Galbreath, b. 27 Aug 1793, Ardnacross, Campbeltown, Argyll, Scotland
 7. Orcilla Galbreath, b. 4 Feb 1795, m. *John Wylie*, m. *William Hadden*?
-8. Archibald Galbreath, b. 1798, m *Margaret MacMillan*
+8. [Archibald Galbreath](galbreath-archibald-1798.md), b. 27 Sep 1798, m. *Margaret MacMillan*
 9. Alexander Galbreath, b. 12 Mar 1802, bp. 16 Mar 1802
 10. William Galbreath, b. 23 Jul 1804, bp. 26 Jul 1804
 
