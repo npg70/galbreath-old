@@ -16,3 +16,7 @@ The rumour is that William somehow a descendant of Archibald Galbreath of the pr
 
 
 Alexander Galbreath emmigrated from Kintrye in the 1850s to West Virgina and Ohio. However, his parents are somewhat of a mystery.
+
+## Lineage of David Galbreath, born say 1720
+
+[David Galbreath](galbreath-david-abt-1720.md)
