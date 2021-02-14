@@ -1,10 +1,14 @@
 # Archibald Galbreath
 
-- birth: 27 Sep 1798
+- birth: 1790
 - baptism: 30 Sep 1798, Campbeltown, Argyll, Scotland
 
 ## Margaret MacMillian
 
+This seems to be not in dispute.
+
+- parents: Neil McMillian, b. 1750; Margaret Mceachine, b. 9 Jan 1769, Campbeltown, Argyll, Scotland
+- birth: 	25 Oct 1791, Campbeltown,Argyll,Scotland
 - marriage: 16 Feb 1813, Campbeltown, Argyll, Scotland
 
 ### Children
