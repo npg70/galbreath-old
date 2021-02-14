@@ -1,7 +1,10 @@
 # Archibald Galbreath
 
-- birth: 1790
-- baptism: 30 Sep 1798, Campbeltown, Argyll, Scotland
+The interweb gives various account of the Archibald Galbreath who married Margaret McMillian:
+
+1. b. 1790, child of David Galbraith b. 1761 and Margaret Baird b. 1742
+2. b. 1798, child of David Galbraith b. 1755 and Mary Fleming b. 1765
+3. b. 1794, d. Death	25 Dec 1859 Saddell, Argyll, Scotland, child of Donald Galbreath b. 1767 and Margaret Taylor b. 1766
 
 ## Margaret MacMillian
 
