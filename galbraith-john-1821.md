@@ -1,3 +1,12 @@
 # John Galbraith
 
-- father: 
+- father: [Archibald Galbreath](galbreath-archibald-1798.md)
+- mother:
+- birth: 
+
+## Margaret Cook
+
+### Children
+
+# Sources
+
