@@ -2,7 +2,7 @@
 
 - father: [Archibald Galbreath](galbreath-archibald-1798.md)
 - mother: *Margaret MacMillian*
-- birth: 
+- birth: 2 Feb 1821
 
 ## Margaret Cook
 
