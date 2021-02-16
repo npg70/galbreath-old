@@ -1,5 +1,7 @@
 # Edwin Clarence Galbreath
 
+- father: [Robert Bruce Galbreath](galbreath-robert-bruce-1850.md)
+- mother: *Anna McBride*
 - birth: 22 Mar 1882, Colorado
 
 ## Lisetta H Schutz
