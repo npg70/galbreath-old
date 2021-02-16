@@ -10,9 +10,12 @@ The descendants of [James Galbreath](galbreath-james-1659.md) b. 1659 and Mary N
 
 ## Descendants of William Galbreath and Margaret Dunlop of Campbeltown
 
-The children and grandchildren were influential in government and industry in Campbeltown and Glasgow.  
+The children and grandchildren of [William Galbreath](/galbreath-william-1736.md) and Margaret Dunlop were influential in government and industry in Campbeltown and Glasgow.  
 
-The rumour is that William somehow a descendant of Archibald Galbreath of the previous line. It appears there are no direct-male descendants, so it may remain a mystery. 
+The rumour is that William somehow a descendant of [Archibald Galbreath](galbreath-archibald-1708.md
+Go to file
+
+) of the previous line. It appears there are no direct-male descendants, so it may remain a mystery. 
 
 ## Archibald Galbreath and Margaret McMillian
 
