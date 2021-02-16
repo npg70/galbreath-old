@@ -1,4 +1,4 @@
-# John Galbraith
+# John Galbreath
 
 - father: [Archibald Galbreath](galbreath-archibald-1798.md)
 - mother: *Margaret MacMillian*
@@ -26,3 +26,4 @@
 
 # Sources
 
+- OPR Marriage on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=M&record_type%5B0%5D=opr_marriages&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-banns-marriages&surname=galbreath&surname_so=exact&forename_so=starts&sex=M&spouse_name=cook&spouse_name_so=exact&from_year=1840&to_year=1840&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
