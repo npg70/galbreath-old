@@ -1,6 +1,7 @@
 # Robert W Galbreath
 
-- parents: [John Galbreath](galbreath-john-1817.md); Jane McMath
+- father: [John Galbreath](galbreath-john-1817.md)
+- mother: *Jane McMath*
 - birth: 13 Nov 1854
 - death: 4 Nov 1947, Ohio County, Indiana, United States
 
