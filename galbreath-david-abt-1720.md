@@ -5,7 +5,8 @@ Parents are unclear. Birth should be around 1720 +/- 5 years.  Canidates on [Sco
 
 ## Martha Baird
 
-- parents: *James Baird*; *Katharine Harvie*
+- father: *James Baird*
+- mother: *Katharine Harvie*
 - birth: 19 Feb 1727
 - marriage: 3 Apr 1744
 
