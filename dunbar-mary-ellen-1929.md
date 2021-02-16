@@ -1,6 +1,7 @@
 # Mary Ellen Dunbar
 
-- parents: *Robert Calvin Dunbar*; [Zella Viola Galbreath](galbreath-zella-viola-1898.md)
+- father: *Robert Calvin Dunbar*
+- mother: [Zella Viola Galbreath](galbreath-zella-viola-1898.md)
 - birth: 4 Oct 1929
 
 ## Carl Sontag
