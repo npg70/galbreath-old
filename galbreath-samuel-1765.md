@@ -1,6 +1,6 @@
 # Samuel Galbreath
 
-Birth and parents are unknown.
+Birth and parents are unknown.   A guess of 1765 would make first child born when he was 28 which seems reasonable.
 
 - birth: Abt 1765
 
