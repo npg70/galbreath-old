@@ -1,6 +1,7 @@
 # Jean Galbraith
 
-- parents: [Archibald Galbreath](galbreath-archibald-1760.md); *Jean Corbet*
+- father: [Archibald Galbreath](galbreath-archibald-1760.md)
+- mother: *Jean Corbet*
 - birth: 7 Apr 1805
 - death: 3 Jun 1864
 
