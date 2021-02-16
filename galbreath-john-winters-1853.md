@@ -1,5 +1,7 @@
 # John Winters Galbreath
 
+- father: [Harvie Galbreath](galbreath-harvie-1821.md)
+- mother: *Nancy Carr Winters*
 - birth: 1 Feb 1853
 
 ## Emma Waterfield
