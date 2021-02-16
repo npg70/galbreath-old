@@ -1,6 +1,7 @@
 # Zella Viola Galbreath
 
-- parents: [Samuel Newton Galbreath](galbreath-samuel-newton-1852.md); *Jennie Holmes Johnson*
+- father: [Samuel Newton Galbreath](galbreath-samuel-newton-1852.md)
+- mother: *Jennie Holmes Johnson*
 - birth: 29 Dec 1898
 
 ## Robert Calvin Dunbar
