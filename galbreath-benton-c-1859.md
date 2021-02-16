@@ -1,6 +1,7 @@
 # Benton C Galbreath
 
-- parents: [Andrew Galbreath](galbreath-andrew-1819.md); *Elizabeth Shotwell*
+- father: [Andrew Galbreath](galbreath-andrew-1819.md)
+- mother: *Elizabeth Shotwell*
 - birth: 1859, Ohio, United States
 
 ## Charlotte Hannah Turner
