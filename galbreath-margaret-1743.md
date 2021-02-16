@@ -1,11 +1,13 @@
 # Margaret Galbreath
 
-- parents: [Archibald Galbreath](galbreath-archibald-1708.md); *Margaret White*
+- father: [Archibald Galbreath](galbreath-archibald-1708.md)
+- mother: *Margaret White*
 - birth: 27 Oct 1743, Campbeltown, Argyll, Scotland
 
 ## Alexander Dunlop
 
-- parents: *Archibald Dunlop* b. 29 Jul 1714 d. 8 Nov 1789; *Margaret Fulton*, b. 15 Jan 1712
+- father: *Archibald Dunlop* b. 29 Jul 1714 d. 8 Nov 1789
+- mother: *Margaret Fulton*, b. 15 Jan 1712
 - birth: 13 Sep 1741
 - marriage: 3 May 1768, Campbeltown
 
