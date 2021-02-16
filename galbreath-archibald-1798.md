@@ -10,9 +10,9 @@ The interweb gives various account of the Archibald Galbreath who married Margar
 
 This seems to be not in dispute.
 
-- father: Neil McMillian, b. 1750
-- mother: Margaret Mceachine, b. 9 Jan 1769, Campbeltown, Argyll, Scotland
-- birth: 	25 Oct 1791, Campbeltown, Argyll, Scotland
+- father: *Neil McMillian*, b. 1750
+- mother: *Margaret Mceachine*, b. 9 Jan 1769, Campbeltown, Argyll, Scotland
+- birth: 25 Oct 1791, Campbeltown, Argyll, Scotland
 - marriage: 16 Feb 1813, Campbeltown, Argyll, Scotland
 
 ### Children
