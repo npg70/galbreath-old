@@ -1,6 +1,6 @@
 # Mary Galbreath
 
-- father:[David Galbreath](galbreath-david-1755.md)
+- father: [David Galbreath](galbreath-david-1755.md)
 - mother: *Mary Flemming*
 - birth: 29 Aug 1788
 - death: 6 Aug 1877
