@@ -1,6 +1,7 @@
 # Frank Hubert Galbreath
 
-- [Samuel Newton Galbreath](galbreath-samuel-newton-1852.md); *Jennie Holmes Johnson*
+- father: [Samuel Newton Galbreath](galbreath-samuel-newton-1852.md)
+- mother: *Jennie Holmes Johnson*
 - birth: 13 Nov 1900
 
 ## Beatrice E Carroll
