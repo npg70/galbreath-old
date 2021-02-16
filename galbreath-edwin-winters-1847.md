@@ -1,6 +1,7 @@
 # Edwin Winters Galbreath
 
 - father: [Harvie Galbreath](galbreath-harvie-1821.md)
+- mother: *Nancy Carr Winters*
 - birth: 1847
 
 ## Martha Page
