@@ -1,6 +1,7 @@
 # William Elbert Galbreath
 
 - father: [Robert Harvey Galbreath](galbreath-robert-harvey-1890.md)
+- mother: *Ruth Genevieve Newell*
 - birth: 31 Jan 1922, Denver, Colorado, United States
 - death: 16 Jul 2003, Englewood, Araphoe, Colorado, United States
 
