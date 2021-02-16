@@ -1,11 +1,13 @@
 # Janet Galbreath
 
-- parents: [Archibald Galbreath](galbreath-archibald-1708.md); *Margaret White*
+- father: [Archibald Galbreath](galbreath-archibald-1708.md)
+- mother: *Margaret White*
 - birth: 26 Nov 1752
 
 ## James Armour
 
-- parents: *William Armour*; *Mary Galbreath*
+- father: *William Armour*
+- mother: *Mary Galbreath*
 
 ### Children
 
