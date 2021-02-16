@@ -1,16 +1,16 @@
 # William Galbreath
 
-- parents: [James Galbreath](galbreath-james-1672.md); *Mary Fleming*
+- father: [James Galbreath](galbreath-james-1672.md)
+- mother: *Mary Fleming*
 - birth: 16 Nov 1701
 
 ## Margaret Kilpatrick
 
-- parents: *James Kilpatrick* b.  Glasgow, 3 Nov 1652 d. Glasgow 1725;   Married 31 Jan 1704 to *Ann Brackenridge* b. 1683, d. 1723.
+- father: *James Kilpatrick* b.  Glasgow, 3 Nov 1652 d. Glasgow 1725, m.  31 Jan 1704.
+- mother: *Ann Brackenridge* b. 1683, d. 1723.
 - marriage: 31 Jul 1724.
 
 ### Children
-
-Children of William and Margaret (Kilpatrick):
 
 1. Mary Galbreath, b. 23 May 1725. Another record under "WILLIAM CALBREATH/MARGARET KILPATRICK".
 2. [James Galbreath](galbreath-james-1726.md), b. 2 Oct 1726; m. *Margaret Anderson*.  Birth listed under "WILLIAM CALBREATH/MARGARET KILPATRICK"
