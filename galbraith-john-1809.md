@@ -2,7 +2,8 @@
 
 Provost of Campbeltown 1860-66
 
-- parents: [Archibald Galbreath](galbreath-archibald-1760.md); *Jean Corbet*
+- parents: [Archibald Galbreath](galbreath-archibald-1760.md)
+- mother: *Jean Corbet*
 - birth: 3 Sep 1809, Campbeltown, Argyleshire, Scotland
 - death: 12 Sep 1881, Didsbury Manchester Lancashire, United Kingdom
 
