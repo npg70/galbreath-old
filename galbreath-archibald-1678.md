@@ -13,7 +13,7 @@ The records exist for marriage and children, however the linkage to James and Ma
 
 ### Children
 
-Children of Archibald and Elizabeth (Johns) Galbreath, all in Rutherglen Parish, Lanarkshire, Scotland
+Children of Archibald and Elizabeth (Johns) Galbreath, all in Rutherglen Parish, Lanarkshire, Scotland (effectively Glasgow).
 
 1. James Carbreath, b. 22 Jun 1701
 2. Archibald Carbreath, b. 1 Aug 1703
