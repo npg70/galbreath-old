@@ -1,5 +1,7 @@
 # Ward Benjamin Galbreath
 
+- father: [Wallace Walter Galbreath](galbreath-wallace-walter-1850.md)
+- mother: *Ruth Ella Laberee*
 - birth: 30 Oct 1888, Enderlin City, Ransom, North Dakota, United States
 
 ## Eveline Bruem
