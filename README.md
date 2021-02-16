@@ -20,7 +20,7 @@ The parents of [Archibald Galbreath](https://github.com/npg70/galbreath/blob/mai
 
 ## Lineage of Alexander Galbreath
 
-Alexander Galbreath emmigrated from Kintrye in the 1850s to West Virgina and Ohio. However, his parents are somewhat of a mystery.
+[Alexander Galbreath](galbreath-alexander-1816.md), a "malt man" emmigrated from Kintrye in the 1850s to West Virgina and Ohio. However, his parents are a mystery.
 
 ## Lineage of David Galbreath and Martha Baird
 
