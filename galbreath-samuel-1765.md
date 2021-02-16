@@ -1,6 +1,6 @@
 # Samuel Galbreath
 
-Birth and parents are unknown.   A guess of 1765 would make first child born when he was 28 which seems reasonable.
+Birth and parents are unknown.  Samuel is a unusual name for a Galbreath in Campbeltown which makes it more mysterious.  A guess of 1765 would make first child born when he was 28 which seems reasonable.
 
 - birth: Abt 1765
 
