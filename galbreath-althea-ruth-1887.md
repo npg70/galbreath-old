@@ -1,5 +1,6 @@
 # Althea Ruth Galbreath
 
+- father: [Wallace Walter Galbreath](galbreath-wallace-walter-1850.md)
 - birth: 14 Jul 1887, Enderlin City, Ransom, North Dakota, United States
 
 ## Hans Christian Andersen
