@@ -1,6 +1,7 @@
 # Ralph Turner Galbreath
 
 - father: [Bernard Harris Galbreath](galbreath-bernard-harris-1889.md)
+- mother: *Effie May Turner*
 - birth: 29 Sep 1911, Ohio Co, Indiana, United States
 - death: 16 July 1983, Cincinnati, Hamiliton, Ohio, United States
 
