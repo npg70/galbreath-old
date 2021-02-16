@@ -15,8 +15,8 @@
 
 Children of John and Mary (Mitchel) Galbreath:
 
-1. [Archibald Galbreath](galbreath-archibald-1708.md), b. 30 May 1708, m. *Martha White*.
-2. Mary Galbreath, b. 25 Dec. 1709. Assumed died in early childhood.
+1. [Archibald Galbreath](galbreath-archibald-1708.md), b. 30 May 1708, m. *Martha White*. OPR listed under "Galbraith"
+2. Mary Galbreath, b. 25 Dec 1709. Assumed died in early childhood.
 3. [Janet Galbreath](galbreath-janet-1711.md), b. 14 Oct. 1711, m. *David Ryburn*
 4. James Galbreath, b. 22 Mar 1713. Assumed died in infancy.
 5. Katharine Galbreath, b. 8 Aug 1714
@@ -25,8 +25,8 @@ Children of John and Mary (Mitchel) Galbreath:
 8. James Galbreath, b. 28 July 1719. Twins!
 9. Mary Galbreath, b. 28 July 1719. Twins!
 10. [John Galbreath](galbreath-john-1721.md), b. 9 Dec 1721, m. *Agnes Langwill*.
-11. David Galbreath, b. 24 Nov. 1723. Note: two records.
-12. Samuel Galbreath, b. 8 Aug 1725. Note: two records.
+11. David Galbreath, b. 24 Nov 1723. OPR recorded as Galbreath and Calbreath.
+12. Samuel Galbreath, b. 8 Aug 1725. OPR recorded as Galbreath and Calbreath.
 
 ## Katherine McCallum
 
