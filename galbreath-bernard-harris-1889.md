@@ -1,6 +1,7 @@
 # Benard Harris Galbreath
 
-- parents: [Robert W Galbreath](galbreath-robert-w-1854.md); *Effie May Harris*
+- father: [Robert W Galbreath](galbreath-robert-w-1854.md)
+- mother: *Effie May Harris*
 - birth: 6 May 1889, Ohio County, Indiana, United States
 
 ## Effie May Turner
