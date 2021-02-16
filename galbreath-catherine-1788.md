@@ -1,6 +1,7 @@
 # Catharine Galbreath
 
-- parents: [Samuel Galbreath](galbreath-samuel-1736.md); *Janet McNair*
+- father: [Samuel Galbreath](galbreath-samuel-1736.md)
+- mother: *Janet McNair*
 - birth: 16 May 1788, Campbeltown, Argyll, Scotland
 - death: 21 Apr 1878, Moys, Campbeltown, Argyll, Scotland
 
