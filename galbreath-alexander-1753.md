@@ -1,14 +1,13 @@
 # Alexander Galbreath
 
-- parents: [John Galbreath](galbreath-john-1721.md); *Agnes Langwill*
+- father: [John Galbreath](galbreath-john-1721.md)
+- mother: *Agnes Langwill*
 - birth: 25 Jun 1753, Campbeltown
 - death: 1 Nov 1819, York, PA, USA
 
 ## Agnes Flemming
 
 ### Children
-
-Children of Alexander and Agnes (Flemming) Galbreath:
 
 1. John Galbreath, b. 25 May 1781. Assumed died in infancy.
 2. James Galbreath, b. 19 May 1782, d. 23 Jan 1811.
