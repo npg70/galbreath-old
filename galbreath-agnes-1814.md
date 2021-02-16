@@ -1,7 +1,7 @@
 # Agnes Galbreath
 
 - father: [Archibald Galbreath](galbreath-archibald-1798.md)
-- mother: Margaret MacMillian
+- mother: Margaret McMillian
 - birth: 7 Apr 1814, Campbeltown, Argyll, Scotland
 
 ## James Cook
