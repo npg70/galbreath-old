@@ -1,12 +1,14 @@
 # Robert Galbreath
 
-- parents: [Samuel Galbreath](galbreath-samuel-1736.md); *Janet McNair*
+- father: [Samuel Galbreath](galbreath-samuel-1736.md)
+- mother: *Janet McNair*
 - birth: 12 Oct 1778, Campbeltown, Argyll, Scotland
 - death: 19 May 1847, Neville, Clermont, Ohio, USA
 
 ## Catherine Harvie
 
-- parents: *James Harvie*; [Katherine Galbreath](galbreath-katharine-1741.md)
+- father: *James Harvie*
+- mother: [Katherine Galbreath](galbreath-katharine-1741.md)
 - birth: 29 Jul 1780, Campbeltown, Argyll, Scotland
 - baptism: 30 Jul 1780
 - death: 21 Jun 1847, Neville, Clermont, Ohio, USA
