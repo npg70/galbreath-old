@@ -1,6 +1,7 @@
 # Andrew Galbraith
 
-- parents: [Archibald Galbreath](galbreath-archibald-1760.md); *Jean Corbet*
+- father: [Archibald Galbreath](galbreath-archibald-1760.md)
+- mother: *Jean Corbet*
 - birth: 6 Feb 1799; Campbeltown, Argyle, Scotland
 - death: 29 Nov 1885
 
