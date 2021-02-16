@@ -19,7 +19,7 @@ This seems to be not in dispute.
 1. Anne Galbreath, b. 7 Apr 1814
 2. Niel Galbreath, b. 18 Aug 1816
 3. Archibald Galbreath, b. 19 Jan 1819
-4. [John Galbreath](galbraith-john-1821.md), b. 2 Feb 1821; m. *Margaret Cook*
+4. [John Galbreath](galbreath-john-1821.md), b. 2 Feb 1821; m. *Margaret Cook*
 
 
 # Sources
