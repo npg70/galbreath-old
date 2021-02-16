@@ -2,7 +2,8 @@
 
 Likely occupation was Maltster.
 
-- parents: [William Galbreath](galbreath-william-1736.md); *Margaret Dunlop*
+- father: [William Galbreath](galbreath-william-1736.md)
+- mother: *Margaret Dunlop*
 - birth: 12 Oct 1760; Campbeltown, Argyll and Bute, Scotland
 - death: 1846; Campbeltown, Argyll and Bute, Scotland
 - burial: Kilkerran Cemetery, Campbeltown, Argyll and Bute, Scotland
@@ -20,7 +21,8 @@ Likely occupation was Maltster.
 
 ## Jean Corbet
 
-- parents: *Alexander Corbett*; *Isobell Peterson*
+- father: *Alexander Corbett*
+- mother: *Isobell Peterson*
 - birth: 12 May 1771; Abbey, Paisley, Scottland
 - baptism: 15 May 1771; Abbey, Paisley, Renfrew, Scotland
 - death: 2 Aug 1861; Paisley, Renfrewshire, Scotland
