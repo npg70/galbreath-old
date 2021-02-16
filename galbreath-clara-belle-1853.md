@@ -1,5 +1,7 @@
 # Clara Belle Galbreath
 
+- father: [Harvie Galbreath](galbreath-harvie-1821.md)
+- mother: *Nancy Carr Winters*
 - birth: 1853
 
 ## Edwin Lemon
