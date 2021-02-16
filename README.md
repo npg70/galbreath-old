@@ -6,7 +6,8 @@ Currently focused on Campbeltown, Argyll, Scotland in the 1700s and 1800s, and d
 
 The descendants of [James Galbreath](galbreath-james-1659.md) b. 1659 and Mary Nielson had multiple immigrants to United States.
 
-* [Robert Galbreath](galbreath-robert-1778.md) b. 1778 to Clermont County, Ohio, USA
+* [Alexander Galbreath](galbreath-alexander-1753.md), b. 1753, immigrated to Baltimore, then York County, PA in 1785.
+* [Robert Galbreath](galbreath-robert-1778.md) b. 1778 immigrated to Clermont County, Ohio, USA in 1818
 
 ## Descendants of William Galbreath and Margaret Dunlop of Campbeltown
 
