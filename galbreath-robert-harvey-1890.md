@@ -1,5 +1,6 @@
 # Robert Harvey Galbreath
 
+- father: [Robert Bruce Galbreath](galbreath-robert-bruce-1850.md)
 - birth: 25 Jun 1890
 
 ## Ruth Genevieve Newell
