@@ -8,7 +8,7 @@ The descendants of [James Galbreath](galbreath-james-1659.md) b. 1659 and Mary N
 
 * [Alexander Galbreath](galbreath-alexander-1753.md), b. 1753, immigrated to Baltimore, then York County, PA in 1785.
 * [Robert Galbreath](galbreath-robert-1778.md) b. 1778 immigrated to Clermont County, Ohio, USA in 1818
-* [Margaret Galbreath](galbreath-margaret-1771.md), b. 1771 immigrated to Ontario, Canada in 1821
+* [Margaret Galbreath](galbreath-margaret-1771.md), b. 1771 immigrated to New Brunswick, Canada in 1821
 
 ## Descendants of William Galbreath and Margaret Dunlop of Campbeltown
 
