@@ -1,6 +1,7 @@
 # Archibald Galbreath
 
-- parents: [Alexander Galbreath](galbreath-alexander-1816.md), *Elizabeth McCualsky*
+- father: [Alexander Galbreath](galbreath-alexander-1816.md)
+- mother: *Elizabeth McCualsky*
 - birth: 20 Jan 1846; Southend, Argyll, Scotland
 
 # Sources
