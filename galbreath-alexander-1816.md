@@ -4,13 +4,14 @@ Occupation "Malt man" according to 1851 Census, emmigrated around 1851-1857.
 
 The father based on baptism dates, should be born 1774-1784, married around 1803.
 
-- parents: [Archibald Galbreath](galbreath-archibald-unknown.md); _____
+- father: [Archibald Galbreath](galbreath-archibald-unknown.md)
 - baptism: 20 Apr 1816; Southend, Argyll, Scotland
 - death: 1898; Washington, Ohio, United States
 
 ## Elisabeth McCualskey
 
-- parents: *Alexander McCualskey*; *Margaret Raeside/Ryside*, b. 1787 "Formerly a weaver's wife"
+- father: *Alexander McCualskey*
+- mother: *Margaret Raeside/Ryside*, b. 1787 "Formerly a weaver's wife"
 - birth: 6 May 1815; Lochgilphead, Argyll, Scotland
 - baptism: 8 May 1815;  Campbeltown, Argyll, Scotland
 - death: 1904; Parkersburg, Wood, West Virginia, United States
