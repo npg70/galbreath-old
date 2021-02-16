@@ -1,13 +1,15 @@
 # Mary Catharine Galbreath
 
-- parents: [James Galbreath](galbreath-james-1809.md); *Nancy Cole*
-- birth 1837
+- father: [James Galbreath](galbreath-james-1809.md)
+- mother: *Nancy Cole*
+- birth: 1837
 
 ## XXX McNicol
 
 Children of Henry and Mary (Galbreath) McNicol:
 
 ### Children
+
 1. Claribel McNicol, m *Franklin Ives*.  FOLLOW
 
 ## XXX Duhme
