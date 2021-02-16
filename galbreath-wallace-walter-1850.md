@@ -1,6 +1,7 @@
 # Wallace Walter Galbreath
 
-- parents: [Andrew Galbreath](galbreath-andrew-1819.md); *Elizabeth Shotwell*
+- father: [Andrew Galbreath](galbreath-andrew-1819.md)
+- mother: *Elizabeth Shotwell*
 - birth: 21 Feb 1850, Ohio, United States
 
 ## Ruth Ella Laberee
