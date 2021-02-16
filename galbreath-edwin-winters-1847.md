@@ -1,5 +1,6 @@
 # Edwin Winters Galbreath
 
+- father: [Harvie Galbreath](galbreath-harvie-1821.md)
 - birth: 1847
 
 ## Martha Page
