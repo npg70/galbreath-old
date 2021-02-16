@@ -1,5 +1,7 @@
 # Clarence Edwin Galbreath
 
+- father: [Wallace Walter Galbreath](galbreath-wallace-walter-1850.md)
+- mother: *Ruth Ella Laberee*
 - birth: 15 Dec 1896, Enderlin City, Ransom, North Dakota, United States
 
 ## Nora Agnes Hanson
