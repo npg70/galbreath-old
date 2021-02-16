@@ -7,8 +7,8 @@
 
 ## Janet McNair
 
+- mother: [Janet Galbreath](galbreath-janet-1718.md)
 - father: *Robert McNair*
-- mother: *Janet Galbreath*
 - birth: 12 Oct 1755, Campbeltown, Argyll, Scotland
 - death: 7 Jul 1831
 - marriage: 1774, Peninver, Argyll, Scotland
