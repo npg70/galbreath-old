@@ -1,6 +1,6 @@
 # Charlotte Duhme
 
-- parents: [Mary Catherine Galbreath](galbreath-mary-catharine-1837.md)
+- mother: [Mary Catherine Galbreath](galbreath-mary-catharine-1837.md)
 - birth: 9 Aug 1865, Cincinnati, Hamilton, Ohio, United States
 - death: 1 Oct 1946, Las Encinas Sanitarium, Pasadena, Los Angeles, California, United States
 
