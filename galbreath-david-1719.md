@@ -1,6 +1,7 @@
 # David Galbreath
 
-- parents: [James Galbreath](galbreath-james-1672.md) *Mary Fleming*
+- father: [James Galbreath](galbreath-james-1672.md)
+- mother: *Mary Fleming*
 - birth: 28 Apr 1719
 
 ## Jean Langwill
