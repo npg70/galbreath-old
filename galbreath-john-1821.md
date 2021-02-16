@@ -22,7 +22,7 @@
 6. Alexander Galbreath, b. 25 May 1854, Saddell, Argyll, Scotland; d.  28 Mar 1912, Carradale, Argyll, Scotland
 7. Mary Galbreath, b. 1 Nov 1858, Saddell and Skipness, Argyll, Scotland
 8. Elizabeth Galbreath, b. 1 Oct 1860, Saddell and Skipness, Argyll, Scotland; d. 1964, Carradale, Argyll, Scotland
-9. Jemimina Galbreath, b. 13 DEC 1862, Campbeltown, Argyll, Scotland
+9. Jemimina Galbreath, b. 13 Dec 1862, Campbeltown, Argyll, Scotland
 
 # Sources
 
