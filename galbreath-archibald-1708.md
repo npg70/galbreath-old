@@ -1,6 +1,7 @@
 # Archibald Galbreath
 
-- parents: [John Galbreath](galbreath-john-1680.md); *Mary Mitchell*
+- father: [John Galbreath](galbreath-john-1680.md)
+- mother: *Mary Mitchell*
 - birth: 30 May 1708, Campbeltown, Argyll, Scotland
 - death: 1789, Campbeltown, Argyll, Scotland
 
