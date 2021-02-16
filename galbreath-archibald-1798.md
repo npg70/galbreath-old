@@ -16,7 +16,7 @@ This seems to be not in dispute.
 
 ### Children
 
-1. Anne Galbreath, b. 7 Apr 1814
+1. [Agnes Galbreath](galbreath-agnes-1814.md), b. 7 Apr 1814; m. *James Cook*
 2. Niel Galbreath, b. 18 Aug 1816
 3. Archibald Galbreath, b. 19 Jan 1819
 4. [John Galbreath](galbreath-john-1821.md), b. 2 Feb 1821; m. *Margaret Cook*
