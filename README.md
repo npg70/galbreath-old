@@ -20,6 +20,12 @@ The rumour is that William somehow a descendant of [Archibald Galbreath](galbrea
 
 The parents of [Archibald Galbreath](https://github.com/npg70/galbreath/blob/main/galbreath-archibald-1798.md), who married *Margaret McMillian*, is not clear.
 
+## Samuel Galbreath and Janet Langwill
+
+Both common names, and families have intermarried before, but Samuel's parents are unknown.  Descendants ...
+
+[Samuel Galbreath](galbreath-samuel-1765.md)
+
 ## Lineage of Alexander Galbreath
 
 [Alexander Galbreath](galbreath-alexander-1816.md), a "malt man" emmigrated from Kintrye in the 1850s to West Virgina and Ohio. However, his parents are a mystery.
