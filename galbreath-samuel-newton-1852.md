@@ -1,6 +1,7 @@
 # Samuel Newton Galbreath
 
-- parents: [Archibald Galbreath](galbreath-archibald-1815.md); *Eliza Rice*
+- father: [Archibald Galbreath](galbreath-archibald-1815.md)
+- mother: *Eliza Rice*
 - birth: 20 May 1852
 
 ## Jennie Holmes Johnson
