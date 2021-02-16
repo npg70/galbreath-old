@@ -4,7 +4,9 @@ Currently focused on Campbeltown, Argyll, Scotland in the 1700s and 1800s, and d
 
 ## Descendants of James Galbreath and Mary Nielson
 
-Sprawling family in Campbeltown with multiple immigrants to United States.
+The descendants of [James Galbreath](galbreath-james-1659.md) b. 1659 and Mary Nielson had multiple immigrants to United States.
+
+* [Robert Galbreath](galbreath-robert-1778.md) b. 1778 to Clermont County, Ohio, USA
 
 ## Descendants of William Galbreath and Margaret Dunlop of Campbeltown
 
@@ -14,7 +16,7 @@ The rumour is that William somehow a descendant of Archibald Galbreath of the pr
 
 ## Archibald Galbreath and Margaret McMillian
 
-The parents of [Archibald Galbreath](https://github.com/npg70/galbreath/blob/main/galbreath-archibald-1798.md), who married *Margaret McMillian* is not clear.
+The parents of [Archibald Galbreath](https://github.com/npg70/galbreath/blob/main/galbreath-archibald-1798.md), who married *Margaret McMillian*, is not clear.
 
 ## Lineage of Alexander Galbreath
 
