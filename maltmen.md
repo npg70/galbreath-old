@@ -1,6 +1,6 @@
-# Galbreath Brewers and Distillers in Campbeltown 1700-1800
+# Galbreath Brewers and Distillers in Campbeltown 1700-1900
 
-Misc notes for future reference and placement.  Some of the record may be for the same person.
+Misc notes for future reference and placement.  Some of the records may be for the same person.
 
 ## Alexander Galbreath
 
