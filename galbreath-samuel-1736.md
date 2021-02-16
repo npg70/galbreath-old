@@ -1,6 +1,7 @@
 # Samuel Galbreath
 
-- parents: [Archibald Galbreath](galbreath-archibald-1708.md); *Margaret White*
+- father: [Archibald Galbreath](galbreath-archibald-1708.md)
+- mother: *Margaret White*
 - birth: 4 Feb 1736, Campbeltown, Argyll, Scotland
 - death: 1799
 
