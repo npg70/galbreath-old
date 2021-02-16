@@ -10,9 +10,9 @@ Immigrated with family to Canada in June 1821.
 ## Nathaniel McNair Sr
 
 - birth: 2 Jan 1763, "Kildonan, Ross and Cromarty, Scotland, United Kingdom"
-- baptism: 6 Jan 1763,Campbeltown,Argyll,Scotland
-- death: 13 Sep 1857,New Mills, New Brunswick, Canada
-- marriage: 29 Apr 1802, Campbeltown,Argyll,Scotland
+- baptism: 6 Jan 1763, Campbeltown, Argyll, Scotland
+- death: 13 Sep 1857, New Mills, New Brunswick, Canada
+- marriage: 29 Apr 1802, Campbeltown, Argyll, Scotland
 
 ### Children
 
