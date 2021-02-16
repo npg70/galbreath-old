@@ -14,7 +14,7 @@
 1. James McNair, b. 16 Nov 1746
 2. John McNair, b. 10 Mar 1751
 3. Archibald McNair, b. 19 Nov 1753
-4. Janet McNair,  b. 12 Oct 1755
+4. [Janet McNair](galbreath-samuel-1736.md), b. 12 Oct 1755
 5. Jean McNair, b. 25 Feb 1758
 
 There may be a Robert and Elizabeth according McNair Geneaologies.  But likley died before being baptised.
