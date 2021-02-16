@@ -14,5 +14,5 @@
 4. Seda Belle Galbreath, b. 30 Jan 1860; d. 12 May 1861.
 5. Anna Galbreath, b. 12 Jul 1861; d. Brown County, Ohio, 25 Mar 1948.  Unmarried.
 6. Jeannette Brown Galbreath, b. 2 Jan 1862; d. Miami County, Ohio, 22 Jul 1922. No marriage records, but missing various census records.
-7. Etta Mae Galbreath, b. 23 Sep 1867; d. Cincinnati, Ohio, 10 Apr 1937; m. *Charles McCullough Jones. No known children.
+7. Etta Mae Galbreath, b. 23 Sep 1867; d. Cincinnati, Ohio, 10 Apr 1937; m. *Charles McCullough Jones*. No known children.
 8. Jennie C Galbreath, b. 23 Sep 1867; d. Cincinnati, Ohio, 10 Apr 1937; m. *Stephen Dibble*.  No known children.
