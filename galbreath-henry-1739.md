@@ -2,7 +2,8 @@
 
 occupation shoemaker according to tombstone
 
-- parents: [William Galbreath](galbreath-william-1701.md); *Margaret Kilpatrick*
+- father: [William Galbreath](galbreath-william-1701.md)
+- mother: *Margaret Kilpatrick*
 - birth: Apr 1739
 - death: 15 July 1789
 - burial: ,Kilchousland Graveyard, Argyll and Bute, Scotland
