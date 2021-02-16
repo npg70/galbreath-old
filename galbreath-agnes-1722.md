@@ -1,6 +1,7 @@
 # Agnes Galbreath
 
-- parents: [James Galbreath](galbreath-james-1672.md); *Mary Fleming*
+- father: [James Galbreath](galbreath-james-1672.md)
+- mother: *Mary Fleming*
 - birth: 18 Feb 1722
 
 ## James Clark
