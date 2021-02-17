@@ -6,6 +6,7 @@
 
 ## William Armour
 
+- birth: 9 May 1731, Campbeltown, Arygll, Scotland
 - father: *William Armour* b. 1731, d. 1798
 - mother: *Janet Clark* b. 1707, d. 1784
 
