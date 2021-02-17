@@ -7,7 +7,7 @@
 ## James Armour
 
 - father: *William Armour*
-- mother: *Mary Galbreath*
+- mother: [Mary Galbreath](galbreath-mary-1729.md)
 
 ### Children
 
