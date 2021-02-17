@@ -8,7 +8,8 @@
 
 - father: *William Armour*
 - mother: [Mary Galbreath](galbreath-mary-1729.md)
-
+- birth: 28 April 1751
+- 
 ### Children
 
 1. Archibald Armour, b. 10 Jul 1783 in "Trodigal by Machrillanish", d. 1841 in "Kilkivan; m. *Isabella Greenlees*.  A lot of children still in Scotland under Armour name.  Look at John Armour in Ancesry
