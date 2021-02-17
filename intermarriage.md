@@ -2,9 +2,9 @@
 
 ## Ryburn Family
 
-- [Janet Galbreath](galbreath-janet-1711.md) b. 1711; m. David Ryburn Sr  m. 1735 6 children, probable brother Samuel
+- [Janet Galbreath](galbreath-janet-1711.md) b. 1711; m. *David Ryburn Sr*  m. 1735 6 children, probable brother Samuel
 - [Mary Galbreath](galbreath-mary-1704.md) b. 1704, the daughter of James Galbreath and Mary Fleming. m. *Matthew Ryburn* 1724
-- [Mary Galbreath]() b. 1725; m. Matthew Ryburn 1747.
+- [Mary Galbreath]() b. 1725; m. *Matthew Ryburn* 1747.
 
 ## McNair
 
