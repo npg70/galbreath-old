@@ -8,8 +8,13 @@
 
 ## McNair
 
-- [Margaret Galbreath](galbreath-margaret-1771.md) b. 1771; m. *Nathaniel McNair Sr*
+- [Margaret Galbreath](galbreath-margaret-1771.md), b. 1771; m. *Nathaniel McNair Sr*
+
+## Armour
+
+- [Henry Galbreath](galbreath-henry-1739.md), b. 1739; m. *Agnes Armour*
+
 
 ## Langwill
 
-- [John Galbreath](galbreath-john-1721.md), b. 1721 to Agnes Langwill
+- [John Galbreath](galbreath-john-1721.md), b. 1721, m. *Agnes Langwill*
