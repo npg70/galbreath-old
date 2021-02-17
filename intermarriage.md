@@ -6,6 +6,8 @@
 - [Mary Galbreath](galbreath-mary-1704.md) b. 1794, m. Mathew Ryburn
 - [Mary Galbreath]() m. Mathew Ryburn 1747.  eldest james ryburn.
 
-
 ## McNair
 
+## Langwill
+
+- [John Galbreath](galbreath-john-1721.md), b. 1721 to Agnes Langwill
