@@ -14,3 +14,5 @@
 1. James Armour, m. [Janet Galbreath](galbreath-janet-1752.md)
 
 # Sources
+
+- Mary Galbreath on [FamilySearch](https://www.familysearch.org/tree/person/details/KHY2-ZHF)
