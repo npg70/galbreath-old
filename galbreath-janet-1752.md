@@ -8,6 +8,7 @@
 
 - father: *William Armour*
 - mother: [Mary Galbreath](galbreath-mary-1729.md)
+- birth: 28 April 1751
 
 ### Children
 
