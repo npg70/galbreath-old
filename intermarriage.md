@@ -10,6 +10,7 @@
 
 - Margaret Galbreath, b. 1729; m. Archibald McNair.  Parents unclear, and often claimed is Mary Galbreath who married William Armour.  Also her son Nathaniel McNair married another Margaret Galbreath.
 - [Margaret Galbreath](galbreath-margaret-1771.md), b. 1771; m. *Nathaniel McNair Sr*
+- [Samuel Galbreath](galbreath-samuel-1736.md), b. 1736; m. *Janet McNair*
 
 ## Armour
 
