@@ -11,6 +11,6 @@
 
 ### Children
 
-1. James Armour, m. *Janet Galbreath*  TODO: Link
+1. James Armour, m. [Janet Galbreath](galbreath-janet-1752.md)
 
 # Sources
