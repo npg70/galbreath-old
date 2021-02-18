@@ -22,3 +22,5 @@
 
 - [David Galbreath](galbreath-david-1719.md), b. 1719, m. *Jean Langwill*
 - [John Galbreath](galbreath-john-1721.md), b. 1721, m. *Agnes Langwill*
+- [Archibald Galbreath](galbreath-archibald-1760.md), b. 1760
+- 
