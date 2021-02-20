@@ -21,7 +21,8 @@
 
 ## Harvey / Harvie
 
-- [Katherine Galbreath](galbreath-katharine-1741.md), b. 1741; m. *James Harvie*
+- [Katherine Galbreath](galbreath-katharine-1741.md), b. 1741; m. *James Harvie*. Their daughter Catherine married Robert Galbreath, below
+- [Robert Galbreath](galbreath-robert-1778.md), b. 1778; m. *Catherine Harvie*.
 
 ## Langwill
 
