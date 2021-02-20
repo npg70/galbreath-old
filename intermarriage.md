@@ -17,6 +17,7 @@
 
 - [Mary Galbreath](galbreath-mary-1729.md), b. 1729; m. *William Armour*. 
 - [Henry Galbreath](galbreath-henry-1739.md), b. 1739; m. *Agnes Armour*
+- [Janet Galbreath](galbreath-janet-1752.md), maybe Galbraith, b. 1752; m. *James Armour*
 
 ## Langwill
 
