@@ -19,6 +19,10 @@
 - [Henry Galbreath](galbreath-henry-1739.md), b. 1739; m. *Agnes Armour*
 - [Janet Galbreath](galbreath-janet-1752.md), maybe Galbraith, b. 1752; m. *James Armour*
 
+## Harvey / Harvie
+
+- [Katherine Galbreath](galbreath-katharine-1741.md), b. 1741; m. *James Harvie*
+
 ## Langwill
 
 - [Janet Galbreath](galbreath-janet-1698.md), b. 1698, m. *Peter Langwill*
