@@ -13,7 +13,7 @@
 ### Children
 
 1. James Harvie, b. 1762
-2. Martha Harvie, b. 15 Nov 1764, Campbeltown, Arygll, Scotland; d. May 1821, Washington County, Virginia, United States; m. *Robert Clark*.
+2. Martha Harvie, b. 15 Nov 1764, Campbeltown, Arygll, Scotland; d. May 1821, Washington County, Virginia, United States; m. *Robert Clark*, b. 1857, d. 1821. Immigrated in 1814 with sons.
 3. Janet Harvie, b. 1767
 4. Archibald Harvey, b. 1770
 5. John Harvey, b. 1772
