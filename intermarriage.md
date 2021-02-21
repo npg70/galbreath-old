@@ -19,6 +19,10 @@
 - [Henry Galbreath](galbreath-henry-1739.md), b. 1739; m. *Agnes Armour*
 - [Janet Galbreath](galbreath-janet-1752.md), maybe Galbraith, b. 1752; m. *James Armour*
 
+## Clark
+
+- [Agnes Galbreath](galbreath-agnes-1722.md), b. 1722; m. *James Clark*
+
 ## Dunlop
 
 - [William Galbreath](galbreath-william-1736.md), b. 1736; m. *Margaret Dunlop*
