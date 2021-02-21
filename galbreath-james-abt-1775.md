@@ -9,7 +9,7 @@
 ### Children
 
 1. Janet Galbreath, b. 31 Sep 1801
-2. Archibald Galbreath, b. 8 Sep 1803, bap. 11 Sep 1803
+2. [Archibald Galbreath](galbreath-archibald-1803.md), b. 8 Sep 1803, bap. 11 Sep 1803, m1 m2
 3. Orsella Galbreath, b. 24 Nov 1805
 4. Martha Galbreath, b. 16 Dec 1807
 4. Catharine Galbreath, b. 25 Apr 1809
