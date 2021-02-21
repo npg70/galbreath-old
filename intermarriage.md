@@ -21,6 +21,7 @@
 
 ## Dunlop
 
+- [William Galbreath](galbreath-william-1736.md), b. 1736; m. *Margaret Dunlop*
 - [Margaret Galbreath](galbreath-margaret-1743.md), b. 1743; m. Alexander Dunlop
 
 ## Galbreath
