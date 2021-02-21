@@ -22,7 +22,7 @@ The parents of [Archibald Galbreath](https://github.com/npg70/galbreath/blob/mai
 
 ## Samuel Galbreath and Janet Langwill
 
-Both common names, and families have intermarried before, but Samuel's parents are unknown.  See [Samuel Galbreath](galbreath-samuel-1765.md) for detaila.
+Both common names, and families have intermarried before, but Samuel's parents are unknown.  See [Samuel Galbreath](galbreath-samuel-1765.md) for details.
 
 ## Lineage of Alexander Galbreath
 
@@ -31,4 +31,8 @@ Both common names, and families have intermarried before, but Samuel's parents a
 ## Lineage of David Galbreath and Martha Baird
 
 [David Galbreath](galbreath-david-abt-1720.md) who married *Martha Baird*.  His parents are unclear, and all children seem to have no additional records.
+
+## Lineage of David Galbreath and Martha Galbreath
+
+yes they has the same last name and its not a typo as all marriage and children records reference both having the name Galbreath.
 
