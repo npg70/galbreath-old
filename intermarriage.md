@@ -25,6 +25,7 @@
 
 ## Galbreath
 
+- [James Galbreath](galbreath-james-abt-1775.md), b. abt 1775; m. *Martha Galbreath*
 ## Harvey / Harvie
 
 - [Katherine Galbreath](galbreath-katharine-1741.md), b. 1741; m. *James Harvie*. Their daughter Catherine married Robert Galbreath, below
