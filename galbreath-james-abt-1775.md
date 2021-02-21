@@ -4,7 +4,7 @@
 
 ## Martha Galbreath
 
--marriage: 20 Mar 1800, Campbeltown, Argyll, Scotland
+- marriage: 20 Mar 1800, Campbeltown, Argyll, Scotland
 
 ### Children
 
