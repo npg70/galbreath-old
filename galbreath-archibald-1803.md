@@ -2,8 +2,8 @@
 
 - father: [James Galbreath](galbreath-james-abt-1775.md)
 - mother: *Martha Galbreath*
-- birth: 8 Sep 1803
-- baptism: 11 Sep 1803
+- birth: 8 Sep 1803, Skerbolin Farm, Campbeltown, Argyll, Scotland
+- baptism: 11 Sep 1803, Campbeltown, Argyll, Scotland
 - death: 17 Feb 1885
 
 ## Eugina McCallum
