@@ -13,8 +13,10 @@
 
 ### Children
 
+An incomplete list.
+
 1. Robert Clark, b. 18 Jul 1757, d. 18 May 1821, Washington County, Virginia, United States; m. *Martha Harvey*
-Many. A few emmigrated.
+
 
 # Sources
 
