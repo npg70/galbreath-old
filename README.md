@@ -30,7 +30,7 @@ Both common names, and families have intermarried before, but Samuel's parents a
 
 ## Lineage of David Galbreath and Martha Baird
 
-[David Galbreath](galbreath-david-abt-1720.md) who married *Martha Baird*.  His parents are unclear, and all children seem to have no additional records.
+[David Galbreath](galbreath-david-abt-1720.md), b. say 1720, who married *Martha Baird*.  His parents are unclear, and all children seem to have no additional records.
 
 ## Lineage of David Galbreath and Martha Galbreath
 
