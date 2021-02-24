@@ -34,10 +34,9 @@ Both common names, and families have intermarried before, but Samuel's parents a
 
 ## Lineage of John Galbreath and Isobell Clark
 
-The parents of [John Galbreath](galbreath-john-abt-1710.md) who married Isobell Clark is not clear in    Public sources seem to think there were TWO John Galbreath and Isobell Clarks
-
+The parents of [John Galbreath](galbreath-john-abt-1710.md) who married Isobell Clark in 1732 is not clea. Public sources seem to think there were TWO John Galbreath and Isobell Clarks, although I can't find any evidence of such.  Of the 15 (!) children, only the last one John b. 1760 seems to any records.
 
 ## Lineage of James Galbreath and Martha Galbreath
 
-See [James Galbreath](galbreath-james-abt-1775.md), b. say 1775, yes he marries *Martha Galbreath* and its not a recording error. All marriage and children records reference both having the name Galbreath.
+See [James Galbreath](galbreath-james-abt-1775.md), b. say 1775,  marries *Martha Galbreath*. All marriage and children records reference both having the name Galbreath. So...
 
