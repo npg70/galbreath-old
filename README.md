@@ -32,6 +32,11 @@ Both common names, and families have intermarried before, but Samuel's parents a
 
 [David Galbreath](galbreath-david-abt-1720.md), b. say 1720, who married *Martha Baird*.  His parents are unclear, and all children seem to have no additional records.
 
+## Lineage of John Galbreath and Isobell Clark
+
+The parents of [John Galbreath](galbreath-john-abt-1710.md) who married Isobell Clark is not clear in    Public sources seem to think there were TWO John Galbreath and Isobell Clarks
+
+
 ## Lineage of James Galbreath and Martha Galbreath
 
 See [James Galbreath](galbreath-james-abt-1775.md), b. say 1775, yes he marries *Martha Galbreath* and its not a recording error. All marriage and children records reference both having the name Galbreath.
