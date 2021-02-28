@@ -18,5 +18,6 @@
 
 # Sources
 
+- Alexander Galbraith on [FamilySearch](https://www.familysearch.org/tree/person/details/MYW9-L2B)
 - "emigrated and landed in Baltimore on 1st September 1785": http://www.ralstongenealogy.com/number35kintmag.htm
 - all died in York County, Pennsylvania, USA
