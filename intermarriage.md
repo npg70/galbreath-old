@@ -1,18 +1,5 @@
 # Galbreath Intermarriage
 
-## Ryburn Family
-
-- [Janet Galbreath](galbreath-janet-1711.md) b. 1711; m. *David Ryburn Sr* 1735.6 children, probable brother Samuel
-- [Mary Galbreath](galbreath-mary-1704.md) b. 1704, the daughter of James Galbreath and Mary Fleming; m. *Matthew Ryburn* 1724
-- [Mary Galbreath]() b. 1725; m. *Matthew Ryburn* 1747.
-- Samuel Calbraith, m. *Jean Ryeburn* on 1 Nov 1746.
-
-## McNair
-
-- Margaret Galbreath, b. 1729; m. Archibald McNair.  Parents unclear, and often claimed is Mary Galbreath who married William Armour.  Also her son Nathaniel McNair married another Margaret Galbreath, below.
-- [Margaret Galbreath](galbreath-margaret-1771.md), b. 1771; m. *Nathaniel McNair Sr*
-- [Janet Galbreath](galbreath-janet-1718.md), b. abt 1718 with unclear lineage; m. *Robert McNair*. Their daughter Janet married  Samuel Galbreath, below.
-- [Samuel Galbreath](galbreath-samuel-1736.md), b. 1736; m. *Janet McNair*
 
 ## Armour
 
@@ -29,9 +16,14 @@
 - [William Galbreath](galbreath-william-1736.md), b. 1736; m. *Margaret Dunlop*
 - [Margaret Galbreath](galbreath-margaret-1743.md), b. 1743; m. Alexander Dunlop
 
+## Fleming
+
+- [David Galbreath](galbreath-david-1755.md), b. 1755; m. *Mary Flemming*
+
 ## Galbreath
 
 - [James Galbreath](galbreath-james-abt-1775.md), b. abt 1775; m. *Martha Galbreath*
+
 ## Harvey / Harvie
 
 - [Katherine Galbreath](galbreath-katharine-1741.md), b. 1741; m. *James Harvie*. Their daughter Catherine married Robert Galbreath, below
@@ -44,3 +36,18 @@
 - [John Galbreath](galbreath-john-1721.md), b. 1721, m. *Agnes Langwill*
 - [Archibald Galbreath](galbreath-archibald-1760.md), b. 1760, m. *Martha Langwill*
 - [Samuel Galbreath](galbreath-samuel-1765.md), b. 1765, m. *Janet Langwill*
+
+## McNair
+
+- Margaret Galbreath, b. 1729; m. Archibald McNair.  Parents unclear, and often claimed is Mary Galbreath who married William Armour.  Also her son Nathaniel McNair married another Margaret Galbreath, below.
+- [Margaret Galbreath](galbreath-margaret-1771.md), b. 1771; m. *Nathaniel McNair Sr*
+- [Janet Galbreath](galbreath-janet-1718.md), b. abt 1718 with unclear lineage; m. *Robert McNair*. Their daughter Janet married  Samuel Galbreath, below.
+- [Samuel Galbreath](galbreath-samuel-1736.md), b. 1736; m. *Janet McNair*
+
+## Ryburn Family
+
+- [Janet Galbreath](galbreath-janet-1711.md) b. 1711; m. *David Ryburn Sr* 1735.6 children, probable brother Samuel
+- [Mary Galbreath](galbreath-mary-1704.md) b. 1704, the daughter of James Galbreath and Mary Fleming; m. *Matthew Ryburn* 1724
+- [Mary Galbreath]() b. 1725; m. *Matthew Ryburn* 1747.
+- Samuel Calbraith, m. *Jean Ryeburn* on 1 Nov 1746.
+
