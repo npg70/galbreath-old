@@ -14,12 +14,13 @@
 ## Dunlop
 
 - [William Galbreath](galbreath-william-1736.md), b. 1736; m. *Margaret Dunlop*
-- [Margaret Galbreath](galbreath-margaret-1743.md), b. 1743; m. Alexander Dunlop
+- [Margaret Galbreath](galbreath-margaret-1743.md), b. 1743; m. *Alexander Dunlop*
 
-## Flemming
+## Fleming
 
-- [Alexander Galbreath](galbreath-alexander-1753.md), b. 1753; m. *Agnes Flemming*
-- [David Galbreath](galbreath-david-1755.md), b. 1755; m. *Mary Flemming*
+- [James Galbreath](galbreath-james-1672.md), b. 1672; m. *Mary Fleming*
+- [Alexander Galbreath](galbreath-alexander-1753.md), b. 1753; m. *Agnes Fleming*
+- [David Galbreath](galbreath-david-1755.md), b. 1755; m. *Mary Fleming*
 
 ## Galbreath
 
