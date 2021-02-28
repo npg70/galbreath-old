@@ -18,6 +18,7 @@
 
 ## Fleming
 
+- [Alexander Galbreath](galbreath-alexander-1753.md), b. 1753; m. *Agnes Flemming*
 - [David Galbreath](galbreath-david-1755.md), b. 1755; m. *Mary Flemming*
 
 ## Galbreath
