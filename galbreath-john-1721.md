@@ -19,4 +19,4 @@
 # Sources
 
 - John Galbraith on [FamilySearch](https://www.familysearch.org/tree/person/details/LCF9-R1S)
-- Agnes Langwill on [FamilySearch](https://www.familysearch.org/tree/person/details/MYW9-LLC)
+- Agnes Langwill on [FamilySearch](https://www.familysearch.org/tree/person/details/LW6B-GYC)
