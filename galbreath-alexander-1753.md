@@ -2,10 +2,14 @@
 
 - father: [John Galbreath](galbreath-john-1721.md)
 - mother: *Agnes Langwill*
-- birth: 25 Jun 1753, Campbeltown
+- birth: 25 Jun 1753, Campbeltown, Argyll, Scotland
 - death: 1 Nov 1819, York, PA, USA
 
 ## Agnes Flemming
+
+- baptism: 5 Jan 1760, Campbeltown, Argyll, Scotland
+- death: Apr 1829, York, PA, United States
+- marriage: Dec 1779
 
 ### Children
 
