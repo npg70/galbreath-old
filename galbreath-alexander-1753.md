@@ -23,5 +23,6 @@
 # Sources
 
 - Alexander Galbraith on [FamilySearch](https://www.familysearch.org/tree/person/details/MYW9-L2B)
+- The birth of the first thtree children in OPR on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbr&surname_so=starts&forename_so=starts&from_year=1779&to_year=1784&parent_names=galb&parent_names_so=starts&parent_name_two=fle&parent_name_two_so=starts&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&sort=asc&order=Date&field=year)
 - "emigrated and landed in Baltimore on 1st September 1785": http://www.ralstongenealogy.com/number35kintmag.htm
 - all died in York County, Pennsylvania, USA
