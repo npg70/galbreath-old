@@ -17,3 +17,5 @@
 5. John Galbreath, b. 6 Jun 1756.  Recorded under "Galbreath" and "Galbraith"
 
 # Sources
+
+- John Galbraith on [FamilySearch](https://www.familysearch.org/tree/person/details/LCF9-R1S)
