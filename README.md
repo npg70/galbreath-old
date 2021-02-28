@@ -18,7 +18,7 @@ The rumour is that William somehow a descendant of [Archibald Galbreath](galbrea
 
 ## Archibald Galbreath and Margaret McMillian
 
-The parents of [Archibald Galbreath](https://github.com/npg70/galbreath/blob/main/galbreath-archibald-1798.md), who married *Margaret McMillian*, is not clear.
+The parents of [Archibald Galbreath](https://github.com/npg70/galbreath/blob/main/galbreath-archibald-1798.md), who married *Margaret McMillian*, is not clear.  There are at least four different stories for who the parents are.
 
 ## Samuel Galbreath and Janet Langwill
 
@@ -30,7 +30,7 @@ Both common names, and families have intermarried before, but Samuel's parents a
 
 ## Lineage of John Galbreath and Isobell Clark
 
-The parents of [John Galbreath](galbreath-john-abt-1710.md) who married Isobell Clark in 1732 is not clear. Public sources seem to think there were TWO John Galbreath and Isobell Clarks, although I can't find any evidence of such.  Of the 15 (!) children, only the last one John b. 1760 seems to any records.
+The parents of [John Galbreath](galbreath-john-abt-1710.md) who married Isobell Clark in 1732 is not clear. Public sources seem to think there were TWO John Galbreath and Isobell Clarks, although I can't find any evidence of such.  Of the 15 (!) children, only the last one John b. 1760 seems to have any records.
 
 ## Lineage of James Galbreath and Martha Galbreath
 
