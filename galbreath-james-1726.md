@@ -5,6 +5,8 @@
 
 ## Margaret Anderson
 
+- marriage: 10 Jan 1748, Campbeltown, Argyll, Scotland 
+
 ### Children
 
 1. James Galbreath, b. 30 Oct 1748
