@@ -10,7 +10,7 @@
 
 - birth: 1752
 - death: Sep 1821
-- burial: burial: Glade Spring, Washington County, Virginia, USA
+- burial: Glade Spring, Washington County, Virginia, USA
 
 
 ### Children
