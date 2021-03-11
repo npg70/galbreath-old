@@ -10,6 +10,7 @@
 ## Clark
 
 - [Agnes Galbreath](galbreath-agnes-1722.md), b. 1722; m. *James Clark*
+- [Mary Galbreath](galbreath-mary-1759.md), b. 1759; m. *Peter Clark*
 
 ## Dunlop
 
