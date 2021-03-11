@@ -1,6 +1,6 @@
 # Mary Galbreath
 
-- father: [James Galbreath](galbreath-james-1728.md)
+- father: [James Galbreath](galbreath-james-1726.md)
 - mother:
 - birth:
 - burial: burial: Glade Spring, Washington County, Virginia, USA
