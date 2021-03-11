@@ -14,7 +14,7 @@
 3. James Galbreath, b. 26 Jul 1752.  Listed under "Galbreath" and "Galbraith"
 4. John Galbreath, b. 11 Dec 1754. Listed under "Galbreath" and "Galbraith"
 5. Ann Galbreath, b. 13 Mar 1756. Listed under "Galbreath" and "Galbraith"
-6. Mary Galbreath, b. 21 Jan 1759. Listed under "Galbreath" and "Galbraith", mother listed as "Mary" not Margaret.
+6. [Mary Galbreath](galbreath-mary-1759.md), b. 21 Jan 1759. Listed under "Galbreath" and "Galbraith", mother listed as "Mary" not Margaret.
 7. James Galbreath, b. 3 May 1761
 8. Catherine Galbreath, b. 11 Nov 1763. Listed under "Galbreath" and "Galbraith"
 9. William Galbreath, b. 29 Dec 1765. Listed under "Galbreath" and "Galbraith"
