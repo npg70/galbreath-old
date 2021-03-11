@@ -18,8 +18,4 @@
 
 # Sources
 
-- James Galbreath on [FamilySearch](I found this person on FamilySearch:
-
-James Galbreath
-
-https://www.familysearch.org/tree/person/KCQW-GZT)
+- James Galbreath on [FamilySearch](https://www.familysearch.org/tree/person/KCQW-GZT)
