@@ -9,7 +9,7 @@
 - father: *William Armour*
 - mother: [Mary Galbreath](galbreath-mary-1729.md)
 - birth: 28 April 1751
-- death: 1849, Arygll, Scotland
+- death: 1849, Argyll, Scotland
 
 ### Children
 
