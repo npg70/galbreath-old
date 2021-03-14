@@ -2,14 +2,14 @@
 
 - father: [Archibald Galbreath](galbreath-archibald-1708.md)
 - mother: *Margaret White*
-- birth: 4 Feb 1736, Campbeltown, Argyll, Scotland
+- baptism: 4 Feb 1736, Campbeltown, Argyll, Scotland
 - death: 1807
 
 ## Janet McNair
 
 - mother: [Janet Galbreath](galbreath-janet-1718.md)
 - father: *Robert McNair*
-- birth: 12 Oct 1755, Campbeltown, Argyll, Scotland
+- baptism: 12 Oct 1755, Campbeltown, Argyll, Scotland
 - death: 7 Jul 1831
 - marriage: 1774, Peninver, Argyll, Scotland
 
