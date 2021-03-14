@@ -9,8 +9,8 @@
 ## Eliza Rice
 
 - birth: 8 Feb 1823, Maysville, Mason, Kentucky, United States
-- death: 16 Feb 1878 Point Pleasant, Monroe Township, Clermont County, Ohio, USA
-- marriage: 13 Jul 1848, Mason County, Kentucky, USA
+- death: 16 Feb 1878, Point Pleasant, Monroe Township, Clermont County, Ohio, United States
+- marriage: 13 Jul 1848, Mason County, Kentucky, United States
 - burial: unknown
 
 ### Children
