@@ -9,7 +9,7 @@
 ## Mary Mitchell
 
 - birth: 1684, Campbeltown, Argyll, Scotland
-- death: abt 1730
+- death: abt 1727
 - marriage: 16 Mar 1707, Campbeltown, Argyll, Scotland
 
 ### Children
