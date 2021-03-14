@@ -2,7 +2,7 @@
 
 - father: [Robert Galbreath](galbreath-robert-1778.md)
 - mother: *Catharine Harvie*
-- birth: 9 Feb 1814
+- birth: 19 Feb 1815
 - baptism: 22 Feb 1815, Campbeltown, Argyll, Scotland
 - burial: unknown
 
