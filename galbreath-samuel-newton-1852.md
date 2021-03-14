@@ -8,6 +8,13 @@
 
 ## Jennie Holmes Johnson
 
+- mother: *Ada Benton*
+- father: *James Johnson*
+- birth: 11 Dec 1861, Jackson County, Indiana, USA
+- death: 29 Feb 1960, Cincinnati, Hamilton County, Ohio, USA
+- marriage: 12 Sept 1888, Columbus, Bartholomew Co, Indiana, United States
+- burial: Laurel Cemetery, Laurel, Clermont County, Ohio, USA
+
 ### Children
 
 1. Ada Galbreath, b. 1890; d. 1890
