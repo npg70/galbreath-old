@@ -14,8 +14,6 @@
 
 ### Children
 
-Children of John and Mary (Mitchel) Galbreath:
-
 1. [Archibald Galbreath](galbreath-archibald-1708.md), b. 30 May 1708, m. *Martha White*. OPR listed under "Galbreath" and "Galbraith"
 2. Mary Galbreath, b. 25 Dec 1709. Assumed died in early childhood.
 3. [Janet Galbreath](galbreath-janet-1711.md), b. 14 Oct. 1711, m. *David Ryburn*
