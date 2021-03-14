@@ -3,6 +3,7 @@
 - father: [Samuel Galbreath](galbreath-samuel-1736.md)
 - mother: *Janet McNair*
 - birth: 12 Oct 1778, Campbeltown, Argyll, Scotland
+- baptism: 15 Oct 1778, Campbeltown, Argyll, Scotland
 - death: 19 May 1847, Neville, Clermont, Ohio, USA
 
 ## Catherine Harvie
