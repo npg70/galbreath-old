@@ -23,8 +23,8 @@
 4. Robert Galbreath, b. 25 Feb 1812. d. 24 Aug 1842 in Clermont County.
 5. [Archibald Galbreath](galbreath-archibald-1815.md), b. 9 Feb 1815. bp 22 Feb 1815. m. *Eliza Rice*
 6. [John Galbreath](galbreath-john-1817.md), b. 16 Apr 1817. m. *Jane McMath*.
-7. [Andrew Galbreath](galbreath-andrew-1819.md), b. 1 Jul 1819 in Clermont Co, Ohio, USA. m. *Elizabeth Shotwell*.
-8. [Harvie Galbreath](galbreath-harvie-1821.md), b. 8 Oct 1821 in Clermont County. m. *Nancy Carr Winters*.
+7. [Andrew Galbreath](galbreath-andrew-1819.md), b. 1 Jul 1819 in Clermont Co, Ohio, USA; m. *Elizabeth Shotwell*.
+8. [Harvie Galbreath](galbreath-harvie-1821.md), b. 8 Oct 1821 in Clermont Co, Ohio, USA; m. *Nancy Carr Winters*.
 
 # Sources
 
