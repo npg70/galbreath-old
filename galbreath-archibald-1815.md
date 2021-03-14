@@ -4,13 +4,13 @@
 - mother: *Catharine Harvie*
 - birth: 19 Feb 1815
 - baptism: 22 Feb 1815, Campbeltown, Argyll, Scotland
-- death: 20 Feb 1876, Point Pleasant, Monroe, Clermont, Ohio, United States
+- death: 20 Feb 1876, Point Pleasant, Clermont, Ohio, United States
 - burial: unknown
 
 ## Eliza Rice
 
 - birth: 8 Feb 1823, Maysville, Mason, Kentucky, United States
-- death: 16 Feb 1878, Point Pleasant, Monroe Township, Clermont County, Ohio, United States
+- death: 16 Feb 1878, Point Pleasant, Clermont County, Ohio, United States
 - marriage: 13 Jul 1848, Mason County, Kentucky, United States
 - burial: unknown
 
