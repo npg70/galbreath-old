@@ -4,6 +4,7 @@
 - mother: *Catharine Harvie*
 - birth: 19 Feb 1815
 - baptism: 22 Feb 1815, Campbeltown, Argyll, Scotland
+- death: 20 Feb 1876, Point Pleasant, Monroe, Clermont, Ohio, United States
 - burial: unknown
 
 ## Eliza Rice
