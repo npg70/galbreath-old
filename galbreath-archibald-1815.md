@@ -2,7 +2,7 @@
 
 - father: [Robert Galbreath](galbreath-robert-1778.md)
 - mother: *Catharine Harvie*
-- birth: 19 Feb 1815
+- birth: 19 Feb 1815, Peninver, Argyll, Scotland
 - baptism: 22 Feb 1815, Campbeltown, Argyll, Scotland
 - death: 20 Feb 1876, Point Pleasant, Clermont, Ohio, United States
 - burial: unknown
@@ -28,4 +28,6 @@
 10. Anna Eliza Galbreath, b. 14 Dec 1867; d. 26 Aug 1901
 
 # Sources
+
+[^birth] OPR lists birth of "a farmer in Peninver" 31 Jan 1814, baptism of 9 Feb 18  [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-i
 
