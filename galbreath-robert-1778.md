@@ -12,7 +12,7 @@
 - mother: [Katherine Galbreath](galbreath-katharine-1741.md)
 - birth: 29 Jul 1780
 - baptism: 30 Jul 1780, Campbeltown, Argyll, Scotland
-- death: 21 Jun 1847, Neville, Clermont, Ohio, USA
+- death: 21 Jun 1847, Washington Township, Clermont, Ohio, USA
 - marriage: 18 Apr 1805; Campbeltown, Argyll, Scotland
 
 ### Children
