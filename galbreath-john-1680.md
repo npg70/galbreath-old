@@ -5,7 +5,7 @@ father: James Galbreath
 mother: Mary Nielson
 ---
 
-*John Galbreath* was born at Kilkeddan, Argyll, Scotland 29 May 1680 and baptized at Campbeltown 30 May 1680[^birth]. His death is not recorded.  He married, first, at Campbeltown 16 Mar 1707, *Mary Mitchell*[^marriage1]; and second, at Campbeltown abt. 1728 to *Katherine McCallum*[^marriage2].
+***John Galbreath*** was born at Kilkeddan, Argyll, Scotland 29 May 1680 and baptized at Campbeltown 30 May 1680[^birth]. His death is not recorded.  He married, first, at Campbeltown 16 Mar 1707, **Mary Mitchell**[^marriage1]; and second, at Campbeltown abt. 1728 to **Katherine McCallum**[^marriage2].
 
 Children of John and Mary (Mitchell) Galbreath, all baptized in Campbeltown[^children1]:
 
