@@ -30,13 +30,13 @@ Children of John and Katharine (McCallum) Galbreath[^children2]:
 
 [^marriage1]: OPR marriage for John Calbreath and Mary Mitchell [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=M&record_type%5B0%5D=opr_marriages&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-banns-marriages&surname=galbreath&surname_so=fuzzy&forename=john&forename_so=starts&sex=M&spouse_name_so=exact&from_year=1707&to_year=1707&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&sid=86128716)
 
-[^marriage2]: The second marriage is referenced in http://www.ralstongenealogy.com/number35kintmag.htm#start quote:
+[^marriage2]: The second marriage is not found OPR but is referenced in http://www.ralstongenealogy.com/number35kintmag.htm#start quote:
     > On Mary Mitchell's death John senior married 
     > Katherine McCallum who gave him one son, Archibald.
 
 [^children1]: OPR for children on [ScotlandsPeople][1]
 
-[^children2]:  OPR baptism record for Archibald Galbreath in [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=starts&forename=archibald&forename_so=starts&sex=M&from_year=1729&to_year=1729&parent_names=galbreath&parent_names_so=exact&parent_name_two=McCallum&parent_name_two_so=exact&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches), but cant find any marriage record.
+[^children2]:  OPR baptism record for Archibald Galbreath in [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=starts&forename=archibald&forename_so=starts&sex=M&from_year=1729&to_year=1729&parent_names=galbreath&parent_names_so=exact&parent_name_two=McCallum&parent_name_two_so=exact&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
 
 
 [1]: https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=fuzzy&forename_so=starts&from_year=1700&to_year=1730&parent_names=galbreath&parent_names_so=fuzzy&parent_name_two=mitchell&parent_name_two_so=exact&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&rd_real_name%5B0%5D=CAMPBELTOWN%20%28LANDWARD%29%20OR%20CAMPBELTOWN%20%28BURGH%29%20OR%20CAMPBELTOWN&rd_display_name%5B0%5D=CAMPBELTOWN%20%28LANDWARD%29%7CCAMPBELTOWN%20%28BURGH%29%7CCAMPBELTOWN_CAMPBELTOWN&rd_label%5B0%5D=CAMPBELTOWN&rd_name%5B0%5D=CAMPBELTOWN%20%2ALANDWARD%2A%20OR%20CAMPBELTOWN%20%2ABURGH%2A%20OR%20CAMPBELTOWN&sort=asc&order=Date&field=year&sid=86134667
