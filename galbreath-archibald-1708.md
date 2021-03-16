@@ -5,7 +5,7 @@ father: John Galbreath
 mother: Mary Mitchell
 ---
 
-***Archibald Galbreath***, son of *[John Galbreath](galbreath-john-1680.md)* and *Mary Mitchell*, born Campeltown, Argyll, Scotland 30 May 1708[^birth] and passed in Campbeltown Sep 1789[^death]. He married in Campbeltown 1 Apr 1733, **Martha White**[^marriage], born say 1712[^martha].
+***Archibald Galbreath***, son of *[John Galbreath](galbreath-john-1680.md)* and *Mary Mitchell*, born Campeltown, Argyll, Scotland 30 May 1708[^birth] and passed in Campbeltown Sep 1789, buried in Kilchousland Graveyard, Campbeltown.[^death]. He married in Campbeltown 1 Apr 1733, **Martha White**[^marriage], born say 1712[^martha].
 
 Children of Archibald and Martha (White) Galbreath, all baptized in Campbeltown[^children]:
 
