@@ -1,7 +1,7 @@
 ---
 father: [James Galbreath](galbreath-james-1659.md)
 mother:  *Mary Nielson*
-----
+---
 
 # John Galbreath
 
