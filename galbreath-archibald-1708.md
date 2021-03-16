@@ -33,11 +33,11 @@ Children of Archibald and Martha (White) Galbreath, all baptized in Campbeltown[
 [m1]: https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=white&surname_so=exact&forename=m&forename_so=starts&sex=F&from_year=1712&to_year=1712&parent_names_so=exact&parent_name_two_so=exact&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches
 
 [^death]: Archibald Galbraith on [Find A Grave](https://www.findagrave.com/memorial/114485207/archibald-galbraith).  Transcription
-  > Erected by
-  > ___ Galbreath ___
-  > ___ Archd Galbreath
-  > ___ __ Ardnacross __
-  > ___ died Sept 1789 __
-  > illegible
-  > 
+    > Erected by
+    > ___ Galbreath ___
+    > ___ Archd Galbreath
+    > ___ __ Ardnacross __
+    > ___ died Sept 1789 __
+    > illegible
+    > 
 
