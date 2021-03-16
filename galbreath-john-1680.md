@@ -1,4 +1,5 @@
 ---
+title: John Galbreath b. 1680 m1 Mary Mitchell
 up: galbreath-james-1659.md
 father: James Galbreath
 mother: Mary Nielson
