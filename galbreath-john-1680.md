@@ -1,6 +1,7 @@
 ---
-father: [James Galbreath](galbreath-james-1659.md)
-mother:  *Mary Nielson*
+up: galbreath-james-1659.md
+father: James Galbreath
+mother: Mary Nielson
 ---
 
 # John Galbreath
