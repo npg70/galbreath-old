@@ -3,13 +3,13 @@ title: Samuel Galbreath b. 1755 m. Janet McNair
 up: galbreath-archibald-1708.md
 ---
 
-***Samuel Galbreath***, son of [Archibald Galbreath](galbreath-archibald-1708.md) and *Martha White*, baptized Campbeltown 4 Feb 1736[^birth]. He married at Peninver, Argyll, Scotland 1774[^marriage], and died Peninver 1807[^death]. *Janet McNair*, baptized Campbeltown 12 Oct 1755[^janet], daughter of *Robert McNair* and [Janet Galbreath](galbreath-janet-1718.md).  Her death is not recorded[^janet-death].
+**Samuel Galbreath**, son of [Archibald Galbreath](galbreath-archibald-1708.md) and *Martha White*, baptized Campbeltown 4 Feb 1736[^birth]. He married at Peninver, Argyll, Scotland 1774[^marriage], and died Peninver 1807[^death]. **Janet McNair**, baptized Campbeltown 12 Oct 1755[^janet], daughter of *Robert McNair* and [Janet Galbreath](galbreath-janet-1718.md). Her death is not recorded[^janet-death].
 
 Children of Samuel and Janet (McNair) Galbreath, all baptized in Campbeltown[^children]:
 
 1. Archibald Galbreath, b. 14 Sept 1777, twins, assumed died in infancy.
 2. Robert Galbreath, b. 14 Sep 1777, twins, assumed died in infancy.
-3. [Robert Galbreath](galbreath-robert-1778.md), b. 12 Oct 1778; m. *Katherine Harvie*
+3. [*Robert Galbreath*](galbreath-robert-1778.md), b. 12 Oct 1778; m. *Katherine Harvie*
 4. Martha Galbreath, b. 27 Jan 1781, bap. 28 Jan 1781
 5. Archibald Galbreath, b. 8 Jun 1783, bap. 10 Jun 1783
 6. [Catherine Galbreath](galbreath-catherine-1788.md), b. 16 May 1788; m. *James Greenlees*
