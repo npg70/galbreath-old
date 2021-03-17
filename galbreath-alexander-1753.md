@@ -2,18 +2,18 @@
 title: Alexander Galbreath b. 1753 m. Agnes Fleming
 up: galbreath-john-1721.md
 ---
-***Alexander Galbreath***, son of [John Galbreath](galbreath-john-1721.md) and *Agnes Langwill*, born Campbeltown, Argyll, Scotland 25 June 1753, died at York Co, Pennslyvania, USA 1 Nov 1819.  He married at Cambeltown Dec 1779 to *Agnes Fleming*, baptized at Campbeltown 5 Jan 1760, died in York County Apr 1829.
+**Alexander Galbreath**, son of [John Galbreath](galbreath-john-1721.md) and *Agnes Langwill*, born Campbeltown, Argyll, Scotland 25 June 1753, died at York Co, Pennslyvania, USA 1 Nov 1819.  He married at Cambeltown Dec 1779 to **Agnes Fleming**, baptized at Campbeltown 5 Jan 1760, died in York County Apr 1829.
 
 Alexander and family immigrated to Balitmore on 1 Sep 1785[^immigrant]
 
 Children of Alexander and Agnes (Fleming) Galbreath[^oprchildren]:
 
-1. John Galbreath, bp. Campbeltown 25 May 1781. Assumed died in infancy.
-2. James Galbreath, bp. Campbeltown 19 May 1782, d. 23 Jan 1811.
-3. John Galbreath, b. Campbeltown 8 Jan 1784, d. 25 May 1844.  m. *Hannah Morrison*
-4. Agnes Galbreath, b. 20 Feb 1789. d. 9 Mar 1839; m. *Samuel P Morrison*.
-5. Alexander Galbreath, b. 2 Apr 1794 d.26 Jun 1859. m. *Eliza B Hammond*.
-6. Matthew Clark Galbreath, b. 1798 d. 12 Aug 1821. Died at age 23, so unlikely married or children.
+1. *John Galbreath*, bp. Campbeltown 25 May 1781. Assumed died in infancy.
+2. *James Galbreath*, bp. Campbeltown 19 May 1782, d. 23 Jan 1811.
+3. *John Galbreath*, b. Campbeltown 8 Jan 1784, d. 25 May 1844.  m. *Hannah Morrison*
+4. *Agnes Galbreath*, b. 20 Feb 1789. d. 9 Mar 1839; m. *Samuel P Morrison*.
+5. *Alexander Galbreath*, b. 2 Apr 1794 d.26 Jun 1859. m. *Eliza B Hammond*.
+6. *Matthew Clark Galbreath*, b. 1798 d. 12 Aug 1821. Died at age 23, so unlikely married or children.
 
 - Alexander Galbraith on [FamilySearch](https://www.familysearch.org/tree/person/details/MYW9-L2B)
 
