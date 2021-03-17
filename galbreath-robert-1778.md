@@ -1,21 +1,21 @@
 ---
 title: Robert Galbreath b. 1778 m. Katharine Harvie
-up:
+up: galbreath-samuel-1736.md
 ---
 
 **Robert Galbreath**, son of [*Samuel Galbreath*](galbreath-samuel-1736.md) and *Janet McNair*, born in Peninver, Argyll, Scotland 12 Oct 1778, baptized Campbeltown, Argyll, Scotland 15 Oct 1778, died Neville, Clermont, Ohio, USA 19 May 1847, married Campbeltown 18 Apr 1805, **Katherine Harvie**, born 29 Jul 1780 and baptized at Campbeltown 30 Jul 1780[^birth-kh], died Washington Township, Clermont, Ohio, USA 21 Jun 1847, daugher of *James Harvie* and [*Katherine Galbreath*](galbreath-katharine-1741.md)
 
 Children of Robert and Katharine (Harvie) Galbreath[^children]:
 
-1. Jane Galbreath, b. 11 Mar 1806
-2. Samuel Galbreath, b. 22 Mar 1808.
-3. [James Galbreath](galbreath-james-1809.md), b. 27 Dec 1809. m. *Nancy Cole*.
-4. Robert Galbreath, b. 25 Feb 1812. d. 24 Aug 1842 in Clermont County.
-5. Archibald Galbreath, b. 31 Jan 1814, bap. 9 Feb 1814.  Died in infancy.
-6. [Archibald Galbreath](galbreath-archibald-1815.md), b. 19 Feb 1815. bp 22 Feb 1815. m. *Eliza Rice*
-7. [John Galbreath](galbreath-john-1817.md), b. 16 Apr 1817. m. *Jane McMath*.
-8. [Andrew Galbreath](galbreath-andrew-1819.md), b. 1 Jul 1819 in Clermont Co, Ohio, USA; m. *Elizabeth Shotwell*.
-9. [Harvie Galbreath](galbreath-harvie-1821.md), b. 8 Oct 1821 in Clermont Co, Ohio, USA; m. *Nancy Carr Winters*.
+1. *Jane Galbreath*, b. 11 Mar 1806
+2. *Samuel Galbreath*, b. 22 Mar 1808.
+3. [*James Galbreath*](galbreath-james-1809.md), b. 27 Dec 1809. m. *Nancy Cole*.
+4. *Robert Galbreath*, b. 25 Feb 1812. d. 24 Aug 1842 in Clermont County.
+5. *Archibald Galbreath*, b. 31 Jan 1814, bap. 9 Feb 1814.  Died in infancy.
+6. [*Archibald Galbreath*](galbreath-archibald-1815.md), b. 19 Feb 1815. bp 22 Feb 1815. m. *Eliza Rice*
+7. [*John Galbreath*](galbreath-john-1817.md), b. 16 Apr 1817. m. *Jane McMath*.
+8. [*Andrew Galbreath*](galbreath-andrew-1819.md), b. 1 Jul 1819 in Clermont Co, Ohio, USA; m. *Elizabeth Shotwell*.
+9. [*Harvie Galbreath*](galbreath-harvie-1821.md), b. 8 Oct 1821 in Clermont Co, Ohio, USA; m. *Nancy Carr Winters*.
 
 # Sources
 
