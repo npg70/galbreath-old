@@ -24,7 +24,7 @@ Children of James and Mary (Fleming) Galbreath[^children]:
 
 [^children]: OPR baptisms records for children on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=fuzzy&forename_so=starts&from_year=1698&to_year=1750&parent_names=galbreath&parent_names_so=fuzzy&parent_name_two=fle&parent_name_two_so=starts&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&sort=asc&order=Date&field=year)
 
-[^mary] Little is known about Mary Fleming.  [FamilySearch](https://www.familysearch.org/tree/person/details/K2VD-B41) gives a birth of Campbeltown 12 Feb 1676, but no records match in OPR.
+[^mary]: Little is known about Mary Fleming. [FamilySearch](https://www.familysearch.org/tree/person/details/K2VD-B41) gives a birth of Campbeltown 12 Feb 1676, but no records match in OPR.
 
 
 
