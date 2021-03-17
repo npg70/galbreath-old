@@ -5,7 +5,7 @@ title: James Galbreath b 1650 m Mary Nielson
 
 Children of James and Mary (Nielson) Galbreath[^children]:
 
-1. *[James Galbreath](galbreath-james-1672)*, b. 25 Aug 1672; m *Mary Fleming*. Recorded under "James Galbreath/Mary Neilsone".
+1. *[James Galbreath](galbreath-james-1672.md)*, b. 25 Aug 1672; m *Mary Fleming*. Recorded under "James Galbreath/Mary Neilsone".
 2. *Patrick Galbraith*, b. 28 Oct 1674, Kilkeddan, Argyll, Scotland. Possibly married *Bessie Watson* on 4 Jan 1700, recorded under "Cabreth".  But no record of any children.
 3. *[Archibald Galbreath](galbreath-archibald-1678.md)*, b. 17 Jul 1678; m. *Elizabeth Johns*.
 4. *[John Galbreath](galbreath-john-1680.md)*, bap. 30 May 1680; m. *Mary Mitchell*.
