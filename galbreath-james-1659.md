@@ -2,11 +2,11 @@
 title: James Galbreath b 1650 m Mary Nielson
 ---
 
-***James Galbreath***, of unknown parents, was born say 1650 in Scotland[^birth].  His death is unrecorded.  He married near Campbeltown abt 1671 *Mary Neilson*, also of unknown origin[^mary].
+***James Galbreath***, of unknown parents, was born say 1650 in Scotland[^birth].  His death is unrecorded.  He married near Campbeltown abt 1671 ***Mary Neilson***, also of unknown origin[^mary].
 
 Children of James and Mary (Nielson) Galbreath[^children]:
 
-1. [James Galbreath](galbreath-james-1672.md), b. 25 Aug 1672; m *Mary Fleming*. Recorded under "James Galbreath/Mary Neilsone".
+1. [James Galbreath](galbreath-james-1672.md), b. 25 Aug 1672; m **Mary Fleming**. Recorded under "James Galbreath/Mary Neilsone".
 2. Patrick Galbraith, b. 28 Oct 1674, Kilkeddan, Argyll, Scotland. Possibly married *Bessie Watson* on 4 Jan 1700, recorded under "Cabreth".  But no record of any children.
 3. [Archibald Galbreath](galbreath-archibald-1678.md), b. 17 Jul 1678; m. *Elizabeth Johns*.
 4. [John Galbreath](galbreath-john-1680.md), bap. 30 May 1680; m. *Mary Mitchell*.
@@ -14,7 +14,7 @@ Children of James and Mary (Nielson) Galbreath[^children]:
 
 [^birth]: The 1650 is a best guess.  There is a record of a James Galbreath being baptized in 1659, son of X and Y.  Assuming that is close to birth, that would mean he married and had children at age 13.  It's possible it was a late baptism done when the parents moved into the area, however this is just speculation. 
 
-[^mary]: Again, 1650 is an estimate.
+[^mary]: Again, birth of 1650 is an estimate.
 
 [^children]: OPR baptism records for the children in [ScotlandsPeople][sp1]
 
