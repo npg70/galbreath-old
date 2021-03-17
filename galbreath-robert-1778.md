@@ -3,7 +3,7 @@ title: Robert Galbreath b. 1778 m. Katharine Harvie
 up: galbreath-samuel-1736.md
 ---
 
-**Robert Galbreath**, son of [*Samuel Galbreath*](galbreath-samuel-1736.md) and *Janet McNair*, born in Peninver, Argyll, Scotland 12 Oct 1778, baptized Campbeltown, Argyll, Scotland 15 Oct 1778, died Neville, Clermont, Ohio, USA 19 May 1847, married Campbeltown 18 Apr 1805, **Katherine Harvie**, born 29 Jul 1780 and baptized at Campbeltown 30 Jul 1780[^birth-kh], died Washington Township, Clermont, Ohio, USA 21 Jun 1847, daugher of *James Harvie* and [*Katherine Galbreath*](galbreath-katharine-1741.md)
+**Robert Galbreath**, son of [*Samuel Galbreath*](galbreath-samuel-1736.md) and *Janet McNair*, born in Peninver, Argyll, Scotland 12 Oct 1778, baptized Campbeltown, Argyll, Scotland 15 Oct 1778[^birth], died Neville, Clermont, Ohio, USA 19 May 1847, married Campbeltown 18 Apr 1805, **Katherine Harvie**, born 29 Jul 1780 and baptized at Campbeltown 30 Jul 1780[^birth-kh], died Washington Township, Clermont, Ohio, USA 21 Jun 1847, daugher of *James Harvie* and [*Katherine Galbreath*](galbreath-katharine-1741.md)
 
 Children of Robert and Katharine (Harvie) Galbreath[^children]:
 
@@ -19,6 +19,7 @@ Children of Robert and Katharine (Harvie) Galbreath[^children]:
 
 # Sources
 
+[^birth]: 
 [^children]: The first seven children were baptised in Campbeltown, according to OPR records from [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=syn&forename_so=exact&from_year=1806&to_year=1818&parent_names=galbreath&parent_names_so=exact&parent_name_two=harv&parent_name_two_so=starts&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&rd_real_name%5B0%5D=CAMPBELTOWN%20%28LANDWARD%29%20OR%20CAMPBELTOWN%20%28BURGH%29%20OR%20CAMPBELTOWN&rd_display_name%5B0%5D=CAMPBELTOWN%20%28LANDWARD%29%7CCAMPBELTOWN%20%28BURGH%29%7CCAMPBELTOWN_CAMPBELTOWN&rd_label%5B0%5D=CAMPBELTOWN&rd_name%5B0%5D=CAMPBELTOWN%20%2ALANDWARD%2A%20OR%20CAMPBELTOWN%20%2ABURGH%2A%20OR%20CAMPBELTOWN&sort=asc&order=Date&field=year&sid=85902882)
 
 [^birth-kh]: OPR baptism record for Katharine Harvie on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=harvie&surname_so=exact&forename=katherine&forename_so=soundex&sex=F&from_year=1780&to_year=1780&parent_names_so=exact&parent_name_two_so=exact&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&rd_real_name%5B0%5D=CAMPBELTOWN%20%28LANDWARD%29%20OR%20CAMPBELTOWN%20%28BURGH%29%20OR%20CAMPBELTOWN&rd_display_name%5B0%5D=CAMPBELTOWN%20%28LANDWARD%29%7CCAMPBELTOWN%20%28BURGH%29%7CCAMPBELTOWN_CAMPBELTOWN&rd_label%5B0%5D=CAMPBELTOWN&rd_name%5B0%5D=CAMPBELTOWN%20%2ALANDWARD%2A%20OR%20CAMPBELTOWN%20%2ABURGH%2A%20OR%20CAMPBELTOWN&sid=85909677)
