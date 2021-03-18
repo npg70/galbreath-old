@@ -1,7 +1,7 @@
 ---
 title: James Galbreath b 1650 m Mary Nielson
 ---
-**James Galbreath**, of unknown parents, was born say 1650 in Scotland.[^birth]  His death is unrecorded. He married near Campbeltown abt. 1671 **Mary Neilson**, also of unknown origin.[^mary]
+**James Galbreath**, of unknown parents, was born say 1650 in Scotland.[^birth]  His death is unrecorded. He married near Campbeltown abt. 1671, **Mary Neilson**, also of unknown origin.[^mary]
 
 Children of James and Mary (Nielson) Galbreath:[^children]
 
