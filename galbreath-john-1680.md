@@ -3,7 +3,7 @@ title: John Galbreath b. 1680 m1 Mary Mitchell
 up: galbreath-james-1659.md
 ---
 
-***John Galbreath***, son of [James Galbreath](galbreath-james-1659.md) and *Mary Nielson*, was born at Kilkeddan, Argyll, Scotland 29 May 1680 and baptized at Campbeltown 30 May 1680[^birth]. His death is not recorded.  He married, first, at Campbeltown 16 Mar 1707, **Mary Mitchell**[^marriage1]; and second, at Campbeltown abt. 1728 to **Katherine McCallum**[^marriage2].
+***John Galbreath***, son of [James Galbreath](galbreath-james-1659.md) and *Mary Nielson*, was born at Kilkeddan, Argyll, Scotland 29 May 1680 and baptized at Campbeltown 30 May 1680.[^birth] His death is not recorded.  He married, at first, Campbeltown 16 Mar 1707, **Mary Mitchell**;[^marriage1] and second, at Campbeltown abt. 1728 to **Katherine McCallum**.[^marriage2]
 
 Children of John and Mary (Mitchell) Galbreath, all baptized in Campbeltown[^children1]:
 
@@ -20,7 +20,7 @@ Children of John and Mary (Mitchell) Galbreath, all baptized in Campbeltown[^chi
 11. *David Galbreath*, b. 24 Nov 1723. OPR recorded as Galbreath and Calbreath.
 12. *Samuel Galbreath*, b. 8 Aug 1725. OPR recorded as Galbreath and Calbreath.
 
-Children of John and Katharine (McCallum) Galbreath[^children2]:
+Children of John and Katharine (McCallum) Galbreath:[^children2]
 
 1. *Archibald Galbreath*, b. Jul 1729
 
@@ -35,7 +35,6 @@ Children of John and Katharine (McCallum) Galbreath[^children2]:
 [^children1]: OPR for children on [ScotlandsPeople][1]
 
 [^children2]:  OPR baptism record for Archibald Galbreath in [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=starts&forename=archibald&forename_so=starts&sex=M&from_year=1729&to_year=1729&parent_names=galbreath&parent_names_so=exact&parent_name_two=McCallum&parent_name_two_so=exact&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
-
 
 [1]: https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=fuzzy&forename_so=starts&from_year=1700&to_year=1730&parent_names=galbreath&parent_names_so=fuzzy&parent_name_two=mitchell&parent_name_two_so=exact&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&rd_real_name%5B0%5D=CAMPBELTOWN%20%28LANDWARD%29%20OR%20CAMPBELTOWN%20%28BURGH%29%20OR%20CAMPBELTOWN&rd_display_name%5B0%5D=CAMPBELTOWN%20%28LANDWARD%29%7CCAMPBELTOWN%20%28BURGH%29%7CCAMPBELTOWN_CAMPBELTOWN&rd_label%5B0%5D=CAMPBELTOWN&rd_name%5B0%5D=CAMPBELTOWN%20%2ALANDWARD%2A%20OR%20CAMPBELTOWN%20%2ABURGH%2A%20OR%20CAMPBELTOWN&sort=asc&order=Date&field=year&sid=86134667
 
