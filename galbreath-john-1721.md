@@ -5,7 +5,7 @@ up: galbreath-john-1680.md
 
 **John Galbreath**, son of [John Galbreath](galbreath-john-1680.md) and *Mary Mitchell*, born 9 Dec 1721. He married at Campbeltown, Argyll, Scotland, Dec 1746 to **Agnes Langwill**, born at Campbeltown 23 Aug 1730, died 1792 in Campbeltown.  Her parents are unknown.
 
-Children of John and Agnes (Langwill) Galbreath, all baptized in Campbeltown[^children]:
+Children of John and Agnes (Langwill) Galbreath, all baptized in Campbeltown:[^children]
 
 1. Isabella Galbreath, bp. 1747.  TODO: not found in Argyll
 2. *James Galbreath*, bp. 22 July 1748
