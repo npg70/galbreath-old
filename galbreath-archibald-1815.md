@@ -1,20 +1,10 @@
-# Archibald Galbreath 
+---
+title: Archibald Galbreath b. 1815 m. Eliza Rice
+up: galbreath-robert-1778.md
+---
+**Archibald Galbreath**, son of [Robert Galbreath](galbreath-robert-1778.md) and *Catharine Harvie*, born at Peninver, Argyll Scotland 19 Feb 1815, baptized at Campbeltown, Argyll, Scotland.  He died at Point Pleasant, Clermont, Ohio, United States, and the burial location is unknown.  He married **Eliza Rice** at Mason County, Kentucky 13 Jul 1848, born at Maysille, Mason, Kentucky, United State 8 Feb 1823 and died at Point Pleasant 20 Feb 1876.
 
-- father: [Robert Galbreath](galbreath-robert-1778.md)
-- mother: *Catharine Harvie*
-- birth: 19 Feb 1815, Peninver, Argyll, Scotland
-- baptism: 22 Feb 1815, Campbeltown, Argyll, Scotland
-- death: 20 Feb 1876, Point Pleasant, Clermont, Ohio, United States
-- burial: unknown
-
-## Eliza Rice
-
-- birth: 8 Feb 1823, Maysville, Mason, Kentucky, United States
-- death: 16 Feb 1878, Point Pleasant, Clermont County, Ohio, United States
-- marriage: 13 Jul 1848, Mason County, Kentucky, United States
-- burial: unknown
-
-### Children
+Children of Archibald and Eliza (Rice) Galbreath, all born in Point Pleasant:
 
 1. Marion Galbreath, b. 9 Nov 1850; d. 23 Dec 1853
 2. [Samuel Newton Galbreath](galbreath-samuel-newton-1852.md), b. 20 May 1852, m. *Jennie Holmes Johnson*
