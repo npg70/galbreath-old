@@ -20,14 +20,14 @@ Children of James and Catharine (Galbreath) Greenlees, all baptized in Campbelto
 [^james]: General biographical information on James is found in Argyll's Forgotten Whisky Barons
 by Robert Haydock. THE KINTYRE ANTIQUARIAN and NATURAL HISTORY SOCIETY MAGAZINE, Issue 78, Spring 2010.
 Reprinted in [Ralston Genealogy](http://www.ralstongenealogy.com/number67kintmag.htm#whisky):
-  > The Greenlees family came to Kintyre in about 1640,
-  > when a miller of that name moved from Lochwinnoch 
-  > (Renfrcwshire) to Southend. In 1810, James Greenlees,
-  > farmer at Peninver (north of Campbeltown),
-  > married Catherine Galbreath. Peninver was the farm 
-  > originally worked by Catherine's father, Samuel Galbreath.
-  > The couple had 11 children, the first born son (b. 1812)
-  > being named Samuel, after James's father. 
-  > James died in 1850 ... 
+    > The Greenlees family came to Kintyre in about 1640,
+    > when a miller of that name moved from Lochwinnoch 
+    > (Renfrcwshire) to Southend. In 1810, James Greenlees,
+    > farmer at Peninver (north of Campbeltown),
+    > married Catherine Galbreath. Peninver was the farm 
+    > originally worked by Catherine's father, Samuel Galbreath.
+    > The couple had 11 children, the first born son (b. 1812)
+    > being named Samuel, after James's father. 
+    > James died in 1850 ... 
 
 [^children]: OPR baptisms of children from [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=greenlees&surname_so=exact&forename_so=starts&from_year=1812&to_year=1840&parent_names=greenlees&parent_names_so=exact&parent_name_two=galbreath&parent_name_two_so=exact&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&rd_real_name%5B0%5D=CAMPBELTOWN%20%28LANDWARD%29%20OR%20CAMPBELTOWN%20%28BURGH%29%20OR%20CAMPBELTOWN&rd_display_name%5B0%5D=CAMPBELTOWN%20%28LANDWARD%29%7CCAMPBELTOWN%20%28BURGH%29%7CCAMPBELTOWN_CAMPBELTOWN&rd_label%5B0%5D=CAMPBELTOWN&rd_name%5B0%5D=CAMPBELTOWN%20%2ALANDWARD%2A%20OR%20CAMPBELTOWN%20%2ABURGH%2A%20OR%20CAMPBELTOWN&sort=asc&order=Date&field=year).  There may be another child, as this only lists 10 children, while a previous source lists 11.
