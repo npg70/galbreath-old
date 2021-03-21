@@ -2,7 +2,7 @@
 title: Catharine Galbreath b. 1788 m. James Greenlees
 up: galbreath-samuel-1736.md
 ---
-**Catharine Galbreath**, daughter of [*Samuel Galbreath*](galbreath-samuel-1736.md) and *Janet McNair*, born Campbeltown, Argyll, Scotland  16 May 1788, and died Moys, Campbeltown, Argyll, Scotland 21 Apr 1878.  She married 5 Apr 1810 *James Greenlee*,[^james] born 26 Main St, Campbeltown, Argyll, Scotland 6 Jan 1782, and died Peninver, Campbeltown, Argyll, Scotland, 6 Mar 1848.
+**Catharine Galbreath**, daughter of [*Samuel Galbreath*](galbreath-samuel-1736.md) and *Janet McNair*, born Campbeltown, Argyll, Scotland  16 May 1788, and died Moys, Campbeltown, Argyll, Scotland 21 Apr 1878.  She married 5 Apr 1810 *James Greenlees*,[^james] born 26 Main St, Campbeltown, Argyll, Scotland 6 Jan 1782, and died Peninver, Campbeltown, Argyll, Scotland, 6 Mar 1848.
 
 Children of James and Catharine (Galbreath) Greenlees, all baptized in Campbeltown:[^children]
 
@@ -16,8 +16,6 @@ Children of James and Catharine (Galbreath) Greenlees, all baptized in Campbelto
 8. *Catharine Greenlees*, bp. 28 Oct 1827
 9. *Martha Greenlees*, bp. 18 Apr 1830
 10. *Archibald Greenlees*, bp. 8 Jan 1833
-
-# Sources
 
 [^james]: General biographical information on James is found in Argyll's Forgotten Whisky Barons
 by Robert Haydock. THE KINTYRE ANTIQUARIAN and NATURAL HISTORY SOCIETY MAGAZINE, Issue 78, Spring 2010.
