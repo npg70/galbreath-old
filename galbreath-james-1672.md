@@ -3,9 +3,9 @@ title: James Galbreath, b 1762 m. Mary Fleming
 up: galbreath-james-1659.md
 ---
 
-***James Galbreath***, son of [James Galbreath](galbreath-james-1659.md) and *Mary Nielson*, born Ardnacross, Argyll, Scotland, baptized Campbeltown 25 Aug 1672. His death is not recorded. He married at Campbeltown 8 Dec 1696, *Mary Fleming*[^marriage], origin unknown[^mary].
+**James Galbreath**, son of [*James Galbreath*](galbreath-james-1659.md) and *Mary Nielson*, born Ardnacross, Argyll, Scotland, baptized Campbeltown 25 Aug 1672. His death is not recorded. He married at Campbeltown 8 Dec 1696, *Mary Fleming*,[^marriage] origin unknown.[^mary]
 
-Children of James and Mary (Fleming) Galbreath[^children]:
+Children of James and Mary (Fleming) Galbreath:[^children]
 
 1. [Jenat Galbreath](galbreath-janet-1698.md), b. 24 Feb 1698, m. *Peter Langwill*.
 2. [William Galbreath](galbreath-william-1701.md), b. 16 Nov 1701, m. *Maraget Kilpatrick*.
