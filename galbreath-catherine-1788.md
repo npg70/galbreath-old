@@ -15,12 +15,12 @@ Children of James and Catharine (Galbreath) Greenlees:
 [^james]: General biographical information on James is found in Argyll's Forgotten Whisky Barons
 by Robert Haydock. THE KINTYRE ANTIQUARIAN and NATURAL HISTORY SOCIETY MAGAZINE, Issue 78, Spring 2010.
 Reprinted in [Ralston Genealogy](http://www.ralstongenealogy.com/number67kintmag.htm#whisky):
-    > The Greenlees family came to Kintyre in about 1640,
-    > when a miller of that name moved from Lochwinnoch 
-    > (Renfrcwshire) to Southend. In 1810, James Greenlees,
-    > farmer at Peninver (north of Campbeltown),
-    > married Catherine Galbreath. Peninver was the farm 
-    > originally worked by Catherine's father, Samuel Galbreath.
-    > The couple had 11 children, the first born son (b. 1812)
-    > being named Samuel, after James's father. 
-    > James died in 1850 ... 
+  > The Greenlees family came to Kintyre in about 1640,
+  > when a miller of that name moved from Lochwinnoch 
+  > (Renfrcwshire) to Southend. In 1810, James Greenlees,
+  > farmer at Peninver (north of Campbeltown),
+  > married Catherine Galbreath. Peninver was the farm 
+  > originally worked by Catherine's father, Samuel Galbreath.
+  > The couple had 11 children, the first born son (b. 1812)
+  > being named Samuel, after James's father. 
+  > James died in 1850 ... 
