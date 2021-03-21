@@ -2,10 +2,9 @@
 title: John Galbreath b. 1680 m1 Mary Mitchell
 up: galbreath-james-1659.md
 ---
+**John Galbreath**, son of [*James Galbreath*](galbreath-james-1659.md) and *Mary Nielson*, was born at Kilkeddan, Argyll, Scotland 29 May 1680 and baptized at Campbeltown 30 May 1680.[^birth] His death is not recorded. He married, at first, Campbeltown 16 Mar 1707, **Mary Mitchell**;[^marriage1] and second, at Campbeltown abt. 1728 to **Katherine McCallum**.[^marriage2]
 
-***John Galbreath***, son of [James Galbreath](galbreath-james-1659.md) and *Mary Nielson*, was born at Kilkeddan, Argyll, Scotland 29 May 1680 and baptized at Campbeltown 30 May 1680.[^birth] His death is not recorded.  He married, at first, Campbeltown 16 Mar 1707, **Mary Mitchell**;[^marriage1] and second, at Campbeltown abt. 1728 to **Katherine McCallum**.[^marriage2]
-
-Children of John and Mary (Mitchell) Galbreath, all baptized in Campbeltown[^children1]:
+Children of John and Mary (Mitchell) Galbreath, all baptized in Campbeltown:[^children1]
 
 1. [*Archibald Galbreath*](galbreath-archibald-1708.md), b. 30 May 1708, m. *Martha White*. OPR listed under "Galbreath" and "Galbraith"
 2. *Mary Galbreath*, b. 25 Dec 1709. Assumed died in early childhood.
@@ -20,7 +19,7 @@ Children of John and Mary (Mitchell) Galbreath, all baptized in Campbeltown[^chi
 11. *David Galbreath*, b. 24 Nov 1723. OPR recorded as Galbreath and Calbreath.
 12. *Samuel Galbreath*, b. 8 Aug 1725. OPR recorded as Galbreath and Calbreath.
 
-Children of John and Katharine (McCallum) Galbreath:[^children2]
+Children of John and Katharine (McCallum) Galbreath[^children2]:
 
 1. *Archibald Galbreath*, b. Jul 1729
 
