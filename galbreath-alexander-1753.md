@@ -2,7 +2,7 @@
 title: Alexander Galbreath b. 1753 m. Agnes Fleming
 up: galbreath-john-1721.md
 ---
-**Alexander Galbreath**, son of [John Galbreath](galbreath-john-1721.md) and *Agnes Langwill*, born Campbeltown, Argyll, Scotland 25 June 1753, died at York Co, Pennslyvania, USA 1 Nov 1819.  He married at Cambeltown Dec 1779 to **Agnes Fleming**, baptized at Campbeltown 5 Jan 1760, died in York County Apr 1829.
+**Alexander Galbreath**, son of [*John Galbreath*](galbreath-john-1721.md) and *Agnes Langwill*, born Campbeltown, Argyll, Scotland 25 June 1753, died at York Co, Pennslyvania, USA 1 Nov 1819.  He married at Cambeltown Dec 1779 to **Agnes Fleming**, baptized at Campbeltown 5 Jan 1760, died in York County Apr 1829.
 
 Alexander and family immigrated to Balitmore on 1 Sep 1785.[^immigrant]
 
