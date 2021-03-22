@@ -3,9 +3,9 @@ title: Archibald Galbreath b. 1708, m. Martha White
 up: galbreath-john-1680.md
 ---
 
-**Archibald Galbreath**, son of [*John Galbreath*](galbreath-john-1680.md) and *Mary Mitchell*, born Campeltown, Argyll, Scotland 30 May 1708[^birth] and passed in Campbeltown Sep 1789, buried in Kilchousland Graveyard, Campbeltown[^death]. He married in Campbeltown 1 Apr 1733, **Martha White**[^marriage], born say 1712[^martha].
+**Archibald Galbreath**, son of [*John Galbreath*](galbreath-john-1680.md) and *Mary Mitchell*, born Campeltown, Argyll, Scotland 30 May 1708[^birth] and passed in Campbeltown Sep 1789, buried in Kilchousland Graveyard, Campbeltown.[^death] He married in Campbeltown 1 Apr 1733, **Martha White**,[^marriage] born say 1712.[^martha]
 
-Children of Archibald and Martha (White) Galbreath, all baptized in Campbeltown[^children]:
+Children of Archibald and Martha (White) Galbreath, all baptized in Campbeltown:[^children]
 
 1. *John Galbreath*, b. 3 Mar 1734, d. 1735. mother listed as "Martha Whyte".
 2. [*Samuel Galbreath*](galbreath-samuel-1736.md), b. 4 Feb 1736, m. *Janet McNair*
