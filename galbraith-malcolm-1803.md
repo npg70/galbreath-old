@@ -20,6 +20,8 @@ Children of Malcolm and Rachel (McLellan) Galbraith, all baptized at Kildalton, 
 6. Duncan Galbraith, bp. 1845
 
 [^1841]: 1841 Census at [FindMyPast](https://www.findmypast.com/transcript?id=GBC%2F1841%2F0016677146)
+
 [^1871]: 1871 Census at [FindMyPast](https://www.findmypast.com/transcript?id=GBC%2F1871%2F0023504873)
+
 [^ancestry]: From the tree of [Allison Galbraith](https://www.ancestry.com/account/profile/063c8a59-0006-0000-0000-000000000000) on [Ancestry.com](https://www.ancestry.com/family-tree/person/tree/153785869/person/372034168961/facts)
 
