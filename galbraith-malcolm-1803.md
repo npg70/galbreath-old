@@ -1,6 +1,6 @@
 ---
 ---
-**Malcolm Galbraith**, maybe son of *Archibald Galbreath* and *Catharine McCormaig*, baptismed at Gigha, Argyll, Campbeltown 1 Oct 1803.  He married **Rachel McLellan*.
+**Malcolm Galbraith**, maybe son of *Archibald Galbreath* and *Catharine McCormaig*, baptismed at Gigha, Argyll, Campbeltown 1 Oct 1803.  He married **Rachel McLellan**.
 
 While the census records[^1841][^1871] consistantly state the "birth town" was Kildalton, there is no record there of any Malcolm Galbraith.
 
