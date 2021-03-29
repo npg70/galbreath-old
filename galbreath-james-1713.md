@@ -1,7 +1,7 @@
 ---
-title: James Galbreath b. 1712, m. Mary Adam
+title: James Galbreath b. 1713 m. Margaret Adam
 ---
-**James Galbreath**, son of [James Galbreath](galbreath-james-1672.md) and *Mary Fleming* baptized at Campbeltown, Arygll, Scotland 20 Aug 1713. He married at Campbeltown June 1738 to **Margaret Adam**.
+**James Galbreath**, son of [James Galbreath](galbreath-james-1672.md) and *Mary Fleming* baptized at Campbeltown, Arygll, Scotland 20 Aug 1713. He married at Campbeltown June 1738 to **Margaret Adam**.[^marriage]
 
 Children of James and Margaret (Adam) Galbreath, all baptized at Campbeltown:[^children]
 
