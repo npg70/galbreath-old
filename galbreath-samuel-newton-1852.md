@@ -5,11 +5,11 @@ title: Samuel Newton Galbreath m. Jennie Holmes Johnson
 
 Children of Samuel and Jennie (Johnson Galbreath), all born at Point Pleasant:
 
-1. Ada Galbreath, b. 1890; d. 1890
-2. Ethel May Galbreath, b. 1 May 1892; d. 17 Oct 1976. umn.
-3. Lawrence Benton Galbreath, b. 9 Oct 1895; d. 17 May 1973. umn.
-4. [Zella Viola Galbreath](galbreath-zella-viola-1898.md), b. 29 Dec 1898; m. *Robert Calvin Dunbar*
-5. [Frank Hubert Galbreath](galbreath-frank-hubert-1900.md), b. 13 Nov 1900; m. *Betty E Carroll*
+1. *Ada Galbreath*, b. 1890; d. 1890
+2. *Ethel May Galbreath*, b. 1 May 1892; d. 17 Oct 1976. umn.
+3. *Lawrence Benton Galbreath*, b. 9 Oct 1895; d. 17 May 1973. umn.
+4. [*Zella Viola Galbreath*](galbreath-zella-viola-1898.md), b. 29 Dec 1898; m. *Robert Calvin Dunbar*
+5. [*Frank Hubert Galbreath*](galbreath-frank-hubert-1900.md), b. 13 Nov 1900; m. *Betty E Carroll*
 
 [^burial-samuel]: Burial for Samuel Galbreath on [Find A Grave](https://www.findagrave.com/memorial/133958480/samuel-newton-galbreath)
 
