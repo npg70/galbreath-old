@@ -1,17 +1,10 @@
-# Frank Hubert Galbreath
+---
+title: Frank H Galbreath b. 1900 m. Betty Carroll
+---
 
-- father: [Samuel Newton Galbreath](galbreath-samuel-newton-1852.md)
-- mother: *Jennie Holmes Johnson*
-- birth: 13 Nov 1900, Point Pleasant, Clermont, Ohio, USA
-- death: 18 Sep 1958, Detroit, Wayne, Michigan, USA
+**Frank Hubert Galbreath**, son of [*Samuel Newton Galbreath*](galbreath-samuel-newton-1852.md) and *Jennie Holmes Johnson*, born at Point Pleasant, Clermont, Ohio, USA 13 Nov 1900, and died at Detroit, Wayne, Michigan, USA 18 Sep 1958.  He married at Covington, Newport, Kentucky, USA 1 Feb 1936 to Beatrice (Betty) E Carroll, born Cincinnati, Hamilton, Ohio, USA 18 Aug 1906, died Birmingham, Oakland, Michigan, 28  Sep 1976.
 
-## Beatrice E Carroll
-
-- birth: 18 Aug 1906, Cincinnati, Hamilton, Ohio, USA
-- death: 28 Sep 1976, Birmingham, Oakland, Michigan, USA
-- marriage: 1 Feb 1936, Covington, Newport, Kentucky, USA
-
-### Children
+Child of Frank and Betty (Carroll) Galbreath:
 
 1. [Robert Carroll Galbreath](galbreath-robert-carroll-1938.md), b. 24 Oct 1938, m. *Naomi Paster*
-
+2. 
