@@ -6,4 +6,4 @@ title: Robert Carroll Galbreath b 1938 m. Naomi Paster
 
 Child of Robert and Naomi (Paster) Galbreath:
 
-1. Nicholas Galbreath, m. *Yukari Mitsuhashi*
+1. *Nicholas Galbreath*, m. *Yukari Mitsuhashi*
