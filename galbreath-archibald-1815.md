@@ -16,6 +16,6 @@ Children of Archibald and Eliza (Rice) Galbreath, all born in Point Pleasant:
 9. *Robert Archibald Galbreath*, b. 16 Jan 1865; d. 11 Nov 1934. umn.
 10. *Anna Eliza Galbreath*, b. 14 Dec 1867; d. 26 Aug 1901
 
-[^birth]: OPR lists birth of "a farmer in Peninver" 31 Jan 1814, baptism of 9 Feb 18  [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-i
+[^birth]: OPR lists birth of "a farmer in Peninver" 31 Jan 1814, baptism of 9 Feb 18 [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-i)
 
 [^burial]: There is not current recording of the burial for either Archibald or Eliza.  Given the location one could assume it would be at the Point Pleasant Cemetary, however there is no record.
