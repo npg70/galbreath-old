@@ -12,4 +12,5 @@ Children of Samuel and Jennie (Johnson Galbreath), all born at Point Pleasant:
 5. [Frank Hubert Galbreath](galbreath-frank-hubert-1900.md), b. 13 Nov 1900; m. *Betty E Carroll*
 
 [^burial-samuel]: Burial for Samuel Galbreath on [Find A Grave](https://www.findagrave.com/memorial/133958480/samuel-newton-galbreath)
+
 [^burial-jennie]: Burial for Jennie Galbreath on [Find A Grave](https://www.findagrave.com/memorial/133958496/jennie-holmes-galbreath)
