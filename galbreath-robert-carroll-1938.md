@@ -1,12 +1,9 @@
-# Robert Carroll Galbreath
+---
+title: Robert Carroll Galbreath b 1938 m. Naomi Paster
+---
 
-- father: [Frank Hubert Galbreath](galbreath-frank-hubert-1900.md)
-- mother: *Betty Carroll*
-- birth: 24 Oct 1938, Cincinnati, Hamilton, Ohio, United States
-- death: 1 Feb 2015, Greensboro, Guilford, North Carolina, United States
+**Robert Carroll Galbreath**, son of [*Frank Hubert Galbreath*](galbreath-frank-hubert-1900.md) and *Betty Carroll*, born Cincinnati, Hamilton, Ohio, United States 24 Oct 1938, died Greensboro, Guilford, North Carolina 1 Feb 2015.  He married **Naomi Galbreath**.
 
-## Naomi Galbreath
-
-### Children
+Child of Robert and Naomi (Paster) Galbreath:
 
 1. Nicholas Galbreath, m. *Yukari Mitsuhashi*
