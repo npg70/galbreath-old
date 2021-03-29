@@ -2,7 +2,7 @@
 title: William Galbreath b. 1701 m. Margaret Kilpatrick
 up: galbreath-james-1672.md
 ---
-**William Galbreath**, son of [*James Galbreath*](galbreath-james-1672.md) and *Mary Fleming*, baptized at Campbeltown, Argyll, Scotland 16 Nov 1701. His death is not recorded. He married 31 July 1724, *Margaret Kilpatrick*, daughter of *James Kilpatrick* b.  Glasgow, 3 Nov 1652 d. Glasgow 1725, and   *Ann Brackenridge* b. 1683, d. 1723.
+**William Galbreath**, son of [*James Galbreath*](galbreath-james-1672.md) and *Mary Fleming*, baptized at Campbeltown, Argyll, Scotland 16 Nov 1701. His death is not recorded. He married 31 July 1724, **Margaret Kilpatrick**, daughter of *James Kilpatrick* b.  Glasgow, 3 Nov 1652 d. Glasgow 1725, and   *Ann Brackenridge* b. 1683, d. 1723.
 
 Children of William and Margaret (Kilpatrick) Galbreath, all baptized in Campbeltown:[^children]
 
