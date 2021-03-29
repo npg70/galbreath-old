@@ -3,7 +3,7 @@ title: James Galbreath b. 1726 m. Margaret Anderson
 up: galbreath-william-1701.md
 ---
 
-**James Galbreath**, son of [*William Galbreath*](galbreath-william-1701.md) and  *Margaret Kilpatrick*, baptized 2 Oct 1726.  He married at Campbeltown 10 Jan 1748 to Margaret Anderson.
+**James Galbreath**, son of [*William Galbreath*](galbreath-william-1701.md) and  *Margaret Kilpatrick*, baptized at Campbeltown, Argyll, Scotland 2 Oct 1726.  He married at Campbeltown 10 Jan 1748 to **Margaret Anderson**.
 
 Children of James and Margaret (Anderson) Galbreath, all baptized at Campbeltown:[^children]
 
@@ -16,7 +16,6 @@ Children of James and Margaret (Anderson) Galbreath, all baptized at Campbeltown
 7. *James Galbreath*, bp. 3 May 1761
 8. *Catherine Galbreath*, bp. 11 Nov 1763. Listed under "Galbreath" and "Galbraith"
 9. *William Galbreath*, bp. 29 Dec 1765. Listed under "Galbreath" and "Galbraith"
-
 
 - James Galbreath on [FamilySearch](https://www.familysearch.org/tree/person/KCQW-GZT)
 
