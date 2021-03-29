@@ -9,7 +9,7 @@ Children of James and Margaret (Adams) Galbreath:
 1. *Mary Galbreath*, b. 18 Mar 1740
 2. *Archibald Galbreath*, b. Dec 1743
 3. *James Galbreath*, b. 15 Jan 1746
-4. *_____ Galbreath*, b. 13 July 1748  TODO
+4. *\_\_\_\_\_ Galbreath*, b. 13 July 1748  TODO
 5. *James Galbreath*, b. 3 June 1750
 6. *Margaret Galbreath*, b. 15 April 1752
 7. [*David Galbreath*](galbreath-david-1755.md), b. 12 Feb 1755  Recorded under Galbreath and Galbraith
