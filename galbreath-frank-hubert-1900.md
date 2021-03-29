@@ -7,4 +7,3 @@ title: Frank H Galbreath b. 1900 m. Betty Carroll
 Child of Frank and Betty (Carroll) Galbreath:
 
 1. [Robert Carroll Galbreath](galbreath-robert-carroll-1938.md), b. 24 Oct 1938, m. *Naomi Paster*
-2. 
