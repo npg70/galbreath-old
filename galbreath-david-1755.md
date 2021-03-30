@@ -2,7 +2,7 @@
 title: David Galbreath b 1755 m. Mary Fleming
 up: galbreath-james-1713.md
 ---
-**David Galbreath**, son of [James Galbreath](galbreath-james-1713.md) and *Margaret Adams*, baptized at Campbeltown, Argyll, Scotland 12 Feb 1755.  His death is unrecorded.  He married **Mary Flemming**.
+**David Galbreath**, son of [*James Galbreath*](galbreath-james-1713.md) and *Margaret Adams*, baptized at Campbeltown, Argyll, Scotland 12 Feb 1755. His death is unrecorded. He married **Mary Fleming**.
 
 Children of David and Mary (Fleming) Galbreath:[^children]
 
