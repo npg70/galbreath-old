@@ -1,5 +1,6 @@
 ---
 title: Janet Galbreath b. 1698 m. Peter Langwill
+familysearch: https://www.familysearch.org/tree/person/details/LQRH-NLV
 ---
 
 **Janet Galbreath**, daughter of [*James Galbreath*](galbreath-james-1672.md) and *Mary Fleming*, baptized at Campbeltown, Argyll, Scotland 24 Feb 1698.  SHe married at Campbeltown 25 Apr 1717[^marriage] to **Peter Langwill**.  Peter bapitzed at Campbeltown 11 May 1693, son of *John Langwill* and *Isabell Waton*.[^peter]
