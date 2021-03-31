@@ -1,11 +1,8 @@
-# Zella Viola Galbreath
+---
+title: Zella Viola Galbreath b. 1898 m. Robert Calvin Dunbar
+---
+**Zella Viola Galbreath**, daughter of [Samuel Newton Galbreath](galbreath-samuel-newton-1852.md) and *Jennie Holmes Johnson*, borb 29 Dec 1898.  She married **Robert Calvin Dunbar**.
 
-- father: [Samuel Newton Galbreath](galbreath-samuel-newton-1852.md)
-- mother: *Jennie Holmes Johnson*
-- birth: 29 Dec 1898
+Child of Robert and Zella (Galbreath) Dunbar:
 
-## Robert Calvin Dunbar
-
-### Children
-
-1. [Mary Ellen Dunbar](dunbar-mary-ellen-1929.md), b. 4 Oct 1929. m *Kenneth Joseph Colonel*  m *Carl Sontag*
+1. [Mary Ellen Dunbar](dunbar-mary-ellen-1929.md), b. 4 Oct 1929. m(1). *Kenneth Joseph Colonel*  m(2). *Carl Sontag*
