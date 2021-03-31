@@ -6,22 +6,22 @@ familysearch: https://www.familysearch.org/tree/person/details/L2PT-L1B
 
 Children of John and Mary (Mitchell) Galbreath, all baptized in Campbeltown:[^children1]
 
-1. [*Archibald Galbreath*](galbreath-archibald-1708.md), b. 30 May 1708, m. *Martha White*. OPR listed under "Galbreath" and "Galbraith"
-2. *Mary Galbreath*, b. 25 Dec 1709. Assumed died in early childhood.
-3. [*Janet Galbreath*](galbreath-janet-1711.md), b. 14 Oct. 1711, m. *David Ryburn*
-4. *James Galbreath*, b. 22 Mar 1713. Assumed died in infancy.
-5. *Katharine Galbreath*, b. 8 Aug 1714
-6. *James Galbreath*, b. 11 May 1716. Assumed died in infancy.
-7. *Patrick Galbreath*, b. 31 May 1718.
-8. *James Galbreath*, b. 28 July 1719. Twins!
-9. *Mary Galbreath*, b. 28 July 1719. Twins!
-10. [*John Galbreath*](galbreath-john-1721.md), b. 9 Dec 1721, m. *Agnes Langwill*.
-11. *David Galbreath*, b. 24 Nov 1723. OPR recorded as Galbreath and Calbreath.
-12. *Samuel Galbreath*, b. 8 Aug 1725. OPR recorded as Galbreath and Calbreath.
+1. [*Archibald Galbreath*](galbreath-archibald-1708.md), bp. 30 May 1708, m. *Martha White*. OPR listed under "Galbreath" and "Galbraith"
+2. *Mary Galbreath*, bp. 25 Dec 1709. Assumed died in early childhood.
+3. [*Janet Galbreath*](galbreath-janet-1711.md), bp. 14 Oct. 1711, m. *David Ryburn*
+4. *James Galbreath*, bp. 22 Mar 1713. Assumed died in infancy.
+5. *Katharine Galbreath*, bp. 8 Aug 1714
+6. *James Galbreath*, bp. 11 May 1716. Assumed died in infancy.
+7. *Patrick Galbreath*, bp. 31 May 1718.
+8. *James Galbreath*, bp. 28 July 1719. Twins!
+9. *Mary Galbreath*, bp. 28 July 1719. Twins!
+10. [*John Galbreath*](galbreath-john-1721.md), bp. 9 Dec 1721, m. *Agnes Langwill*.
+11. *David Galbreath*, bp. 24 Nov 1723. OPR recorded as Galbreath and Calbreath.
+12. *Samuel Galbreath*, bp. 8 Aug 1725. OPR recorded as Galbreath and Calbreath.
 
-Children of John and Katharine (McCallum) Galbreath[^children2]:
+Child of John and Katharine (McCallum) Galbreath[^children2]:
 
-1. *Archibald Galbreath*, b. Jul 1729
+1. *Archibald Galbreath*, bp. Jul 1729
 
 [^birth]: OPR for baptism of James on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=exact&forename=john&forename_so=starts&from_year=1680&to_year=1680&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&rd_real_name%5B0%5D=CAMPBELTOWN%20%28LANDWARD%29%20OR%20CAMPBELTOWN%20%28BURGH%29%20OR%20CAMPBELTOWN&rd_display_name%5B0%5D=CAMPBELTOWN%20%28LANDWARD%29%7CCAMPBELTOWN%20%28BURGH%29%7CCAMPBELTOWN_CAMPBELTOWN&rd_label%5B0%5D=CAMPBELTOWN&rd_name%5B0%5D=CAMPBELTOWN%20%2ALANDWARD%2A%20OR%20CAMPBELTOWN%20%2ABURGH%2A%20OR%20CAMPBELTOWN&sid=86128715)
 
