@@ -1,5 +1,6 @@
 ---
 title: Samuel Galbreath b. 1755 m. Janet McNair
+familysearch: https://www.familysearch.org/tree/person/details/M1Y6-H41
 ---
 
 **Samuel Galbreath**, son of [*Archibald Galbreath*](galbreath-archibald-1708.md) and *Martha White*, baptized Campbeltown 4 Feb 1736.[^birth] He married at Peninver, Argyll, Scotland 1774,[^marriage] and died Peninver 1807.[^death] **Janet McNair**, baptized Campbeltown 12 Oct 1755,[^janet] daughter of *Robert McNair* and [Janet Galbreath](galbreath-janet-1718.md). Her death is not recorded.[^janet-death]
@@ -14,8 +15,6 @@ Children of Samuel and Janet (McNair) Galbreath, all baptized in Campbeltown:[^c
 6. [*Catherine Galbreath*](galbreath-catherine-1788.md), bp. 16 May 1788; m. *James Greenlees*
 7. *Samuel Galbreath*, bp. 5 Nov 1793, bp. 5 Dec 1793
 8. *John Galbreath*, bp. 7 Nov 1796, bp. 9 Nov 1796
-
-- Samuel Galbreath on [FamilySearch](https://www.familysearch.org/tree/person/details/M1Y6-H41)
 
 [^birth]: OPR baptism of Samuel Galbreath from [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357777?image=212&return_row=1)
 
