@@ -1,8 +1,7 @@
 ---
 title: Archibald Galbreath b. 1708, m. Martha White
-up: galbreath-john-1680.md
+familysearch: https://www.familysearch.org/tree/person/details/LZZ8-6K7
 ---
-
 **Archibald Galbreath**, son of [*John Galbreath*](galbreath-john-1680.md) and *Mary Mitchell*, born Campeltown, Argyll, Scotland 30 May 1708[^birth] and passed in Campbeltown Sep 1789, buried in Kilchousland Graveyard, Campbeltown.[^death] He married in Campbeltown 1 Apr 1733, **Martha White**,[^marriage] born say 1712.[^martha]
 
 Children of Archibald and Martha (White) Galbreath, all baptized in Campbeltown:[^children]
@@ -17,8 +16,6 @@ Children of Archibald and Martha (White) Galbreath, all baptized in Campbeltown:
 8. [*Janet Galbreath*](galbreath-janet-1752.md), bp. 26 Nov 1752, m. *James Armour*.
 9. *Martha Galbreath*, bp. 22 Feb 1756. Two records "Galbreath" and "Galbraith".
 
-
-- [FamilySearch](https://www.familysearch.org/tree/person/details/LZZ8-6K7) is a huge mess
 
 [^birth]: OPR record of baptism only from [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356794?image=104)  30/05/1708 GALBREATH, ARCHIBALD (Old Parish Registers Births 507/ 11 104 Campbeltown) Page 104 of 473. Note record only says "born," but that may actually be a baptism.
 
