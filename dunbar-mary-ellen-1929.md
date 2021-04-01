@@ -2,7 +2,7 @@
 title: Mary Ellen Dunbar b. 1929 m1. Carl Sontag m2. Kenneth Colonel
 familysearch: https://www.familysearch.org/tree/person/details/L14C-XK9
 ---
-**Mary Ellen Dunbar**, daughter of *Robert Calvin Dunbar* and [*Zella Viola Galbreath*](galbreath-zella-viola-1898.md), born 4 Oct 1929 and died in 2015[^death]. She married first *Carl Sontag*, and second *Kenneth Colonel*.
+**Mary Ellen Dunbar**, daughter of *Robert Calvin Dunbar* and [*Zella Viola Galbreath*](galbreath-zella-viola-1898.md), born 4 Oct 1929 and died in 2015.[^death] She married first *Carl Sontag*, and second *Kenneth Colonel*.
 
 Children of Carl and Marry Ellen (Dunbar) Sontag:
 
