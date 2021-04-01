@@ -1,12 +1,7 @@
-# Robert Bruce Galbreath
-
-- father: [Harvie Galbreath](galbreath-harvie-1821.md)
-- mother: *Nancy Carr Winters*
-- birth: 1850
-
-## Anna McBride
-
-### Children
+---
+title: Robert Bruce Galbreath b. 1850 m. Anna McBride
+---
+**Robert Bruce Galbreath**, son of [*Harvie Galbreath*](galbreath-harvie-1821.md) and *Nancy Carr Winters*, born 1850.  He married **Anna McBride**.
 
 Children of Robert and Anna (McBride) Galbreath, all born in Colorado:
 
