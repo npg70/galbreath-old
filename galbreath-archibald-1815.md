@@ -1,5 +1,6 @@
 ---
 title: Archibald Galbreath b. 1815 m. Eliza Rice
+familysearch: https://www.familysearch.org/tree/person/details/KZV2-6RM
 ---
 **Archibald Galbreath**, son of [*Robert Galbreath*](galbreath-robert-1778.md) and *Catharine Harvie*, born at Peninver, Argyll, Scotland 19 Feb 1815, baptized at Campbeltown, Argyll, Scotland 22 Feb 1815. He died at Point Pleasant, Clermont, Ohio, United States. He married **Eliza Rice** at Mason County, Kentucky, United States 13 Jul 1848, born at Maysille, Mason, Kentucky, United States 8 Feb 1823 and died at Point Pleasant 20 Feb 1876. The burial for both is unrecorded.[^burial]
 
