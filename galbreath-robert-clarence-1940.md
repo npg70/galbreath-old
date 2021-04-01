@@ -1,11 +1,8 @@
-# Robert Clarence Galbreath
+---
+title: Robert Clarence Galbreath b. 1940 m. Mercy Elizabeth Anderson
+---
+**Robert Clarence Galbreath**, son of [Edwin Clarence Galbreath](galbreath-edwin-clarence-1882.md) and *Lisetta H Schutz*, born 1940.  He married **Mercy Elizabeth Anderson**.
 
-- father: [Edwin Clarence Galbreath](galbreath-edwin-clarence-1882.md)
-- mother: *Lisetta H Schutz*
-- birth: 1940
-
-## Mercy Elizabeth Anderson
-
-### Children
+Children of Robert and Mercy (Anderson) Galbreath TBD.
 
 
