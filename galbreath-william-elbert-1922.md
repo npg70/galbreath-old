@@ -5,6 +5,6 @@ title: William Elbert Galbreath b. 1922 m. Eleanor Ione Harrison
 
 Children of William and Eleanor (Harrison) Galbreath:
 
-1. *Gary Galbreath*, b. 1944?
+1. [*Gary Galbreath*](galbreath-gary-1944.md), b. 1944?
 2. *Dean Galbreath*, b. 1947?
 3. *Lyn Galbreath*, b. 1949?
