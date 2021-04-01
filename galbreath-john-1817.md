@@ -1,5 +1,6 @@
 ---
 title: John Galbreath b. 1817 m. Jane McMath
+familysearch: https://www.familysearch.org/tree/person/details/LKNB-9B3
 ---
 
 **John Galbreath**, son of [*Robert Galbreath*](galbreath-robert-1778.md) and *Catherine Harvey*, baptized at Campbeltown, Arygll, Scotland 16 Apr 1817.  He married **Jane McMath**.
