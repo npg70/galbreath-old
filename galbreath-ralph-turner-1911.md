@@ -5,7 +5,7 @@ title: Ralph Turner Galbreath b.1911 m. Evelyn Stancombe
 
 Children of Ralph and Evelyn (Stancombe) Galbreath:
 
-1. *Patrcia Ann Galbreath*, b. 1937 Quercus Grover, Switzerland Co, Indiana. d. 1937  died in infancy.
+1. *Patrcia Ann Galbreath*, b. 1937 Quercus Grove, Switzerland Co, Indiana. d. 1937  died in infancy.
 2. *Mary Jane Galbreath*, 1939  Quercus Grove, Switzerland Co., Indiana. d. 2006. m *James D Alexander*
 3. *Carroll Jean Galbreath*, b. 1941 m *Ivan Dale Green*    ancestry: cjgreen41
 4. *Beverly Ann Galbreath*, b. unknown. m *Mark Allen Cherry*
