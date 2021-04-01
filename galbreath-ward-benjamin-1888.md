@@ -1,5 +1,6 @@
 ---
 title: Ward Benjamin Galbreath b. 1888 m. Eveline Bruem
+familysearch: https://www.familysearch.org/tree/person/details/L2GN-4LG
 ---
 **Ward Benjamin Galbreath**, son of [*Wallace Walter Galbreath*](galbreath-wallace-walter-1850.md) and *Ruth Ella Laberee*, born at Enderlin City, Ransom, North Dakota, United States on 30 Oct 1888. He married **Eveline Bruem**.
 
