@@ -6,7 +6,7 @@ title: John Galbreath b. 1817 m. Jane McMath
 
 Children of John and Jane (McMath) Galbreath:
 
-1. *Mary Catherine Galbreath*, b. 1 Feb 1853; d. Cincinnati, Ohio, 10 Oct 1925; m. *Orlando Alonzo Myer*.  Three children.
+1. [*Mary Catherine Galbreath*](galbreath-mary-catherine-1853.md), b. 1 Feb 1853; d. Cincinnati, Ohio, 10 Oct 1925; m. *Orlando Alonzo Myer*.  Three children.
 2. [*Robert W Galbreath*](galbreath-robert-w-1854.md), b. 13 Nov 1854; d. Ohio County, Indiana 4 Nov 1947; *Effie Blanch Harris*
 3. *Charles F Galbreath*, b. 12 Oct 1856; d. Hamiliton, OH, 26 Feb 1940. Unmarried.
 4. *Seda Belle Galbreath*, b. 30 Jan 1860; d. 12 May 1861.
