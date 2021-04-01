@@ -6,8 +6,8 @@ familysearch: https://www.familysearch.org/tree/person/details/L14C-XK9
 
 Children of Carl and Marry Ellen (Dunbar) Sontag:
 
-1. Cinda Sontag, b. 2 Dec 1949.  m *Charles Joseph Haas*, one child *Carey Michele Hass* b. 1972, m *Mark Saucier* one daughter "Morgan Saucier" b unknown.  https://www.legacy.com/obituaries/postgazette/obituary.aspx?n=mark-e-saucier&pid=184092484&fhid=17313
-2. Carl Robert Sontag, m *Debra L Buttram*, m *Carla Jeanne McGuire*
+1. *Cinda Sontag*, b. 2 Dec 1949.  m *Charles Joseph Haas*, one child *Carey Michele Hass* b. 1972, m *Mark Saucier* one daughter "Morgan Saucier" b unknown.  https://www.legacy.com/obituaries/postgazette/obituary.aspx?n=mark-e-saucier&pid=184092484&fhid=17313
+2. *Carl Robert Sontag*, m *Debra L Buttram*, m *Carla Jeanne McGuire*
 
 Children of Kenneth and Mary Ellen (Dunbar) Colonel (note: Kenneth also married *Colleen Friend*, and had a son *John David Colonel*):
 
