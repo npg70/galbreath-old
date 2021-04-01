@@ -1,12 +1,10 @@
-# Benard Harris Galbreath
+---
+title: Benard Harris Galbreath b.1889 m.Effie May Turner
+---
 
-- father: [Robert W Galbreath](galbreath-robert-w-1854.md)
-- mother: *Effie May Harris*
-- birth: 6 May 1889, Ohio County, Indiana, United States
+**Benard Harris Galbreath**, son of [*Robert W Galbreath*](galbreath-robert-w-1854.md) and *Effie May Harris*, born  Ohio County, Indiana, United States 6 May 1889.  He married **Effie May Turner**.
 
-## Effie May Turner
-
-### Children
+Children of Benard and Effie (Turner) Galbreath:
 
 1. [Ralph Turner Galbreath](galbreath-ralph-turner-1911.md), b. 29 Sept. 1911  m *Evelyn Stancombe*
 2. Mary Gertrude Galbreath, b. 13 Sept. 1916; m *Robert Clayton Potter*
