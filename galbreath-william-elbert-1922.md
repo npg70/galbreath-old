@@ -1,14 +1,10 @@
-# William Elbert Galbreath
+---
+title: William Elbert Galbreath b. 1922 m. Eleanor Ione Harrison
+---
+**William Elbert Galbreath**, son of [*Robert Harvey Galbreath*](galbreath-robert-harvey-1890.md) and *Ruth Genevieve Newell*, born at  Denver, Colorado, United States  31 Jan 1922, and died at Englewood, Araphoe, Colorado, United States 16 Jul 2003.  He married **Eleanor Ione Harrison**.
 
-- father: [Robert Harvey Galbreath](galbreath-robert-harvey-1890.md)
-- mother: *Ruth Genevieve Newell*
-- birth: 31 Jan 1922, Denver, Colorado, United States
-- death: 16 Jul 2003, Englewood, Araphoe, Colorado, United States
+Children of William and Eleanor (Harrison) Galbreath:
 
-## Eleanor Ione Harrison
-
-### Children
-
-1. Gary Galbreath, b. 1944?
-2. Dean Galbreath, b. 1947?
-3. Lyn Galbreath, b. 1949?
+1. *Gary Galbreath*, b. 1944?
+2. *Dean Galbreath*, b. 1947?
+3. *Lyn Galbreath*, b. 1949?
