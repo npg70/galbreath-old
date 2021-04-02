@@ -12,7 +12,7 @@ Children of James and Janet (Galbreath) Armour, all baptized at Campbeltown:
 3. *David Armour*, bp. 19 Jul 1777
 4. *William Armour*, bp. 14 Apr 1779
 5. *Mary Armour*, bp. 27 Jun 1781
-6. *Archibald Armour*, b. 10 Jul 1783 in "Trodigal by Machrillanish", bp. 13 Jul 1783, d. 1841 in "Kilkivan; m. *Isabella Greenlees*.  m(2). *Martha Clark*[^archibald]
+6. *Archibald Armour*, b. 10 Jul 1783 in "Trodigal by Machrillanish", bp. 13 Jul 1783, d. 1841 in "Kilkivan"; m(1). *Isabella Greenlees*.  m(2). *Martha Clark*[^archibald]
 7. *Jenat Armour*, bp. 25 Oct 1785
 
 - James Armour may have married another Janet Galbreath.  There are maybe 6 other canidates in OPR on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=exact&forename=janet&forename_so=syn&from_year=1750&to_year=1760&parent_names_so=starts&parent_name_two_so=exact&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&sort=asc&order=Date&field=year)
