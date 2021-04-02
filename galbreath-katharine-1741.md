@@ -1,5 +1,6 @@
 ---
 title: Katharine Galbreath b. 1741 m. James Harvie
+familysearch: https://www.familysearch.org/tree/person/details/9M9D-F9R
 ---
 **Katharine Galbreath**, daughter of [*Archibald Galbreath*](galbreath-archibald-1708.md); *Margaret White*, at Campbeltown, Argyll, Scotland born 3 May 1741, and baptized 10 May 1741.  Married 1 Dec 1761 to  **James Harvie**, born Oct 1735, son of  *James Harvie* b. 1698; *Janet Michell* b. 1707.
 
