@@ -12,7 +12,7 @@ Children of James and Mary (Fleming) Galbreath:[^children]
 4. *James Galbreath*, b. 4 Aug 1706. Listed under "James Galbreath/Marion Fleeming". Assumed died in infancy.
 5. *Margaret Galbreath*, b. 14 Aug 1711
 6. [*James Galbreath*](galbreath-james-1713.md), b. 20 Aug 1713, m. *Margaret Adam*. Listed under "James Galbreath/Mary Fleming"
-7. [*Patrick Galbreath*](galbreath-patrick-1713.md), b. 20 Aug 1713; m. *Martha Sheddan*.
+7. [*Patrick Galbreath*](galbreath-patrick-1713.md), b. 20 Aug 1713; m. *Martha Shiddan*.
 8. *Archibald Galbreath*, b. 9 Sept 1715. Two records, "JAMES GALBREATH/MARY FLEEMING", "JAMES CALBREATH/MARY FLEEMING"
 9. [*David Galbreath*](galbreath-david-1719.md), b. 28 Apr 1719; m. *Jean Langwill*.
 10. [*Agnes Galbreath*](galbreath-agnes-1722.md), b. 18 Feb 1722; m. *James Clark*. Note two records for birth: "JAMES GALBREATH/MARY FLEEMING" and "JAMES CALBREATH/MARY FLEEMING"
