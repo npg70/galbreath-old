@@ -1,0 +1,109 @@
+/* bootstrap uses an off-black for text */
+body {
+  color: #000;
+  text-rendering: optimizeLegibility;
+  font-family: "Source Serif", monospace;
+  font-size: larger;
+}
+
+div#github {
+	width: 100%;
+	text-align: right;
+}
+
+a {
+	color: #000;
+	text-decoration-color: #888;
+	text-decoration-style: dotted;
+}
+
+ol {
+  margin-left: 20px;
+  font-size: smaller;
+  list-style-type: lower-roman;
+}
+
+section.footnotes .footnote-backref {
+  display: none
+}
+
+section.footnotes ol {
+   margin-left: inherit;
+   list-style-type: decimal;
+}
+
+.blockquote {
+	font-size:smaller;
+    margin-left: 30px;
+}
+
+sup {
+font-variant-position: super; 
+font-feature-settings: "sups" 1;
+font-size: 1rem;
+vertical-align: baseline;
+position: relative;
+top: 0;
+margin-left: 0.1rem;
+}
+
+strong {
+  font-style: normal;
+  font-weight: bold;
+  font-feature-settings:         "smcp" 1;
+  -webkit-font-feature-settings: "smcp" 1;
+  -moz-font-feature-settings:    "smcp" 1;
+  -ms-font-feature-settings:     "smcp" 1;
+}
+
+em {
+  font-style:normal;
+  font-feature-settings:         "smcp" 1;
+  -webkit-font-feature-settings: "smcp" 1;
+  -moz-font-feature-settings:    "smcp" 1;
+  -ms-font-feature-settings:     "smcp" 1;
+}
+
+li p {
+	margin-bottom:0;
+}
+
+@media print {
+
+body {
+	font-size: 100%;
+}
+
+h1 {
+	break-before: page;
+}
+div.person {
+	break-inside: avoid;
+}
+div.children  {
+	break-inside:avoid;
+}
+
+a {
+	color: #000;
+    text-decoration: none;
+}
+
+#toc li a::after {
+  content: target-counter(attr(href),page);
+  float: right;
+}
+
+@page:right{
+  @bottom-right {
+    content: counter(page);
+  }
+}
+
+@page:left{
+  @bottom-left {
+    content: counter(page);
+  }
+}
+
+}

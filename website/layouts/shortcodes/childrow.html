@@ -1,0 +1,7 @@
+<tr>
+{{- if len .Params | eq 2 -}}
+<td class="ref"></td><td class="child"></td><td><a href="#{{ .Get 1 }}"><span class="name">{{- .Get 0 -}}</span></a>
+{{- else -}}
+<td></td><td class="child"></td><td><span class="name">{{- .Get 0 -}}</span>
+{{- end -}}, {{- .Inner -}}</td>
+</tr>

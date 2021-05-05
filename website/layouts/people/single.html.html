@@ -1,0 +1,19 @@
+{{ define "title"}}
+{{ .Title }}
+{{end}}
+{{ define "main" }}
+<div class="container">
+<div class="row">
+<div id="docname" class="col">
+{{ .Params.Lineage }}
+</div>
+<div id="github" class="col">
+<a href="https://github.com/npg70/galbreath/blob/main/{{ .File.LogicalName }}">GitHub</a>
+</div>
+</div>
+</div>
+<hr>
+<section id="main">
+{{ .Content }}
+</section>
+{{ end }}

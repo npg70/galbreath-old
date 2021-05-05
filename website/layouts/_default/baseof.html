@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+
+<!--
+	<script src="https://unpkg.com/pagedjs/dist/paged.polyfill.js"></script>
+-->
+    <title>{{ block "title" . }}
+      <!-- Blocks may include default content. -->
+      {{ .Site.Title }}
+    {{ end }}</title>
+    <link rel="stylesheet" href="/source-serif-pro-3.001R/source-serif-pro.css">
+    <link rel="stylesheet" href="/register.css">
+  </head>
+  <body>
+	<div class="container">
+    <!-- Code that all your templates share, like a header -->
+    {{ block "main" . }}
+      <!-- The part of the page that begins to differ between templates -->
+    {{ end }}
+    {{ block "footer" . }}
+    <!-- More shared code, perhaps a footer but that can be overridden if need be in  -->
+    {{ end }}
+    </div>
+  </body>
+</html>

@@ -1,0 +1,167 @@
+@font-face {
+  font-family: "tabular-numbers";
+  src: local("charter"), local("cambria");
+  unicode-range: U+0030-0039;
+}
+
+/* bootstrap uses an off-black for text */
+
+body {
+  color: #000;
+  text-rendering: optimizeLegibility;
+  font-family: "Source Serif", monospace;
+  font-size: larger;
+}
+
+a {
+	color: #000;
+	text-decoration-color: #888;
+	text-decoration-style: dotted;
+}
+
+
+div.person {
+	margin-bottom: 1rem;
+}
+
+div.children {
+	font-size: smaller;
+	margin-bottom: 1em;
+}
+
+div.children p {
+    text-indent: 1rem;
+}
+
+.blockquote {
+	font-size:smaller;
+    margin-left: 30px;
+}
+
+table {
+	font-size: inherit;
+	font-family: inherit;
+}
+
+td {
+	vertical-align: top;
+}
+
+td.child {
+	width: 3em;
+	text-align: right;
+}
+td.birthorder {
+	width: 3em;
+	padding-right: 0.5rem;
+	text-align: right;
+}
+
+/* comes before the primary name
+   can't use it in span.primary since 
+   it uses "small cap numbers".  We want
+   normal sized numbers
+*/
+span.primary-num {
+	font-weight: bold;
+}
+
+xsup {
+	font-size: small;
+}
+sup {
+font-variant-position: super; 
+font-feature-settings: "sups" 1;
+font-size: 1rem;
+vertical-align: baseline;
+position: relative;
+top: 0;
+margin-left: 0.1rem;
+}
+
+span.primary {
+  -webkit-font-feature-settings: "smcp" 1;
+  -moz-font-feature-settings:    "smcp" 1;
+  -ms-font-feature-settings:     "smcp" 1;
+  font-feature-settings:         "smcp" 1;
+  font-weight: bold;
+  margin-left: 0.25rem;
+}
+
+span.spouse {
+  -webkit-font-feature-settings: "smcp" 1;
+  -moz-font-feature-settings:    "smcp" 1;
+  -ms-font-feature-settings:     "smcp" 1;
+  font-feature-settings:         "smcp" 1;
+  font-weight: bold
+}
+
+span.married {
+  -webkit-font-feature-settings: "smcp" 1;
+  -moz-font-feature-settings:    "smcp" 1;
+  -ms-font-feature-settings:     "smcp" 1;
+  font-feature-settings:         "smcp" 1;
+}
+
+span.child {
+  -webkit-font-feature-settings: "smcp" 1;
+  -moz-font-feature-settings:    "smcp" 1;
+  -ms-font-feature-settings:     "smcp" 1;
+  font-feature-settings:         "smcp" 1;
+}
+
+span.secondary {
+  -webkit-font-feature-settings: "smcp" 1;
+  -moz-font-feature-settings:    "smcp" 1;
+  -ms-font-feature-settings:     "smcp" 1;
+  font-feature-settings:         "smcp" 1;
+}
+
+span.name {
+	font-variant: small-caps;
+    font-feature-settings: 'smcp';
+}
+
+span.up {
+	font-style: italic;
+}
+
+@media print {
+
+body {
+	font-size: 100%;
+}
+
+h1 {
+	break-before: page;
+}
+div.person {
+	break-inside: avoid;
+}
+div.children  {
+	break-inside:avoid;
+}
+
+a {
+	color: #000;
+    text-decoration: none;
+}
+
+#toc li a::after {
+  content: target-counter(attr(href),page);
+  float: right;
+}
+
+@page:right{
+  @bottom-right {
+    content: counter(page);
+  }
+}
+
+@page:left{
+  @bottom-left {
+    content: counter(page);
+  }
+}
+
+}
