@@ -1,5 +1,5 @@
 ---
-title: James Galbraith, b. 1455, 13th Chief & 7th of Culcreuch
+title: James Galbraith, b. 1455, 13th Chief, 7th of Culcreuch
 geni: https://www.geni.com/people/James-Galbraith-13th-Chief-7th-of-Culcreuch/6000000033166873646
 ---
 
