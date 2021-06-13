@@ -13,5 +13,5 @@ Children of James and Agnes (Colquhoun) Galbraith:
 5. *Humphrey Galbraith*, b. 1495
 6. *Janet Galbraith*, b. 1504, m. *Walter MacFarlane*
 7. *Thomas Galbraith*, b. 1505
-8. *Robert Galbraith*, b. 1507, m. *Janet Seton*
+8. [*Robert Galbraith*](galbraith-robert-1507.md), b. 1507, m. *Janet Seton*
 
