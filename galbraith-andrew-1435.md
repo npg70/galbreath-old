@@ -1,5 +1,5 @@
 ---
-title: Andrew Galbraith, 11th Chief & 5th of Culcreuch
+title: Andrew Galbraith, b. 1435, 11th Chief, 5th of Culcreuch
 geni: https://www.geni.com/people/Andrew-Galbraith-11th-Chief-5th-of-Culcreuch/6000000039864999357
 ---
 **Andrew Galbraith** b. 1435 and d. 1478 in Culcreuch Castle.
