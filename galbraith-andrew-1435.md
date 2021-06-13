@@ -9,4 +9,5 @@ Children of Andrew and Margaret (Stirling) Galbraith:
 1. *Thomas Galbraith*, b. ~1453, Culcreuch Castle, Fintry, Stirlingshire, Scotland, d. 16 Oct 1489, Talla Moss, Gartalunan (Now Gartloaning), Dunbartonshire, Scotland
 2. [*James Galbraith*](galbraith-james-1455.md), b. 1455, m. *Agnes Colquhoun*
 3. *Humphrey Galbraith*, b. 1465, m. *tbd*
+4. *Isabella Galbraith*, b. 1472, d. 1510.
 
