@@ -7,7 +7,7 @@ geni: https://www.geni.com/people/James-Galbraith-13th-Chief-7th-of-Culcreuch/60
 
 Children of James and Agnes (Coloquhon) Galbraith:
 
-1. *Andrew Galbraith*, b. 1488
+1. [*Andrew Galbraith*](galbraith-andrew-1500.md), b. 1500
 2. *Walter Galbraith*, b. 1490
 3. *Margret Galbraith*, b. 1491 m. *William Cockburn*
 4. *Robert Galbraith*, b. 1493
