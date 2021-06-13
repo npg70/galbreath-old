@@ -2,7 +2,7 @@
 title: James Galbraith
 ---
 
-***James Galbraith***, son of [*James Galbraith*](galbraith-james-1525.md).  Born abt. 1553.  Married *Margaret Crawford*.
+***James Galbraith***, son of [*James Galbraith*](galbraith-james-1525.md).  Born abt. 1553.  Married **Margaret Crawford**.
 
 Child of James and Margaret (Crawford) Galbraith:
 
