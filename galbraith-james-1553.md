@@ -6,7 +6,7 @@ title: James Galbraith
 
 Child of James and Margaret (Crawford) Galbraith:
 
-1. [*Robert Galbraith*](galbraith-robert-1563.md), b abt. 1563
+1. [*Robert Galbraith*](galbraith-robert-1563.md), b abt. 1563, m. *Margaret Seton*
 2. *Marion Galbraith*, m. *Adam Boyd*
 3. *Helen Galbraith*, m. *Adam Montgomerie*
 4. *Isobel Galbraith*, m. *James Forsyth*
