@@ -2,7 +2,13 @@
 title: Katharine Galbreath b. 1741 m. James Harvie
 familysearch: https://www.familysearch.org/tree/person/details/9M9D-F9R
 ---
-**Katharine Galbreath**, daughter of [*Archibald Galbreath*](galbreath-archibald-1708.md); *Margaret White*, at Campbeltown, Argyll, Scotland born 3 May 1741, and baptized 10 May 1741.  Married 1 Dec 1761 to  **James Harvie**, born Oct 1735, son of  *James Harvie* b. 1698; *Janet Michell* b. 1707.
+**Katharine Galbreath**, daughter of [*Archibald Galbreath*](galbreath-archibald-1708.md); *Margaret White*, at Campbeltown, Argyll, Scotland born 3 May 1741, and baptized 10 May 1741. Married 1 Dec 1761 to **James Harvie**, born Oct 1735, son of  *James Harvie* b. 1698; *Janet Michell* b. 1707.
+
+[DAR.org](https://services.dar.org/Public/DAR_Research/search_bible/?Rows=25&action=search&SearchSource=Form&MySurname=galbreath%2C+Katrine&MySearchType=Normal&SubmitForm=Search) has a bible record from Indiana.  Pages 165 and 166 seem to contain an index for the Harvey family. Content unknown:
+
+    Harvey Source: GRC - IN:s1:v736 pg 165
+    Bible Description: James Harvey and wife, Katrine GALBREATH (married 1761)
+    Book Title: Indiana DAR GRC report ; s1 v736 : bible and family records of families in Indiana, bk. 1
 
 Children of James and Katharine (Galbreath) Harvie, all baptized at Campbeltown:[^children1][^children2]
 
