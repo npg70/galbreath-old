@@ -9,7 +9,7 @@ Alexander and family "emigrated and landed in Baltimore on 1st September 1785."[
 Children of Alexander and Agnes (Fleming) Galbreath:[^oprchildren]
 
 1. *John Galbreath*, bp. Campbeltown 25 May 1781. Assumed died in infancy.
-2. *James Galbreath*, bp. Campbeltown 19 May 1782, d. 23 Jan 1811.
+2. *James Galbreath*, bp. Campbeltown 19 May 1782, d. 23 Jan 1811. Not married, no known children.
 3. *John Galbreath*, b. Campbeltown 8 Jan 1784, d. 25 May 1844.  m. *Hannah Morrison*
 4. *Agnes Galbreath*, b. 20 Feb 1789. d. 9 Mar 1839; m. *Samuel P Morrison*.
 5. *Alexander Galbreath*, b. 2 Apr 1794 d.26 Jun 1859. m. *Eliza B Hammond*.
