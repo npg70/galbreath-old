@@ -7,31 +7,12 @@ familysearch: xxx
 
 Children of John and Hannah (Morrison) Galbreath:
 
-```
 
-James Wilson Galbreath
-1810–1877
-
-Reverand William Morrison Galbreath
-1813–1891
-
-Alexander Galbreath
-1816–1880
-
-Ann Galbreath
-1818–1894
-
-John Fleming Galbreath
-1821–1876
-
-Nancy Jane Galbreath
-1824–1889
-
-Hannah Jane Galbreath
-1828–1913
-
-Mary Galbreath
-1833–1899
-
-Add family
-```
+1. *James Wilson Galbreath*, 1810–1877
+2. *Reverand William Morrison Galbreath*, 1813–1891
+3. *Alexander Galbreath*, 1816–1880
+4. *Ann Galbreath*, 1818–1894
+5. *John Fleming Galbreath*,  1821–1876
+6. *Nancy Jane Galbreath*, 1824–1889
+7. *Hannah Jane Galbreath*, 1828–1913
+8. *Mary Galbreath*, 1833–1899
