@@ -51,7 +51,7 @@
 
 - [Janet Galbreath](galbreath-janet-1711.md) b. 1711; m. *David Ryburn Sr* 1735.6 children, probable brother Samuel
 - [Mary Galbreath](galbreath-mary-1704.md) b. 1704, the daughter of James Galbreath and Mary Fleming; m. *Matthew Ryburn* 1724
-- [Mary Galbreath]() b. 1725; m. *Matthew Ryburn* on 30 Apr 1747.
+- [Mary Galbreath](galbreath-mary-1725.md) b. 1725; m. *Matthew Ryburn* on 30 Apr 1747.
 - Samuel Calbraith, m. *Jean Ryeburn* on 1 Nov 1746.
 - [Janet Galbreath](galbreath-janet-1735.md), m. *William Ryburn* on 16 Jun 1761
 
