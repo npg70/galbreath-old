@@ -6,6 +6,8 @@ familysearch: https://www.familysearch.org/tree/person/details/KHC3-LK7
 
 Children of William and Janet (Galbreath) Ryburn:
 
+Records for familysearch below have problems:
+
 ```
 Margaret Ryburn
 1762–Deceased	 • 	L7FQ-8JZ​​
