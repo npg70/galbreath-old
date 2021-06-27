@@ -12,7 +12,7 @@ Children of William and Margaret (Kilpatrick) Galbreath, all baptized in Campbel
 4. [*Mary Galbreath*](galbreath-mary-1729.md), bp. 19 Oct 1729, m. *William Armour*
 5. *John Galbreath*, bp. 14 May 1732. Two records. Recorded under "Galbreath" and "Calbreath"
 6. *Jean Galbreath*, bp. 2 Jul 1733.
-7. *Janet Galbreath*, bp. 27 Apr 1735.
+7. [*Janet Galbreath*](galbreath-janet-1735.md), bp. 27 Apr 1735, m. *William Ryburn*
 8. *Ann Galbreath*, bp. 22 Jan 1738.
 9. [*Henry Galbreath*](galbreath-henry-1739.md), bp. Apr 1739. m. *Agnes Armour*. Note two records same names/dates.
 
