@@ -12,7 +12,7 @@ Children of Alexander and Agnes (Fleming) Galbreath:[^oprchildren]
 2. *James Galbreath*, bp. Campbeltown 19 May 1782, d. 23 Jan 1811. Not married, no known children.
 3. *John Galbreath*, b. Campbeltown 8 Jan 1784, d. 25 May 1844.  m. *Hannah Morrison*
 4. *Agnes Galbreath*, b. 20 Feb 1789. d. 9 Mar 1839; m. *Samuel P Morrison*.
-5. *[Alexander Galbreath](galbreath-alexander-1794)*, b. 2 Apr 1794 d.26 Jun 1859. m. *Eliza B Hammond*.
+5. *[Alexander Galbreath](galbreath-alexander-1794.md)*, b. 2 Apr 1794 d.26 Jun 1859. m. *Eliza B Hammond*.
 6. *Matthew Clark Galbreath*, b. 1798 d. 12 Aug 1821. Died at age 23, so unlikely married or children.
 
 [^oprchildren]: The birth of the first three children in OPR on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbr&surname_so=starts&forename_so=starts&from_year=1779&to_year=1784&parent_names=galb&parent_names_so=starts&parent_name_two=fle&parent_name_two_so=starts&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&sort=asc&order=Date&field=year)
