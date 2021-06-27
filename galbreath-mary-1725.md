@@ -1,7 +1,7 @@
 ---
 title: Mary Galbreath b 1725 m. Matthew Ryburn
 ---
-****Mary Galbreath***, of unknown parents, b 1725. married 11 Oct 1747 m. *Mathew Ryburn*.
+***Mary Galbreath***, of unknown parents, b 1725. married 11 Oct 1747 m. *Mathew Ryburn*.
 
 Child of Matthew and Mary (Galbreath) Ryburn:
 
