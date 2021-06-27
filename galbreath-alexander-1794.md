@@ -7,10 +7,10 @@ familysearch: https://www.familysearch.org/tree/person/details/LW6B-P5H
 
 Children of Alexnader and Eliza (Hammond) Galbreath:
 
-1. *William Barclay Galbreath*
-2. *Agnes Fleming Galbreath*
-3. *Sarah Ann Galbreath*
-4. *Mathew Clark Galbreath*
+1. *William Barclay Galbreath*, b. 1 Feb 1826
+2. *Agnes Fleming Galbreath*, b. 29 Jan 1828
+3. *Sarah Ann Galbreath*, b. 8 Aug 1829
+4. *[Matthew Clark Galbreath](galbreath-matthew-clark-1831.md)*, b. 2 June 1831, m. Margaret L. Heaps
 5. *Eliza Janet Galbreath*, b. 19 JAN 1834, d. 19 NOV 1862, m. Joseph Ramsey.  No known children.
 6. *Alexander James Galbreath*
 7. *Isabella Galbreath*, b. 17 MAR 1838, d. 23 AUG 1848
