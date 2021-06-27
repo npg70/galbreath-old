@@ -1,7 +1,8 @@
 ---
-title; John Galbreath b. 1784 m. Hannah Morrison
+title: John Galbreath b. 1784 m. Hannah Morrison
 familysearch: xxx
 ---
+
 ***John Galbreath***, son of *[Alexander Galbreath](galbreath-alexander-1753.md)* and *Janet Langwell*.
 
 Children of John and Hannah (Morrison) Galbreath:
