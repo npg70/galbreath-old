@@ -8,7 +8,7 @@ The origins of *Mary Mitchell* are not clear.
 
 - Some claim she is the daughter of Archibald Mitchell and Mary Armour born Campbeltown 09 Dec 1676[^maybetmary1].
 - Other claim she is the daughter of JOHN MITCHELL/MARGT. TOD  born Glasgow 24 Jan 1684. [^maybemary2]
-- Another claim she is a twin, but I've found evidence of that.
+- Another claim she is a twin, but I've found no evidence of that, and maybe confusion with her children John and Mary.
 
 Children of John and Mary (Mitchell) Galbreath, all baptized in Campbeltown:[^children1]
 
