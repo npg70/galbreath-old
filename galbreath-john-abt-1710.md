@@ -5,11 +5,9 @@ familysearch: https://www.familysearch.org/tree/person/family/K4TQ-M69
 
 ***John Galbreath***, of unknown parents, born say 1710.  He married at Campbeltown on 3 Dec 1732[^marriage] to **Isobell Clark**, also of unknown lineage.  She was perhaps born around 1711.
 
-The record for John Galbreath in [FamilySearch](https://www.familysearch.org/tree/person/family/K4TQ-M69) has bad parents and birth data (comes after marriage and first child), multiple wives of same name. However the children records look ok.
+The record for John Galbreath in [FamilySearch](https://www.familysearch.org/tree/person/family/K4TQ-M69) has bad parents and birth data (comes after marriage and first child), multiple wives of same name. However the children records look ok.  Oddly for 15 children, only the last John, seems to have any records.  Old Parish Records also recorded the children under Galbreath, Calbraith, and Galbraith.  The use of "Calbraith" is a bit unusual for the time in Campbeltown,
 
-Children of John and Isobell (Clark) Galbreath, all baptized in Campbeltown:[^c1][^c2]:
-
-All children recorded in Campbeltown parish under Galbreath and Calbraith (and some under Galbraith as well).
+Children of John and Isobell (Clark) Galbreath, all baptized in Campbeltown:[^c1][^c2]
 
 1.  Daniel Galbreath, b. 3 Feb 1734. Assumed died young.
 2.  James Galbreath, b. Jan 1735.
