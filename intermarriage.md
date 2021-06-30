@@ -27,6 +27,12 @@
 
 - [James Galbreath](galbreath-james-abt-1775.md), b. abt 1775; m. *Martha Galbreath*
 
+## Greenlees
+
+- [Catherine Galbreath](galbreath-catherine-1788.md), b. 1788, m. *James Greenlees* 5 Apr 1810 Campbeltown
+- *David Galbreath*, b.  m. Mary Greenlees 09/07/1818 Campbeltown
+- *Mary Galbreath*, b. m. Robert Greenles 13/04/1852 Killean and Kilchenzie
+
 ## Harvey / Harvie
 
 - [Katherine Galbreath](galbreath-katharine-1741.md), b. 1741; m. *James Harvie*. Their daughter Catherine married Robert Galbreath, below
