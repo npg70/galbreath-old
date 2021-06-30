@@ -53,11 +53,15 @@
 - [Janet Galbreath](galbreath-janet-1718.md), b. abt 1718 with unclear lineage; m. *Robert McNair*. Their daughter Janet married  Samuel Galbreath, below.
 - [Samuel Galbreath](galbreath-samuel-1736.md), b. 1736; m. *Janet McNair*
 
-## Ryburn Family
+## Ryburn
 
 - [Janet Galbreath](galbreath-janet-1711.md) b. 1711; m. *David Ryburn Sr* 1735.6 children, probable brother Samuel
 - [Mary Galbreath](galbreath-mary-1704.md) b. 1704, the daughter of James Galbreath and Mary Fleming; m. *Matthew Ryburn* 1724
 - [Mary Galbreath](galbreath-mary-1725.md) b. 1725; m. *Matthew Ryburn* on 30 Apr 1747.
 - Samuel Calbraith, m. *Jean Ryeburn* on 1 Nov 1746.
-- [Janet Galbreath](galbreath-janet-1735.md), m. *William Ryburn* on 16 Jun 1761
+- [Janet Galbreath](galbreath-janet-1735.md), m.CATHARINE GALBREATH *William Ryburn* on 16 Jun 1761
 
+## Templeton
+
+- [*Orsla Galbreath*](galbreath-orsla-1805.md) b. 1805 m. *Hugh Templeton* Campbeltown 03 Feb 1829
+- *Catharine Galbreath* m. *Hugh Templeton* Campbelton 23/02/1837 
