@@ -24,8 +24,5 @@ Childern of Robert and Janet (Galbreath) McNair, all baptised in Campbeltown:
 
 There may be a Robert and Elizabeth b. 1763 according McNair Geneaologies.  But likley died before being baptised.
 
-# Sources
 
 [^marriage] Two OPR records for the marriage of "Janet Calbraith" and "Robert McNair" on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=M&record_type%5B0%5D=opr_marriages&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-banns-marriages&surname=mcnair&surname_so=fuzzy&forename=robert&forename_so=starts&sex=M&spouse_name_so=exact&from_year=1744&to_year=1744&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
-
-- Janet Galbraith on [FamilySearch](https://www.familysearch.org/tree/person/details/2MT3-K3W)
