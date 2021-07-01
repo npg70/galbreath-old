@@ -18,7 +18,7 @@ Children of John and Mary (Mitchell) Galbreath, all baptized in Campbeltown:[^ch
 4. *James Galbreath*, bp. 22 Mar 1713. Assumed died in infancy.
 5. *Katharine Galbreath*, bp. 8 Aug 1714
 6. *James Galbreath*, bp. 11 May 1716. Assumed died in infancy.
-7. *Patrick Galbreath*, bp. 31 May 1718.
+7. [*Patrick Galbreath*](galbreath-patrick-1718.md), bp. 31 May 1718.
 8. *James Galbreath*, bp. 28 July 1719. Twins!
 9. *Mary Galbreath*, bp. 28 July 1719. Twins!
 10. [*John Galbreath*](galbreath-john-1721.md), bp. 9 Dec 1721, m. *Agnes Langwill*.
