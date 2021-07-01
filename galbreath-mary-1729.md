@@ -1,6 +1,7 @@
 ---
 title: Mary Galbreath b. 1729  m. William Armour
 familysearch: https://www.familysearch.org/tree/person/details/KHY2-ZHF
+wikitree: https://www.wikitree.com/wiki/Galbraith-1881
 ---
 ***Mary Galbreath***, daughter of  [*William Galbreath*](galbreath-william-1701.md) and *Margaret Kilpatrick*, born 19 Oct 1729
 
