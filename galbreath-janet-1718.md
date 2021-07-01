@@ -1,6 +1,7 @@
 ---
 title: Janet Galbreath b. ~1718 m. Robert McNair
 familysearch: https://www.familysearch.org/tree/person/details/2MT3-K3W
+wikitree: https://www.wikitree.com/wiki/Galbraith-1784
 ---
 
 # Janet Galbreath
