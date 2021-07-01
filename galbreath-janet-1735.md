@@ -2,7 +2,7 @@
 title: Janet Galbreath b. 1735 m. William Ryburn
 familysearch: https://www.familysearch.org/tree/person/details/KHC3-LK7
 ---
-***Janet Galbreath***, daughter of *[William Galbreath](galbreath-william-1701.md)* and *Margaret Kilpatrick*, baptised at Campbeltown 27 Apr 1735.  Married 16 Jun 1761 to *William Ryburn*
+***Janet Galbreath***, daughter of *[William Galbreath](galbreath-william-1701.md)* and *Margaret Kilpatrick*, baptised at Campbeltown 27 Apr 1735.  Married 16 Jun 1761 to *William Ryburn*, b. 1731 son of  X and *Maraget Orr*.
 
 Children of William and Janet (Galbreath) Ryburn:
 
