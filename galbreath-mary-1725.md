@@ -3,7 +3,7 @@ title: Mary Galbreath b 1725 m. Matthew Ryburn
 familysearch: https://www.familysearch.org/tree/person/details/GWXB-9F4
 wikitree: https://www.wikitree.com/wiki/Galbraith-1884
 ---
-***Mary Galbreath***, of unknown parents, b 1725. married Campbeltown 11 Oct 1747[^marriage] m. *Matthew Ryburn*, bp. 23 July 1722, son of *William Ryburn* and *Janet Colville*.
+***Mary Galbreath***, of unknown parents, b 23 May 1725, married Campbeltown 11 Oct 1747[^marriage] m. **Matthew Ryburn**, bp. 23 July 1722, son of *William Ryburn* and *Janet Colville*.
 
 Child of Matthew and Mary (Galbreath) Ryburn:
 
