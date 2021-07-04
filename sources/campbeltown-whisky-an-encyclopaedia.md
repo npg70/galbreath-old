@@ -8,7 +8,7 @@ Page 63, regarding XXX distillery:
     the 1841 census was taken... there was Hugh Templeton,
     described as a maltster, and his wife Catharine Galbreath.
    
-Page 76 and 77
+Pages 76-77
 
 Extensive notes on John Galbraith
 
@@ -26,7 +26,7 @@ Extensive notes on John Galbraith
     in 1900. Her parents were John Townley McEwing, R.N., and 
     Elizabeth Colville. For daughter Elizabeth...
  
- Page 106-107
+ Pages 106-107
  
     Samuel Greenless...  He was one of 11 children born to
     James Greenlees, farmer, and Catherine Galbraith. There were
@@ -38,7 +38,7 @@ Extensive notes on John Galbraith
     James Greenlees, farmer, Peninver' -- died at Moy [farm],
     at, for that time, the grand old age of 90
     
-Pagw 115
+Page 115
 
     ... by Minnie Galbraith, daughter of Andrew Galbraith (p 77)
    
