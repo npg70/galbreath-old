@@ -2,6 +2,14 @@
 title: "Source Campbeltown Whisky: An Encyclopaedia"
 ---
 
+Page 44:
+
+    Colvill(e), John Jr, who died on 5 Dec
+    1851...
+
+    His parents were Archibald Colville and Janet Clark, and
+    he married Jean Galbraith, daughter of Archibald, merchant,
+    in 1824. She died in 1864.
 
 Page 63, regarding XXX distillery:
 
