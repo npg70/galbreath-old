@@ -5,7 +5,7 @@ title: "Source Campbeltown Whisky: An Encyclopaedia"
 
 Page 63, regarding XXX distillery:
 
-    the 1841 xensus was taken... Finally, there was Hugh Templeton,
+    the 1841 census was taken... there was Hugh Templeton,
     described as a maltster, and his wife Catharine Galbreath.
    
 Page 76 and 77
