@@ -1,5 +1,5 @@
 ---
-title: "Source Campbeltown Whisky: An Encyclopaedia"
+title: "Campbeltown Whisky: An Encyclopaedia"
 ---
 
 Page 44:
