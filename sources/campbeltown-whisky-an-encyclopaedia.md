@@ -11,7 +11,7 @@ Page 44:
     he married Jean Galbraith, daughter of Archibald, merchant,
     in 1824. She died in 1864.
 
-Page 63, regarding XXX distillery:
+Page 63, regarding Drumore Distillery:
 
     the 1841 census was taken... there was Hugh Templeton,
     described as a maltster, and his wife Catharine Galbreath.
