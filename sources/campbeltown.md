@@ -5,17 +5,17 @@ title: "Campbeltown"
 ## Index
 
 - Galbraith:
-  - family: 78, 127, 133
+  - family: [78](#page-78), 127, [133](#page-133)
   - Archibald: [62](#page-62)
-  - Daniel: 349, 365
+  - Daniel: [349](#page-349), [365](#page-365)
   - Jas: [41](#page-41)
-  - John: 154, 355
-  - Lachlan: 80
-  - William: 154
-  - William John: 365
+  - John: [154](#page-154), [355](#page-355)
+  - Lachlan: [80](#page-80)
+  - William: [154](#page-154)
+  - William John: [365](#page-365)
 - Galbreath:
-  - Archd.: 156
-  - Daniel: 103
+  - Archd.: [156](#page-156)
+  - Daniel: [103](#page-103)
 
 ## Page 41
 
@@ -43,18 +43,17 @@ title: "Campbeltown"
 > ferryman, Lachlan Galbraith, kept his boat for meeting the daily steamers than ran between
 > Glasgow and Campbeltown.
 
-## Page XX
-
-> The names of some of Campbeltown's distilling families appear throughout the Still books
-> -- Colvills [sic], Fergusons, Greenlees, Harvies, Johnsons, Reids, Mitchells and Galbraiths
-> among others -- as buyers of utensils for private distilling.
-
 ## Page 103
 
 > ... a case brought in May 1772 against Daniel Galbreath, shopkeeper, for carrying away 
 > twenty cartloads of dung from a close at the back of the Main Street in Campbeltown,
 > which Angus McDonald, a gardener, wanted for his potatoes.
 
+## Page 127
+
+> The names of some of Campbeltown's distilling families appear throughout the Still books
+> -- Colvills [sic], Fergusons, Greenlees, Harvies, Johnsons, Reids, Mitchells and Galbraiths
+> among others -- as buyers of utensils for private distilling.
 
 ## Page 133
 
@@ -80,6 +79,12 @@ Deemed "missing" in 1940 from the Battle of Dunkirk:
 
 > Gunner Dan Galbraith, c/o Mason, Mill Street - 201st Anti-tank Battery, R.A.
 
+## Page 355
+
+> ...Pilot Officer John Galbraith of Polliwilline Farm, Southend, was reported in
+> August 1942 as probably the first Kintyre man to cross the Atlantic by air.
+
+
 ## Page 365
 
 From Campbeltown War Memorial, World War 2:
@@ -88,7 +93,4 @@ From Campbeltown War Memorial, World War 2:
 > 
 > GALBRAITH, William John -- Lt. A. & S.H., 14 Smith Drive
 
-## Page 355
 
-> ...Pilot Officer John Galbraith of Polliwilline Farm, Southend, was reported in
-> August 1942 as probably the first Kintyre man to cross the Atlantic by air.
