@@ -2,6 +2,12 @@
 title: "Campbeltown"
 ---
 
+Page 41
+
+> By 1804 a premium was offered to the first farmer who grew more than an 
+> acre of turnips. This was claimed by Jas. Galbraith of Skeroblin who grew
+> one and a half acres.
+
 Page 62
 
 > The modern shipyard at Trench Point ... built only two fishing boats for
@@ -35,6 +41,25 @@ Page 133
 
 Page 349
 
-Deemed "missing" in 1940 Dunkirk invasion:
+> Glen Scotia (also Scotia)  Said to have founded as Scotia in 1832 by Steward, Galbraith & Co,
+> licensees 1835-c,1895. Situated in High Street, Dalintober; original partners were James Stewart,
+> John and William Galbraith...
+
+
+Deemed "missing" in 1940 from the Battle of Dunkirk:
 
 > Gunner Dan Galbraith, c/o Mason, Mill Street - 201st Anti-tank Battery, R.A.
+
+Page 365
+
+From Campbeltown War Memorial, World War 2:
+
+> GALBRAITH, Daniel -- W/O R.A.F.V.R., 19 Victoria Place
+> 
+> GALBRAITH, William John -- Lt. A. & S.H., 14 Smith Drive
+
+Page 355
+
+> ...Pilot Officer John Galbraith of Polliwilline Farm, Southend, was reported in
+> August 1942 as probably the first Kintyre man to cross the Atlantic by air.
+
