@@ -5,7 +5,7 @@ title: "Campbeltown"
 ## Index
 
 - Galbraith:
-  - family: [78](#page-78), 127, [133](#page-133)
+  - family: [78](#page-78), [127](#page-127), [133](#page-133)
   - Archibald: [62](#page-62)
   - Daniel: [349](#page-349), [365](#page-365)
   - Jas: [41](#page-41)
