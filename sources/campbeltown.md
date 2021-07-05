@@ -39,12 +39,20 @@ Page 133
 > Prosperous distillers and merchants, among them the Covilles, Galbraiths, Harveys and MacTaggarts,
 > could soon afford handsome properties amid gardens and plantations.
 
-Page 349
+Page 154
 
 > Glen Scotia (also Scotia)  Said to have founded as Scotia in 1832 by Steward, Galbraith & Co,
 > licensees 1835-c,1895. Situated in High Street, Dalintober; original partners were James Stewart,
 > John and William Galbraith...
 
+Page 156
+
+TBD: where listed?
+
+> Other distillers in Campbeltown that are listed are Archd. Galbreath, James Elder, Matthew Harvey
+> all in 1798...
+
+Page 349
 
 Deemed "missing" in 1940 from the Battle of Dunkirk:
 
@@ -62,4 +70,5 @@ Page 355
 
 > ...Pilot Officer John Galbraith of Polliwilline Farm, Southend, was reported in
 > August 1942 as probably the first Kintyre man to cross the Atlantic by air.
+
 
