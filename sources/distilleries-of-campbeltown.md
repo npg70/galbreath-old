@@ -12,7 +12,10 @@ Index
 
 ## Page 9
 
-> ,Hugh Ferguson and James Galbreath joined James Armour in the partnership.
+> In 1789 the quantity of whisky produced by one of the town stills...  
+> The original partners in the business were James Armour, cooper, and John Armour, merchant.
+> Then after the death of the later, ,Hugh Ferguson and James Galbreath
+> joined James Armour in the partnership.
 
 ## Page 16
 
