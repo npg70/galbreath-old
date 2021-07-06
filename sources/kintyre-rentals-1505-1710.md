@@ -24,7 +24,7 @@ Row 25:
 
 ## Page 73
 
-From the secion "Kintyre Tenants 1666-1705"
+From the section "Kintyre Tenants 1666-1705"
 
 > These notes are the particulars of leases  contained in two folders in the procession of the Duke of Argyll
 
