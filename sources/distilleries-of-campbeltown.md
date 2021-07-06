@@ -2,7 +2,7 @@
 title: The Distilleries of Campbeltown 
 ---
 
-Index
+## Index
 
 - Galbraith, Florence: TBD (not in published index)
 - Galbraith, John 89
@@ -13,9 +13,9 @@ Index
 ## Page 9
 
 > In 1789 the quantity of whisky produced by one of the town stills...  
-> The original partners in the business were James Armour, cooper, and John Armour, merchant.
-> Then after the death of the later, ,Hugh Ferguson and James Galbreath
-> joined James Armour in the partnership.
+> The original partners in the business were James Armour, cooper,
+> and John Armour, merchant. Then after the death of the later,
+> Hugh Ferguson and James Galbreath joined James Armour in the partnership.
 
 ## Page 16
 
