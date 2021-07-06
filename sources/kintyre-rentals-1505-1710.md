@@ -14,9 +14,28 @@ title: "Kintyre Rentals 1505-1710"
 
 ## Page 64
 
+From the section "Kintyre Tracks of 1666 to 1669"
+
+> There is in the Register House Edinburgh on old parchment in MS containing 
+> an inventory of Argyll deeds, grants, tracks, etc...
+
+Row 25:
+> Ardnacrosh to (.....) Galbraith 1666
+
 ## Page 73
 
+From the secion "Kintyre Tenants 1666-1705"
+
+> These notes are the particulars of leases  contained in two folders in the procession of the Duke of Argyll
+
+Row 81:
+> ...Patrick Galbraith...\
+> Ardnacross, etc. Written by Donald Lamont in Lochhead\
+> 1666 [year granted]
+
 ## Page 113
+
+Kintyre Rentals 1709-1710, all 19 year leases, in a bound volume in possesion of the Duke of Argyll.  In section VI. Kilchousland Parish:
 
 Row 7:
 > 27 April 1709\
@@ -31,4 +50,4 @@ Row 8:
 Row 9:
 >  24 April 1709\
 >  John Cauldwell in Ardnacross, James Galbreath Yr in Kilkeddan\
->  4 mkland of Ardnacross with equal 1/3 part of the moor of Kilkeddan lyinh next to moor of Ardnacross.
+>  4 mkland of Ardnacross with equal 1/3 part of the moor of Kilkeddan lying next to moor of Ardnacross.
