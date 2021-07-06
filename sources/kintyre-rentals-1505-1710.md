@@ -30,7 +30,7 @@ From the section "Kintyre Tenants 1666-1705"
 
 Row 81:
 > ...Patrick Galbraith...\
-> Ardnacross, etc. Written by Donald Lamont in Lochhead\
+> Ardnacross, etc. Written by Donald Lamont in Lochheid\
 > 1666 [year granted]
 
 ## Page 113
