@@ -24,7 +24,7 @@ All under "Galbreath" (and "Galbraith" is not listed)
 - Jean: 87, 88, 205
 - John: 45, [92](#page-92), 93, [130](#page-130), 157, 178, 183
 - Margaret: 46, [92](#page-92) (2), 177, 178
-- Martha: 131, 171
+- Martha: [131](#page-130), 171
 - Mary: 45, 60, 96, [131](#page-130), 150, 178, 187, 190, 205
 - Neil: 46,
 - Neill: 115, 150 (2), 190, 198
