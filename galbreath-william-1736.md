@@ -18,7 +18,7 @@ Children of Willian and Maraget (Dunlop) Galbreath:[^children1][^children2]
 1. *[Archibald Galbreath](galbreath-archibald-1760.md)*, b. 12 Oct 1760, m. *Jean Corbet*.  Listed unnder Galbreath and Colbreath.
 2. *Margaret Galbreath*, b. 8 Dec 1762.  Two records "WILLIAM GALBREATH/MARGARET DUNLOP" and "WILEAM GALBREATH/MARGRAT DUNLOP"
 3. *Mary Galbreath*, b. 23 Aug 1764. Two records, Galbreath vs. Galbraith
-4. *Rachel Galbreath*, b. 29 AUg 1765. Two rcords, Galbreath vs. Galbraith
+4. *Rachel Galbreath*, b. 29 Aug 1765. Two records, Galbreath vs. Galbraith
 5. *William Galbreath*, b. 16 Nov 1766. Two records Galbreath vs. Galbraith.
 6. *James Galbreath*, b. 10 Feb 1768. Two records Galbreath vs. Galbraith.
 7. *Andrew Galbreath*, b. 7 May 1769
