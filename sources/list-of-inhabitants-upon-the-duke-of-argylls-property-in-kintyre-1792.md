@@ -35,7 +35,7 @@ All under "Galbreath" (and "Galbraith" is not listed)
 - Samuel: 171
 - William: [92](#page-92) (2), 178
 
-## Page 92
+## Pages 92-93
 
 20 & 21 Back Street
 
@@ -67,7 +67,7 @@ All under "Galbreath" (and "Galbraith" is not listed)
 | 1   | 1791 |     |          | Alexander Johnson |
 
 
-## Page 130-131
+## Pages 130-131
 
 | Age | Birth | Men | Women | Children  |
 |-----|-------|-----|-------|-----------|
