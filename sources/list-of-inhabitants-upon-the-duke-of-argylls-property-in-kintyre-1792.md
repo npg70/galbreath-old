@@ -73,7 +73,7 @@ All under "Galbreath" (and "Galbraith" is not listed)
 |-----|-------|-----|-------|-----------|
 | 55  | 1737  | John Galbreath | |      |
 | 34  | 1758  |     | Ann Galbreath  |  |
-| 19  | 1773  | Dvid Galbreath |     |  |
+| 19  | 1773  | David Galbreath |     |  |
 | 10  | 1782  |     |          | Mary Galbreath |
 | 8   | 1784  |     |          | Daneil Galbreath |
 | 2   | 1790  |     |          | Martha Galbreath |
