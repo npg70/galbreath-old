@@ -43,4 +43,11 @@ All under "Galbreath" (and "Galbraith" is not listed)
 |-----|------|-----|-------|----------|
 | 20  |      | James Galbreath | | |
 | 18  |      |     | Margaret Galbreath | |
+| 15  |      |     |        | Florence Galbreath  |
+| 11  |      |     |        | William Galbreath   |
+| 7   |      |     |        | John Galbreath      |
+| 4   |      |     |        | Alexander Galbreath |
+| 50  |      | William Galbreath |  |  |
+| 42  |      |     | Mary Campbell |   |
+
 
