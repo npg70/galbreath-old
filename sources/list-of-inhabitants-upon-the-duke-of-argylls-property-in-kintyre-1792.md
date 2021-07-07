@@ -37,7 +37,7 @@ All under "Galbreath" (and "Galbraith" is not listed)
 
 ## Pages 92-93
 
-20 & 21 Back Street
+Burgh of Campbeltown, 20 & 21 Back Street
 
 | Age | Birth | Men | Women | Children |
 |-----|------|-----|-------|----------|
@@ -68,6 +68,8 @@ All under "Galbreath" (and "Galbraith" is not listed)
 
 
 ## Pages 130-131
+
+Burgh of Campbeltown,, 108 Burnside:
 
 | Age | Birth | Men | Women | Children  |
 |-----|-------|-----|-------|-----------|
