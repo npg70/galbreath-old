@@ -10,8 +10,8 @@ All under "Galbreath" (and "Galbraith" is not listed)
 - Alexander: [92](#page-92)
 - Andrew: [92](#page-92)
 - Ann: [130](#page-130)
-- Archibald: [92](#page-92), 171, 178, 205
-- Cathrin: 172, 186, 205
+- Archibald: [92](#page-92), 171, 178, [205](#page-205)
+- Cathrin: 172, 186, [205](#page-205)
 - Cathrine: 75
 - Christian: 50
 - Daniel: [131](#page-130)
@@ -21,11 +21,11 @@ All under "Galbreath" (and "Galbraith" is not listed)
 - Flory: 140
 - James: [92](#page-92), 172, 178
 - Janet: 45, 172, 178
-- Jean: 87, 88, 205
+- Jean: 87, 88, [205](#page-205)
 - John: 45, [92](#page-92), 93, [130](#page-130), 157, 178, 183
 - Margaret: 46, [92](#page-92) (2), 177, 178
 - Martha: [131](#page-130), 171
-- Mary: 45, 60, 96, [131](#page-130), 150, 178, 187, 190, 205
+- Mary: 45, 60, 96, [131](#page-130), 150, 178, 187, 190, [205](#page-205)
 - Neil: 46,
 - Neill: 115, 150 (2), 190, 198
 - Peggy: 69, 111, 115
@@ -78,3 +78,14 @@ All under "Galbreath" (and "Galbraith" is not listed)
 | 8   | 1784  |     |          | Daneil Galbreath |
 | 2   | 1790  |     |          | Martha Galbreath |
 
+
+## Page 205
+
+Parish of Kilchenzie, Belochgoichan:
+
+| Age | Birth | Men | Women | Children  |
+|-----|-------|-----|-------|-----------|
+| 40  | 1752  | Archibald Galbreath | | |
+| 30  | 1762  |     | Mary Galbreath |  |
+| 20  | 1772  |     | Cathrin Galbreath | |
+| 14  | 1778  |     |       | Jean Galbreath |
