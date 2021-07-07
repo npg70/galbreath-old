@@ -14,18 +14,18 @@ All under "Galbreath" (and "Galbraith" is not listed)
 - Cathrin: 172, 186, 205
 - Cathrine: 75
 - Christian: 50
-- Daniel: 131
-- David: 131
+- Daniel: [131](#page-130)
+- David: [131](#page-130)
 - Donald: 108, 187
 - Florence: [92](#page-92)
 - Flory: 140
 - James: [92](#page-92), 172, 178
 - Janet: 45, 172, 178
 - Jean: 87, 88, 205
-- John: 45, [92](#page-92), 93, 130, 157, 178, 183
+- John: 45, [92](#page-92), 93, [130](#page-130), 157, 178, 183
 - Margaret: 46, [92](#page-92) (2), 177, 178
 - Martha: 131, 171
-- Mary: 45, 60, 96, 131, 150, 178, 187, 190, 205
+- Mary: 45, 60, 96, [131](#page-130), 150, 178, 187, 190, 205
 - Neil: 46,
 - Neill: 115, 150 (2), 190, 198
 - Peggy: 69, 111, 115
@@ -67,5 +67,14 @@ All under "Galbreath" (and "Galbraith" is not listed)
 | 1   | 1791 |     |          | Alexander Johnson |
 
 
+## Page 130-131
 
+| Age | Birth | Men | Women | Children  |
+|-----|-------|-----|-------|-----------|
+| 55  | 1737  | John Galbreath | |      |
+| 34  | 1758  |     | Ann Galbreath  |  |
+| 19  | 1773  | Dvid Galbreath |     |  |
+| 10  | 1782  |     |          | Mary Galbreath |
+| 8   | 1784  |     |          | Daneil Galbreath |
+| 2   | 1790  |     |          | Martha Galbreath |
 
