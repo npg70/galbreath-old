@@ -41,7 +41,7 @@ All under "Galbreath" (and "Galbraith" is not listed)
 
 | Age | Year | Men | Women | Children |
 |-----|------|-----|-------|----------|
-| 20  |      | James Galbreath | | |
+| 20  |      | [James Galbreath](/foo) | | |
 | 18  |      |     | Margaret Galbreath | |
 | 15  |      |     |        | Florence Galbreath  |
 | 11  |      |     |        | William Galbreath   |
@@ -49,5 +49,23 @@ All under "Galbreath" (and "Galbraith" is not listed)
 | 4   |      |     |        | Alexander Galbreath |
 | 50  |      | William Galbreath |  |  |
 | 42  |      |     | Mary Campbell |   |
+| 21  |      | Andrew Galbreath |  |   |
+| 17  |      |     | Mary Stevenson |  |
+| 16  |      |     | Jean Armour    |  |
+| 30  |      | William Johnson |    |  |
+| 27  |      |     | Margaret Galbreath | |
+|  8  |      |     |        | Margaret Johnson |
+|  6  |      |     |        | Alexander Johnson |
+|  3  |      |     |        | William Johnson   |
+|  1  |      |     |        | James Johnson     |
+| 23  |      |     | Mary McEachine |   |
+| 32  |      | Archibald Galbreath |  |  |
+| 20  |      |     | Jean Corbett | |
+| 20  |      | John Galbreath     |  |   |
+| 24  |      | Robert Johnson | | |
+| 23  |      |     | Rachel Galbreath | |
+| 1   |      |     |          | Alexander Johnson |
+
+
 
 
