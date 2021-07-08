@@ -31,9 +31,9 @@ All under "Galbreath" (and "Galbraith" is not listed)
 - Peggy: 69, 111, 115
 - Peter: 178
 - Rachel: 93, 111
-- Robert: [171](#page-171), 178
+- Robert: [171](#page-171), [178](#page-178)
 - Samuel: [171](#page-171),
-- William: [92](#page-92) (2), 178
+- William: [92](#page-92) (2), [178](#page-178)
 
 ## Pages 92-93
 
