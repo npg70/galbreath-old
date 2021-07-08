@@ -25,9 +25,9 @@ All under "Galbreath" (and "Galbraith" is not listed)
 - John: [45](#page-45), [92](#page-92), [93](#page-92), [130](#page-130), 157, [178](#page-178), [183](#page-183)
 - Margaret: [46](#page-45), [92](#page-92) (2), [177](#page-177), [178](#page-178)
 - Martha: [131](#page-130), 171
-- Mary: [45](#page-44), 60, 96, [131](#page-130), 150, [178](#page-178), 187, [190](#page-190), [205](#page-205)
+- Mary: [45](#page-44), 60, 96, [131](#page-130), [150](#page-150), [178](#page-178), 187, [190](#page-190), [205](#page-205)
 - Neil: [46](#page-44)
-- Neill: [115](#page-115), 150 (2), [190](#page-190), 198
+- Neill: [115](#page-115), [150](#page-150) (2), [190](#page-190), 198
 - Peggy: 69, [111](#page-111), [115](#page-115)
 - Peter: [178](#page-178)
 - Rachel: 93, [111](#page-111)
@@ -114,6 +114,17 @@ Burgh of Campbeltown, 108 Burnside:
 | 10  | 1782  |     |          | Mary Galbreath |
 | 8   | 1784  |     |          | Daneil Galbreath |
 | 2   | 1790  |     |          | Martha Galbreath |
+
+## Page 150
+
+Burgh of Campbeltown, Argyll Street.
+
+| Age | Birth | Men | Women | Children  |
+|-----|-------|-----|-------|-----------|
+| 29  | 1769 | Neill Galbreath | |      |
+| 26  | 1766 |     | Isobell McKinlay | |
+| 4   | 1788 |     |       | Neill Galbreath |
+| 2   | 1790 |     |       | Mary Galbreath  |
 
 ## Pages 171-172
 
