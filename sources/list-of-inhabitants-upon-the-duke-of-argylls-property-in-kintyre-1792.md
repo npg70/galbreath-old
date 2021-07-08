@@ -11,7 +11,7 @@ All under "Galbreath" (and "Galbraith" is not listed)
 - Andrew: [92](#page-92)
 - Ann: [130](#page-130)
 - Archibald: [92](#page-92), [171](#page-171), [178](#page-178), [205](#page-205)
-- Cathrin: [172](#page-171), 186, [205](#page-205)
+- Cathrin: [172](#page-171), [186](#page-186), [205](#page-205)
 - Cathrine: 75
 - Christian: 50
 - Daniel: [131](#page-130)
@@ -121,7 +121,6 @@ Parish of Kilchousland, Kildonan
 
 ## Page 178
 
-
 Parish of Kilchousland, Laggan
 
 | Age | Birth | Men | Women | Children  |
@@ -147,6 +146,22 @@ Parish of Kilchenzie, Kilchenzie:
 | 34  |       | John Galbreath | |  |
 | 32  |       |     | Mary Gilchrist | |
 | 2   |       |     |       | John Gilchrist |
+
+## Page 186
+
+Parish of Kilchenzie, Skeroblinraid
+
+| Age | Birth | Men | Women | Children  |
+|-----|-------|-----|-------|-----------|
+| 87  | 1705  |     | Janet Mitchell |  |
+| 55  | 1737  | James Harvie | |  |
+| 50  | 1742  |     | Cathrin Galbreath | |
+| 23  | 1769  |     | Janet Harvie |  |
+| 19  | 1773  | John Harvie | | |
+| 15  | 1777  |     |       | Robert Harvie |
+| 13  | 1779  |     |       | Cathrin Harvie |
+| 11  | 1781  |     |       | Andrew Harvie |
+|  7  | 1785  |     |       | Agnes Harvie |
 
 ## Page 205
 
