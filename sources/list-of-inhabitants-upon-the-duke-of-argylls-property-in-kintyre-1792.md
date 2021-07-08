@@ -29,7 +29,7 @@ All under "Galbreath" (and "Galbraith" is not listed)
 - Neil: 46,
 - Neill: 115, 150 (2), 190, 198
 - Peggy: 69, 111, 115
-- Peter: 178
+- Peter: [178](#page-178)
 - Rachel: 93, 111
 - Robert: [171](#page-171), [178](#page-178)
 - Samuel: [171](#page-171),
