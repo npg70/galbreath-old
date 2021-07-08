@@ -27,8 +27,8 @@ All under "Galbreath" (and "Galbraith" is not listed)
 - Martha: [131](#page-130), 171
 - Mary: [45](#page-44), 60, 96, [131](#page-130), 150, [178](#page-178), 187, 190, [205](#page-205)
 - Neil: [46](#page-44)
-- Neill: 115, 150 (2), 190, 198
-- Peggy: 69, 111, 115
+- Neill: [115](#page-115), 150 (2), 190, 198
+- Peggy: 69, 111, [115](#page-115)
 - Peter: [178](#page-178)
 - Rachel: 93, 111
 - Robert: [171](#page-171), [178](#page-178)
@@ -81,6 +81,16 @@ Burgh of Campbeltown, 20 & 21 Back Street
 | 23  | 1769 |     | Rachel Galbreath | |
 | 1   | 1791 |     |          | Alexander Johnson |
 
+
+## Page 115
+
+Burgh of Campbeltown, 73 Kirk Street:
+
+| Age | Birth | Men | Women | Children  |
+|-----|-------|-----|-------|-----------|
+| 24  | 1768  | Neil Galbreath | |      |
+| 22  | 1770  |     | Flory Paterson |   |
+| 1   | 1791  |     |        | Peggy Galbreath |
 
 ## Pages 130-131
 
