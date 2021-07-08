@@ -30,7 +30,7 @@ All under "Galbreath" (and "Galbraith" is not listed)
 - Neill: [115](#page-115), [150](#page-150) (2), [190](#page-190), 198
 - Peggy: 69, [111](#page-111), [115](#page-115)
 - Peter: [178](#page-178)
-- Rachel: 93, [111](#page-111)
+- Rachel: [93](#page-91), [111](#page-111)
 - Robert: [171](#page-171), [178](#page-178)
 - Samuel: [171](#page-171),
 - William: [92](#page-92) (2), [178](#page-178)
@@ -83,9 +83,11 @@ Burgh of Campbeltown, 20 & 21 Back Street
 
 ## Page 96
 
+TODO
+
 Burgh of Campbeltown, 31 Back Street
 
-Mary Galbreath, age 26 is listed but families and children are listed out of order.  Will take some work to see if she is associated with anyone or just a tenant/servant.
+Mary Galbreath, age 26 is listed but families and children are out of order. Will take some work to see if she is associated with anyone or just a tenant/servant.
 
 ## Page 111
 
