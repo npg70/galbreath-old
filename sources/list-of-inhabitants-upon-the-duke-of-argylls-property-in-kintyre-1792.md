@@ -25,7 +25,7 @@ All under "Galbreath" (and "Galbraith" is not listed)
 - John: [45](#page-45), [92](#page-92), [93](#page-92), [130](#page-130), 157, [178](#page-178), [183](#page-183)
 - Margaret: [46](#page-45), [92](#page-92) (2), [177](#page-177), [178](#page-178)
 - Martha: [131](#page-130), [171](#page-171)
-- Mary: [45](#page-44), 60, [96](#page-96), [131](#page-130), [150](#page-150), [178](#page-178), 187, [190](#page-190), [205](#page-205)
+- Mary: [45](#page-44), [60](#page-60), [96](#page-96), [131](#page-130), [150](#page-150), [178](#page-178), 187, [190](#page-190), [205](#page-205)
 - Neil: [46](#page-44)
 - Neill: [115](#page-115), [150](#page-150) (2), [190](#page-190), 198
 - Peggy: [69](#page-69), [111](#page-111), [115](#page-115)
@@ -49,6 +49,20 @@ In same area was the Ryburn family of Edward Ryburn and Isobell Corder, and thei
 | 7   | 1784 |     |       | Janet Galbreath |
 | 4   | 1788 |     |       | Neil Galbreath |
 | 1   | 1791 |     |       | Margaret Galbreath |
+
+## Page 60
+
+Parish of Killchivan, Drumlemble
+
+| Age | Birth | Men | Women | Children |
+|-----|------|-----|-------|----------|
+| 51  | 1741 | William Campbell | | |
+| 43  | 1749 |      | Mary Galbreath | |
+| 18  | 1774 |      |      | Agnes Campbell |
+| 16  | 1776 |      |      | Martha Campbell |
+| 14  | 1778 |      |      | Arthur Campbell |
+| 10  | 1782 |      |      | David Campbell |
+
 
 ## Page 69
 
