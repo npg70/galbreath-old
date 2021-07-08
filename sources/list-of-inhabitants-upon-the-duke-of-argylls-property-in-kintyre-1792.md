@@ -37,7 +37,9 @@ All under "Galbreath" (and "Galbraith" is not listed)
 
 ## Pages 45-46
 
-Parish of Killchivan, Kilchuibnach:
+Parish of Killchivan, Kilchuibnach.
+
+In same area was the Ryburn family of Edward Ryburn and Isobell Corder, and their sons William (5), James (3), David (1).
 
 | Age | Birth | Men | Women | Children |
 |-----|------|-----|-------|----------|
