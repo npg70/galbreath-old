@@ -21,14 +21,14 @@ All under "Galbreath" (and "Galbraith" is not listed)
 - Flory: 140
 - James: [92](#page-92), [172](#page-171), [178](#page-178)
 - Janet: [45](#page-45), [172](#page-171), [178](#page-178)
-- Jean: 87, 88, [205](#page-205)
+- Jean: [87](#page-87), [88](#page-87), [205](#page-205)
 - John: [45](#page-45), [92](#page-92), [93](#page-92), [130](#page-130), 157, [178](#page-178), [183](#page-183)
 - Margaret: [46](#page-45), [92](#page-92) (2), [177](#page-177), [178](#page-178)
 - Martha: [131](#page-130), [171](#page-171)
 - Mary: [45](#page-44), 60, [96](#page-96), [131](#page-130), [150](#page-150), [178](#page-178), 187, [190](#page-190), [205](#page-205)
 - Neil: [46](#page-44)
 - Neill: [115](#page-115), [150](#page-150) (2), [190](#page-190), 198
-- Peggy: 69, [111](#page-111), [115](#page-115)
+- Peggy: [69](#page-69), [111](#page-111), [115](#page-115)
 - Peter: [178](#page-178)
 - Rachel: [93](#page-91), [111](#page-111)
 - Robert: [171](#page-171), [178](#page-178)
@@ -49,6 +49,23 @@ In same area was the Ryburn family of Edward Ryburn and Isobell Corder, and thei
 | 7   | 1784 |     |       | Janet Galbreath |
 | 4   | 1788 |     |       | Neil Galbreath |
 | 1   | 1791 |     |       | Margaret Galbreath |
+
+## Page 69
+
+TODO
+
+Parish of Kilkerran, Arinarach
+
+Peggy Galbreath age 16, appears to be a servant in the household of John McMichael (32)
+
+
+## Pages 87-88
+
+TODO
+
+Burgh of Campbeltown, 11 Main Street.
+
+Over 90 people are liated here, two are Jean Galbreath, age 50 and 51.  Unclear who if anyone they are associated with.
 
 ## Pages 92-93
 
