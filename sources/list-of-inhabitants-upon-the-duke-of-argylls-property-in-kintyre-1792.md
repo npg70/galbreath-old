@@ -113,6 +113,7 @@ Parish of Kilchousland, Laggan
 |-----|-------|-----|-------|-----------|
 | 42  | 1750  | Peter Galbreath |  |    |
 | 35  | 1757  |     | Ann McMurchy |    |
+| 16  | 1776  |     | Janet Galbreath  |  |
 | 13  | 1779  |     |       | ~~John Galbreath~~ |
 | 11  | 1781  |     |       | William Galbreath |
 | 10  | 1782  |     |       | Robert Galbreath  |
