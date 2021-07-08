@@ -10,8 +10,8 @@ All under "Galbreath" (and "Galbraith" is not listed)
 - Alexander: [92](#page-92)
 - Andrew: [92](#page-92)
 - Ann: [130](#page-130)
-- Archibald: [92](#page-92), 171, 178, [205](#page-205)
-- Cathrin: 172, 186, [205](#page-205)
+- Archibald: [92](#page-92), [171](#page-171), 178, [205](#page-205)
+- Cathrin: [172](#page-171), 186, [205](#page-205)
 - Cathrine: 75
 - Christian: 50
 - Daniel: [131](#page-130)
@@ -19,8 +19,8 @@ All under "Galbreath" (and "Galbraith" is not listed)
 - Donald: 108, 187
 - Florence: [92](#page-92)
 - Flory: 140
-- James: [92](#page-92), 172, 178
-- Janet: 45, 172, 178
+- James: [92](#page-92), [172](#page-171), 178
+- Janet: 45, [172](#page-171), 178
 - Jean: 87, 88, [205](#page-205)
 - John: 45, [92](#page-92), 93, [130](#page-130), 157, 178, 183
 - Margaret: 46, [92](#page-92) (2), 177, 178
@@ -31,8 +31,8 @@ All under "Galbreath" (and "Galbraith" is not listed)
 - Peggy: 69, 111, 115
 - Peter: 178
 - Rachel: 93, 111
-- Robert: 171, 178
-- Samuel: 171
+- Robert: [171](#page-171), 178
+- Samuel: [171](#page-171),
 - William: [92](#page-92) (2), 178
 
 ## Pages 92-93
@@ -69,7 +69,7 @@ Burgh of Campbeltown, 20 & 21 Back Street
 
 ## Pages 130-131
 
-Burgh of Campbeltown,, 108 Burnside:
+Burgh of Campbeltown, 108 Burnside:
 
 | Age | Birth | Men | Women | Children  |
 |-----|-------|-----|-------|-----------|
@@ -80,6 +80,20 @@ Burgh of Campbeltown,, 108 Burnside:
 | 8   | 1784  |     |          | Daneil Galbreath |
 | 2   | 1790  |     |          | Martha Galbreath |
 
+## Pages 171-172
+
+Parish of Kilchousland, Peninver:
+
+| Age | Birth | Men | Women | Children  |
+|-----|-------|-----|-------|-----------|
+| 54  | 1738  | Samuel Galbreath |  |   |
+| 35  | 1757  |     | Janet McNair  |   |
+| 13  | 1779  |     |       |  Robert Galbreath |
+| 11  | 1781  |     |       |  Martha Galbreath |
+| 9   | 1783  |     |       |  Archibald Galbreath |
+| 7   | 1785  |     |       | Janet Galbreath      |
+| 4   | 1788  |     |       | Cathrin Galbreath    |
+| 1   | 1791  |     |       | James Galbreath      |
 
 ## Page 205
 
