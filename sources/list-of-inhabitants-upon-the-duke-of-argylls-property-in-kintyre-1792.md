@@ -183,6 +183,15 @@ Parish of Kilchenzie, Skeroblinraid
 | 11  | 1781  |     |       | Andrew Harvie |
 |  7  | 1785  |     |       | Agnes Harvie |
 
+## Page 190
+
+Parish of Kilchenzie, Cleonghart:
+
+| Age | Birth | Men | Women | Children  |
+|-----|-------|-----|-------|-----------|
+| 30  | 1762  | Neil Galbreath | | |
+| 22  | 1770  |     | Mary Galbreath | |
+
 ## Page 205
 
 Parish of Kilchenzie, Belochgoichan:
