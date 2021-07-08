@@ -10,7 +10,7 @@ All under "Galbreath" (and "Galbraith" is not listed)
 - Alexander: [92](#page-92)
 - Andrew: [92](#page-92)
 - Ann: [130](#page-130)
-- Archibald: [92](#page-92), [171](#page-171), 178, [205](#page-205)
+- Archibald: [92](#page-92), [171](#page-171), [178](#page-178), [205](#page-205)
 - Cathrin: [172](#page-171), 186, [205](#page-205)
 - Cathrine: 75
 - Christian: 50
@@ -19,13 +19,13 @@ All under "Galbreath" (and "Galbraith" is not listed)
 - Donald: 108, 187
 - Florence: [92](#page-92)
 - Flory: 140
-- James: [92](#page-92), [172](#page-171), 178
-- Janet: 45, [172](#page-171), 178
+- James: [92](#page-92), [172](#page-171), [178](#page-178)
+- Janet: 45, [172](#page-171), [178](#page-178)
 - Jean: 87, 88, [205](#page-205)
-- John: 45, [92](#page-92), 93, [130](#page-130), 157, 178, 183
-- Margaret: 46, [92](#page-92) (2), 177, 178
+- John: 45, [92](#page-92), [93](#page-92), [130](#page-130), 157, [178](#page-178), [183](#page-183)
+- Margaret: 46, [92](#page-92) (2), [177](#page-177), [178](#page-178)
 - Martha: [131](#page-130), 171
-- Mary: 45, 60, 96, [131](#page-130), 150, 178, 187, 190, [205](#page-205)
+- Mary: 45, 60, 96, [131](#page-130), 150, [178](#page-178), 187, 190, [205](#page-205)
 - Neil: 46,
 - Neill: 115, 150 (2), 190, 198
 - Peggy: 69, 111, 115
@@ -88,12 +88,49 @@ Parish of Kilchousland, Peninver:
 |-----|-------|-----|-------|-----------|
 | 54  | 1738  | Samuel Galbreath |  |   |
 | 35  | 1757  |     | Janet McNair  |   |
-| 13  | 1779  |     |       |  Robert Galbreath |
-| 11  | 1781  |     |       |  Martha Galbreath |
-| 9   | 1783  |     |       |  Archibald Galbreath |
+| 13  | 1779  |     |       | Robert Galbreath |
+| 11  | 1781  |     |       | Martha Galbreath |
+| 9   | 1783  |     |       | Archibald Galbreath |
 | 7   | 1785  |     |       | Janet Galbreath      |
 | 4   | 1788  |     |       | Cathrin Galbreath    |
 | 1   | 1791  |     |       | James Galbreath      |
+
+## Page 177
+
+Parish of Kilchousland, Kildonan
+
+| Age | Birth | Men | Women | Children  |
+|-----|-------|-----|-------|-----------|
+| 72  | 1720  | Archibald McNair |  |   |
+| 61  | 1731 |     | Margaret Galbreath | |
+
+## Page 178
+
+
+Parish of Kilchousland, Laggan
+
+| Age | Birth | Men | Women | Children  |
+|-----|-------|-----|-------|-----------|
+| 42  | 1750  | Peter Galbreath |  |    |
+| 35  | 1757  |     | Ann McMurchy |    |
+| 13  | 1779  |     |       | ~~John Galbreath~~ |
+| 11  | 1781  |     |       | William Galbreath |
+| 10  | 1782  |     |       | Robert Galbreath  |
+|  8  | 1784  |     |       | Archibald Galbreath |
+| 6   | 1786  |     |       | Mary Galbreath |
+| 4   | 1788  |     |       | James Galbreath |
+| 2   | 1790  |     |       | Margaret Galbreath |
+
+
+## Page 183
+
+Parish of Kilchenzie, Kilchenzie:
+
+| Age | Birth | Men | Women | Children  |
+|-----|-------|-----|-------|-----------|
+| 34  |       | John Galbreath | |  |
+| 32  |       |     | Mary Gilchrist | |
+| 2   |       |     |       | John Gilchrist |
 
 ## Page 205
 
