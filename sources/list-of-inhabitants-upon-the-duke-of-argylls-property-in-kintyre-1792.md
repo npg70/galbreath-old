@@ -20,13 +20,13 @@ All under "Galbreath" (and "Galbraith" is not listed)
 - Florence: [92](#page-92)
 - Flory: 140
 - James: [92](#page-92), [172](#page-171), [178](#page-178)
-- Janet: 45, [172](#page-171), [178](#page-178)
+- Janet: [45](#page-45), [172](#page-171), [178](#page-178)
 - Jean: 87, 88, [205](#page-205)
-- John: 45, [92](#page-92), [93](#page-92), [130](#page-130), 157, [178](#page-178), [183](#page-183)
-- Margaret: 46, [92](#page-92) (2), [177](#page-177), [178](#page-178)
+- John: [45](#page-45), [92](#page-92), [93](#page-92), [130](#page-130), 157, [178](#page-178), [183](#page-183)
+- Margaret: [46](#page-45), [92](#page-92) (2), [177](#page-177), [178](#page-178)
 - Martha: [131](#page-130), 171
-- Mary: 45, 60, 96, [131](#page-130), 150, [178](#page-178), 187, 190, [205](#page-205)
-- Neil: 46,
+- Mary: [45](#page-44), 60, 96, [131](#page-130), 150, [178](#page-178), 187, 190, [205](#page-205)
+- Neil: [46](#page-44)
 - Neill: 115, 150 (2), 190, 198
 - Peggy: 69, 111, 115
 - Peter: [178](#page-178)
@@ -34,6 +34,19 @@ All under "Galbreath" (and "Galbraith" is not listed)
 - Robert: [171](#page-171), [178](#page-178)
 - Samuel: [171](#page-171),
 - William: [92](#page-92) (2), [178](#page-178)
+
+## Pages 45-46
+
+Parish of Killchivan, Kilchuibnach:
+
+| Age | Birth | Men | Women | Children |
+|-----|------|-----|-------|----------|
+| 37  | 1755 | John Galbreath | | |
+| 36  | 1756 |     | More McLean |  |
+|  9  | 1783 |     |       | Mary Galbreath |
+| 7   | 1784 |     |       | Janet Galbreath |
+| 4   | 1788 |     |       | Neil Galbreath |
+| 1   | 1791 |     |       | Margaret Galbreath |
 
 ## Pages 92-93
 
