@@ -28,9 +28,9 @@ All under "Galbreath" (and "Galbraith" is not listed)
 - Mary: [45](#page-44), 60, 96, [131](#page-130), 150, [178](#page-178), 187, 190, [205](#page-205)
 - Neil: [46](#page-44)
 - Neill: [115](#page-115), 150 (2), 190, 198
-- Peggy: 69, 111, [115](#page-115)
+- Peggy: 69, [111](#page-111), [115](#page-115)
 - Peter: [178](#page-178)
-- Rachel: 93, 111
+- Rachel: 93, [111](#page-111)
 - Robert: [171](#page-171), [178](#page-178)
 - Samuel: [171](#page-171),
 - William: [92](#page-92) (2), [178](#page-178)
@@ -81,6 +81,16 @@ Burgh of Campbeltown, 20 & 21 Back Street
 | 23  | 1769 |     | Rachel Galbreath | |
 | 1   | 1791 |     |          | Alexander Johnson |
 
+## Page 111
+
+Burgh of Campbeltown, 69 Kirk Street.
+
+What appears to be the household of Lionell Campbell (50) and Margaret Campbell (48) of 9 people has two young women named Galbreath.
+
+| Age | Birth | Men | Women | Children  |
+|-----|-------|-----|-------|-----------|
+| 19  | 1768  |     | Rachel Galbreath  |   |
+| 17  | 1770  |     | Peggy Galbreath   |   |
 
 ## Page 115
 
