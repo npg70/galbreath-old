@@ -1,24 +1,16 @@
-# Andrew Galbraith
+---
+title: Andrew Galbraith b. 1799 m. Margaret Bogle Scot
+---
+***Andrew Galbraith***, son of [Archibald Galbreath](galbreath-archibald-1760.md) and *Jean Corbet*, born Campbeltown 6 Feb 1799, died 29 Nov 1885.  Married first 21 Feb 1826; Glasgow, Lanark, Scotland to **Margaret Bogle Scott**, b. 1807, d. 8 Aug 1850
 
-- father: [Archibald Galbreath](galbreath-archibald-1760.md)
-- mother: *Jean Corbet*
-- birth: 6 Feb 1799; Campbeltown, Argyle, Scotland
-- death: 29 Nov 1885
+Children of Andrew and Margaret (Scott) Galbraith, all baptised at the Barony Parish (near Glasgow):[^children]
 
-## Margaret Bogle Scott
+1. *Janet Martha Galbraith*, b. 7 Dec 1826, bp. 7 May 1830, d. 17 Oct 1904.  m. *James Fisher*
+2. *Margaret Bogle Galbraith*, bp 22 Oct 1833, d. 18 Feb 1915, m. *William Inglis Scott*
+3. *Agnes Galbraith*, bp. 11 Dec 1835
+4. *Willamina Galbraith*, b. 7 Jun 1838, d. 1920,  m. *Hugh Cowan*
 
-- birth: 1807
-- death: 8 Aug 1850
-- marriage: 21 Feb 1826; Glasgow, Lanark, Scotland
-
-### Children
-
-1. Janet Henrietta Galbraith, b. 7 Dec 1826 Glasgow, d. 17 Oct 1904.  m. James Fisher.
-2. Margaret Galbraith, b. Abt. 1834, d. 18 Feb 1915, m. William Inglis Scott.
-3. Agnes Galbraith, b. 11 Dec 1834, Glasgow. 
-4. Willamina Galbraith, b. 1838, Glasgow.  d. 1920.  m. Hugh Cowan.
-
-# Sources
+[^children]: OPR baptism records for all children on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=Galbraith&surname_so=exact&forename_so=starts&from_year=1826&to_year=1838&parent_names=galbraith&parent_names_so=exact&parent_name_two=scott&parent_name_two_so=exact&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&sort=asc&order=Date&field=year)
 
 Lots
 
