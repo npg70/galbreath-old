@@ -87,7 +87,7 @@ Burgh of Campbeltown, 20 & 21 Back Street
 
 | Age | Birth | Men | Women | Children |
 |-----|------|-----|-------|----------|
-| 20  | 1782 | [James Galbreath](/foo) | | |
+| 20  | 1772 | [James Galbreath](/foo) | | |
 | 18  | 1774 |     | Margaret Galbreath | |
 | 15  | 1777 |     |        | Florence Galbreath  |
 | 11  | 1781 |     |        | William Galbreath   |
