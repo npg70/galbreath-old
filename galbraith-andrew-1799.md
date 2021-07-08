@@ -1,7 +1,9 @@
 ---
-title: Andrew Galbraith b. 1799 m. Margaret Bogle Scot
+title: Andrew Galbraith b. 1799 m. Margaret Bogle Scott
 ---
 ***Andrew Galbraith***, son of [Archibald Galbreath](galbreath-archibald-1760.md) and *Jean Corbet*, born Campbeltown 6 Feb 1799, died 29 Nov 1885.  Married first 21 Feb 1826; Glasgow, Lanark, Scotland[^marriage] to **Margaret Bogle Scott**, b. 1807, d. 8 Aug 1850
+
+bio goes here.  
 
 Children of Andrew and Margaret (Scott) Galbraith, all baptised at the Barony Parish (near Glasgow):[^children]
 
