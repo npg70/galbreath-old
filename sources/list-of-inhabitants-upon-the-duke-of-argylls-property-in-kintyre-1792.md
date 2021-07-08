@@ -25,7 +25,7 @@ All under "Galbreath" (and "Galbraith" is not listed)
 - John: [45](#page-45), [92](#page-92), [93](#page-92), [130](#page-130), 157, [178](#page-178), [183](#page-183)
 - Margaret: [46](#page-45), [92](#page-92) (2), [177](#page-177), [178](#page-178)
 - Martha: [131](#page-130), [171](#page-171)
-- Mary: [45](#page-44), 60, 96, [131](#page-130), [150](#page-150), [178](#page-178), 187, [190](#page-190), [205](#page-205)
+- Mary: [45](#page-44), 60, [96](#page-96), [131](#page-130), [150](#page-150), [178](#page-178), 187, [190](#page-190), [205](#page-205)
 - Neil: [46](#page-44)
 - Neill: [115](#page-115), [150](#page-150) (2), [190](#page-190), 198
 - Peggy: 69, [111](#page-111), [115](#page-115)
@@ -80,6 +80,12 @@ Burgh of Campbeltown, 20 & 21 Back Street
 | 24  | 1768 | Robert Johnson | | |
 | 23  | 1769 |     | Rachel Galbreath | |
 | 1   | 1791 |     |          | Alexander Johnson |
+
+## Page 96
+
+Burgh of Campbeltown, 31 Back Street
+
+Mary Galbreath, age 26 is listed but families and children are listed out of order.  Will take some work to see if she is associated with anyone or just a tenant/servant.
 
 ## Page 111
 
