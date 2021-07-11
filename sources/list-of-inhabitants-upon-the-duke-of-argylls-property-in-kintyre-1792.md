@@ -8,7 +8,7 @@ title: "List of Inhabitants upon the Duke of Argyll's Property in Kintyre in 179
 All under "Galbreath" (and "Galbraith" is not listed)
 
 - Alexander: [92](#page-92)
-- Andrew: [92](#page-92)
+- Andrew: [92](#pages-92-93)
 - Ann: [130](#page-130)
 - Archibald: [92](#page-92), [171](#page-171), [178](#page-178), [205](#page-205)
 - Cathrin: [172](#page-171), [186](#page-186), [205](#page-205)
