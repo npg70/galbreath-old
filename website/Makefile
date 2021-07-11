@@ -7,6 +7,7 @@ clean:
 	rm -rf public
 
 update:
+	mkdir -p content/people
 	cp ../*.md content/people/
 	(cd content/people; go run ../../lineage.go galbreath-james-1659.md)
 	go run junk.go content/people/*.md
