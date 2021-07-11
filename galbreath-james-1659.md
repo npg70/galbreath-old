@@ -12,7 +12,7 @@ Children of James and Mary (Nielson) Galbreath:[^children]
 4. [*John Galbreath*](galbreath-john-1680.md), bp. 30 May 1680; m. *Mary Mitchell*.
 5. *Matthew Galbreath*, b. 15 Mar 1691, d. 1760? (unsourced).
 
-[^birth]: The 1650 is a best guess. There is a record of a James Galbreath being baptized in 1659, son of X and Y. Assuming that is close to birth, that would mean he married and had children at age 13. It's possible it was a late baptism done when the parents moved into the area, however this is just speculation. 
+[^birth]: The 1650 is a best guess. There is a record of a [James Galbreath](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356839?image=6&return_row=0) being baptized in 1659, son of Archibald Galbreath and Margaret Johnstone. Assuming that is close to birth, that would mean he married and had children at age 13. It's possible it was a late baptism done when the parents moved into the area, however this is just speculation. 
 
 [^mary]: Again, birth of 1650 is an estimate.
 
