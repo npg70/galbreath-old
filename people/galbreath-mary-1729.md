@@ -14,7 +14,7 @@ wikitree: https://www.wikitree.com/wiki/Galbraith-1881
 
 Child of William and Mary (Galbreath) Armour:
 
-1. *James Armour*, m. [Janet Galbreath](galbreath-janet-1752.md)
+1. *James Armour*, m. *[Janet Galbreath](galbreath-janet-1752.md)*
 2. *William Armour*, b. 1754
 3. *John Armour*, 1753-bef 1756
 4. *John Armour*, b. 1756-bef 1760
