@@ -24,14 +24,14 @@ re: Ryburn family
 > David died in 1776, leaving a three-page testament dative (see www.scotlandspeople.com)
 > that mentions a Samuel Galbraith, his probable brother in law and business partner. 
 
-other mentioned
+others mentioned
 
 > In 1743 David Ryburn Senior (son of Mathew & Elizabeth) and Janet Galbreath
 > had a son Arthur who was almost certainly the Arthur Ryburn who was master 
 > of the ‘Sloop Privateer Mercury’, a British ‘victualler’ during the 
 > American War of Independence (‘Publications’, 1916, p25). 
 
-BUT I can't find any marriage record.. I'm guess it's inferred  [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=M&record_type%5B0%5D=opr_marriages&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-banns-marriages&surname=ryburn&surname_so=fuzzy&forename_so=starts&sex=M&spouse_name=galbreath&spouse_name_so=syn&from_year=1700&to_year=1800&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
+BUT I can't find any marriage record... I'm guess it's inferred  [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=M&record_type%5B0%5D=opr_marriages&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-banns-marriages&surname=ryburn&surname_so=fuzzy&forename_so=starts&sex=M&spouse_name=galbreath&spouse_name_so=syn&from_year=1700&to_year=1800&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
 
 Children match on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=ryburn&surname_so=fuzzy&forename_so=starts&from_year=1735&to_year=1776&parent_names=ryburn&parent_names_so=exact&parent_name_two=galbreath&parent_name_two_so=exact&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&sort=asc&order=Parents/%20Other%20Details&field=parent_names)
 
@@ -60,7 +60,6 @@ page 315:
 > Duncan Ballantine, John Campbell, James Greenslees,
 > James Reid, and Samuel Galbreath, and was still in
 > debt to themm at the time of his death. [[ 1771 or 1772 ]]
-
 
 The Memorial of the Lowland Congregation of Campbeltown 22 Sept 1749
 
@@ -137,7 +136,7 @@ Around 1789?, refering to a un-named distillery.
 
 From _The Distilleries of Campbeltown_
 
-Sometime in 1813-1826.  "Brewerie" distillery.
+Sometime in 1813-1826. "Brewerie" distillery.
 
 ## Peter Galbreath
 
@@ -172,12 +171,12 @@ Provost of Campbeltown, Founded Scotia Distillery in 1832?
 
 ## Archibald Galbreath, Distiller
 
-Living 1797.
+Living 1797.  Should be listed in 1792 census.
 
 ## Archibald Galbreath 1806 brewer
 
 from 1841 Census: Long Row, Campbeltown on [FindMyPast](https://www.findmypast.com/transcript?id=GBC%2F1841%2F0016597151)
-all in	Argyllshire, Scotland.  Unclear on parents.
+all in	Argyllshire, Scotland. Unclear on parents.
   
 * Archibald Galbreath birth year: 1806
 * Barbara: 1806
@@ -187,8 +186,9 @@ all in	Argyllshire, Scotland.  Unclear on parents.
 * Archibald: 1840
 * Occupation: Brewer
 
+## Agnes Galbraith Wallace 1867
 
-## Agnes Galbraith 1867
+TODO: find her parents or grandparents to see which Galbraith/Galbreath
 
 https://www.campbeltownpicturehouse.co.uk/2017/11/whisky-war-and-provost-greenlees/
 
