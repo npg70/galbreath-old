@@ -12,7 +12,7 @@ wikitree: https://www.wikitree.com/wiki/Galbraith-1881
 - father: *William Armour* b. 1731, d. 1798
 - mother: *Janet Clark* b. 1707, d. 1784
 
-Child of William and Mary (Galbreath) Armour:
+Children of William and Mary (Galbreath) Armour:
 
 1. *James Armour*, m. *[Janet Galbreath](galbreath-janet-1752.md)*
 2. *William Armour*, b. 1754
