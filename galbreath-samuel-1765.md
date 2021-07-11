@@ -13,12 +13,12 @@ Janet Langwill, Generally unconfirmed
 
 Children of Samuel and Jenat (Langwill) Galbreath, all born in Campbeltown:[^children]
 
-1. *Archibald Galbreath*, b. 25 Nov 1793
-2. *Janet Galbreath*, b. 26 Oct 1796
-3. *Martha Galbreath*, b. 26 Feb 1800
+1. *Archibald Galbreath*, b. 25 Nov 1793 "in Town", and note a few days later a Samuel Galbreath was born from a different Samuel Galbreath (same OPR page).
+2. *Janet Galbreath*, b. 26 Oct 1796 "in Town"
+3. *Martha Galbreath*, b. 26 Feb 1800 "in Drumlenell" or something.  Also note on same page Florance Molloy daughter of John Molloy and Katherine Galbreath
 4. *James Galbreath*, b. 15 Sep 1802 "in Town"
-5. *Mary Galbreath*, b. 22 May 1804; m. *Duncan McGill*
-6. *Agnes Galbreath*, b. 3 Sep 1806
+5. *Mary Galbreath*, b. 22 May 1804; m. *Duncan McGill* "of Samuel Galbreath, sawer in Campbeltown", also on same page John Galbraith son of  William Galbraith/Jean(?) Campbell
+6. *Agnes Galbreath*, b. 3 Sep 1806, "of Samuel Galbreath, sawer in Campbeltown", also Archibald Galbreath, son of Peter Galbreath, taylor in Campbeltown and Janet MacKay.
 
 # Sources
 
