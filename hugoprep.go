@@ -1,5 +1,11 @@
 package main
 
+// converts various things in github markdown to 
+// work with hugo.
+//
+// in particular links to different files
+//
+
 import (
 	"bytes"
 	"io/ioutil"
