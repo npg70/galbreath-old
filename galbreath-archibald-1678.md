@@ -5,11 +5,11 @@ title: Archibald Galbreath m. Elizabeth Johns
 
 Children of Archibald and Elizabeth (Johns) Galbreath, all in Rutherglen Parish, Lanarkshire, Scotland (effectively Glasgow):[^children]
 
-1. James Carbreath, b. 22 Jun 1701
-2. Archibald Carbreath, b. 1 Aug 1703
-3. Jean Carbreath, b. 6 Jan 1706
-4. Agnes Carbreath, b. 6 Jun 1708
-5. George Carbreath, b. 6 Nov 1709
+1. *James Carbreath*, b. 22 Jun 1701
+2. *Archibald Carbreath*, b. 1 Aug 1703
+3. *Jean Carbreath*, b. 6 Jan 1706
+4. *Agnes Carbreath*, b. 6 Jun 1708
+5. *George Carbreath*, b. 6 Nov 1709
 
 [^birth]: The linkage to James and Mary is circumstantial based on dates and lack of other Archibalds that match.
 
