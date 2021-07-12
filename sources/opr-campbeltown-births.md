@@ -12,6 +12,12 @@ title: "OPR Campbeltown Births"
 
 > Archibald son lawfull to John Galbraith and Mary Mitchell
 
+## Patrick Galbreath 1718-05-18
+
+[507/11 134 row 2](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356960?image=134)
+
+> Pattrick | John Galbreath & Mary Mitchell in Killkeddan has a son born 31st May named Patrick
+
 ## [Samuel Galbreath 1725-08-08](/people/galbreath-samuel-1724.md)
 
 There are two records.
