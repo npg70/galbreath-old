@@ -2,6 +2,17 @@
 title: "OPR Campbeltown Births"
 ---
 
+## Archibald Galbreath 1708-05-30
+
+[507/11 104 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356794?image=104)
+
+> Archd lawfull son to John Galbreath and Mary Mitchell his lawful spouse. Born May 30th named Archd
+
+[507/10 47 row 1](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/706?image=47)
+
+> Archibald son caufrell[??] to John Galbraith and Mary Mitchell
+
+
 ## [Samuel Galbreath 1725-08-08](/people/galbreath-samuel-1724.md)
 
 There are two records.
