@@ -48,9 +48,7 @@ title: "OPR Campbeltown Births"
 
 ## 1725-08-08 Samuel Galbreath
 
-There are two records.
-
-[XXX](#XXX)
+[507/10 117 row 12](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357782?image=117)
 
 > Samuel | John Galbreath and Mary Mitchell has a lawful child bapt: 8 Aug: Samuel
 
