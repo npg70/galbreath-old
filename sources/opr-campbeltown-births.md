@@ -24,6 +24,12 @@ title: "OPR Campbeltown Births"
 
 > Katharine | John Galbreath and Mary Mitchell his lawfull spouse had a Daughter born 8th August named Katherine
 
+## 1716-05-11 James Galbreath
+
+[507/11 126 row 12](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356851?image=126)
+
+> James | John Galbreath & Mary Mitchell his lawfull spouse has a son Born 11th May named James
+
 ## 1718-05-18 Patrick Galbreath 
 
 [507/11 134 row 2](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356960?image=134)
