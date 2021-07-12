@@ -2,6 +2,12 @@
 title: "OPR Campbeltown Births"
 ---
 
+## 1672-08-25 James Galbreath
+
+[507/11 15 row 4](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357494?image=15)
+
+> James | Lawful son to James Galbreath and Mary Nielsone his spouse in Ardnacross, Born Aug 22nd, baptised 25th
+
 ## 1678-07-17 Archibald Galbreath
 
 [507/11 31 row 13](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357265?image=31)
