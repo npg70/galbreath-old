@@ -42,7 +42,7 @@ title: "OPR Campbeltown Births"
 
 ## 1719-07-28 James and Mary Galbreath
 
-[507/11 138](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357504?image=138) Twins.
+[507/11 138 row 17](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357504?image=138) Twins.
 
 > James & Mary | Jm. Galbreath & Mary Mitchell had a son & Daugt. baptized 28th July named James & Mary
 
