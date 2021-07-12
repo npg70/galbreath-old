@@ -30,6 +30,10 @@ title: "OPR Campbeltown Births"
 
 > James | John Galbreath & Mary Mitchell his lawfull spouse has a son Born 11th May named James
 
+[507/10 row 7](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/5631656?image=73), list under Calbreath
+
+> May 11 | James Lawfull son to John Calbreath & Mary Mitchell
+
 ## 1718-05-18 Patrick Galbreath 
 
 [507/11 134 row 2](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356960?image=134)
