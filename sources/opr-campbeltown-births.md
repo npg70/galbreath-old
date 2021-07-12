@@ -10,8 +10,7 @@ title: "OPR Campbeltown Births"
 
 [507/10 47 row 1](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/706?image=47)
 
-> Archibald son caufrell[??] to John Galbraith and Mary Mitchell
-
+> Archibald son lawfull to John Galbraith and Mary Mitchell
 
 ## [Samuel Galbreath 1725-08-08](/people/galbreath-samuel-1724.md)
 
