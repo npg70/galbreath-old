@@ -2,7 +2,7 @@
 title: "OPR Campbeltown Births"
 ---
 
-## Archibald Galbreath 1708-05-30
+## 1708-05-30 Archibald Galbreath 
 
 [507/11 104 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356794?image=104)
 
@@ -12,7 +12,7 @@ title: "OPR Campbeltown Births"
 
 > Archibald son lawfull to John Galbraith and Mary Mitchell
 
-## James Galbreath 1713-03-22
+## 1713-03-22  Galbreath 
 
 [507/11 116 row 4](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356841?image=116)
 
@@ -24,17 +24,17 @@ title: "OPR Campbeltown Births"
 
 > Katharine | John Galbreath and Mary Mitchell his lawfull spouse had a Daughter born 8th August named Katherine
 
-## Patrick Galbreath 1718-05-18
+## 1718-05-18 Patrick Galbreath 
 
 [507/11 134 row 2](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356960?image=134)
 
 > Pattrick | John Galbreath & Mary Mitchell in Killkeddan has a son born 31st May named Patrick
 
-## [Samuel Galbreath 1725-08-08](/people/galbreath-samuel-1724.md)
+## 1725-08-08 Samuel Galbreath
 
 There are two records.
 
-[ XXX] ( )
+[XXX](#XXX)
 
 > Samuel | John Galbreath and Mary Mitchell has a lawful child bapt: 8 Aug: Samuel
 
@@ -42,17 +42,17 @@ There are two records.
 
 > Samuel | John Galbreath and Mary Mitchell has a son baptized 8th August named Samuel
 
-## Samuel Galbreath 1736-02-04
+## 1736-02-04 Samuel Galbreath 
 
 > Samuel, Archibald Galbreath & Matha White has a son bapt. 4th Feb named Samuel 
 
-## Archibald Galbreath 1793-11-25
+## 1793-11-25 Archibald Galbreath 
 
 [507/40 111 row 13](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357780?image=111)
 
 > Archibald Lawful son to Samuel Galbreath and Janet Langwill in Town, 25th [Nov 1793]
 
-## Samuel Galbreath 1793-12-05
+## 1793-12-05 Samuel Galbreath 
 
 [507/40 111 row 18](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357780?image=111)
 
