@@ -12,6 +12,12 @@ title: "OPR Campbeltown Births"
 
 > Archibald son lawfull to John Galbraith and Mary Mitchell
 
+## James Galbreath 1713-03-22
+
+[507/11 116 row 4](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356841?image=116)
+
+> James | Lawfull son to John Galbreath and Mary Mitchell his lawful spouse, Born March 22nd named James
+
 ## Patrick Galbreath 1718-05-18
 
 [507/11 134 row 2](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356960?image=134)
