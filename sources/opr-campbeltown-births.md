@@ -36,6 +36,12 @@ title: "OPR Campbeltown Births"
 
 > Archibald son lawfull to John Galbraith and Mary Mitchell
 
+## 1710-12-25 Mary Galbreath
+
+[507/11 106 row 12](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357150?image=106)
+
+> Mary | Lawful Daughter to John Galbreath and Mary Mitchell his lawful spouse, Born December 25th Named Mary
+
 ## 1711-10-14 Janet Galbreath
 
 [507/11 111 row 15](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357076?image=111)
