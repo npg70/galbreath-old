@@ -17,7 +17,7 @@ Children of Robert and Katharine (Harvie) Galbreath:[^children]
 8. [*Andrew Galbreath*](galbreath-andrew-1819.md), b. 1 Jul 1819 in Clermont Co, Ohio, USA; m. *Elizabeth Shotwell*.
 9. [*Harvie Galbreath*](galbreath-harvie-1821.md), b. 8 Oct 1821 in Clermont Co, Ohio, USA; m. *Nancy Carr Winters*.
 
-[^birth]: OPR record of birth and baptism from [ScotlandsPeoples](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357746?image=40&return_row=2)
+[^birth]: OPR record of birth and baptism for [Robert Galbreath](/sources/opr-campbeltown-births.md#1778-10-15-robert-galbreath)
 
 [^children]: The first seven children were baptised in Campbeltown, according to OPR records from [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=syn&forename_so=exact&from_year=1806&to_year=1818&parent_names=galbreath&parent_names_so=exact&parent_name_two=harv&parent_name_two_so=starts&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&rd_real_name%5B0%5D=CAMPBELTOWN%20%28LANDWARD%29%20OR%20CAMPBELTOWN%20%28BURGH%29%20OR%20CAMPBELTOWN&rd_display_name%5B0%5D=CAMPBELTOWN%20%28LANDWARD%29%7CCAMPBELTOWN%20%28BURGH%29%7CCAMPBELTOWN_CAMPBELTOWN&rd_label%5B0%5D=CAMPBELTOWN&rd_name%5B0%5D=CAMPBELTOWN%20%2ALANDWARD%2A%20OR%20CAMPBELTOWN%20%2ABURGH%2A%20OR%20CAMPBELTOWN&sort=asc&order=Date&field=year&sid=85902882)
 
