@@ -82,6 +82,12 @@ title: "OPR Campbeltown Births"
 
 > James & Mary | Jn. Galbreath & Mary Mitchell had a son & Daugt. baptized 28th July named James & Mary
 
+## 1721-12-09 John Galbreath
+
+[507/10 100 row 16](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/1018?image=100)
+
+> John | John Calbreath & Mary Mitchell had a lawful child bapt. John
+
 ## 1723-11-24 David Galbreath
 
 [507/11 155 row 6](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357347?image=155)
