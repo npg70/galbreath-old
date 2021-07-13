@@ -96,7 +96,7 @@ title: "OPR Campbeltown Births"
 
 [507/10 107 row 17](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/5631647?image=107),listed as _Calbreath_
 
-> David | 
+> David | John Calbreath & Mary Mitchell had lawful child called David
 
 ## 1725-08-08 Samuel Galbreath
 
