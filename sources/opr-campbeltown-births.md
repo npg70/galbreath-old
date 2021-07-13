@@ -8,7 +8,7 @@ title: "OPR Campbeltown Births"
 
 > James | Lawful Son to Archd Galbreath Taylor and Margt Johnstone, Born 3rd April in Trogidal 1659
 
-## 1672-08-25 James Galbreath
+## [1672-08-25 James Galbreath](/people/galbreath-james-1672.md)
 
 [507/11 15 row 4](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357494?image=15)
 
