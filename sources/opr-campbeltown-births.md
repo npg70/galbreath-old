@@ -120,7 +120,7 @@ title: "OPR Campbeltown Births"
 
 > Samuel | John Galbreath and Mary Mitchell has a son baptized 8th August named Samuel
 
-## 1736-02-04 Samuel Galbreath 
+## [1736-02-04 Samuel Galbreath](/people/galbreath-samuel-1736.md)
 
 > Samuel, Archibald Galbreath & Matha White has a son bapt. 4th Feb named Samuel 
 
