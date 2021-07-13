@@ -142,6 +142,12 @@ title: "OPR Campbeltown Births"
 
 > Samuel Lawful son to Samuel Galbreath and Janet McNair Peninver 5
 
+## 1806-03-11 Janet Galbreath
+
+[507/40 286 row 8](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358164?image=286)
+
+> Janet | Lawful Daughter to Robert Galbreath Malster in Dalintober and Catherine Harvey born 10th baptised 11 March 1806 Janet
+
 ## 1812-02-26 Robert Galbreath
 
 [507/40 380 row 8](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357753?image=380)
