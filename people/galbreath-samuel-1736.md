@@ -16,7 +16,7 @@ Children of Samuel and Janet (McNair) Galbreath, all baptized in Campbeltown:[^c
 7. *Samuel Galbreath*, bp. 5 Nov 1793, bp. 5 Dec 1793
 8. *John Galbreath*, bp. 7 Nov 1796, bp. 9 Nov 1796
 
-[^birth]: OPR baptism of Samuel Galbreath from [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357777?image=212&return_row=1)
+[^birth]: OPR baptism of [Samuel Galbreath](/sources/opr-campbeltown-births.md#1736-02-04-samuel-galbreath)
 
 [^marriage]: There is no OPR or civil record of the marriage.
 
