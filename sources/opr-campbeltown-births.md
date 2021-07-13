@@ -124,7 +124,7 @@ title: "OPR Campbeltown Births"
 
 > Samuel, Archibald Galbreath & Matha White has a son bapt. 4th Feb named Samuel 
 
-## 1778-10-15 Robert Galbreath
+## [1778-10-15 Robert Galbreath](/people/galbreath-robert-1778.md)
 
 [507/20 40 row 15](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357746?image=40)
 
