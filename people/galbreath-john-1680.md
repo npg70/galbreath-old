@@ -10,7 +10,7 @@ The origins of *Mary Mitchell* are not clear.
 - Some claim she is the daughter of Archibald Mitchell and Mary Armour born Campbeltown 9 Dec 1676.[^maybetmary1].
 - Another claim she is a twin, but I've found no evidence of that, and maybe confusion with her children John and Mary.
 
-Children of John and Mary (Mitchell) Galbreath, all baptized in Campbeltown:[^children1]
+Children of John and Mary (Mitchell) Galbreath, all baptized in Campbeltown[^children1]:
 
 1. [*Archibald Galbreath*](galbreath-archibald-1708.md), bp. 30 May 1708, m. *Martha White*. OPR listed under "Galbreath" and "Galbraith"
 2. *Mary Galbreath*, bp. 25 Dec 1709. Assumed died in early childhood.
