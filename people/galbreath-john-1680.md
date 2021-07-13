@@ -29,7 +29,7 @@ Child of John and Katharine (McCallum) Galbreath[^children2]:
 
 1. *Archibald Galbreath*, bp. Jul 1729
 
-[^birth]: OPR for baptism of [James Galbreath](/sources/opr-campbeltown-births.md#1672-08-25-james-galbreath)
+[^birth]: OPR for baptism of [John Galbreath](/sources/opr-campbeltown-births.md#1672-08-25-james-galbreath)
 
 [^marriage1]: OPR marriage for John Calbreath and Mary Mitchell [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=M&record_type%5B0%5D=opr_marriages&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-banns-marriages&surname=galbreath&surname_so=fuzzy&forename=john&forename_so=starts&sex=M&spouse_name_so=exact&from_year=1707&to_year=1707&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&sid=86128716)
 
