@@ -26,7 +26,7 @@ title: "OPR Campbeltown Births"
 
 > John | Lawful son to James Galbreath and Mary Nielson his spouse in Kilkedan, Baptised May 17th John
 
-## 1708-05-30 Archibald Galbreath 
+## [1708-05-30 Archibald Galbreath](/people/galbreath-archibald-1708.md)
 
 [507/11 104 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356794?image=104)
 
