@@ -44,6 +44,18 @@ title: "OPR Campbeltown Births"
 
 > Jenat | Lawful Daughter to James Galbreath and Mary Fleeming his lawful spouse, Born February 24th Named Jenat
 
+## [1701-11-16] William Galbreath
+
+[507/11 86 row 11](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356992?image=86)
+
+> William | Lawful son to James Galbreath and Mary Fleeming his lawful spouse, Born November 16th
+
+## 1704-04-30 Mary Galbreath
+
+[507/11 93 row 12](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357143?image=93)
+
+> William | Lawful Daughter to James Galbreath and Mary Fleeming his lawful spouse, Born April 30th
+
 ## [1708-05-30 Archibald Galbreath](/people/galbreath-archibald-1708.md)
 
 [507/11 104 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356794?image=104)
@@ -54,7 +66,7 @@ title: "OPR Campbeltown Births"
 
 > Archibald son lawfull to John Galbraith and Mary Mitchell
 
-## 1710-12-25 Mary Galbreath
+## 1709-12-25 Mary Galbreath
 
 [507/11 106 row 12](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357150?image=106)
 
@@ -89,6 +101,10 @@ title: "OPR Campbeltown Births"
 [507/11 119](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357095?image=119)
 
 > Katharine | John Galbreath and Mary Mitchell his lawfull spouse had a Daughter born 8th August named Katherine
+
+## 1715-09-09 Archibald Galbreath
+
+> Archd | John Galbreath and Mary Fleeming his lawfull spouse has a son Born 9th September named Archibald
 
 ## 1716-05-11 James Galbreath
 
