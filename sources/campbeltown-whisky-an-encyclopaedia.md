@@ -4,6 +4,8 @@ title: "Campbeltown Whisky: An Encyclopaedia"
 
 ## Page 44
 
+Reference to [Jean Galbraith](/people/galbraith-jean-1805.md) b. 1805 and her father [Archibald Galbreath](/people/galbreath-archibald-1760.md) b. 1760.
+
 > Colvill(e), John Jr, who died on 5 Dec
 > 1851...
 >
