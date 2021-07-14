@@ -44,7 +44,7 @@ title: "OPR Campbeltown Births"
 
 > Jenat | Lawful Daughter to James Galbreath and Mary Fleeming his lawful spouse, Born February 24th Named Jenat
 
-## [1701-11-16] William Galbreath
+## 1701-11-16 William Galbreath
 
 [507/11 86 row 11](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356992?image=86)
 
