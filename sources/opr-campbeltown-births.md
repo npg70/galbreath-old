@@ -196,11 +196,35 @@ title: "OPR Campbeltown Births"
 
 > Janet | Lawful Daughter to Robert Galbreath Malster in Dalintober and Catherine Harvey born 10th baptised 11 March 1806 Janet
 
+## 1808-03-22 Samuel Galbreath
+
+[507/40 316 row 14](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357775?image=316)
+
+> Samuel | Lawful Son to Robert Galbreath Farmer in Peninver and Catherine Harvie, born 18, baptised 22 March 1808.  Samuel
+
+## 1809-12-27 James Galbreath
+
+[507/40 345 row 10](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357525?image=345)
+
+> James | Lawful Son to Robert Galbreath Farmer Peninver and Catherine Harvie, born 23, baptised 27th Dec 1809. Named James
+
 ## 1812-02-26 Robert Galbreath
 
 [507/40 380 row 8](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357753?image=380)
 
 > Robert | Lawful son to Robert Galbreath ~~weaver~~ farmer Peninver and Catherine Harvey born 25th, bapt 26th Feb 1812 named Robert
+
+## 1814-02-09 Archibald Galbreath
+
+[507/40 409 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357319?image=409)
+
+> Archibald | Lawful Son to Robert Galbreath Farmer in Peninver and Catherine Harvie, born 31 Jan, baptised 9 Feb 1814. Named Archibald
+
+## 1815-02-22 Archibald Galbreath
+
+[507/40 426 row 1](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357306?image=426)
+
+> Archibald | Lawful Son to Robert Galbreath Farmer Peninver and Catherine Harvey, born 19th, baptised 22 Feb 1815. Named Archibald
 
 ## 1817-04-16 John Galbreath
 
