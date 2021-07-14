@@ -54,6 +54,12 @@ title: "OPR Campbeltown Births"
 
 > Mary | Lawful Daughter to John Galbreath and Mary Mitchell his lawful spouse, Born December 25th Named Mary
 
+## 1711-08-14 Margaret Galbreath
+
+[507/11 111 row 6](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357123?image=111)
+
+> Margt | Lawful daughter to James Galbreath and Mary Fleeming his lawful spouse, Born August 14th Named Margt.
+
 ## 1711-10-14 Janet Galbreath
 
 [507/11 111 row 15](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357076?image=111)
