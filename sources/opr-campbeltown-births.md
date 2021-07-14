@@ -94,6 +94,12 @@ title: "OPR Campbeltown Births"
 
 > Pattrick | John Galbreath & Mary Mitchell in Killkeddan has a son born 31st May named Patrick
 
+## 1719-04-28 David Galbreath
+
+[507/11 137](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357350?image=137)
+
+> David | James Galbreath & Mary Fleeming had a son bapt 28th April named David
+
 ## 1719-07-28 James and Mary Galbreath
 
 [507/11 138 row 17](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357504?image=138) Twins.
