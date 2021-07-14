@@ -17,6 +17,6 @@ Children of James and Agnes (Galbreath) Clark:[^children]
 9. *Jean Clark*, b. 14 July 1762, bp. 16 Jul 1762
 
 
-[^birth]: OPR record of baptism for [Agnas Galbreath](/opr-campbeltown-births.md#1722-02-18-agnas-galbreath)
+[^birth]: OPR record of baptism for [Agnas Galbreath](/sources/opr-campbeltown-births.md#1722-02-18-agnas-galbreath)
 
 [^children]: OPR records for James Clark and Agnes Galbreath from [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=clark&surname_so=syn&forename_so=syn&from_year=1743&to_year=1764&parent_names=clark&parent_names_so=soundex&parent_name_two=galb&parent_name_two_so=starts&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&sort=asc&order=Date&field=year).  Note that this list contains children for a John Clark and Agnes Galbreath of Glasgow-area, which is a different couple.
