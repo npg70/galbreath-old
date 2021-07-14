@@ -184,3 +184,9 @@ title: "OPR Campbeltown Births"
 
 > Robert | Lawful son to Robert Galbreath ~~weaver~~ farmer Peninver and Catherine Harvey born 25th, bapt 26th Feb 1812 named Robert
 
+## 1817-04-16 John Galbreath
+
+[507/40 460 row 13](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357574?image=460)
+
+> John | Lawful Son to Robert Galbreath Farmer Peninver and Catherine Harvey, born 12th, baptised 16th April 1817. John
+
