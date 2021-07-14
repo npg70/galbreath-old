@@ -38,6 +38,12 @@ title: "OPR Campbeltown Births"
 
 > Matthew | Lawful son to James Galbreath and Mary Nielson his lawful spouse, Born 15th March Matthew
 
+## 1698-02-24 Jenat Galbreath
+
+[507/11 76 row 6](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357093?image=76)
+
+> Jenat | Lawful Daughter to James Galbreath and Mary Fleeming his lawful spouse, Born February 24th Named Jenat
+
 ## [1708-05-30 Archibald Galbreath](/people/galbreath-archibald-1708.md)
 
 [507/11 104 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356794?image=104)
