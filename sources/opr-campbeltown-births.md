@@ -78,6 +78,12 @@ title: "OPR Campbeltown Births"
 
 > James | Lawfull son to John Galbreath and Mary Mitchell his lawful spouse, Born March 22nd named James
 
+## 1713-08-20 Patrick and James Galbreath
+
+[507/11 117 row 7](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356959?image=117), twins
+
+> Patrick & James | Lawful children to James Galbreath and Mary Flemming his lawful spouse Born 20th August Named Patrick and James
+
 ## 1714-08-08 Katharine Galbreath
 
 [507/11 119](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357095?image=119)
