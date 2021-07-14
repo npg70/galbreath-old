@@ -172,6 +172,24 @@ title: "OPR Campbeltown Births"
 
 > Samuel, Archibald Galbreath & Matha White has a son bapt. 4th Feb named Samuel 
 
+### 1777-09-07 Agnes Dunlop
+
+[507/20 35 row 3](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356969?image=35)
+
+> Agnes | Lawful Daughter to Alexdr Dunlop and Mary Galbreath. Born 7th Sept. Baptised the same
+
+### 1777-09-14 Florance Galbreath
+
+[507/20 35 row 6](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356969?image=35)
+
+> Florence | Lawful Daughter to Henry Galbreath and Agnes XXX (Armour?) Born 11th Sept Bap 14
+
+### 1777-09-14 Robert and Archibald Galbreath
+
+[507/20 35 row 7](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356969?image=35), twins
+
+> Robt. & Arch. | Lawful Sons to Samuel Galbreath and Janet McNair born 14 Sept 
+
 ## [1778-10-15 Robert Galbreath](/people/galbreath-robert-1778.md)
 
 [507/20 40 row 15](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357746?image=40)
