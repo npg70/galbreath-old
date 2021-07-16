@@ -1,13 +1,10 @@
-# Archibald Galbreath
+---
+title: Archibald Galbreath b 1807
+familysearch: https://www.familysearch.org/tree/person/details/KHGS-TGQ
+---
+***Archibald Galbreath***, son of *[Archibald Galbreath](galbreath-archibald-1760.md)* and *Jean Corbet*, born Campbeltown 29 May 1807, baptised 31 May 1807 and died 19 Aug 1887.
 
 Cotton Merchant & Manufacturer.
 
-- father: [Archibald Galbreath](galbreath-archibald-1760.md)
-- mother: *Jean Corbet*
-- birth: 29 May 1807; Campbeltown, Argyll, Scotland
-- baptism: 31 May 1807; Southend, Campbeltown, Argyll, Scotland
-- death: 19 Aug 1887
 
-# Sources
-
-- [FamilySearch](https://www.familysearch.org/tree/person/details/KHGS-TGQ)
+- 
