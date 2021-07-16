@@ -3,10 +3,11 @@ title: John Galbraith b 1809 m. Mary Coville McEwing
 familysearch: https://www.familysearch.org/tree/person/details/M1TD-W9M
 findagrave: https://www.findagrave.com/memorial/177759816/john-galbraith
 ---
-***John Galbraith**, son of [Archibald Galbreath](galbreath-archibald-1760.md) and *Jean Corbet*, born Campbeltown 3 Sep 1809, died 12 Sep 1881, Didsbury Manchester Lancashire, United Kingdom.  Married at Campbeltown 25 Jun 1838 to **Mary Colville McEwing**, born ?, died 13 Dec 1900.
+***John Galbraith***, son of [Archibald Galbreath](galbreath-archibald-1760.md) and *Jean Corbet*, born Campbeltown 3 Sep 1809, died 12 Sep 1881, Didsbury Manchester Lancashire, United Kingdom.  Married at Campbeltown 25 Jun 1838 to **Mary Colville McEwing**, born ?, died 13 Dec 1900.
 
-Provost of Campbeltown 1860-66
-
+- Provost of Campbeltown 1860-66
+- Foudner Scotia Distillery
+- 
 Children of John and Mary (McEwing) Galbraith:
 
 1. *Elizabeth Galbraith*, b. 1841, m. *James Nicol Fleming* 
