@@ -1,21 +1,14 @@
-# John Galbraith
+---
+title: John Galbraith b 1809 m. Mary Coville McWing
+---
+***John Galbraith**, son of [Archibald Galbreath](galbreath-archibald-1760.md) and *Jean Corbet*, born Campbeltown 3 Sep 1809, died 12 Sep 1881, Didsbury Manchester Lancashire, United Kingdom.  Married at Campbeltown 25 Jun 1838 to **Mary Colvill McEwing**, born ?, died 1900?.
+
 
 Provost of Campbeltown 1860-66
 
-- parents: [Archibald Galbreath](galbreath-archibald-1760.md)
-- mother: *Jean Corbet*
-- birth: 3 Sep 1809, Campbeltown, Argyleshire, Scotland
-- death: 12 Sep 1881, Didsbury Manchester Lancashire, United Kingdom
+Children of John and Mary (McEwing) Galbraith:
 
-## Mary Colvill McEwing
-
-- birth: ,Argyll,Scotland
-- death: 1900
-- marriage: 25 Jun 1838, Campbeltown, Argyll, Scotland
-
-### Children
-
-1. Elizabeth Galbraith, b. 1841, m. *James Nicol Fleming* 
+1. *Elizabeth Galbraith*, b. 1841, m. *James Nicol Fleming* 
 
 # Sources
 
