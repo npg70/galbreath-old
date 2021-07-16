@@ -22,7 +22,7 @@ Regarding the Drumore Distillery:
    
 ## Pages 76-77
 
-Extensive notes on John Galbraith
+Extensive notes on [John Galbraith](/people/galbraith-john-1809.md), founder of Scotia Distillery and Provost of Campbeltown 1860-66:
 
 > His Galbraith family was not of native Kintyre stock, 
 > but descended from 17th century Lowland settlers. John's
