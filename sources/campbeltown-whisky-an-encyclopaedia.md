@@ -40,6 +40,8 @@ Extensive notes on [John Galbraith](/people/galbraith-john-1809.md), founder of 
  
 ## Pages 106-107
  
+ Regarding [Catherine Galbreath](/people/galbreath-catherine-1788.md), b. 1788.  There is some dispute on if she used Galbreath or Galbraith.
+ 
 > Samuel Greenless...  He was one of 11 children born to
 > James Greenlees, farmer, and Catherine Galbraith. There were
 > native, Gaelic-speaking Galbraiths in Kintyre, but Catharine
