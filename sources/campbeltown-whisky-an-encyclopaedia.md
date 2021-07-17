@@ -9,7 +9,12 @@ isbn: 978-1-84530-166-8
 ## Index
 
 * Galbraith families: [44](#page-44), [63](#page-63), [76-77](#pages-76-77), [100](#page-100), [107](#pages-106-107), [115](#page-115), [125](#page-125), [176](#page-176), [230](#page-230)
-* Galbraith, Provost John: 19, 34, [76-77](#pages-76-77), [88](#page-88), [137](#page-137), 153, 242, 280
+* Galbraith, Provost John: 19, [34](#page-34), [76-77](#pages-76-77), [88](#page-88), [137](#page-137), 153, 242, 280
+
+## Page 34
+
+> James Nichol Fleming was a Glasgow merchant who married Elizabeth Galbraith daughter of John Galbreath in 1859
+
 
 ## Page 44
 
@@ -53,11 +58,13 @@ Many notes on Glen Scotia Distillery, with [John Galbraith](/people/galbraith-jo
 
 ## Page 100
 
-Complicated family history of Charles Coville Greenlees...
+Complicated family history of Charles Coville Greenlees, referencing
 
 > his wife Jessie ... died 1930, age 89... was also a Coville, a daugher of John Coville Jr... sister of Archibald Coville
 > who succeeded to the Glasgow cotton-spinning business, A. & A. Galbraith founded by his uncles 
 > Andrew and Archibald.
+
+Janet "Jessie" Coville is the daughter of John Coville Jr and [Jean Galbraith](/people/galbraith-jean-1805.md).  Jean is the child of [Archibald Galbreath](galbreath-archibald-1760.md) and *Jean Corbet*, as is  [Andrew](/people/galbraith-andrew-1799.md) and [Archibald](/people/galbraith-archibald-1807.md)
 
 ## Pages 106-107
  
