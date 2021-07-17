@@ -1,5 +1,5 @@
 ---
-title: James Galbreath, b 1762 m. Mary Fleming
+title: James Galbreath, b 1672 m. Mary Fleming
 familysearch: https://www.familysearch.org/tree/person/details/L4B3-KFQ
 ---
 **James Galbreath**, son of [*James Galbreath*](galbreath-james-1659.md) and *Mary Nielson*,
