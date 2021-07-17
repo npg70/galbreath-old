@@ -8,8 +8,8 @@ isbn: 978-1-84530-166-8
 
 ## Index
 
-* Galbraith families: [44](#page-44), [63](#page-63), [76-77](#pages-76-77), 100, [107](#pages-106-107), [115](#page-115), [125](#page-125), [176](#page-176), [230](#page-230)
-* Galbraith, Provost John: 19, 34, [76-77](#pages-76-77), 88, 137, 153, 242, 280
+* Galbraith families: [44](#page-44), [63](#page-63), [76-77](#pages-76-77), [100](#page-100), [107](#pages-106-107), [115](#page-115), [125](#page-125), [176](#page-176), [230](#page-230)
+* Galbraith, Provost John: 19, 34, [76-77](#pages-76-77), [88](#page-88), [137](#page-137), 153, 242, 280
 
 ## Page 44
 
@@ -46,7 +46,19 @@ Extensive notes on [John Galbraith](/people/galbraith-john-1809.md), founder of 
 > His widow, Mary Coville McEwing, was aged 82 when she died
 > in 1900. Her parents were John Townley McEwing, R.N., and 
 > Elizabeth Colville. For daughter Elizabeth...
- 
+
+## Page 88
+
+Many notes on Glen Scotia Distillery, with [John Galbraith](/people/galbraith-john-1809.md) being an original partner in 1832.
+
+## Page 100
+
+Complicated family history of Charles Coville Greenlees...
+
+> his wife Jessie ... died 1930, age 89... was also a Coville, a daugher of John Coville Jr... sister of Archibald Coville
+> who succeeded to the Glasgow cotton-spinning business, A. & A. Galbraith founded by his uncles 
+> Andrew and Archibald.
+
 ## Pages 106-107
  
  Regarding [Catherine Galbreath](/people/galbreath-catherine-1788.md), b. 1788.  There is some dispute on if she used Galbreath or Galbraith.
@@ -72,6 +84,10 @@ Extensive notes on [John Galbraith](/people/galbraith-john-1809.md), founder of 
 > who died in 1844, two years after his wife Janet Galbreath,
 > as recorded in the Campbeltown Old Parish Records.
  
+## Page 137
+
+Mentions [John Galbraith](/people/galbraith-john-1809.md) became a partner in Longrow Distillery, and other business notes.
+
 ## Page 176
 
     TBD
