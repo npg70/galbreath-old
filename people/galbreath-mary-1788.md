@@ -27,7 +27,7 @@ Children of Robert and Mary (Galbreath) Clark, all baptised in Campbeltown:[^chi
     > Mother: Mary Fleming 
     > Reported by Robert Clark, Son
 
-[^burial]: burial should be in Kilkerran according to [Kilkerran Cemetary Revisited](https://github.com/npg70/galbreath/blob/main/sources/kilkerran-graveyard-revisted.md#page-19) but is not found on find-a-grave.
+[^burial]: burial should be in Kilkerran according to [Kilkerran Graveyard Revisited](https://github.com/npg70/galbreath/blob/main/sources/kilkerran-graveyard-revisted.md#page-19) but is not found on find-a-grave.
 
 [^marriage]: OPR record of marriage TBD
 
