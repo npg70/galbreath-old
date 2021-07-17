@@ -9,7 +9,7 @@ isbn: 978-1-84530-166-8
 ## Index
 
 * Galbraith families: [44](#page-44), [63](#page-63), [76-77](#pages-76-77), 100, 107, [115](#page-115), [125](#page-125), [176](#page-176), [230](#page-230)
-* Galbraith, Provost John: 19, 34, 76-77, 88, 137, 153, 242, 280
+* Galbraith, Provost John: 19, 34, [76-77](#pages-76-77), 88, 137, 153, 242, 280
 
 ## Page 44
 
