@@ -2,7 +2,7 @@
 title: Mary Galbreath b. 1788 m. Robert Clark
 familysearch: https://www.familysearch.org/tree/person/details/M1Y6-GJN
 ---
-***Mary Galbreath***, daughter of *[David Galbreath](galbreath-david-1755.md)* and *Mary Flemming*, born Campbeltown 29 Aug 1788, died 6 Aug 1877.  Married 22 Apr 1813 to **Robert Clark**.
+***Mary Galbreath***, daughter of *[David Galbreath](galbreath-david-1755.md)* and *Mary Flemming*, born Campbeltown 29 Aug 1788, died 6 Aug 1877[^death], burried in Kilkerran[^burial].  Married 22 Apr 1813 to **Robert Clark**.
 
 Children of Robert and Mary (Galbreath) Clark:
 
