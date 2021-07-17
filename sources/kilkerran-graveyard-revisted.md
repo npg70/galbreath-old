@@ -8,7 +8,7 @@ Galbreath: [19](#page-19), 27
 
 ## Page 19
 
-[Mary Galbreath](people/galbreath-mary-1788.md) b. 1788. the great grandmother is mentioned in the story of Mary Clark who died at age 2 on 7 Feb 1913.  It ends with:
+[Mary Galbreath](people/galbreath-mary-1788.md) b. 1788. is mentioned as the great grandmother of Mary Clark who died at age 2 on 7 Feb 1913.  It ends with:
 
 > This stone is one of three, side by side, to the members of the Clark farming family,
 > which descends through Robert Clark and Mary Galbraith, and Robert Clark and
