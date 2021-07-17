@@ -1,5 +1,8 @@
 ---
 title: "Kilkerran Graveyard Revisited"
+author: Martin, Angus
+year: 2011
+publisher: Grimsay Press
 ---
 
 ## Index
