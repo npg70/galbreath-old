@@ -18,7 +18,8 @@ isbn: 978-1-84530-166-8
 
 ## Page 44
 
-Reference to [Jean Galbraith](/people/galbraith-jean-1805.md) b. 1805 and her father [Archibald Galbreath](/people/galbreath-archibald-1760.md) b. 1760.
+Reference to [Jean Galbraith](/people/galbraith-jean-1805.md) b. 1805 
+and her father [Archibald Galbreath](/people/galbreath-archibald-1760.md) b. 1760.
 
 > Colvill(e), John Jr, who died on 5 Dec
 > 1851...
@@ -97,7 +98,8 @@ Mentions [John Galbraith](/people/galbraith-john-1809.md) became a partner in Lo
 
 ## Page 176
 
-    TBD
+> Pigot & Co.'s Commercial Directory for 1825 records 22 [maltsters] in the town alone.... Archibald Galbraith.... 
+> Pigot of 1837 records 21 malsters [unlisted]
 
 ## Page 230
 
