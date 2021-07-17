@@ -16,7 +16,7 @@ Galbreath: [19](#page-19), 27
 > Robert, who married Isabella Watson 4/8/1899. As the inscription records, Isabella
 > died on 18/6/1923, at the age of 52, and Robert on 5/3/1955 at the age of 93.
 
-Using Find-a-Grave we see:
+Using Find-a-Grave we see two stones:
 
 - Robert Clark and Isabella Watson, and their daughter Mary: https://www.findagrave.com/memorial/180602584/mary-clark
 - Robert Clark and Catherine McNair: https://www.findagrave.com/memorial/133281357/robert-clark
