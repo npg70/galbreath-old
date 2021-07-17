@@ -4,7 +4,7 @@ title: "Kilkerran Graveyard Revisited"
 
 ## Index
 
-Galbreath: [19](#page-19), 27
+Galbreath: [19](#page-19), [27](#page-27)
 
 ## Page 19
 
@@ -25,3 +25,11 @@ But not the third stone with Robert Clark and Mary Galbraith.  Humph.
 
 ## Page 27
 
+Agnes Galbraith is mentioned:
+
+> This sandstone momument, which is eroding badly, was raised by Malcolm McNeilage to
+> his wife Agnes Galbraith, who died of tuberculosis at age 23 on 28/10/1886.
+
+There are some other minor details in the book, but her parents are unknown.
+
+https://www.findagrave.com/memorial/157161848/agnes-mcneilage
