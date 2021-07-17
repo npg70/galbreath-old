@@ -1,23 +1,15 @@
-# Mary Galbreath
+---
+title: Mary Galbreath b. 1788 m. Robert Clark
+familysearch: https://www.familysearch.org/tree/person/details/M1Y6-GJN
+---
+***Mary Galbreath***, daughter of *[David Galbreath](galbreath-david-1755.md)* and *Mary Flemming*, born Campbeltown 29 Aug 1788, died 6 Aug 1877.  Married 22 Apr 1813 to **Robert Clark**
 
-- father: [David Galbreath](galbreath-david-1755.md)
-- mother: *Mary Flemming*
-- birth: 29 Aug 1788
-- death: 6 Aug 1877
+Children of Robert and Mary (Galbreath) Clark:
 
-## Robert Clark
+1. *John Clark*, 
+2. *Mary Clark*, b. 5 April 1816, Campbeltown, Argyll, Scotland, d. 6 Oct 1906, Michigan, United States, Immigration to Boston in 1881.
+3. *David Clark*, 
+4. *James Clark*, 
+5. *Robert Clark*, 
+6. *Jean Clark*,
 
-- marriage: 22 Apr 1813
-
-### Children
-
-1. John Clark, 
-2. Mary Clark, b. 5 April 1816, Campbeltown, Argyll, Scotland, d. 6 Oct 1906, Michigan, United States, Immigration to Boston in 1881.
-3. David Clark, 
-4. James Clark, 
-5. Robert Clark, 
-6. Jean Clark,
-
-# Sources
-
-- Mary on [FamilySearch](https://www.familysearch.org/tree/person/details/M1Y6-GJN)
