@@ -3,7 +3,7 @@ title: Samuel Galbreath b 1765 m Janet Langwill
 ---
 ***Samuel Galbreath***, of unknown origin, was born say 1765. Married Campbeltown 23 Apr 1790[^marriage] to **Janet Langwill**.
 
-Samuel is a unusual name for a Galbreath in Campbeltown which makes it more mysterious.  A guess of 1765 would make first child born when he was 28 which seems reasonable.
+Samuel is a unusual name for a Galbreath in Campbeltown which makes it more mysterious.  A guess of 1765 would make first child born when he was 28 which seems reasonable.  All children appear to have been born "in Town" and the marriage said the couple were "both of this parish".
 
 Janet Langwill, Generally unconfirmed
 
