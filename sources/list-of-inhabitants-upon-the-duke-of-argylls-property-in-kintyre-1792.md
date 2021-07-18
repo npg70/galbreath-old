@@ -173,7 +173,7 @@ Parish of Kilchousland, Peninver:
 |-----|-------|-----|-------|-----------|
 | 54  | 1738  | [Samuel Galbreath](/people/galbreath-samuel-1736.md) |  |   |
 | 35  | 1757  |     | Janet McNair  |   |
-| 13  | 1779  |     |       | Robert Galbreath |
+| 13  | 1779  |     |       | [Robert Galbreath](/people/galbreath-robert-1778.md) |
 | 11  | 1781  |     |       | Martha Galbreath |
 | 9   | 1783  |     |       | Archibald Galbreath |
 | 7   | 1785  |     |       | Janet Galbreath      |
