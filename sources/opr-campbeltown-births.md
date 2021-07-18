@@ -208,6 +208,13 @@ title: "OPR Campbeltown Births"
 
 > Samuel Lawful son to Samuel Galbreath and Janet McNair Peninver 5
 
+## 1797-09-09 David Galbreath
+
+[507/40 153 row 4](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357357?image=153), indexed as "Janet Langwell" differently than all other children.
+
+> David | Lawful son to Samuel Galbreath in Town and Janet Langwill, 
+> born 16th, baptised 19th [illegible] the Childs name is David.
+
 ## 1806-03-11 Janet Galbreath
 
 [507/40 286 row 8](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358164?image=286)
