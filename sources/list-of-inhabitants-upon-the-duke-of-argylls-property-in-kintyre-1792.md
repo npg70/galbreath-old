@@ -225,7 +225,7 @@ Parish of Kilchenzie, Skeroblinraid
 |-----|-------|-----|-------|-----------|
 | 87  | 1705  |     | Janet Mitchell |  |
 | 55  | 1737  | James Harvie | |  |
-| 50  | 1742  |     | Cathrin Galbreath | |
+| 50  | 1742  |     | [Cathrin Galbreath](/people/galbreath-katharine-1741.md) | |
 | 23  | 1769  |     | Janet Harvie |  |
 | 19  | 1773  | John Harvie | | |
 | 15  | 1777  |     |       | Robert Harvie |
