@@ -15,7 +15,7 @@ Children of Samuel and Jenat (Langwill) Galbreath, all born in Campbeltown:[^chi
 
 1. *Archibald Galbreath*, b. 25 Nov 1793 "in Town", and note a few days later a Samuel Galbreath was born from a different Samuel Galbreath (same OPR page).
 2. *Janet Galbreath*, b. 26 Oct 1795 "in Town"
-3. *David Galbreath*, b. 19 Sep 1797 TBD
+3. *David Galbreath*, b. 19 Sep 1797 TBD, m. *Janet Mitchell*
 4. *Martha Galbreath*, b. 26 Feb 1800 "in Drumlenell" or something.  Also note on same page Florance Molloy daughter of John Molloy and Katherine Galbreath
 5. *James Galbreath*, b. 15 Sep 1802 "in Town"
 6. *Mary Galbreath*, b. 22 May 1804; m. *Duncan McGill* "of Samuel Galbreath, sawer in Campbeltown", also on same page John Galbraith son of  William Galbraith/Jean(?) Campbell
