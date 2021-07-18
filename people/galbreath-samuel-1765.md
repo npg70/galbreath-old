@@ -1,5 +1,6 @@
 ---
 title: Samuel Galbreath b 1765 m Janet Langwill
+familysearch: https://www.familysearch.org/tree/person/details/KZ3Z-DXW
 ---
 ***Samuel Galbreath***, of unknown origin, was born say 1765. Married Campbeltown 23 Apr 1790[^marriage] to **Janet Langwill**.
 
