@@ -14,7 +14,7 @@ familysearch: https://www.familysearch.org/tree/person/details/L6FC-1XM
 - birth: 14 Dec 1735; Campbeltown SPECULATIVE
 - marriage: 12 Jan 1760
 
-Based on 1792 Census and the dates, it's like Margaret Dunlop died before 1774 and William remained to Mary Campbell.[^marriage2]
+Based on 1792 Census and the dates, it's like Margaret Dunlop died and William remarried 20 Jun 1774 to Mary Campbell.[^marriage2]
 
 Children of Willian and Maraget (Dunlop) Galbreath:[^children1][^children2]
 
@@ -25,8 +25,6 @@ Children of Willian and Maraget (Dunlop) Galbreath:[^children1][^children2]
 5. *William Galbreath*, b. 16 Nov 1766. Two records Galbreath vs. Galbraith.
 6. *James Galbreath*, b. 10 Feb 1768. Two records Galbreath vs. Galbraith.
 7. *Andrew Galbreath*, b. 7 May 1769
-
-
 
 [^children1]: OPR Children [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=syn&forename_so=soundex&from_year=1720&to_year=1780&parent_names=GALBREATH&parent_names_so=soundex&parent_name_two=DUNLOP&parent_name_two_so=exact&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&rd_real_name%5B0%5D=CAMPBELTOWN%20%28LANDWARD%29%20OR%20CAMPBELTOWN%20%28BURGH%29%20OR%20CAMPBELTOWN&rd_display_name%5B0%5D=CAMPBELTOWN%20%28LANDWARD%29%7CCAMPBELTOWN%20%28BURGH%29%7CCAMPBELTOWN_CAMPBELTOWN&rd_label%5B0%5D=CAMPBELTOWN&rd_name%5B0%5D=CAMPBELTOWN%20%2ALANDWARD%2A%20OR%20CAMPBELTOWN%20%2ABURGH%2A%20OR%20CAMPBELTOWN&sort=asc&order=Date&field=year)
 
