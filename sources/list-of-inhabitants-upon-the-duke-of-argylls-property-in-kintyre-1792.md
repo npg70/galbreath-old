@@ -99,7 +99,7 @@ Burgh of Campbeltown, 20 & 21 Back Street
 | 17  | 1775 |     | Mary Stevenson |  |
 | 16  | 1774 |     | Jean Armour    |  |
 | 30  | 1762 | William Johnson |    |  |
-| 27  | 1765 |     | Margaret Galbreath | |
+| 27  | 1765 |     | [Margaret Galbreath](/people/galbreath-margaret-1762.md) | |
 |  8  | 1784 |     |        | Margaret Johnson |
 |  6  | 1786 |     |        | Alexander Johnson |
 |  3  | 1789 |     |        | William Johnson   |
