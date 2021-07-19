@@ -14,7 +14,7 @@ familysearch: https://www.familysearch.org/tree/person/details/L6FC-1XM
 - birth: 14 Dec 1735; Campbeltown SPECULATIVE
 - marriage: 12 Jan 1760[^marriage1]
 
-Based on 1792 Census and the dates, it's like Margaret Dunlop died and William remarried 20 Jun 1774 to Mary Campbell.[^marriage2]
+Based on 1792 Census[^census1792] and the dates, it's like Margaret Dunlop died and William remarried 20 Jun 1774 to Mary Campbell.[^marriage2]
 
 Children of Willian and Maraget (Dunlop) Galbreath:[^children1][^children2]
 
@@ -33,3 +33,5 @@ Children of Willian and Maraget (Dunlop) Galbreath:[^children1][^children2]
 [^marriage1]: Marriage of William and Margaret Dunlop in OPR in [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=M&record_type%5B0%5D=opr_marriages&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-banns-marriages&surname=galbreath&surname_so=fuzzy&forename=w&forename_so=starts&spouse_name=dunlop&spouse_name_so=exact&from_year=1760&to_year=1760&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
 
 [^marriage2]: Marriage of William and Mary Campbell in OPS [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=M&record_type%5B0%5D=opr_marriages&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-banns-marriages&surname=galbraith&surname_so=syn&forename=william&forename_so=starts&sex=M&spouse_name=campbell&spouse_name_so=exact&from_year=1750&to_year=1800&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
+
+[^census1792](/sources/list-of-inhabitants-upon-the-duke-of-argylls-property-in-kintyre-1792.md#pages-92-93
