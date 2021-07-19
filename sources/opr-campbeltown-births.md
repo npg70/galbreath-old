@@ -251,7 +251,7 @@ https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/5631706?image=102
 
 > Archibald | Lawful Son to Robert Galbreath Farmer in Peninver and Catherine Harvie, born 31 Jan, baptised 9 Feb 1814. Named Archibald
 
-## 1815-02-22 Archibald Galbreath
+## [1815-02-22 Archibald Galbreath](/people/galbreath-archibald-1815.md)
 
 [507/40 426 row 1](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357306?image=426)
 
