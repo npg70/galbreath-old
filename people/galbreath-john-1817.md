@@ -3,7 +3,7 @@ title: John Galbreath b. 1817 m. Jane McMath
 familysearch: https://www.familysearch.org/tree/person/details/LKNB-9B3
 ---
 
-**John Galbreath**, son of [*Robert Galbreath*](galbreath-robert-1778.md) and *Catherine Harvey*, baptized at Campbeltown, Arygll, Scotland 16 Apr 1817.  He married **Jane McMath**.
+**John Galbreath**, son of [*Robert Galbreath*](galbreath-robert-1778.md) and *Catherine Harvey*, baptized at Campbeltown, Arygll, Scotland 16 Apr 1817.[^birth]  He married **Jane McMath**.
 
 Children of John and Jane (McMath) Galbreath:
 
@@ -15,3 +15,5 @@ Children of John and Jane (McMath) Galbreath:
 6. *Jeannette Brown Galbreath*, b. 2 Jan 1862; d. Miami County, Ohio, 22 Jul 1922. No marriage records, but missing various census records.
 7. *Etta Mae Galbreath*, b. 23 Sep 1867; d. Cincinnati, Ohio, 10 Apr 1937; m. *Charles McCullough Jones*. No known children.
 8. *Jennie C Galbreath*, b. 23 Sep 1867; d. Cincinnati, Ohio, 10 Apr 1937; m. *Stephen Dibble*.  No known children.
+
+[^birth] OPR record of baptism for [John Galbreath](/sources/opr-campbeltown-births.md#
