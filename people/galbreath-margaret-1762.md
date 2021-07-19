@@ -6,7 +6,7 @@ familysearch: https://www.familysearch.org/tree/person/details/M1TG-QLK
 
 This clearly needs some work.
 
-Children of William Johnson and Margaret Galbreath:
+Children of William and Margaret (Galbreath) Johnson:
 
 1. *Margaret Johnson*
 2. *Alexander Johnson*
