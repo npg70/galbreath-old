@@ -8,7 +8,7 @@ familysearch: https://www.familysearch.org/tree/person/family/K4TQ-M69
 The record for John is problematic. [FamilySearch](https://www.familysearch.org/tree/person/family/K4TQ-M69) has bad parents and birth data (comes after marriage and first child), multiple wives of same name.  FamilySearch like others, make the claim John is the son of 
  [Archibald Galbreath](galbreath-archibald-1708.md) and Martha White. However, that John was born in 1738, and the marriage was in 1732 and first child in 1734, so this can not be correct.
  
-Oddly for 15 children, only the last John, seems to have any records.  Old Parish Records also recorded the children under Galbreath, Calbraith, and Galbraith.  The use of "Calbraith" is a bit unusual for the time in Campbeltown.
+Oddly for 15 children, only the last John, seems to have any records.  Old Parish Records also recorded the children under Galbreath, Calbraith, and Galbraith.
 
 Children of John and Isobell (Clark) Galbreath, all baptized in Campbeltown:[^c1][^c2]
 
