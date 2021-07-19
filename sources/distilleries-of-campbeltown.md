@@ -1,7 +1,9 @@
 ---
 title: The Distilleries of Campbeltown
-publisher: "Angels' Share"
+author: Stirk, David
+publisher: "The Angels' Share"
 year: 2005
+isbn: 1-903238-84-6
 ---
 
 ## Index
