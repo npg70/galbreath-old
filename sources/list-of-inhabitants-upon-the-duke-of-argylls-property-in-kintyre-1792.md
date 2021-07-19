@@ -91,7 +91,7 @@ The orgiinal order is a hard to follow.
 - Rows 19-20 The most notable is [Archibald Galbreath](/people/galbreath-archibald-1760.md) and Jean Corbett.
 - Rows 12-17 the family of William Johnson and [Margaret Galbreath](/people/galbreath-margaret-1762.md), Marget being the sister of Archibald above.
 - Rows 22-24 the family of Robert Johnstone and [Rachel Galbreath](/people/galbreath-rachel-1765.md).  Robert was William's younger brother, and Rachel was younger sister of Archibald above (with some creative accounting for her age).
-- Rows 7 and 8   It is suspected he remarried to Mary Campbell after Maraget Dunlop's death.
+- Rows 7 and 8  [William Galbreath](/people/galbreath-william-1736.md) is suspected to be the father of Archibald, Margaret and Rachel. Their mother Margaret Dunlop is not listed. It is suspected he remarried to Mary Campbell after Maraget Dunlop's death.
 - Rows 1-6 are the children of [Henry Galbreath](/people/galbreath-henry-1739.md) b. 1739 and Agnes Armour.  Henry died in 1789.  It would seem Amour died before 1792 as well.  Henry's parents and grandparents where [William Galbreath](/people/galbreath-william-1701.md) / Maragaret Kilpatrick and [James Galbreath](/people/galbreath-james-1672.md) / Mary Fleming.  It is not clear how Henry connects with the other families listed. Of note Magaret married Nathienal McNair and immigrated to Canada.
 
 TBD:
@@ -110,7 +110,7 @@ TBD:
 | 4 | 11  | 1781 |     |        | William Galbreath   |
 | 5 | 7   | 1785 |     |        | John Galbreath      |
 | 6 | 4   | 1788 |     |        | Alexander Galbreath |
-| 7 | 50  | 1742 | William Galbreath |  |  |
+| 7 | 50  | 1742 | [William Galbreath](/people/galbreath-william-1736.md) |  |  |
 | 8 | 42  | 1750 |     | Mary Campbell |   |
 | 9 | 21  | 1771 | Andrew Galbreath |  |   |
 | 10 | 17  | 1775 |     | Mary Stevenson |  |
