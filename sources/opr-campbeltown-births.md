@@ -178,19 +178,25 @@ https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/5631706?image=102
 
 > Samuel, Archibald Galbreath & Matha White has a son bapt. 4th Feb named Samuel 
 
-### 1777-09-07 Agnes Dunlop
+## [1762-12-08 Margaret Galbreath](/people/galbreath-margaret-1762.md)
+
+[507/11 333 row 3](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358332?image=333)
+
+> Margt | William Galbreath and Margaret Dunlop had a Daughter born 5th and baptised 8th Dec named Margt
+
+## 1777-09-07 Agnes Dunlop
 
 [507/20 35 row 3](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356969?image=35)
 
 > Agnes | Lawful Daughter to Alexdr Dunlop and Mary Galbreath. Born 7th Sept. Baptised the same
 
-### 1777-09-14 Florance Galbreath
+## 1777-09-14 Florance Galbreath
 
 [507/20 35 row 6](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356969?image=35)
 
 > Florence | Lawful Daughter to Henry Galbreath and Agnes XXX (Armour?) Born 11th Sept Bap 14
 
-### 1777-09-14 Robert and Archibald Galbreath
+## 1777-09-14 Robert and Archibald Galbreath
 
 [507/20 35 row 7](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356969?image=35), twins
 
