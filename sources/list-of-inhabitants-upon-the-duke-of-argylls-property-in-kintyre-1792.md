@@ -92,15 +92,13 @@ The orgiinal order is a hard to follow.
 - Rows 12-17 the family of William Johnson and [Margaret Galbreath](/people/galbreath-margaret-1762.md), Marget being the sister of Archibald above.
 - Rows 22-24 the family of Robert Johnstone and [Rachel Galbreath](/people/galbreath-rachel-1765.md).  Robert was William's younger brother, and Rachel was younger sister of Archibald above (with some creative accounting for her age).
 - Rows 7 and 8   It is suspected he remarried to Mary Campbell after Maraget Dunlop's death.
-
-- Rows 1-6 are the children of [Henry Galbreath](/people/galbreath-henry-1739.md) b. 1739 and Agnes Armour.  Henry died in 1789.  It would seem Amour died before 1792 as well.  Henry's parents and grandparents where [William Galbreath](/people/galbreath-william-1701.md) / Maragaret Kilpatrick and [James Galbreath](/people/galbreath-james-1672.md) / Mary Fleming.  It is not clear how Henry connects with the other families listed.
-- Of note Magaret married Nathienal McNair and immigrated to Canada.
+- Rows 1-6 are the children of [Henry Galbreath](/people/galbreath-henry-1739.md) b. 1739 and Agnes Armour.  Henry died in 1789.  It would seem Amour died before 1792 as well.  Henry's parents and grandparents where [William Galbreath](/people/galbreath-william-1701.md) / Maragaret Kilpatrick and [James Galbreath](/people/galbreath-james-1672.md) / Mary Fleming.  It is not clear how Henry connects with the other families listed. Of note Magaret married Nathienal McNair and immigrated to Canada.
 
 TBD:
 - Row 9: Andrew Galbreath b. 1771
 - Row 10: Mary Stevenson b. 1775
 - Row 11: Jean Armour b 1774
-- Row 18: Mary McEachine b 1769 - Perhaps born [1767-12-13](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=McEachine&surname_so=fuzzy&forename=mary&forename_so=starts&sex=F&from_year=1760&to_year=1770&parent_names_so=exact&parent_name_two_so=exact&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&rd_real_name%5B0%5D=CAMPBELTOWN%20%28LANDWARD%29%20OR%20CAMPBELTOWN%20%28BURGH%29%20OR%20CAMPBELTOWN&rd_display_name%5B0%5D=CAMPBELTOWN%20%28LANDWARD%29%7CCAMPBELTOWN%20%28BURGH%29%7CCAMPBELTOWN_CAMPBELTOWN&rd_label%5B0%5D=CAMPBELTOWN&rd_name%5B0%5D=CAMPBELTOWN%20%2ALANDWARD%2A%20OR%20CAMPBELTOWN%20%2ABURGH%2A%20OR%20CAMPBELTOWN), maybe a servant
+- Row 18: Mary McEachine b 1769 - Perhaps born [13 Dec 1767](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=McEachine&surname_so=fuzzy&forename=mary&forename_so=starts&sex=F&from_year=1760&to_year=1770&parent_names_so=exact&parent_name_two_so=exact&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&rd_real_name%5B0%5D=CAMPBELTOWN%20%28LANDWARD%29%20OR%20CAMPBELTOWN%20%28BURGH%29%20OR%20CAMPBELTOWN&rd_display_name%5B0%5D=CAMPBELTOWN%20%28LANDWARD%29%7CCAMPBELTOWN%20%28BURGH%29%7CCAMPBELTOWN_CAMPBELTOWN&rd_label%5B0%5D=CAMPBELTOWN&rd_name%5B0%5D=CAMPBELTOWN%20%2ALANDWARD%2A%20OR%20CAMPBELTOWN%20%2ABURGH%2A%20OR%20CAMPBELTOWN), maybe a servant
 - Row 21: John Galbreath b 1772
 
 
