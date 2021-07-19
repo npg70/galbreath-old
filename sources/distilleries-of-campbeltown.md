@@ -4,7 +4,7 @@ title: The Distilleries of Campbeltown
 
 ## Index
 
-- Galbraith, Florence: TBD (not in published index)
+- Galbraith, Florence: [194](#page-194) (not in published index)
 - Galbraith, John 89
 - Galbreath, Archibald: [16](#page-16)
 - Galbreath, James: [9](#page-9)
@@ -22,3 +22,15 @@ title: The Distilleries of Campbeltown
 > Signed Archibald Galbreath, James Elder, Nathaiel Harvey
 
 ## Page 89
+
+## Page 194
+
+In Appendix H, Early 19th Century Illicit Distillers in Kintyre
+
+Compiled from multiple sources from 1813-1826, originally published
+in _The Island Whisky Trail_ by Neil Wilson.
+
+Brewerie is a location and NR number is a "OS Landranger map reference"
+
+> BREWERIE (NR718209)
+> Florence Galbraith, Blew, Mrs Tarbert
