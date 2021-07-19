@@ -1,4 +1,4 @@
-# John Galbreath
+# James Galbreath
 
 - parents: [Robert Galbreath](galbreath-robert-1778.md); *Catherine Harvey*
 - birth: 23 Dec 1809, Campbeltown, Arygll, Scotland
