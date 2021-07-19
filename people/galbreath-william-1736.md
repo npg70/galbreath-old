@@ -1,5 +1,6 @@
 ---
 title: William Galbreath b abt 1736 m. Margaret Dunlop
+familysearch: https://www.familysearch.org/tree/person/details/L6FC-1XM
 ---
 
 # William Galbreath
@@ -34,9 +35,3 @@ Children of Willian and Maraget (Dunlop) Galbreath:[^children1][^children2]
 [^marriage]: Marriage of William and Margaret Dunlop in OPR in [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=M&record_type%5B0%5D=opr_marriages&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-banns-marriages&surname=galbreath&surname_so=fuzzy&forename=w&forename_so=starts&spouse_name=dunlop&spouse_name_so=exact&from_year=1760&to_year=1760&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
 
 [^marriage2]: Marriage of William and Mary Campbell in OPS [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=M&record_type%5B0%5D=opr_marriages&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-banns-marriages&surname=galbraith&surname_so=syn&forename=william&forename_so=starts&sex=M&spouse_name=campbell&spouse_name_so=exact&from_year=1750&to_year=1800&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
-
-- FamilySearch is a mess 
-  - [L6FC-1XM](https://www.familysearch.org/tree/person/details/L6FC-1XM) - Descendants looks good, just no parents
-  - [KCR3-2HS](https://www.familysearch.org/tree/person/details/KCR3-2HS) - Lists child William b. 1766 that has another child
-  - [9M98-MBW](https://www.familysearch.org/tree/person/details/9M98-MBW) - almost no info, mergable
-  - [M1YS-TXV](https://www.familysearch.org/tree/person/details/M1YS-TXV) - lists as "Colbreath", one child.
