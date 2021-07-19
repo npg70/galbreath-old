@@ -257,7 +257,7 @@ https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/5631706?image=102
 
 > Archibald | Lawful Son to Robert Galbreath Farmer Peninver and Catherine Harvey, born 19th, baptised 22 Feb 1815. Named Archibald
 
-## 1817-04-16 John Galbreath
+## [1817-04-16 John Galbreath](/people/galbreath-john-1817.md)
 
 [507/40 460 row 13](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357574?image=460)
 
