@@ -109,7 +109,7 @@ Burgh of Campbeltown, 20 & 21 Back Street
 | 20  | 1772 |     | Jean Corbett | |
 | 20  | 1772 | John Galbreath     |  |   |
 | 24  | 1768 | Robert Johnson | | |
-| 23  | 1769 |     | Rachel Galbreath | |
+| 23  | 1769 |     | [Rachel Galbreath](/people/galbreath-rachel-1765.md) | |
 | 1   | 1791 |     |          | Alexander Johnson |
 
 ## Page 96
