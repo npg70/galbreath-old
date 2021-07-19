@@ -23,6 +23,9 @@ isbn: 1-903238-84-6
 
 ## Page 16
 
+> Subscribed by a Committee of the Distillers,
+> at Campbeltown, the Twenty-fourth Day of August, 1797
+>
 > Signed Archibald Galbreath, James Elder, Nathaiel Harvey
 
 ## Page 89
@@ -37,4 +40,5 @@ in _The Island Whisky Trail_ by Neil Wilson.
 Brewerie is a location and NR number is a "OS Landranger map reference"
 
 > BREWERIE (NR718209)
+>
 > Florence Galbraith, Blew, Mrs Tarbert
