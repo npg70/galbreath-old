@@ -85,32 +85,34 @@ Over 90 people are liated here, two are Jean Galbreath, age 50 and 51.  Unclear 
 
 Burgh of Campbeltown, 20 & 21 Back Street
 
-| Age | Birth | Men | Women | Children |
-|-----|------|-----|-------|----------|
-| 20  | 1772 | [James Galbreath](/foo) | | |
-| 18  | 1774 |     | Margaret Galbreath | |
-| 15  | 1777 |     |        | Florence Galbreath  |
-| 11  | 1781 |     |        | William Galbreath   |
-| 7   | 1785 |     |        | John Galbreath      |
-| 4   | 1788 |     |        | Alexander Galbreath |
-| 50  | 1742 | William Galbreath |  |  |
-| 42  | 1750 |     | Mary Campbell |   |
-| 21  | 1771 | Andrew Galbreath |  |   |
-| 17  | 1775 |     | Mary Stevenson |  |
-| 16  | 1774 |     | Jean Armour    |  |
-| 30  | 1762 | William Johnson |    |  |
-| 27  | 1765 |     | [Margaret Galbreath](/people/galbreath-margaret-1762.md) | |
-|  8  | 1784 |     |        | Margaret Johnson |
-|  6  | 1786 |     |        | Alexander Johnson |
-|  3  | 1789 |     |        | William Johnson   |
-|  1  | 1791 |     |        | James Johnson     |
-| 23  | 1769 |     | Mary McEachine |   |
-| 32  | 1760 | [Archibald Galbreath](/people/galbreath-archibald-1760.md) |  |  |
-| 20  | 1772 |     | Jean Corbett | |
-| 20  | 1772 | John Galbreath     |  |   |
-| 24  | 1768 | Robert Johnson | | |
-| 23  | 1769 |     | [Rachel Galbreath](/people/galbreath-rachel-1765.md) | |
-| 1   | 1791 |     |          | Alexander Johnson |
+
+
+| Row | Age | Birth | Men | Women | Children |
+|---|-----|------|-----|-------|----------|
+| 1 | 20  | 1772 | [James Galbreath](/foo) | | |
+| 2 | 18  | 1774 |     | Margaret Galbreath | |
+| 3 | 15  | 1777 |     |        | Florence Galbreath  |
+| 4 | 11  | 1781 |     |        | William Galbreath   |
+| 5 | 7   | 1785 |     |        | John Galbreath      |
+| 6 | 4   | 1788 |     |        | Alexander Galbreath |
+| 7 | 50  | 1742 | William Galbreath |  |  |
+| 8 | 42  | 1750 |     | Mary Campbell |   |
+| 9 | 21  | 1771 | Andrew Galbreath |  |   |
+| 10 | 17  | 1775 |     | Mary Stevenson |  |
+| 11 | 16  | 1774 |     | Jean Armour    |  |
+| 12 | 30  | 1762 | William Johnson |    |  |
+| 13 | 27  | 1765 |     | [Margaret Galbreath](/people/galbreath-margaret-1762.md) | |
+| 14 |  8  | 1784 |     |        | Margaret Johnson |
+| 15 |  6  | 1786 |     |        | Alexander Johnson |
+| 16 |  3  | 1789 |     |        | William Johnson   |
+| 17 |  1  | 1791 |     |        | James Johnson     |
+| 18 | 23  | 1769 |     | Mary McEachine |   |
+| 19 | 32  | 1760 | [Archibald Galbreath](/people/galbreath-archibald-1760.md) |  |  |
+| 20 | 20  | 1772 |     | Jean Corbett | |
+| 21 | 20  | 1772 | John Galbreath     |  |   |
+| 22 | 24  | 1768 | Robert Johnson | | |
+| 23 | 23  | 1769 |     | [Rachel Galbreath](/people/galbreath-rachel-1765.md) | |
+| 24 | 1   | 1791 |     |          | Alexander Johnson |
 
 ## Page 96
 
