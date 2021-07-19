@@ -184,6 +184,12 @@ https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/5631706?image=102
 
 > Margt | William Galbreath and Margaret Dunlop had a Daughter born 5th and baptised 8th Dec named Margt
 
+## [1765-08-29 Rachel Galbreath](/people/galbreath-rachel-1765.md)
+
+[507/10 295 row 8](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2086?image=295)
+
+> Rachel | William Galbraith & Margaret Dunlop had a daughter born 27th & baptised 29th Aug named Rachel
+
 ## 1777-09-07 Agnes Dunlop
 
 [507/20 35 row 3](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356969?image=35)
