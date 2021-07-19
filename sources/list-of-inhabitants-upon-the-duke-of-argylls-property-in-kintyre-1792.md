@@ -105,7 +105,7 @@ Burgh of Campbeltown, 20 & 21 Back Street
 |  3  | 1789 |     |        | William Johnson   |
 |  1  | 1791 |     |        | James Johnson     |
 | 23  | 1769 |     | Mary McEachine |   |
-| 32  | 1760 | Archibald Galbreath |  |  |
+| 32  | 1760 | [Archibald Galbreath](/people/galbreath-archibald-1760.md) |  |  |
 | 20  | 1772 |     | Jean Corbett | |
 | 20  | 1772 | John Galbreath     |  |   |
 | 24  | 1768 | Robert Johnson | | |
