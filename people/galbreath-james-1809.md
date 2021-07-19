@@ -10,4 +10,4 @@ Children of James and Nancy (Cole) Galbreath:
 1. *[Mary Catharine Galbreath](galbreath-mary-catharine-1837.md)*, b. 10 Aug 1837, Cincinatti; m. *John McNicoll* m. *John Herman Gerard Duhme*
 2. *Robert Harvey Galbreath*, b. 8 Sep 1843, Cincinnati, Ohio. m. *Emily J Smith*. No children.
 
-[^birth]: OPR record of baptism for [James Galbreath](/sources/opr-campbeltown-births.md#1809-12-27-james-galbreath
+[^birth]: OPR record of baptism for [James Galbreath](/sources/opr-campbeltown-births.md#1809-12-27-james-galbreath)
