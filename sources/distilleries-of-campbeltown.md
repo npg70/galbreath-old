@@ -1,5 +1,7 @@
 ---
-title: The Distilleries of Campbeltown 
+title: The Distilleries of Campbeltown
+publisher: "Angels' Share"
+year: 2005
 ---
 
 ## Index
