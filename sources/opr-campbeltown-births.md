@@ -233,7 +233,7 @@ https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/5631706?image=102
 
 > Samuel | Lawful Son to Robert Galbreath Farmer in Peninver and Catherine Harvie, born 18, baptised 22 March 1808.  Samuel
 
-## 1809-12-27 James Galbreath
+## [1809-12-27 James Galbreath](/people/galbreath-james-1809.md)
 
 [507/40 345 row 10](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357525?image=345)
 
