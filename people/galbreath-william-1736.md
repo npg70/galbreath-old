@@ -6,7 +6,7 @@ familysearch: https://www.familysearch.org/tree/person/details/L6FC-1XM
 
 Margaret may have been the daughter of *James Dunlop* and *Mary Caldwell*, maybe born 14 Dec 1735.  But this is speculative.
 
-Based on 1792 Census[^census1792] and the dates, it's likely Margaret Dunlop died and William remarried 20 Jun 1774 to Mary Campbell.[^marriage2]
+Based on 1792 Census[^census1792] and the dates, it's likely Margaret Dunlop died and William remarried 20 Jun 1774 to **Mary Campbell**.[^marriage2]
 
 Children of Willian and Maraget (Dunlop) Galbreath:[^children1][^children2]
 
