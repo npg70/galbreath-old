@@ -1,8 +1,14 @@
 ---
 title: Janet Galbreath b. 1711 m. David Ryburn
+familysearch: https://www.familysearch.org/tree/person/details/GSSD-1LD
 ---
 
 ***Janet Galbreath***, daughter of *[John Galbreath](galbreath-john-1680.md)* and *Mary Mitchell* born Campbeltown, Argyll, Scotland 14 Oct 1711 and died 1758.  Married 22 Feb 1735[^marriage] to **David Ryburn** born 15 Feb 1702[^david], son of *Matthew Ryburn*, *Elizabeth _____*
+
+Other theories of who Janet married are:
+- Robert Campbell bp 29 July 1711, m. 15 Mar 1731, son of Robert Campbell and Janet Templeton.
+-
+
 
 Children of David and Janet (Galbreath):[^children]
 
