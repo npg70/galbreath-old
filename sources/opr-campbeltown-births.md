@@ -275,7 +275,7 @@ https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/5631706?image=102
 
 > John | Lawful Son to Robert Galbreath Farmer Peninver and Catherine Harvey, born 12th, baptised 16th April 1817. John
 
-## 1833-10-2 William Galbreath
+## 1833-10-02 William Galbreath
 
 [507/70 32 row 4](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357872?image=32)
 
