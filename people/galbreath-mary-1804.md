@@ -1,6 +1,6 @@
 ---
 title: Mary Galbreath b. 1804 m. Duncan McGill
-familysearch: tbd
+familysearch: https://www.familysearch.org/tree/person/details/KCGP-MMW
 findagrave: https://www.findagrave.com/memorial/137966242/mary-mcgill
 ---
 ***Mary Galbreath***, daughter of *[Samuel Galbreath](galbreath-samuel-1765.md)* and *Janet Langwill*, born 18 May 1804 and baptised Campbeltown 22 May 1804. Shed died Aldborough, Elgin County, Ontario, Canada on 18 Jan 1873, and buried in McLean Cemetary there.[^death]
