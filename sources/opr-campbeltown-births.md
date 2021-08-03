@@ -124,6 +124,12 @@ title: "OPR Campbeltown Births"
 
 > Pattrick | John Galbreath & Mary Mitchell in Killkeddan has a son born 31st May named Patrick
 
+## 1718-10-02 David Galbreath
+
+[507/11 135 row 3](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357352?image=135)
+
+> David | David Galbreath & Isobell Watson had a son bapt 2 Oct named David
+
 ## 1719-04-28 David Galbreath
 
 [507/11 137](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357350?image=137)
@@ -174,9 +180,25 @@ https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/5631706?image=102
 
 > Samuel | John Galbreath and Mary Mitchell has a son baptized 8th August named Samuel
 
+## 1734-02-24 John Galbreath
+
+[507/11 202 row 12](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357624?image=202)
+
+> John | Patrick Galbreath & Mary Maxwell had a son baptized 24th Feb named John
+
+## 1734-03-03 John Galbreath
+
+[507/11 202 row 14](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357624?image=202)
+
+> John | Archd Galbreath & Martha Whyte had a son baptized 3rd March named John
+
 ## [1736-02-04 Samuel Galbreath](/people/galbreath-samuel-1736.md)
 
-> Samuel, Archibald Galbreath & Matha White has a son bapt. 4th Feb named Samuel 
+[507/11 212 ](h://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357777?image=212)
+> Samuel, Archibald Galbreath & Martha White has a son bapt. 4th Feb named Samuel 
+
+[507/10 154 row ](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/5609102?image=154)
+
 
 ## [1762-12-08 Margaret Galbreath](/people/galbreath-margaret-1762.md)
 
