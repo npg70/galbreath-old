@@ -36,6 +36,10 @@ The parents of [John Galbreath](/people/galbreath-john-abt-1710.md) who married 
 
 See [James Galbreath](/people/galbreath-james-abt-1775.md), b. say 1775,  marries *Martha Galbreath*. All marriage and children records reference both having the name Galbreath. So...
 
-## Lineage of David Galbreath and Martha Baird
+## Lineage of David Galbreath b. 1684 and Isabella Watson
+
+[David Galbreath](/people/galbreath-david-1684.md) is of unknow origin.
+
+## Lineage of David Galbreath b. !1720 and Martha Baird
 
 [David Galbreath](/people/galbreath-david-abt-1720.md), b. say 1720, who married *Martha Baird*.  His parents are unclear, and all children seem to have no additional records.
