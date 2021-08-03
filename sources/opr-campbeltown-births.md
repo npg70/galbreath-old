@@ -194,11 +194,21 @@ https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/5631706?image=102
 
 ## [1736-02-04 Samuel Galbreath](/people/galbreath-samuel-1736.md)
 
-[507/11 212 ](h://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357777?image=212)
-> Samuel, Archibald Galbreath & Martha White has a son bapt. 4th Feb named Samuel 
+[507/11 212 row 11](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357777?image=212)
 
-[507/10 154 row ](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/5609102?image=154)
+> Samuel | Archibald Galbreath & Martha White has a son bapt. 4th Feb named Samuel 
 
+[507/10 154 row 12](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/5609102?image=154)
+
+> Samuel | Archd Calbraith & Martha WHite had a son bapt. Samuel
+
+TODO: page also has Margaret Dunplop 1735 , daighter of James Dunlop and Mary Calbreth?
+
+## 1738-12-20 John Galbreath
+
+[507/11 225 row 4](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357638?image=225)
+
+> John | Archd Galbreath & Martha White has a son baptized 20th Dec named John
 
 ## [1762-12-08 Margaret Galbreath](/people/galbreath-margaret-1762.md)
 
@@ -302,4 +312,12 @@ https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/5631706?image=102
 [507/70 32 row 4](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357872?image=32)
 
 > William | Lawful son of David Galbreath, sawyer, & Janet Mitchell, was born 29 Sept & Bapt 2 Oct 1833. William
+
+## [1844-07-18 Catharine Greenless]()
+
+[507/70 266 row 1](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/3373606?image=266)
+
+> Catharine - Lawful daughter of Samuel Greenless, distiller, and Agnes Greenlees was born and bapts 18th July 1844
+
+
 
