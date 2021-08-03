@@ -6,7 +6,7 @@ title: David Galbreath m. Isabella Watson
 - birth: Abt 1684; Campbeltown ??
 - death: 1754; Campbeltown, unconfirmed
 
-Unconfirmed details for Isabella Watsons:
+Unconfirmed details for Isabella Watson:
 
 - birth: 1 Apr 1687, Kilconquhar, Fife, Scotland, United Kingdom
 - death: 2 Feb 1759, Airth, Stirlingshire, Scotland, United Kingdom
