@@ -154,7 +154,7 @@ title: "OPR Campbeltown Births"
 
 > Agnas | James Galbreath & Mary Fleeming in Kilkeddan had a Daut. baptised 18th Feb named Agnas
  
-[507/10 102 row ](https://www.scotlandspeople.gov.uk/images/OPR507_000_0010_0102Z
+[507/10 102 row ](https://www.scotlandspeople.gov.uk/images/OPR507_000_0010_0102Z)
 
 https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/5631706?image=102
 
