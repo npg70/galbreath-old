@@ -28,18 +28,18 @@ Both common names, and families have intermarried before, but Samuel's parents a
 
 [Alexander Galbreath](/people/galbreath-alexander-1816.md), a "malt man" emmigrated from Kintrye in the 1850s to West Virgina and Ohio. However, his parents are a mystery.
 
-## Lineage of John Galbreath and Isobell Clark
-
-The parents of [John Galbreath](/people/galbreath-john-abt-1710.md) who married Isobell Clark in 1732 is not clear. Public sources seem to think there were TWO John Galbreath and Isobell Clarks, although I can't find any evidence of such.  Of the 15 (!) children, only the last one John b. 1760 seems to have any records.
-
-## Lineage of James Galbreath and Martha Galbreath
-
-See [James Galbreath](/people/galbreath-james-abt-1775.md), b. say 1775,  marries *Martha Galbreath*. All marriage and children records reference both having the name Galbreath. So...
-
 ## Lineage of David Galbreath b. 1684 and Isabella Watson
 
 [David Galbreath](/people/galbreath-david-1684.md) is of unknow origin.
 
-## Lineage of David Galbreath b. !1720 and Martha Baird
+## Lineage of John Galbreath and Isobell Clark
+
+The parents of [John Galbreath](/people/galbreath-john-abt-1710.md) who married Isobell Clark in 1732 is not clear. Public sources seem to think there were TWO John Galbreath and Isobell Clarks, although I can't find any evidence of such.  Of the 15 (!) children, only the last one John b. 1760 seems to have any records.
+
+## Lineage of David Galbreath b. ~1720 and Martha Baird
 
 [David Galbreath](/people/galbreath-david-abt-1720.md), b. say 1720, who married *Martha Baird*.  His parents are unclear, and all children seem to have no additional records.
+
+## Lineage of James Galbreath b. ~1775 and Martha Galbreath
+
+See [James Galbreath](/people/galbreath-james-abt-1775.md), b. say 1775,  marries *Martha Galbreath*. All marriage and children records reference both having the name Galbreath. So...
