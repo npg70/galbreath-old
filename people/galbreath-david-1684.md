@@ -1,5 +1,6 @@
 ---
 title: David Galbreath m. Isabella Watson
+familysearch: https://www.familysearch.org/tree/person/details/LLCM-DJB
 ---
 ***David Galbreath***, of unknown origin, was born say 1790.  He married Campbeltown 3 Mar 1712[^marriage] to **Isabella Watson**.
 
