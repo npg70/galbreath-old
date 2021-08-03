@@ -256,7 +256,7 @@ TODO: page also has Margaret Dunplop 1735 , daighter of James Dunlop and Mary Ca
 
 [507/40 111 row 18](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357780?image=111)
 
-> Samuel Lawful son to Samuel Galbreath and Janet McNair Peninver 5
+> Samuel Lawful son to Samuel Galbreath and Janet McNair Peninver les
 
 ## [1797-09-09 David Galbreath](/people/galbreath-david-1797.md)
 
@@ -265,11 +265,48 @@ TODO: page also has Margaret Dunplop 1735 , daighter of James Dunlop and Mary Ca
 > David | Lawful son to Samuel Galbreath in Town and Janet Langwill, 
 > born 16th, baptised 19th [illegible] the Childs name is David.
 
+## 1800-02-26 Martha Galbreath
+
+[507/40 197 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358384?image=197)
+
+>  Martha | Samuel Galbreath and Janet Langwill in Drumlesnell[sic]
+>  had a lawful dat. born 24th baptized 26th Feb. [1800] named Martha
+
+## 1802-09-15 James Galbreath
+
+[507/40 232 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357492?image=234)
+
+> James | Lawful son to Samuel Galbreath and Janet Langwill in town born 14th baptized 15th Sept [1802] James
+
+## 1804-05-13 John Galbraith
+
+[507/40 262](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358471?image=262)
+
+John | Lawful Son to William Galbraith workman in Kildonell and Jean Campbell born 11th baptized 13 May 1804 named John 
+
+## 1804-05-22 Mary Galbreath
+
+[507/40 262 row 10](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358471?image=262)
+
+> Mary | Lawful Daughter to Samuel Galbreath Sawer in Campbeltown and Janet Langwill born 18 baptised 22 May 1804 named Mary
+
 ## 1806-03-11 Janet Galbreath
 
 [507/40 286 row 8](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358164?image=286)
 
 > Janet | Lawful Daughter to Robert Galbreath Malster in Dalintober and Catherine Harvey born 10th baptised 11 March 1806 Janet
+
+## 1806-09-02 Archibald Galbreath
+
+[507/40 292 row 15](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357909?image=292)
+
+> Archibald | Lawful Son to Peter Galbreath Taylor in Campbeltown and Janet MacKay born 31 Aug baptised 02 Sept 1806 named Archibald
+
+## 1806-09-03 Agnes Galbreath
+
+[507/40 292 row 16](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357909?image=292)
+
+> Agnes | Lawful Daughter to Samuel Galbreath sawer in Campbeltown and Janet Langwill born 2 baptised 3 September 1806 named Agnes
 
 ## 1808-03-22 Samuel Galbreath
 
