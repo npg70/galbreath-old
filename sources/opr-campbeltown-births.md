@@ -272,6 +272,13 @@ TODO: page also has Margaret Dunplop 1735 , daighter of James Dunlop and Mary Ca
 >  Martha | Samuel Galbreath and Janet Langwill in Drumlesnell[sic]
 >  had a lawful dat. born 24th baptized 26th Feb. [1800] named Martha
 
+## 1800-02-28 Florance Galbreath
+
+[507/40 197 row 8](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358384?image=197)
+
+>  Florence | John Molloy & Katherine Galbreath in town had a lawful dau.
+>  born 27th baptized 28th Feb. The childs name is Florance
+
 ## 1802-09-15 James Galbreath
 
 [507/40 232 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357492?image=234)
