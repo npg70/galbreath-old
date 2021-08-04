@@ -15,15 +15,16 @@ Children of Samuel and Janet (McNair) Galbreath, all baptized in Campbeltown:[^c
 3. [*Robert Galbreath*](galbreath-robert-1778.md), bp. 12 Oct 1778; m. *Katherine Harvie*
 4. *Martha Galbreath*, bp. 27 Jan 1781, bp. 28 Jan 1781
 5. *Archibald Galbreath*, bp. 8 Jun 1783, bp. 10 Jun 1783
-6. [*Catherine Galbreath*](galbreath-catherine-1788.md), bp. 16 May 1788; m. *James Greenlees*
-7. *Samuel Galbreath*, bp. 5 Nov 1793, bp. 5 Dec 1793
-8. *John Galbreath*, bp. 7 Nov 1796, bp. 9 Nov 1796
+6. [*Catherine Galbreath*](galbreath-catherine-1788.md), bp. 18 May 1788; m. *James Greenlees*
+7. *James Galbreath*, bp. 18 Apr 1791
+8. *Samuel Galbreath*, bp. 5 Nov 1793, bp. 5 Dec 1793
+9. *John Galbreath*, bp. 7 Nov 1796, bp. 9 Nov 1796
 
 [^birth]: OPR baptism of [Samuel Galbreath](/sources/opr-campbeltown-births.md#1736-02-04-samuel-galbreath)
 
 [^marriage]: There is no OPR or civil record of the marriage.
 
-[^children]: OPR Children on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=exact&forename_so=starts&from_year=1775&to_year=1800&parent_names=galbreath&parent_names_so=exact&parent_name_two=mcnair&parent_name_two_so=exact&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&rd_real_name%5B0%5D=CAMPBELTOWN%20%28LANDWARD%29%20OR%20CAMPBELTOWN%20%28BURGH%29%20OR%20CAMPBELTOWN&rd_display_name%5B0%5D=CAMPBELTOWN%20%28LANDWARD%29%7CCAMPBELTOWN%20%28BURGH%29%7CCAMPBELTOWN_CAMPBELTOWN&rd_label%5B0%5D=CAMPBELTOWN&rd_name%5B0%5D=CAMPBELTOWN%20%2ALANDWARD%2A%20OR%20CAMPBELTOWN%20%2ABURGH%2A%20OR%20CAMPBELTOWN&sort=asc&order=Date&field=year)
+[^children]: OPR Children on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=fuzzy&forename_so=starts&from_year=1775&to_year=1800&parent_names=galbreath&parent_names_so=fuzzy&parent_name_two=mcnair&parent_name_two_so=fuzzy&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&rd_real_name%5B0%5D=CAMPBELTOWN%20%28LANDWARD%29%20OR%20CAMPBELTOWN%20%28BURGH%29%20OR%20CAMPBELTOWN&rd_display_name%5B0%5D=CAMPBELTOWN%20%28LANDWARD%29%7CCAMPBELTOWN%20%28BURGH%29%7CCAMPBELTOWN_CAMPBELTOWN&rd_label%5B0%5D=CAMPBELTOWN&rd_name%5B0%5D=CAMPBELTOWN%20%2ALANDWARD%2A%20OR%20CAMPBELTOWN%20%2ABURGH%2A%20OR%20CAMPBELTOWN&sort=asc&order=Date&field=year)
 
 [^death]: Testament of Samuel Galbreath on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&dl_cat=legal&dl_rec=legal-wills-testaments&surname=galbreath%20&surname_so=exact&forename=samuel%20&forename_so=starts&from_year=1807&to_year=1808&record_type=wills_testaments), transcribed and annotated on [ClanGalbraith](http://clangalbraith.org/MembersOnly/Wills/Scottish/SamuelGalbeath1808.htm)
 
