@@ -357,11 +357,12 @@ John | Lawful Son to William Galbraith workman in Kildonell and Jean Campbell bo
 
 > William | Lawful son of David Galbreath, sawyer, & Janet Mitchell, was born 29 Sept & Bapt 2 Oct 1833. William
 
-## [1844-07-18 Catharine Greenless]()
+## 1844-07-18 Catharine Greenless
 
 [507/70 266 row 1](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/3373606?image=266)
 
 > Catharine - Lawful daughter of Samuel Greenless, distiller, and Agnes Greenlees was born and bapts 18th July 1844
 
+Unclear why I have this ;-)
 
 
