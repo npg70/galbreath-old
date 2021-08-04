@@ -16,13 +16,13 @@ Various baptism records indicate he was a sawyer / sawer, a maker of wood boards
 
 Children of Samuel and Jenat (Langwill) Galbreath, all born in Campbeltown:[^children]
 
-1. *Archibald Galbreath*, b. 25 Nov 1793 "in Town", and note a few days later a Samuel Galbreath was born from a different Samuel Galbreath (same OPR page).
-2. *Janet Galbreath*, b. 26 Oct 1795 "in Town"
-3. *[David Galbreath](galbreath-david-1797.md)*, b. 19 Sep 1797, m. *Janet Mitchell*
-4. *[Martha Galbreath](galbreath-matha-1800.md)*, b. 26 Feb 1800, m. *Malcolm McMillan*, "in Drumlenell" or something.
+1. *Archibald Galbreath*, bp. 25 Nov 1793 "in Town", and note a few days later a Samuel Galbreath was born from a different Samuel Galbreath (same OPR page).
+2. *Janet Galbreath*, bp. 26 Oct 1795 "in Town"
+3. *[David Galbreath](galbreath-david-1797.md)*, bp. 19 Sep 1797, m. *Janet Mitchell*
+4. *[Martha Galbreath](galbreath-matha-1800.md)*, bp. 26 Feb 1800, m. *Malcolm McMillan*, "in Drumlenell" or something.
 5. *James Galbreath*, b. 15 Sep 1802 "in Town"
 6. *[Mary Galbreath](galbreath-mary-1804.md)*, bp. 22 May 1804; m. *Duncan McGill*
-7. *Agnes Galbreath*, b. 3 Sep 1806, "of Samuel Galbreath, sawer in Campbeltown", also Archibald Galbreath, son of Peter Galbreath, taylor in Campbeltown and Janet MacKay.
+7. *Agnes Galbreath*, bp. 3 Sep 1806
 
 [^marriage]: OPR record of marriage on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=M&record_type%5B0%5D=opr_marriages&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-banns-marriages&surname=galbreath&surname_so=exact&forename_so=starts&sex=M&spouse_name=langwill&spouse_name_so=exact&from_year=1790&to_year=1794&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
 
