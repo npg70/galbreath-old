@@ -7,6 +7,8 @@ familysearch: https://www.familysearch.org/tree/person/details/M1Y6-H41
 
 The entire family is listed in the Duke of Argyll's 1792 census as living in Peninver.[^1792]  In particular, a daughter Janet is listed but there is no record of her in the Old Parish Records.
 
+Given the late marriage of Samuel and Janet there is the possibility he had an earlier wife and family.  There is no evidence of such however.
+
 Of note there is another [Samuel Galbreath](galbreath-samuel-1765.md) and lived in Campbeltown proper.
 
 Children of Samuel and Janet (McNair) Galbreath, all baptized in Campbeltown:[^children]
@@ -34,4 +36,4 @@ Children of Samuel and Janet (McNair) Galbreath, all baptized in Campbeltown:[^c
 
 [^janet-death]: Interestingly, no mention is made of a spouse in the testament of Samuel Galbreath, which may mean she passed before 1807. [FamilySearch](https://www.familysearch.org/tree/person/details/LVX6-RKP) circa 2021, lists a date of 07 Jul 1831 without citation.  OPR records indicate a Janet Galbreath did pass at Glasgow 24 Jul 1831, which can't be the same Janet.
 
-[^1792] The Duke of Argyll's [census of 1792](/sources/list-of-inhabitants-upon-the-duke-of-argylls-property-in-kintyre-1792.md#pages-171-172).
+[^1792]: The Duke of Argyll's [census of 1792](/sources/list-of-inhabitants-upon-the-duke-of-argylls-property-in-kintyre-1792.md#pages-171-172).
