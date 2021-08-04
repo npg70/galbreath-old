@@ -1,5 +1,5 @@
 ---
-title: Samuel Galbreath b. 1755 m. Janet McNair
+title: Samuel Galbreath b. 1736 m. Janet McNair
 familysearch: https://www.familysearch.org/tree/person/details/M1Y6-H41
 ---
 
