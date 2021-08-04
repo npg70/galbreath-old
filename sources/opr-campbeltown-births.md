@@ -246,6 +246,26 @@ TODO: page also has Margaret Dunplop 1735 , daighter of James Dunlop and Mary Ca
 
 > Robert | Lawful son to Samuel Galbreath & Janet McNair born 12th ??? bapt 15th Oct 1778
 
+## 1781-01-28 Martha Galbreath
+
+[507/20 51 row 11](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358385?image=51)
+
+> Martha | Lawful Dau to Samuel Galbreath & Janet McNair
+> born 27th was bapt. 28th Jan 1781
+
+## 1783-06-10 Archibald Galbreath
+
+[507/20 67 row 9](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357268?image=67)
+
+> Archibald | Lawful son to Samuel Galbreath in Peninver & Jean McNair
+> was born 8th & bapt. 10th June [1783]
+
+## 1793-12-05 Samuel Galbreath
+
+[507/40 111 row 18](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357780?image=111)
+
+> Samuel | Lawful son to Samuel Galbreath & Janet McNair. Peninver. 5 [ of Dec 1793]
+
 ## 1793-11-25 Archibald Galbreath 
 
 [507/40 111 row 13](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357780?image=111)
@@ -257,6 +277,12 @@ TODO: page also has Margaret Dunplop 1735 , daighter of James Dunlop and Mary Ca
 [507/40 111 row 18](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357780?image=111)
 
 > Samuel Lawful son to Samuel Galbreath and Janet McNair Peninver les
+
+## 1796-11-09 John Galbreath
+
+[507/40 144 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357611?image=144)
+
+> John | Lawful son to Samuel Galbreath & Janet McNair Peninver born (&?) bapt 9th
 
 ## [1797-09-09 David Galbreath](/people/galbreath-david-1797.md)
 
