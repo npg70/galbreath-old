@@ -7,7 +7,7 @@ Family is listed as living in  Kilchousland, Laggan according to the 1792 Census
 
 Children of Peter and Ann (McMurchy) Galbreath:
 
-1. *Janet Galbreath*, 1776
+1. *Janet Galbreath*, 1776  Can't find.
 2. *John Galbreath*, 1779 TBD
 3. *William Galbreath*, 1781
 4. *Robert Galbreath*, 1782
