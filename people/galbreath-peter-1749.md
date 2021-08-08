@@ -1,5 +1,6 @@
 ---
 title: "Peter Galbreath b 1749 m. Agnes McMurchy"
+familysearch: https://www.familysearch.org/tree/person/details/KC9M-5ZQ
 ---
 ***Peter Galbreath***, son of *[David Galbreath](galbreath-david-1718.md)* and *Isabella Watson*, baptized at Campbeltown 5 Apr 1749.
 
