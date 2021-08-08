@@ -7,14 +7,14 @@ Family is listed as living in  Kilchousland, Laggan according to the 1792 Census
 
 Children of Peter and Agnes (McMurchy) Galbreath:
 
-1. *Janet Galbreath*, 1776  Can't find.
-2. *John Galbreath*, bp. 1780 TBD
-3. *William Galbreath*, bp. 20 Jan 1781
+1. *Janet Galbreath*, 1776  Can't find - OPR record loss?
+2. *William Galbreath*, bp. 20 Jan 1778
+3. *John Galbreath*, bp. 6 Dec 1780 -- TBD, cross out in 1792.. maybe died?
 4. *Robert Galbreath*, bp. 16 Sep 1781
 5. *Archibald Galbreath*, bp. 2 Nov 1783
 6. *Mary Galbreath*, bp. 21 Sep 1785
 7. *James Galbreath*, bp. 27 Oct 1787
-8. *Margaret Galbreath*, 1790 -- TBD, mother listed as "Agnes McFarlane"
+8. *Margaret Galbreath*, bp. 9 Jun 1790 -- TBD, mother listed as "Agnes McFarlane"
 9. *Orslay Galbreath*, bp. 23 Jun 1792
 10. *Martha Galbreath*, bp. 23 Jun 1792
 11. *Jean Galbreath*, bp. 04 Jun 1796 -- TBD, father listed as "Patrick"
