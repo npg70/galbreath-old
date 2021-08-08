@@ -26,3 +26,15 @@ https://scotlandsplaces.gov.uk/digital-volumes/historical-tax-rolls/farm-horse-t
 Peter Galbraith Laggan	6	4	2	£0.9.0	£0.1.9.6
 Samuel Galbreath Penniver
 ```
+
+Kirk Session Records
+
+https://www.scotlandspeople.gov.uk/virtual-volumes/volume-images?image=13&volume=CH2/50/1&volume_info=Campbeltown%20kirk%20session&volume_short_desc=Minutes%20%281821-36%29&record_id=191&rex_uid=REX00035&placename=Campbeltown%20kirk%20session
+
+March 23, 1823
+"David Stewart Galbreath Esg of Machin...." -- some discussion on state of the poor
+
+https://www.scotlandspeople.gov.uk/virtual-volumes/volume-images?image=13&volume=CH2/50/1&volume_info=Campbeltown%20kirk%20session&volume_short_desc=Minutes%20%281821-36%29&record_id=191&rex_uid=REX00035&placename=Campbeltown%20kirk%20session
+
+same
+
