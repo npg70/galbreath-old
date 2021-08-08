@@ -13,7 +13,7 @@ Children of Peter and Ann (McMurchy) Galbreath:
 4. *Robert Galbreath*, 1782
 5. *Archibald Galbreath*, 1784
 6. *Mary Galbreath*, 1786
-7. *James Galbreath*, 1788
+7. *James Galbreath*, bp. 27 Oct 1787
 8. *Margaret Galbreath*, 1790
 
 [^1792]: [Duke of Argyll's 1792 Census](/sources/list-of-inhabitants-upon-the-duke-of-argylls-property-in-kintyre-1792.md#page-178)
