@@ -1,7 +1,9 @@
 ---
 title: "List of Inhabitants upon the Duke of Argyll's Property in Kintyre in 1792"
+author: A. I. B. Steward, editor
+publisher: Scottish Records Society
+year: 1991
 ---
-
 
 ## Index
 
