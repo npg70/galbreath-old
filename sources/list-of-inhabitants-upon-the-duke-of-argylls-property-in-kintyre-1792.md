@@ -242,7 +242,7 @@ Three generations:
 
 - Row 1: Janet MItchell is the mother of 
 - Row 2-3: James Harvie and [Cathrin Galbreath](/people/galbreath-katharine-1741.md)
-- Rows 4-: Children, oh now is row 7 Cathrin Harvie who married [Robert Galbreath](/people/galbreath-robert-1778.md) and immigrated to Ohio, USA.
+- Rows 4-: Children, of note is row 7 Cathrin Harvie who married [Robert Galbreath](/people/galbreath-robert-1778.md) listed on [page 172](#pages-171-172) and immigrated to Ohio, USA.
 
 | Row | Age | Birth | Men   | Women     | Children  |
 |-----|-----|-------|-------|-----------|-----------|
