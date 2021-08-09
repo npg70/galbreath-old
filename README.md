@@ -43,3 +43,7 @@ The parents of [John Galbreath](/people/galbreath-john-abt-1710.md) who married 
 ## Lineage of James Galbreath b. ~1775 and Martha Galbreath
 
 See [James Galbreath](/people/galbreath-james-abt-1775.md), b. say 1775,  marries *Martha Galbreath*. All marriage and children records reference both having the name Galbreath. So...
+
+## Lineage of David Stewart Galbraith, Esq.
+
+[David Stewart Galbraith, Esq.](/people/galbraith-david-stewart-1782.md) was present at many Kirk Sessions in Campbeltown.
