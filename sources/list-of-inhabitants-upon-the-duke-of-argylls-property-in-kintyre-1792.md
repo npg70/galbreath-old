@@ -244,12 +244,12 @@ Three generations:
 - Row 2-3: James Harvie and [Cathrin Galbreath](/people/galbreath-katharine-1741.md)
 - Rows 4-: Children, oh now is row 7 Cathrin Harvie who married [Robert Galbreath](/people/galbreath-robert-1778.md) and immigrated to Ohio, USA.
 
-| Row | Age | Birth | Men | Women | Children  |
-|-----|-------|-----|-------|-----------|
-| 1   | 87  | 1705  |     | Janet Mitchell |  |
+| Row | Age | Birth | Men   | Women     | Children  |
+|-----|-----|-------|-------|-----------|-----------|
+| 1   | 87  | 1705  |       | Janet Mitchell |  |
 | 2   | 55  | 1737  | James Harvie | |  |
-| 3   | 50  | 1742  |     | [Cathrin Galbreath](/people/galbreath-katharine-1741.md) | |
-| 4   | 23  | 1769  |     | Janet Harvie |  |
+| 3   | 50  | 1742  |       | [Cathrin Galbreath](/people/galbreath-katharine-1741.md) | |
+| 4   | 23  | 1769  |       | Janet Harvie |  |
 | 5   | 19  | 1773  | John Harvie | | |
 | 6   | 15  | 1777  |     |       | Robert Harvie |
 | 7   | 13  | 1779  |     |       | [Cathrin Harvie](/people/galbreath-robert-1778.md) |
