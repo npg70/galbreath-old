@@ -239,9 +239,9 @@ Parish of Kilchenzie, Kilchenzie:
 
 | Age | Birth | Men | Women | Children  |
 |-----|-------|-----|-------|-----------|
-| 34  |       | John Galbreath | |  |
-| 32  |       |     | Mary Gilchrist | |
-| 2   |       |     |       | John Gilchrist |
+| 34  | 1758  | John Galbreath | |  |
+| 32  | 1760  |     | Mary Gilchrist | |
+| 2   | 1790  |     |       | John Gilchrist |
 
 ## Page 186
 
