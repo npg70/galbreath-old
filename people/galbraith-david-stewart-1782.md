@@ -11,19 +11,19 @@ Moved to Campbeltown around prior to 1813.  A lawyer frequently present in Kirk 
 Children of David and Elizabeth (Fraser) Galbreath, all baptized at Campbeltown:
 
 1. *James Frazer Galbraith*, bp. 3 Aug 1813
-2. *Margaret Fraser Galbreath*, bp.
-3. *Elizabeth Galbreath*, bp.
-4. *Alexander Macdonald Galbreath*, bp. 
-5. *Flora Galbraith*, bp.
-6. *Julia Galbraith*, bp.
-7. *Emma Galbraith*, bp.
+2. *Margaret Fraser Galbreath*, bp. TBD
+3. *Elizabeth Galbreath*, bp. 30 Jun 1818
+4. *Alexander Macdonald Galbreath*, bp. 16 Sep 1819
+5. *Flora Galbraith*, bp. TBD
+6. *Julia Galbraith*, bp. TBD
+7. *Emma Galbraith*, bp.  TBD
 8. *David Stewart Galbraith*, bp. 22 Aug 1827
-9. *Octavia Galbreath*, bp.
+9. *Octavia Galbreath*, bp. 28 Aug 1829
 10. *Alfred Galbreath*, bp. 14 Sep 1830
-11. *Adelaide Galbreath*, bp.
+11. *Adelaide Galbreath*, bp. 23 Sep 1831
 12. *John Campbell Galbreath*, bp. 9 Aug 1833
-13. *Albert Stuart Gilbraith*, bp.
-14. *Henry Louis Galbraith*, bp.
+13. *Albert Stuart Gilbraith*, bp. 25 Dec 1834
+14. *Henry Louis Galbraith*, bp. 12 Jun 1837
 
 [^marriage]: from [FamilySearch](https://www.familysearch.org/ark:/61903/1:1:XYMB-GQB), Scotland Marriages 1561-1910.
 
