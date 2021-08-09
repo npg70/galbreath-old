@@ -160,16 +160,23 @@ Burgh of Campbeltown, 73 Kirk Street:
 
 ## Pages 130-131
 
-Burgh of Campbeltown, 108 Burnside:
+Burgh of Campbeltown, 108 Burnside
 
-| Age | Birth | Men | Women | Children  |
-|-----|-------|-----|-------|-----------|
-| 55  | 1737  | John Galbreath | |      |
-| 34  | 1758  |     | Ann Galbreath  |  |
-| 19  | 1773  | David Galbreath |     |  |
-| 10  | 1782  |     |          | Mary Galbreath |
-| 8   | 1784  |     |          | Daneil Galbreath |
-| 2   | 1790  |     |          | Martha Galbreath |
+- Row 1: John Galbreath is possibly the son of [Archibald Galbreath](/people/galbreath-archibald-1708.md) and Martha White, bp. 20 Dec 1738
+- Row 2: Ann (Agnes) Galbreath is possibly the daughter of [David Galbreath](/people/galbreath-david-abt-1720.md) and Matha Baird, bp. 27 Apr 1755
+- Row 3: Unclear who David is, no OPR records
+- Row 4: Mary, baptism on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=Galbreath&surname_so=exact&forename=Mary&forename_so=exact&sex=F&from_year=1782&to_year=1782&parent_names_so=exact&parent_name_two_so=exact&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
+- Row 5: Daneil looks to be a error.  David bp. on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=Galbreath&surname_so=exact&forename=David&forename_so=exact&sex=M&from_year=1784&to_year=1784&parent_names_so=fuzzy&parent_name_two_so=fuzzy&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
+- Row 6: Martha, bp. on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=Galbreath&surname_so=exact&forename=Martha&forename_so=exact&sex=F&from_year=1790&to_year=1790&parent_names_so=fuzzy&parent_name_two_so=fuzzy&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
+
+| Row | Age | Birth | Men | Women | Children  |
+|-----|-----|-------|-----|-------|-----------|
+| 1   | 55  | 1737  | John Galbreath | |      |
+| 2   | 34  | 1758  |     | Ann Galbreath  |  |
+| 3   | 19  | 1773  | David Galbreath |     |  |
+| 4   | 10  | 1782  |     |          | Mary Galbreath |
+| 5   |  8  | 1784  |     |          | Daneil Galbreath |
+| 6   |  2  | 1790  |     |          | Martha Galbreath |
 
 ## Page 150
 
