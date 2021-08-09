@@ -235,7 +235,14 @@ Parish of Kilchousland, Laggan
 
 ## Page 183
 
-Parish of Kilchenzie, Kilchenzie:
+Parish of Kilchenzie, Kilchenzie
+
+Married 15 Feb 1782 [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=M&record_type%5B0%5D=opr_marriages&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-banns-marriages&surname=galbreath&surname_so=exact&forename=john&forename_so=starts&sex=M&spouse_name=gilchrist&spouse_name_so=exact&from_year=1780&to_year=1790&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
+
+John Gilchrist is an error, should be John Galbreath.
+
+Looks like they had 2 children and moved to Gigha [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=exact&forename_so=starts&parent_names=gilchrist&parent_names_so=exact&parent_name_two_so=exact&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&sort=asc&order=Date&field=year)
+
 
 | Age | Birth | Men | Women | Children  |
 |-----|-------|-----|-------|-----------|
