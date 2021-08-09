@@ -246,7 +246,7 @@ Parish of Kilchenzie, Skeroblinraid
 | 23  | 1769  |     | Janet Harvie |  |
 | 19  | 1773  | John Harvie | | |
 | 15  | 1777  |     |       | Robert Harvie |
-| 13  | 1779  |     |       | Cathrin Harvie |
+| 13  | 1779  |     |       | [Cathrin Harvie](/people/galbreath-robert-1778.md) |
 | 11  | 1781  |     |       | Andrew Harvie |
 |  7  | 1785  |     |       | Agnes Harvie |
 
