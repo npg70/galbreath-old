@@ -4,7 +4,7 @@ familysearch: https://www.familysearch.org/tree/person/details/KC9M-5ZQ
 ---
 ***Peter Galbreath***, son of *[David Galbreath](galbreath-david-1718.md)* and *Isabella Watson*, baptized at Campbeltown 5 Apr 1749.
 
-Family is listed as living in  Kilchousland, Laggan according to the 1792 Census[^1792]
+Family is listed as living in Laggan in the Parish of Kilchousland according to the 1792 Census[^1792]
 
 Children of Peter and Agnes (McMurchy) Galbreath:
 
