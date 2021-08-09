@@ -285,10 +285,7 @@ Parish of Kilchenzie, Cleonghart:
 
 Parish of Kilchenzie, Belochgoichan.
 
-- Row 1 - Maybe son of Patrick and Jean Watson [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=exact&forename=arch&forename_so=starts&sex=M&from_year=1750&to_year=1752&parent_names_so=exact&parent_name_two_so=exact&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
-- Row 3 - Mary - no obvious choices
-- Row 2 - Cathrin - no records found
-- Row 4 - Jean - no records found
+No or no obvious records found for any of them.
 
 | Row | Age | Birth | Men | Women | Children  |
 |-----|-----|-------|-----|-------|-----------|
