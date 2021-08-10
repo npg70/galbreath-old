@@ -1,5 +1,5 @@
 ---
-title: David Stewart Galbraith
+title: David Stewart Galbraith b 1780 m. Elizabeth Fraser
 familysearch: https://www.familysearch.org/tree/person/details/KZDT-66V
 ---
 ***David Stewart Galbraith***.
