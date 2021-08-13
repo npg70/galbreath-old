@@ -8,10 +8,10 @@
 - marriage: 7 Dec 1830
 - death: 11 Jan 1844
 
-### Children
+Children of William and Janet (Galbreath) Kelly:
 
-- John Kelly, b. 1833
-- Archibald Kelly, b. 1834
+1. *John Kelly*, b. 1833
+2. *Archibald Kelly*, b. 1834
 
 # Sources
 
