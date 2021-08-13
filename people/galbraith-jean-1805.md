@@ -16,10 +16,20 @@ Children of John and Jean (Galbraith) Coville:
 5. *John Colville*, b. 1833
 6. *Elizabeth Colville*, b. 1835, d. 1916
 7. *Margaret Scott Colville*, b. 1837, d. 1863
-8. *Archibald Colville*, b. 1839, d. 1905
+8. *Archibald Colville*, b. 1839, d. 16 May 1905
 9. *Janet Colville*, b. 1841
 10. *John Colville*, b. 1843, d. 1924
-11. *Andrew Colville*, b. 1846
+11. *Andrew Colville*, b. 1846 d. 19 Apr 1881
 
 [^whisky]: basic vitals of John Coville Jr are in [Campbeltown Whisky. An Encyclopaedia](https://github.com/npg70/galbreath/blob/main/sources/campbeltown-whisky-an-encyclopaedia.md#page-44).
+
+> 833.2	Here lie the remains of JOHN COLVILL Junr, Merchant, Campbeltown,
+> who departed this life 5 December 1851 in the 56 year of his age and
+> of his children
+> JOHN died 7 March 1836 aged 3 years,
+> ARCHIBALD died 6 April 1836 aged 9 years,
+> MARY died 23 September 1848 aged 20 years,
+> JEAN GALBRAITH his wife died 3 June 1864 in her 59th year,
+> ANDREW GALBRAITH her son died at Bournemouth 19 April 1881 aged 34 years,
+> ARCHIBALD her son died 16 May 1905 aged 65 years.
 
