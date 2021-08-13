@@ -7,21 +7,23 @@ findagrave: https://www.findagrave.com/memorial/167549655/jean-colvill
 
 John was the Provost of Campbeltown 1842-1848, and died 5 Dec 1851.
 
-Children of John and Jean (Galbraith) Coville:
+Children of John and Jean (Galbraith) Coville:[^children]
 
-1. *Jean Colville*, b. 1825, d. 1906
-2. *Archibald Colville*, b. 1827
-3. *Mary Colville*, b. 1829
-4. *Martha Colville*, b. 1831
-5. *John Colville*, b. 1833
-6. *Elizabeth Colville*, b. 1835, d. 1916
-7. *Margaret Scott Colville*, b. 1837, d. 1863
-8. *Archibald Colville*, b. 1839, d. 16 May 1905
-9. *Janet Colville*, b. 1841
-10. *John Colville*, b. 1843, d. 1924
-11. *Andrew Colville*, b. 1846 d. 19 Apr 1881
+1. *Jean Colville*, bp. 19 Jun 1825, d. 1906
+2. *Archibald Colville*, bp. 28 May 1827
+3. *Mary Colville*, bp. 13 May 1829
+4. *Martha Colville*, bp. 9 May 1831
+5. *John Colville*, bp. 4 Apr 1833
+6. *Elizabeth Colville*, bp. 6 Aug 1835, d. 1916
+7. *Margaret Scott Colville*, bp. 1837, d. 1863
+8. *Archibald Colville*, bp. 14 Oct 1839, d. 16 May 1905
+9. *Janet Colville*, bp. 1 Aug 1841
+10. *John Colville*, bp. 4 Dec 1843, d. 1924
+11. *Andrew Galbraith Colville*, bp. 31 Jan 1847, d. 19 Apr 1881
 
 [^whisky]: basic vitals of John Coville Jr are in [Campbeltown Whisky. An Encyclopaedia](https://github.com/npg70/galbreath/blob/main/sources/campbeltown-whisky-an-encyclopaedia.md#page-44).
+
+[^children]: Bapitsm records for the 10 of 11 children on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=colville&surname_so=fuzzy&forename_so=starts&from_year=1824&to_year=1847&parent_names_so=exact&parent_name_two=galbreath&parent_name_two_so=exact&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&sort=asc&order=Date&field=year)
 
 > 833.2	Here lie the remains of JOHN COLVILL Junr, Merchant, Campbeltown,
 > who departed this life 5 December 1851 in the 56 year of his age and
