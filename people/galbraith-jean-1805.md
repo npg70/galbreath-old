@@ -15,7 +15,7 @@ Children of John and Jean (Galbraith) Coville:[^children]
 4. *Martha Colville*, bp. 9 May 1831
 5. *John Colville*, bp. 4 Apr 1833
 6. *Elizabeth Colville*, bp. 6 Aug 1835, d. 1916
-7. *Margaret Scott Colville*, bp. 1837, d. 1863
+7. *Margaret Scott Colville*, bp. 28 Jun 1837[^margaret], d. 1863
 8. *Archibald Colville*, bp. 14 Oct 1839, d. 16 May 1905
 9. *Janet Colville*, bp. 1 Aug 1841
 10. *John Colville*, bp. 4 Dec 1843, d. 1924
@@ -24,6 +24,8 @@ Children of John and Jean (Galbraith) Coville:[^children]
 [^whisky]: basic vitals of John Coville Jr are in [Campbeltown Whisky. An Encyclopaedia](https://github.com/npg70/galbreath/blob/main/sources/campbeltown-whisky-an-encyclopaedia.md#page-44).
 
 [^children]: Bapitsm records for the 10 of 11 children on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=colville&surname_so=fuzzy&forename_so=starts&from_year=1824&to_year=1847&parent_names_so=exact&parent_name_two=galbreath&parent_name_two_so=fuzzy&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&sort=asc&order=Date&field=year)
+
+[^margaret]: Baptism of "Margaret Scott Colvill" daughter of John Colvil and Jean Colvil on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=colvill&surname_so=exact&forename=margaret%20scott&forename_so=exact&sex=F&from_year=1837&to_year=1837&parent_names_so=exact&parent_name_two_so=starts&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
 
 > 833.2	Here lie the remains of JOHN COLVILL Junr, Merchant, Campbeltown,
 > who departed this life 5 December 1851 in the 56 year of his age and
