@@ -2,7 +2,7 @@
 title: Alexander Galbreath b. 1816 m. Elisabeth McCualskey
 familysearch: https://www.familysearch.org/tree/person/details/9NN7-9JW
 ---
-***Alexander Galbreath***, son of  [Archibald Galbreath](galbreath-archibald-unknown.md) and a unknown mother, was baptized at Southend, Argyll, Scotland on 20 Apr 1816.  He died in Washington County, Ohio, USA in 1898.  He married at Southend 2 Jun 1845 to **Elisabeth McCualskey**, daughter of *Alexander McCualskey*, b ~1778 from Alexander jr b. 1730 & Margaret McNaught b. 1734 in Campbeltown  [^1792], and *Margaret Raeside/Ryside*, b. 1787 "Formerly a weaver's wife".  SHe died in  Parkersburg, Wood, West Virginia, United States in 1904.
+***Alexander Galbreath***, son of  [Archibald Galbreath](galbreath-archibald-unknown.md) and a unknown mother, was baptized at Southend, Argyll, Scotland on 20 Apr 1816.  He died in Washington County, Ohio, USA in 1898.  He married at Southend 2 Jun 1845 to **Elisabeth McCualskey**, daughter of *Alexander McCualskey*, b ~1778 from Alexander jr b. 1730 & Margaret McNaught b. 1734 in Campbeltown  [^1792], and *Margaret Raeside/Ryside*, b. 1787 "Formerly a weaver's wife".  She died in  Parkersburg, Wood, West Virginia, United States in 1904.
 
 Occupation "Malt man" according to 1851 Census, emmigrated around 1851-1857. 
 
