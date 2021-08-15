@@ -2,6 +2,8 @@
 title: "The Kintyre Magazine #50 Autumn 2001"
 ---
 
+## Templetons of Kintyre
+
 > Thomas [Templeton] born in 1720.... daughters .... Jackie [Templeton] married Archibald Galbreath....
 
 [Jackie Templeton](https://www.familysearch.org/tree/person/details/M1Y6-8FX), daughter of Thomas Templeton and Agnes Colville, born 1783 in Campbeltown.
