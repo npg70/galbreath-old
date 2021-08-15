@@ -1,5 +1,5 @@
 ---
-title: "The Kintyre Magazine #50 Autumn 2001
+title: "The Kintyre Magazine #50 Autumn 2001"
 ---
 
 > Thomas [Templeton] born in 1720.... daughters .... Jackie [Templeton] married Archibald Galbreath....
