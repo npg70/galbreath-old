@@ -64,7 +64,7 @@
 
 ## Templeton
 
-- *Archibald Galbreath*, m. *Jackie Templeton* Campbeltown 26/06/1805  No info on either parents, one child Janet b. 1806 from [FamilySearch](https://www.familysearch.org/tree/person/details/KCKB-P89)
-- [*Orsla Galbreath*](.people/galbreath-orsla-1805.md) b. 1805 m. *Hugh Templeton* Campbeltown 03 Feb 1829
+- *Archibald Galbreath*, m. *Jackie Templeton* Campbeltown 26/06/1805  one child Janet b. 1806.  Parents of Archibald unknown.  See [FamilySearch](https://www.familysearch.org/tree/person/details/KCKB-P89)
+- *[Orsla Galbreath](.people/galbreath-orsla-1805.md)* b. 1805 m. *Hugh Templeton* Campbeltown 03 Feb 1829
 - *Catharine Galbreath* m. *Hugh Templeton* Campbeltown 23/02/1837   No info on either parents, 4 daughters from [FamilySearch](https://www.familysearch.org/tree/person/details/K8BM-MG6)
 
