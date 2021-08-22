@@ -36,6 +36,8 @@ From _Campbeltown Courier_  2 Sep 1933:
 > Dean of Guild Stewart and the late Provost John Galbraith,
 > North Park.
 
+[John Galbraith](/people/galbraith-john-1809.md), born 1809, son of 
+
 ## Page 194
 
 In Appendix H, Early 19th Century Illicit Distillers in Kintyre
