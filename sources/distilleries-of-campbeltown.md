@@ -9,7 +9,7 @@ isbn: 1-903238-84-6
 ## Index
 
 - Galbraith, Florence: [194](#page-194) (not in published index)
-- Galbraith, John 89
+- Galbraith, John: [89](#page-89)
 - Galbreath, Archibald: [16](#page-16)
 - Galbreath, James: [9](#page-9)
 - Stewart, Galbraith & Co.: 26,44,53,89,130,172
@@ -29,6 +29,12 @@ isbn: 1-903238-84-6
 > Signed Archibald Galbreath, James Elder, Nathaiel Harvey
 
 ## Page 89
+
+From _Campbeltown Courier_  2 Sep 1933:
+
+> Scotia Distillery was founded in the year 1837 by the late
+> Dean of Guild Stewart and the late Provost John Galbraith,
+> North Park.
 
 ## Page 194
 
