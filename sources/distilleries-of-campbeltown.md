@@ -36,7 +36,7 @@ From _Campbeltown Courier_  2 Sep 1933:
 > Dean of Guild Stewart and the late Provost John Galbraith,
 > North Park.
 
-[John Galbraith](/people/galbraith-john-1809.md), born 1809, son of 
+[John Galbraith](/people/galbraith-john-1809.md), born 1809, son of Archibald Galbreath and Jean Corbet.
 
 ## Page 194
 
