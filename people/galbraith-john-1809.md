@@ -7,7 +7,7 @@ findagrave: https://www.findagrave.com/memorial/177759816/john-galbraith
 
 - Provost of Campbeltown 1860-66
 - Foudner Scotia Distillery[^scotia1]
-- 
+
 Children of John and Mary (McEwing) Galbraith:
 
 1. *Elizabeth Galbraith*, b. 1841, m. *James Nicol Fleming* 
@@ -26,7 +26,7 @@ http://www.ralstongenealogy.com/number35kintmag.htm#start
 > and Mary Mitchell, but through their oldest son Archibald. 
 
 - Note error in death.  Says 1861 but should be 1881
-- Here the "emmigrant" refers to [Alexander Galbreath](galbreath-alexander-1753.md) (to immigrated to Balitmore).
+- Here the "emmigrant" refers to [Alexander Galbreath](galbreath-alexander-1753.md) (who immigrated to Balitmore).
 - "John in Kilteddan and Mary Mitchell" is [John Galbreath](galbreath-john-1680.md) (also "Kilteddan" is never defined the article, a Google returns nothing).
 - "oldest son Archibald" is [Archibald Galbreath](galbreath-archibald-1708.md)
 
