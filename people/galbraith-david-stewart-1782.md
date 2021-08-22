@@ -2,7 +2,7 @@
 title: David Stewart Galbraith b 1780 m. Elizabeth Fraser
 familysearch: https://www.familysearch.org/tree/person/details/KZDT-66V
 ---
-***David Stewart Galbraith***, son of *Daniel Torquil Galbraith*, Laird of Machrehanish and *Maragaret Stuart* (dau. of Archibald Stuart, Esq., of Askomibeg; b. 1780).
+***David Stewart Galbraith***, son of *Daniel Torquil Galbraith*, Laird of Machrehanish and *Maragaret Stuart* (dau. of Archibald Stuart, Esq., of Askomibeg); b. 1780.[^birth]
 He married at Edinburgh Parish, Edinburgh, Midlothian, Scotland 8 Jun 1812 to **Elizabeth Fraser**, daughter of *James Fraser*.[^marriage]
 
 Moved to Campbeltown around prior to 1813.  He was a lawyer and frequently present in Kirk Sessions in Campbeltown.
@@ -23,6 +23,8 @@ Children of David and Elizabeth (Fraser) Galbreath, all baptized at Campbeltown:
 12. *John Campbell Galbreath*, bp. 9 Aug 1833
 13. *Albert Stuart Gilbraith*, bp. 25 Dec 1834
 14. *Henry Louis Galbraith*, bp. 12 Jun 1837
+
+[^birth]: no OPR records found.
 
 [^marriage]: from [FamilySearch](https://www.familysearch.org/ark:/61903/1:1:XYMB-GQB), Scotland Marriages 1561-1910.
 
