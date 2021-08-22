@@ -48,12 +48,17 @@ Extensive notes on [John Galbraith](/people/galbraith-john-1809.md), founder of 
 > merchant in Campbeltown, and his great-grandfather,
 > William, was a maltster. Each of these, like his father,
 > married into a Plantation family: Langwill and Dunlop,
-> respectively. John's bother William ...  His other brothers,
-> Archibald and Andrew...
+> respectively. John's bother William, a merchant in Campbeltown,
+> was a partner in Stewart, Galbraith & co. from its foundation
+> until his death in 1883. His other brothers, Archibald and Andrew,
+> who left Kintyre, were cotton-spinners amd merchants, and
+> Andrew was Lord Provost of Glasgow from 1857 until 1860.
 >
 > His widow, Mary Coville McEwing, was aged 82 when she died
 > in 1900. Her parents were John Townley McEwing, R.N., and 
 > Elizabeth Colville. For daughter Elizabeth...
+
+Possible error for William's death.  This has 1883.  But may be 1863.
 
 ## Page 88
 
