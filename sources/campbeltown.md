@@ -66,6 +66,10 @@ title: "Campbeltown"
 > licensees 1835-c,1895. Situated in High Street, Dalintober; original partners were James Stewart,
 > John and William Galbraith...
 
+[John Galbraith](/people/galbraith-john-1809.md), born 1809, son of Archibald Galbreath and Jean Corbet.
+
+William Galbraith is likely John's older brother b. 1801.
+
 ## Page 156
 
 TBD: where listed?
