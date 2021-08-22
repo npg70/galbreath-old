@@ -5,7 +5,7 @@ findagrave: https://www.findagrave.com/memorial/204250177/archibald-galbraith
 ---
 ***Archibald Galbreath***, son of [William Galbreath](galbreath-william-1736.md) and *Margaret Dunlop*, born Campbeltown 12 Oct 1760, and died in 1846.  Burried at Kilkerran Cemetery, Campbeltown.
 
-Married first at Campbeltown 14 Sep 1787 to **Martha Langwill**
+Married first at Campbeltown 14 Sep 1787 to **Martha Langwill**[^marriage1]
 
 - birth: 12 May 1768; Campbeltown, Argyll and Bute, Scotland
 - death: 1789; Campbeltown, Argyll and Bute, Scotland
@@ -25,11 +25,11 @@ He married second to **Jean Corbett**.
 Likely occupation was Maltster, and then a "Grazier" (a pastoral/livestock farmer)[^1841]
 
 
-Children of Archibald and Martha (Langwill) Galbreath:
+Children of Archibald and Martha (Langwill) Galbreath:[^children1]
 
 1. *William Galbreath*, b. 12 Feb 1789
 
-Children of Archibald and Jean (Corbet) Galbreath:
+Children of Archibald and Jean (Corbet) Galbreath:[^children2]
 
 1. *Martha Galbreath*, b. 19 Mar 1792
 2. *William Galbreath*, b. 9 Nov 1794
@@ -42,17 +42,16 @@ Children of Archibald and Jean (Corbet) Galbreath:
 9. *[John Galbraith](galbraith-john-1809.md)*, b. 5 Sept. 1809, m. *Mary Colvill McEwing*. Provost of Campbeltown 1860-66
 10. *Mary Galbreath*, b. 16 Jan 1814.  Under "Archd. Galbreath/Jean Corbert"
 
-# Sources
-
 [^1841]: Family listed in 1841 Census in [FindMyPast](https://www.findmypast.com/transcript?id=GBC%2F1841%2F0016605235) (Grazier: a pastoral farmer, producing livestock rather than crops)
 
-- OPR Marriage to Martha Langwill in [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=M&record_type%5B0%5D=opr_marriages&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-banns-marriages&surname=galbr&surname_so=starts&forename_so=starts&sex=M&spouse_name=langwill&spouse_name_so=starts&from_year=1787&to_year=1787&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
-- OPR Children of Archibald and Martha Langwill in [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbraith&surname_so=syn&forename_so=starts&from_year=1780&to_year=1790&parent_names=galbr&parent_names_so=starts&parent_name_two=langwill&parent_name_two_so=starts&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
-- OPR Children of Archibald and Jean Corbet/Corbett/Corbit/Corbert in [ScotlandPeoples](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=exact&forename_so=starts&from_year=1792&to_year=1820&parent_names=galbreath&parent_names_so=exact&parent_name_two=cor&parent_name_two_so=starts&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&sort=asc&order=Date&field=year)
-- Archibald Galbreath in [FindAGrave](https://www.findagrave.com/memorial/204250177/archibald-galbraith)
+[^marriage1]: OPR Marriage to Martha Langwill in [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=M&record_type%5B0%5D=opr_marriages&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-banns-marriages&surname=galbr&surname_so=starts&forename_so=starts&sex=M&spouse_name=langwill&spouse_name_so=starts&from_year=1787&to_year=1787&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
+
+[^children1]: OPR Children of Archibald and Martha Langwill in [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbraith&surname_so=syn&forename_so=starts&from_year=1780&to_year=1790&parent_names=galbr&parent_names_so=starts&parent_name_two=langwill&parent_name_two_so=starts&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
+
+[^children2]:OPR Children of Archibald and Jean Corbet/Corbett/Corbit/Corbert in [ScotlandPeoples](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=exact&forename_so=starts&from_year=1792&to_year=1820&parent_names=galbreath&parent_names_so=exact&parent_name_two=cor&parent_name_two_so=starts&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&sort=asc&order=Date&field=year)
+
 - Jean Corbert in [FindAGrave](https://www.findagrave.com/memorial/207287627/jean-galbraith)
+
 - "A List of the Matriculated Members of the Merchants House of Glasgow From 3rd October, 1768, to 10th June, 1891 : Arranged Alphabetically, in Chronological Order: to which is Appended a List of the Deans of Guild : and Collectors of the House, from the Date of the Letter of Guildry in the Year 1605, to the Present Time", available on [Google Books](https://www.google.com/books/edition/A_List_of_the_Matriculated_Members_of_th/csYxAQAAMAAJ?hl=en&gbpv=1&bsq=galbraith).  Lists "Archibald Galbraitth, Maltster, Campbeltown" with two sons admitted to Glasgow Merchant House
     - "Galbraith, Arch.", matriculated in 1843, elected 1856 as Director
     - "Galbraith, And.", matriculated in 1843, elected 1850 as "Dean of Guild"
-    
-  However, an Archibald with two sons Archibald and Andrew is far from unique.  However his other son John became an founding member of Scotia distillery.
