@@ -35,7 +35,7 @@ Children of Archibald and Jean (Corbet) Galbreath:
 2. *William Galbreath*, b. 9 Nov 1794
 3. *Agnes Galbreath*, b. 4 Feb 1797
 4. *[Andrew Galbraith](galbraith-andrew-1799.md)*, b. 10 Feb 1799, m. *Margaret Bogle Scott*. Lord Provost of Glasgow 1857-60
-5. *William Galbreath*, b. 8 Feb 1801
+5. *William Galbreath*, b. 8 Feb 1801, d. 1863
 6. *Margaret Galbreath*, b. 19 Jan 1803
 7. *[Jean Galbreath](galbraith-jean-1805.md)*, b. 7 Apr 1805, m. *John Coville Jr*
 8. *[Archibald Galbraith](galbraith-archibald-1807.md)*, b. 31 May 1807.  Cotton Merchant & Manufacturer A&A Galbraith
