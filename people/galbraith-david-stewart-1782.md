@@ -10,8 +10,8 @@ Moved to Campbeltown around prior to 1813.  He was a lawyer and frequently prese
 Children of David and Elizabeth (Fraser) Galbreath, all baptized at Campbeltown:
 
 1. *James Frazer Galbraith*, bp. 3 Aug 1813
-2. *Margaret Fraser Galbreath*, bp. TBD
-3. *Elizabeth Galbreath*, bp. 30 Jun 1818
+2. *Margaret Fraser Galbreath*, bp. TBD, died before 1843.
+3. *Elizabeth Galbreath*, bp. 30 Jun 1818, m. 10 Jun 1843 *Thomas McKiken Crawfuird* Maybole Parish, Ayr.[^eg]
 4. *Alexander Macdonald Galbreath*, bp. 16 Sep 1819
 5. *Flora Galbraith*, bp. TBD
 6. *Julia Galbraith*, bp. TBD
@@ -36,3 +36,8 @@ Children of David and Elizabeth (Fraser) Galbreath, all baptized at Campbeltown:
     > m. 1812 Elizabeth, only dau. of the late James Fraser, Esq., of Isle of Skye.
     > Educated at the University of Edinburgh. Is a J.P. and D.L. for co. Argyll. --
     > Residence: Holt Manor House, near Chippenham, Wilts.
+    
+[^eg]: marriage on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=M&record_type%5B0%5D=opr_marriages&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-banns-marriages&surname=galbraith&surname_so=fuzzy&forename_so=starts&sex=F&spouse_name=craw&spouse_name_so=starts&from_year=1843&to_year=1843&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches).  From [Coat of Arms DB](https://coadb.com/surnames/crawford-arms.html) on the Crawford family:
+    > Thomas MacMiken Crawfurd, Esq., (born 1814 was of Grange House, Ayrshire and a Justice of the Peace).
+    > In 1843, he married Elizabeth Fraser, eldest surviving daughter of David Steuart Galbraith 
+    > of Machrehanish and Dromore, and had a son and heir named Archibald Hew Craufurd (born 1844). 
