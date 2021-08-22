@@ -90,7 +90,9 @@ Janet "Jessie" Coville is the daughter of John Coville Jr and [Jean Galbraith](/
 
 ## Page 115
 
-> ... by Minnie Galbraith, daughter of Andrew Galbraith (p 77)
+> In 1867... Miss Minnie Galbraith, daughter of Andrew Galbraith...
+
+[Andrew Galbraith](/people/galbraith-andrew-1799.md), b. 1799, Lord Provost of Glasgow.
    
 ## Page 125
 
