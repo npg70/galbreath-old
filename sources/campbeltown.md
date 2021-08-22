@@ -1,5 +1,8 @@
 ---
-title: "Campbeltown"
+title: "The Campbeltown Book"
+year: 2003
+publisher: Kintye Civic Society
+isbn: "0-9545845-0-3"
 ---
 
 ## Index
