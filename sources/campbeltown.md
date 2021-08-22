@@ -75,7 +75,7 @@ TBD: where listed?
 
 ## Page 349
 
-Deemed "missing" in 1940 from the Battle of Dunkirk:
+Deemed missing in 1940 from the Battle of Dunkirk:
 
 > Gunner Dan Galbraith, c/o Mason, Mill Street - 201st Anti-tank Battery, R.A.
 
@@ -84,6 +84,7 @@ Deemed "missing" in 1940 from the Battle of Dunkirk:
 > ...Pilot Officer John Galbraith of Polliwilline Farm, Southend, was reported in
 > August 1942 as probably the first Kintyre man to cross the Atlantic by air.
 
+From Google Maps: https://goo.gl/maps/6NDDFRmokQXXab288  is on Sanda Island offshore of Campbeltown.
 
 ## Page 365
 
