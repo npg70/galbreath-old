@@ -38,3 +38,8 @@ https://www.scotlandspeople.gov.uk/virtual-volumes/volume-images?image=13&volume
 
 same
 
+
+Neil Galbraith drowning
+http://www.kintyreforum.com/viewtopic.php?f=60&t=16256
+
+Born ~1841, Died 1873
