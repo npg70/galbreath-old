@@ -43,6 +43,9 @@ Poking around some more, it appears to the son of:
 > Born in Saddell, Argyllshire on 19 Mar 1887 to Alexander Galbraith and Mary Campbell. 
 > Alexander Galbraith married Eliza Tina Campbell and had 3 children. He passed away on 1966 in Carradale, Argyll, Scotland.
 
+https://www.familysearch.org/tree/person/details/G3XR-SNS
+
+A random record on Ancestry.com page lists the children as:
 1. John Colin Campbell Galbraith, 1910 - 1988
 2. Alexander Galbraith, 1914-2000
 4. Richard Harris Galbraith 1918 - 1995
