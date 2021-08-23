@@ -32,6 +32,8 @@ isbn: "0-9545845-0-3"
 > Campbeltown owners... The _Aquarian_ was launched in spring [of 1971] for
 > Archibald Galbraith.
 
+http://clydeships.co.uk/view.php?ref=4172
+
 ## Page 78
 
 > ...the origins of fishing communities in Campbeltown and Dalintober...
