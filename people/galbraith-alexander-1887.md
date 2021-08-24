@@ -1,5 +1,5 @@
 ---
-title: "Alexander Galbraith b. 1887 m. Eliza Tina Campbell
+title: "Alexander Galbraith b. 1887 m. Eliza Tina Campbell"
 familysearch: XXX
 findagrave: https://www.findagrave.com/memorial/172200083/alexander-galbraith
 ---
