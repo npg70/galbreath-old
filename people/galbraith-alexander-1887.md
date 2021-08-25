@@ -1,6 +1,6 @@
 ---
 title: "Alexander Galbraith b. 1887 m. Eliza Tina Campbell"
-familysearch: XXX
+familysearch: https://www.familysearch.org/tree/person/details/G3XR-SNS
 findagrave: https://www.findagrave.com/memorial/172200083/alexander-galbraith
 ---
 ***Alexander Galbraith***, son of *[Alexander Galbraith](galbraith-alexander-1854.md)* and *Mary Campbell*, born 19 Mar 1887 Saddell, d. 12 Nov 1966 Carradale.
