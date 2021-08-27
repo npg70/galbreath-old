@@ -16,7 +16,7 @@ Children of David and Elizabeth (Fraser) Galbreath, all baptized at Campbeltown:
 5. *Flora Galbraith*, bp. TBD
 6. *Julia Galbraith*, bp. TBD
 7. *Emma Galbraith*, bp.  TBD
-8. *David Stewart Galbraith*, bp. 22 Aug 1827
+8. *David Stewart Galbraith*, bp. 22 Aug 1827, m. *Katherina Sophia _____* (maybe in AU)
 9. *Octavia Galbreath*, bp. 28 Aug 1829
 10. *Alfred Galbreath*, bp. 14 Sep 1830
 11. *Adelaide Galbreath*, bp. 23 Sep 1831
