@@ -48,4 +48,4 @@ See [James Galbreath](/people/galbreath-james-abt-1775.md), b. say 1775,  marrie
 
 ## Lineage of David Stewart Galbraith, Esq.
 
-[David Stewart Galbraith, Esq.](/people/galbraith-david-stewart-1782.md) was present at many Kirk Sessions in Campbeltown.
+[David Stewart Galbraith, Esq.](/people/galbraith-david-stewart-1782.md) perhaps owned a number of lands in Argyll.  He became lawyer and presented at many Kirk Sessions in Campbeltown.  He had many children in Campbeltown.  However they all drifted away, and I don't believe there any direct male descendants left.
