@@ -7,6 +7,8 @@ He married at Edinburgh Parish, Edinburgh, Midlothian, Scotland 8 Jun 1812 to **
 
 Moved to Campbeltown around prior to 1813.  He was a lawyer and frequently present in Kirk Sessions in Campbeltown.
 
+https://www.ancestry.com/family-tree/person/tree/17980335/person/617967166/facts
+
 Children of David and Elizabeth (Fraser) Galbreath, all baptized at Campbeltown:
 
 1. *James Frazer Galbraith*, bp. 3 Aug 1813
