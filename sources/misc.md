@@ -71,4 +71,6 @@ BT records for _Galbraith_ in:
 * [Stirlingshire](https://www.thephonebook.bt.com/Person/PersonSearch/?Surname=galbraith&Location=Stirlingshire) (75)
 
 
-Adding these up is around 700.  However, it massive overlaps, so the unique number is probably closer to 200 or 300.
+Adding these up is around 700.  However, it massively overlaps, so the unique number is probably closer to 200 or 300.
+
+The same exercise could be done with England proper.
