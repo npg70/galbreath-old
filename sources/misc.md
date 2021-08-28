@@ -69,3 +69,6 @@ BT records for _Galbraith_ in:
 * [Renfrewshire](https://www.thephonebook.bt.com/Person/PersonSearch/?Surname=galbraith&Location=Renfrewshire) (133)
   * [Paisley](https://www.thephonebook.bt.com/Person/PersonSearch/?Surname=galbraith&Location=Paisley%20%20(Renfrewshire)) (133)
 * [Stirlingshire](https://www.thephonebook.bt.com/Person/PersonSearch/?Surname=galbraith&Location=Stirlingshire) (75)
+
+
+Adding these up is around 700.  However, it massive overlaps, so the unique number is probably closer to 200 or 300.
