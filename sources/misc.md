@@ -57,6 +57,7 @@ BT records for _Galbraith_ in:
   * [Campbeltown](https://www.thephonebook.bt.com/Person/PersonSearch/?Surname=galbraith&Location=Campbeltown%20%20(Argyllshire))
   * [Saddell](https://www.thephonebook.bt.com/Person/PersonSearch/?Surname=galbraith&Location=Saddell%20%20(Campbeltown%20-%20Argyllshire))
   * [Carradale](https://www.thephonebook.bt.com/Person/PersonSearch/?Surname=galbraith&Location=Carradale%20%20(Campbeltown%20-%20Argyllshire))
+  * [Gigha](https://www.thephonebook.bt.com/Person/PersonSearch/?Surname=galbraith&Location=Isle%20Of%20Gigha%20%20(Argyllshire)) (2)
 * [Perthshire](https://www.thephonebook.bt.com/Person/PersonSearch/?Surname=galbraith&Location=Perthshire) (90)
 * [Glasgow](https://www.thephonebook.bt.com/Person/PersonSearch/?Surname=galbraith&Location=Glasgow) (16)
 * [Edinburgh](https://www.thephonebook.bt.com/Person/PersonSearch/?Surname=galbraith&Location=Edinburgh) (7)
