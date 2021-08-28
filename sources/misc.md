@@ -53,10 +53,12 @@ https://uvic2.coppul.archivematica.org/archibald-galbraith-fonds
 
 BT records for _Galbraith_ in:
 
-* Campbeltown: https://www.thephonebook.bt.com/Person/PersonSearch/?Surname=galbraith&Location=Campbeltown%20%20(Argyllshire)
-* Saddell: https://www.thephonebook.bt.com/Person/PersonSearch/?Surname=galbraith&Location=Saddell%20%20(Campbeltown%20-%20Argyllshire)
-* Carradale: https://www.thephonebook.bt.com/Person/PersonSearch/?Surname=galbraith&Location=Carradale%20%20(Campbeltown%20-%20Argyllshire)
-* Perth: https://www.thephonebook.bt.com/Person/PersonSearch/?Surname=galbraith&Location=Perth%20%20(Perthshire)
-* Glasgow: https://www.thephonebook.bt.com/Person/PersonSearch/?Surname=galbraith&Location=Glasgow
-* Edinburgh: https://www.thephonebook.bt.com/Person/PersonSearch/?Surname=galbraith&Location=Edinburgh
-* Paisley: https://www.thephonebook.bt.com/Person/PersonSearch/?Surname=galbraith&Location=Paisley%20%20(Renfrewshire)
+* [Argyllshire](https://www.thephonebook.bt.com/Person/PersonSearch/?Surname=galbraith&Location=Argyllshire) (75)
+  * [Campbeltown](https://www.thephonebook.bt.com/Person/PersonSearch/?Surname=galbraith&Location=Campbeltown%20%20(Argyllshire))
+  * [Saddell](https://www.thephonebook.bt.com/Person/PersonSearch/?Surname=galbraith&Location=Saddell%20%20(Campbeltown%20-%20Argyllshire))
+  * [Carradale](https://www.thephonebook.bt.com/Person/PersonSearch/?Surname=galbraith&Location=Carradale%20%20(Campbeltown%20-%20Argyllshire))
+* [Perthshire](https://www.thephonebook.bt.com/Person/PersonSearch/?Surname=galbraith&Location=Perthshire) (90)
+* [Glasgow](https://www.thephonebook.bt.com/Person/PersonSearch/?Surname=galbraith&Location=Glasgow)
+* [Edinburgh](https://www.thephonebook.bt.com/Person/PersonSearch/?Surname=galbraith&Location=Edinburgh)
+* [Paisley](https://www.thephonebook.bt.com/Person/PersonSearch/?Surname=galbraith&Location=Paisley%20%20(Renfrewshire))
+* [Stirlingshire](https://www.thephonebook.bt.com/Person/PersonSearch/?Surname=galbraith&Location=Stirlingshire)
