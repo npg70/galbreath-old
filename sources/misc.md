@@ -65,9 +65,10 @@ BT records for _Galbraith_ in:
 * [Banffshire](https://www.thephonebook.bt.com/Person/PersonSearch/?Surname=galbraith&Location=Banffshire) (19)
 * [Perthshire](https://www.thephonebook.bt.com/Person/PersonSearch/?Surname=galbraith&Location=Perthshire) (90)
 * [Glasgow](https://www.thephonebook.bt.com/Person/PersonSearch/?Surname=galbraith&Location=Glasgow) (16)
+* [Lanarkshire](https://www.thephonebook.bt.com/Person/PersonSearch/?Surname=galbraith&Location=Lanarkshire) (133)
 * [Edinburgh](https://www.thephonebook.bt.com/Person/PersonSearch/?Surname=galbraith&Location=Edinburgh) (7)
 * [Renfrewshire](https://www.thephonebook.bt.com/Person/PersonSearch/?Surname=galbraith&Location=Renfrewshire) (133)
-  * [Paisley](https://www.thephonebook.bt.com/Person/PersonSearch/?Surname=galbraith&Location=Paisley%20%20(Renfrewshire)) (133)
+  * [Paisley](https://www.thephonebook.bt.com/Person/PersonSearch/?Surname=galbraith&Location=Paisley%20%20(Renfrewshire)) (9)
 * [Stirlingshire](https://www.thephonebook.bt.com/Person/PersonSearch/?Surname=galbraith&Location=Stirlingshire) (75)
 
 
