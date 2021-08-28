@@ -53,13 +53,19 @@ https://uvic2.coppul.archivematica.org/archibald-galbraith-fonds
 
 BT records for _Galbraith_ in:
 
+* [Aberdeenshire](https://www.thephonebook.bt.com/Person/PersonSearch/?Surname=galbraith&Location=Aberdeenshire) (19)
+* [Ayrshire](https://www.thephonebook.bt.com/Person/PersonSearch/?Surname=galbraith&Location=Ayrshire) (113)
 * [Argyllshire](https://www.thephonebook.bt.com/Person/PersonSearch/?Surname=galbraith&Location=Argyllshire) (75)
   * [Campbeltown](https://www.thephonebook.bt.com/Person/PersonSearch/?Surname=galbraith&Location=Campbeltown%20%20(Argyllshire))
   * [Saddell](https://www.thephonebook.bt.com/Person/PersonSearch/?Surname=galbraith&Location=Saddell%20%20(Campbeltown%20-%20Argyllshire))
   * [Carradale](https://www.thephonebook.bt.com/Person/PersonSearch/?Surname=galbraith&Location=Carradale%20%20(Campbeltown%20-%20Argyllshire))
   * [Gigha](https://www.thephonebook.bt.com/Person/PersonSearch/?Surname=galbraith&Location=Isle%20Of%20Gigha%20%20(Argyllshire)) (2)
+* [Angus](https://www.thephonebook.bt.com/Person/PersonSearch/?Surname=galbraith&Location=Angus)
+* [Dunbartonshire](https://www.thephonebook.bt.com/Person/PersonSearch/?Surname=galbraith&Location=Dunbartonshire) (75)
+* [Banffshire](https://www.thephonebook.bt.com/Person/PersonSearch/?Surname=galbraith&Location=Banffshire) (19)
 * [Perthshire](https://www.thephonebook.bt.com/Person/PersonSearch/?Surname=galbraith&Location=Perthshire) (90)
 * [Glasgow](https://www.thephonebook.bt.com/Person/PersonSearch/?Surname=galbraith&Location=Glasgow) (16)
 * [Edinburgh](https://www.thephonebook.bt.com/Person/PersonSearch/?Surname=galbraith&Location=Edinburgh) (7)
-* [Paisley](https://www.thephonebook.bt.com/Person/PersonSearch/?Surname=galbraith&Location=Paisley%20%20(Renfrewshire)) (133)
+* [Renfrewshire](https://www.thephonebook.bt.com/Person/PersonSearch/?Surname=galbraith&Location=Renfrewshire) (133)
+  * [Paisley](https://www.thephonebook.bt.com/Person/PersonSearch/?Surname=galbraith&Location=Paisley%20%20(Renfrewshire)) (133)
 * [Stirlingshire](https://www.thephonebook.bt.com/Person/PersonSearch/?Surname=galbraith&Location=Stirlingshire) (75)
