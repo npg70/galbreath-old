@@ -422,6 +422,13 @@ On same page is a note how John McAlpine became a minister of the Lowland Congre
 
 > James | Lawful son to Samuel Galbreath and Janet Langwill in town born 14th baptized 15th Sept [1802] James
 
+## 1803-09-11 Archibald Galbreath
+
+[507/40 252 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357282?image=252)
+
+> Archibald | Lawful Son to James Galbreath Tenant in Skerbolin and 
+> Martha Galbreath Born 8th Baptized 11th September 1803 Named Archibald
+
 ## 1804-05-13 John Galbraith
 
 [507/40 262](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358471?image=262)
