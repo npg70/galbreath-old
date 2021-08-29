@@ -297,6 +297,16 @@ On same page is a note how John McAlpine became a minister of the Lowland Congre
 
 > Rachel | William Galbraith & Margaret Dunlop had a daughter born 27th & baptised 29th Aug named Rachel
 
+## 1769-05-07 Andrew Galbreath
+
+[507/11 370 row 13](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356772?image=370)
+
+> Andrew | William Galbreath and Margt Dunlop had a son the 7th May named Andrew
+
+[507/10 333 row 12](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/89?image=333), under "Andrew Galbraith"
+
+> Andrew | William Galbraith and Marg Dunlop had a son born the 7th May called Andrew
+
 ## 1777-09-07 Agnes Dunlop
 
 [507/20 35 row 3](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356969?image=35)
@@ -335,12 +345,6 @@ On same page is a note how John McAlpine became a minister of the Lowland Congre
 > Archibald | Lawful son to Samuel Galbreath in Peninver & Jean McNair
 > was born 8th & bapt. 10th June [1783]
 
-## 1793-12-05 Samuel Galbreath
-
-[507/40 111 row 18](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357780?image=111)
-
-> Samuel | Lawful son to Samuel Galbreath & Janet McNair. Peninver. 5 [ of Dec 1793]
-
 ## 1793-11-25 Archibald Galbreath 
 
 [507/40 111 row 13](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357780?image=111)
@@ -352,6 +356,18 @@ On same page is a note how John McAlpine became a minister of the Lowland Congre
 [507/40 111 row 18](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357780?image=111)
 
 > Samuel Lawful son to Samuel Galbreath and Janet McNair Peninver les
+
+## 1795-XX-XX John and Elizabeth Galbreath
+
+[507/40 131 row 7](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358151?image=131)
+
+> John & Elizabeth | Lawful twin children to Neil Galbreath & Florance Paterson? ????
+
+## 1795-10-26 Janet Galbreath
+
+[507/40 131 row 10](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358151?image=131)
+
+> Janet Lawful Daugt to Samuel Galbreath & Janet Langwell (in town?) Sept 26th
 
 ## 1796-11-09 John Galbreath
 
