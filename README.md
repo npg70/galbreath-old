@@ -14,7 +14,8 @@ The descendants of [James Galbreath](/people/galbreath-james-1659.md) b. 1659 an
 
 The children and grandchildren of [William Galbreath](/people/galbreath-william-1736.md) and Margaret Dunlop were influential in government and industry in Campbeltown and Glasgow.  
 
-* [John Galbraith](/people/galbraith-john-1809.md), b. 1809, Provost of Campbeltown and founder of Scotia Distillery.
+* *[Andrew Galbraith](/people/galbraith-andrew-1799.md)*, b. 10 Feb 1799, m. *Margaret Bogle Scott*. Lord Provost of Glasgow 1857-60
+* *[John Galbraith](/people/galbraith-john-1809.md)*, b. 1809, Provost of Campbeltown and founder of Scotia Distillery.
 
 The rumour is that William somehow a descendant of [Archibald Galbreath](/people/galbreath-archibald-1708.md) of the previous line. It appears there are no direct-male descendants, so it may remain a mystery. 
 
