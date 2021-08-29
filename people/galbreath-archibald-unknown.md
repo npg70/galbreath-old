@@ -18,5 +18,5 @@ Children of Archibald Galbreath, all baptized at Southend Parish:[^children]
 
 [^marey]: Record on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358260?image=81&return_row=15) says "Marey Lawful Daugh of Archd Galbreath Millare?? (location)"
 
-[^alexander]: Record on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357208?image=102) has nearly underable record saying "Archibald [occupation ???] of Machinone??" 
+[^alexander]: Record on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357208?image=102) has nearly underable record saying "Archibald [occupation ???] of Machinone??"   May be "Machrimore Mill"
 
