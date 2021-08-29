@@ -458,7 +458,7 @@ John | Lawful Son to William Galbraith workman in Kildonell and Jean Campbell bo
 
 > Samuel | Lawful Son to Robert Galbreath Farmer in Peninver and Catherine Harvie, born 18, baptised 22 March 1808.  Samuel
 
-## 1809-09-05 John Galbreath
+## [1809-09-05 John Galbreath](/people/galbraith-john-1809.md)
 
 [507/40 339 row 16](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357569?image=339)
 
