@@ -210,6 +210,43 @@ TODO: page also has Margaret Dunplop 1735 , daighter of James Dunlop and Mary Ca
 
 > John | Archd Galbreath & Martha White has a son baptized 20th Dec named John
 
+## 1740-09-01 Margaret Galbreath
+
+[507/11 233 row 4](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358304?image=233)
+
+> Margt | James Galbreath & Margt Kilpatrick had a 
+> daugt. baptized 3rd May named Margaret
+
+## 1741-04-03 Katharine Galbreath
+
+[507/11 236 row 4](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358250?image=236)
+
+> Katharine | Archd Galbreath & Martha White had a 
+> Daughter. baptized 1st Sept named Katharine
+
+## 1743-10-27 Margaret Galbreath
+
+[507/11 244 row 6](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358297?image=244)
+
+> Margt | Archd Galbreath & Martha White had a 
+> Daughter baptized 27th Oct named Margt
+
+## 1745-06-25 James Galbreath
+
+[507/11 252 row 10](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357835?image=252)
+
+> James | David Galbreath & Jean Langwill had a 
+> son baptized 25th June named James
+
+## 1745-08-04 William Galbreath
+
+[507/11 252 row 10](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357835?image=252)
+
+> William | John Galbreath & Isobell Clark had a 
+> son baptized 4th Augt named William
+
+There is another record of "William Calbreath" on [507/10 181](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/5609111?image=181)
+
 ## [1762-12-08 Margaret Galbreath](/people/galbreath-margaret-1762.md)
 
 [507/11 333 row 3](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358332?image=333)
