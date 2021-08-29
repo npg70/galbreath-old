@@ -544,4 +544,11 @@ John | Lawful Son to William Galbraith workman in Kildonell and Jean Campbell bo
 
 Unclear why I have this ;-)
 
+## 1854-05-25 Alexander Galbraith
+
+[507/70 437 row 3](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/87?image=437), indexed under birth date and not baptism date.
+
+> Alexander | Lawful son of John Galbraith, Fisher, and Margaret Cook
+> born 25th May 1854 and baptized 5 December 1855
+
 
