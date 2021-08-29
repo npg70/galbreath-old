@@ -2,6 +2,10 @@
 title: "OPR Campbeltown Births"
 ---
 
+
+Gaps:
+* [23 Nov 1748 to 2 Apr 1749](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357739?image=267)
+
 ## 1659-04-03 James Galbreath
 
 [507/11 6 row 4](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356839?image=6)
@@ -248,6 +252,38 @@ There is another record [507/10 181](https://www.scotlandspeople.gov.uk/view-ima
 > son baptized 4th Augt named William
 
 There is another record of "William Calbreath" on [507/10 181](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/5609111?image=181)
+
+## 1747-10-29 Mary Galbreath
+
+[507/11 262 row 6](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358428?image=262&viewed_images=true)
+
+> Mary | Archibald Galbreath and Martha White had a 
+> Daughter baptized 29th Oct named Mary
+
+## 1747-12-20 James Galbreath
+
+[507/11 262 row 6](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358428?image=262&viewed_images=true)
+
+> James | Patrick Galbreath and Jean Watson had a 
+> son baptized 20th Dec named Mary
+
+Also on  [507/10 181](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/5609111?image=181)
+
+## 1749-04-05 Peter Galbreath
+
+[507/11 267 row 9](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357739?image=267)
+
+> Peter | David Galbreath and Mary Langwill had
+> had a son baptized 5th April named Peter
+
+## 1750-04-15 Ann Galbreath
+
+[507/11 271 row 13](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357930?image=271)
+
+> Ann | Archibald Galbreath and Martha White had a 
+> Daughter baptized 15th April named Ann
+
+On same page is a note how John McAlpine became a minister of the Lowland Congregation
 
 ## [1762-12-08 Margaret Galbreath](/people/galbreath-margaret-1762.md)
 
