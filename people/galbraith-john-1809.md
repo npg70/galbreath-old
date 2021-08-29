@@ -3,7 +3,7 @@ title: John Galbraith b 1809 m. Mary Coville McEwing
 familysearch: https://www.familysearch.org/tree/person/details/M1TD-W9M
 findagrave: https://www.findagrave.com/memorial/177759816/john-galbraith
 ---
-***John Galbraith***, son of [Archibald Galbreath](galbreath-archibald-1760.md) and *Jean Corbet*, born Campbeltown 3 Sep 1809, died 12 Sep 1881, Didsbury Manchester Lancashire, United Kingdom.  Married at Campbeltown 25 Jun 1838 to **Mary Colville McEwing**, born ?, died 13 Dec 1900.
+***John Galbraith***, son of [Archibald Galbreath](galbreath-archibald-1760.md) and *Jean Corbet*, born Campbeltown 3 Sep 1809,[^birth] died 12 Sep 1881, Didsbury Manchester Lancashire, United Kingdom.  Married at Campbeltown 25 Jun 1838 to **Mary Colville McEwing**, born ?, died 13 Dec 1900.
 
 - Provost of Campbeltown 1860-66
 - Foudner Scotia Distillery[^scotia1]
@@ -43,5 +43,7 @@ From Angus Martin's "Campbeltown Whisky: An Encyclopaedia", page 77:
 
 - The two "Archibald Galbreath" are the same person.  He married twice, first to Margaret Langwill, then to Jean Corbet.
 - Using this correction, the grand-father is William Galbreath who married Margaret Dunlop
+
+[^birth]: [OPR records](/sources/opr-campbeltown-births.md#1809-09-05-john-galbreath)
 
 [^scotia1]: [Distilleries of Campbeltown, page 89](/sources/distilleries-of-campbeltown.md#page-89)
