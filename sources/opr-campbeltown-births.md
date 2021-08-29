@@ -542,9 +542,9 @@ John | Lawful Son to William Galbraith workman in Kildonell and Jean Campbell bo
 
 > Catharine - Lawful daughter of Samuel Greenless, distiller, and Agnes Greenlees was born and bapts 18th July 1844
 
-Unclear why I have this ;-)
+Unclear why I recorded this one.
 
-## 1854-05-25 Alexander Galbraith
+## [1854-05-25 Alexander Galbraith](/people/galbraith-alexander-1854.md)
 
 [507/70 437 row 3](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/87?image=437), indexed under birth date and not baptism date.
 
