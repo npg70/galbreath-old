@@ -3,7 +3,7 @@ title: Archibald Galbreath b. ~1798 m. Margaret McMillian
 ---
 **Archibald Galbreath**, of unknown origin, married at Campbeltown, Arygll, Scottland 16 Feb 1813 to **Margaret McMillian**, baptised at Campbeltown 25 Oct 1791,[^margaret] daughter of *Neil McMillian*, b. 1750 and *Margaret Mceachine*, born at Campbeltown 9 Jan 1769.
 
-Archibald was a sailor[^ann] and fisherman[^john].
+Archibald was a sailor[^anne] and fisherman[^john].
 
 There does exist an 1841 Census record of Archibald and Margaret Galbreath[^1841] (and only them, no children are listed) on "Queens Street, Campbeltown, Argyllshire, Scotland."  It gives an estimated birth year of 1781 for both of them, and gives his occupation as "fisher."   The two children we know who got married, did so before 1841, so this seems possible.
 
@@ -22,12 +22,12 @@ Examples that are in no way correct:
 
 Children of Archibald and Margaret (McMillian) Galbreath.  Note that two children married into the same *Cook* family.
 
-1. *[Anne Galbreath](galbreath-agnes-1814.md)*, b. 7 Apr 1814;[^ann] m. *James Cook*
+1. *[Anne Galbreath](galbreath-agnes-1814.md)*, b. 7 Apr 1814;[^anne] m. *James Cook*
 2. *Niel Galbreath*, b. 18 Aug 1816
 3. *Archibald Galbreath*, b. 19 Jan 1819
 4. *[John Galbreath](galbreath-john-1821.md)*, b. 2 Feb 1821;[^john] m. *Margaret Cook*
 
-[^ann]: [OPR baptism record](/sources/opr-campbeltown-births.md#1814-04-07-anne-galbreath) for Anne lists Archibald as a sailor.
+[^anne]: [OPR baptism record](/sources/opr-campbeltown-births.md#1814-04-07-anne-galbreath) for Anne lists Archibald as a sailor.
 
 [^john] [OPR baptism record](/sources/opr-campbeltown-births.md#1821-02-02-john-galbreath) for John lists Archibald as a fisherman.
 
