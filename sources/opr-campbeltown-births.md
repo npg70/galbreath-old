@@ -395,6 +395,13 @@ On same page is a note how John McAlpine became a minister of the Lowland Congre
 > David | Lawful son to Samuel Galbreath in Town and Janet Langwill, 
 > born 16th, baptised 19th [illegible] the Childs name is David.
 
+## [1799-02-10 Andrew Galbreath](/people/galbraith-andrew-1799.md)
+
+[507/ 40 180 row 3](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357247?image=180)
+
+> Andrew | Archibald Galbreath & Jean Corbet had a lawful
+> son born 6th baptized 10th, the Childs name is Andrew.
+
 ## 1800-02-26 Martha Galbreath
 
 [507/40 197 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358384?image=197)
