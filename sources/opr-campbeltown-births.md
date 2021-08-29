@@ -297,6 +297,19 @@ On same page is a note how John McAlpine became a minister of the Lowland Congre
 
 > Rachel | William Galbraith & Margaret Dunlop had a daughter born 27th & baptised 29th Aug named Rachel
 
+## 1766-11-16 William Galbreath
+
+[507/10 309 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/1344?image=309)
+
+> William | William Galbraith and Marg Dunlop had a son born the 13th baptized the 16th Nov called Andrew
+
+## 1768-02-10 James Galbreath
+
+[507/ 11 363 row 3](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357461?image=363)
+
+> James | William Galbraith and Margt Dunlop had a son
+> born the 9th baptized the 10th Feb named James
+
 ## 1769-05-07 Andrew Galbreath
 
 [507/11 370 row 13](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356772?image=370)
