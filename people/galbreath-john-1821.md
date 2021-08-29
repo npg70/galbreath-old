@@ -6,12 +6,12 @@ familysearch: https://www.familysearch.org/tree/person/details/LZ62-KLL)
 
 Children of John and Margaret (Cook) Galbreath:[^oprchildren]
 
-1. *Neil Galbreath*, b. 18 Aug 1841, Campbeltown, Argyll, Scotland
-2. *Mary Galbreath*, b. 5 Oct 1843, Campbeltown, Argyll, Scotland
-3. *Margaret Galbreath*, b. 29 Jan 1845, Campbeltown, Argyll, Scotland
-4. *John Galbreath*, b. Apr 1848, Campbeltown, Argyll, Scotland; m. *Helen Allison Carnis*
-5. *Agness Galbraith*, b. 1 Feb 1851, Campbeltown, Argyll, Scotland; d. 8 Aug 1884, Campbeltown, Argyll, Scotland
-6. *[Alexander Galbraith](galbraith-alexander-1854.md)*, b. 25 May 1854, Saddell, Argyll, Scotland; m. *Mary Campbell*
+1. *Neil Galbreath*, b. 18 Aug 1841, Campbeltown
+2. *Mary Galbreath*, b. 5 Oct 1843, Campbeltown
+3. *Margaret Galbreath*, b. 29 Jan 1845, Campbeltown
+4. *John Galbreath*, b. Apr 1848, Campbeltown; m. *Helen Allison Carnis*
+5. *Agness Galbraith*, b. 1 Feb 1851, Campbeltown; d. 8 Aug 1884, Campbeltown, Argyll, Scotland
+6. *[Alexander Galbraith](galbraith-alexander-1854.md)*, bp. 25 May 1854, Campbeltown; m. *Mary Campbell*
 7. *Archibald Galbreath*, b. 1856.
 7. *Mary Galbreath*, b. 1 Nov 1858, Saddell and Skipness, Argyll, Scotland
 8. *Elizabeth Galbreath*, b. 1 Oct 1860, Saddell and Skipness, Argyll, Scotland; d. 1964, Carradale, Argyll, Scotland
