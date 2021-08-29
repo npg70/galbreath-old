@@ -238,6 +238,8 @@ TODO: page also has Margaret Dunplop 1735 , daighter of James Dunlop and Mary Ca
 > James | David Galbreath & Jean Langwill had a 
 > son baptized 25th June named James
 
+There is another record [507/10 181](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/5609111?image=181)
+
 ## 1745-08-04 William Galbreath
 
 [507/11 252 row 10](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357835?image=252)
