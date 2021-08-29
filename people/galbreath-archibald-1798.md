@@ -16,7 +16,7 @@ Other than that, the interweb gives various accounts of the Archibald Galbreath 
 
 Children of Archibald and Margaret (McMillian) Galbreath.  Note that two children married into the same *Cook* family.
 
-1. *[Ann Galbreath](galbreath-agnes-1814.md)*, b. 7 Apr 1814;[^ann] m. *James Cook*
+1. *[Anne Galbreath](galbreath-agnes-1814.md)*, b. 7 Apr 1814;[^ann] m. *James Cook*
 2. *Niel Galbreath*, b. 18 Aug 1816
 3. *Archibald Galbreath*, b. 19 Jan 1819
 4. *[John Galbreath](galbreath-john-1821.md)*, b. 2 Feb 1821; m. *Margaret Cook*
