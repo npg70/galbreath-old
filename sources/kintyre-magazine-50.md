@@ -12,6 +12,8 @@ There are a three canidates for Archibald Galbreath on [ScotlandsPeople](https:/
 
 There is only a record of one daughter Janet b 1806, so it may remain a mystery.
 
+Janet's baptsm on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358120?image=293) lists Archibald as a baker.
+
 > Thomas [Templeton] (1801-1881)... married Mary Galbraith.
 
 [Mary Galbraith](https://www.familysearch.org/tree/person/details/KCKB-P89), b 15 Jul 1810 in Gigha.
