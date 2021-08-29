@@ -21,7 +21,7 @@ Children of Archibald and Margaret (McMillian) Galbreath.  Note that two childre
 3. *Archibald Galbreath*, b. 19 Jan 1819
 4. *[John Galbreath](galbreath-john-1821.md)*, b. 2 Feb 1821; m. *Margaret Cook*
 
-[^ann]: OPR baptism record lists Archibald as a sailor.
+[^ann]: [OPR baptism record](/sources/opr-campbeltown-births.md#1814-04-07-anne-galbreath) for Anne lists Archibald as a sailor.
 
 [^marriage]: OPR Marriage on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=M&record_type%5B0%5D=opr_marriages&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-banns-marriages&surname=galbr&surname_so=starts&forename=archibald&forename_so=syn&sex=M&spouse_name=macmillan&spouse_name_so=exact&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
 
