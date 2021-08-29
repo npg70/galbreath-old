@@ -432,13 +432,6 @@ John | Lawful Son to William Galbraith workman in Kildonell and Jean Campbell bo
 
 > Agnes | Lawful Daughter to Samuel Galbreath sawer in Campbeltown and Janet Langwill born 2 baptised 3 September 1806 named Agnes
 
-## 1806-03-11 Janet Galbreath
-
-[507/40 286 row 8](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358164?image=286)
-
-> Janet | Lawful Daughter to Robert Galbreath Malster in Dalintober
-> and Catharine Harvie born 10 baptized 11 March 1806. Janet
-
 ## 1808-03-22 Samuel Galbreath
 
 [507/40 316 row 14](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357775?image=316)
