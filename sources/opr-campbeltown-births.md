@@ -445,6 +445,13 @@ John | Lawful Son to William Galbraith workman in Kildonell and Jean Campbell bo
 
 > Agnes | Lawful Daughter to Samuel Galbreath sawer in Campbeltown and Janet Langwill born 2 baptised 3 September 1806 named Agnes
 
+## 1806-09-17 Janet Galbreath
+
+[507/40 293 row 7](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358120?image=293)
+
+> Janet | Lawful Daughter to Archibald Galbreath Baker in Campbeltown and Jackie Templeton
+> born 14th baptised 17th September 1806 named Janet
+
 ## 1808-03-22 Samuel Galbreath
 
 [507/40 316 row 14](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357775?image=316)
