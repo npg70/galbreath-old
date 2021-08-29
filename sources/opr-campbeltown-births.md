@@ -434,6 +434,13 @@ John | Lawful Son to William Galbraith workman in Kildonell and Jean Campbell bo
 
 > Mary | Lawful Daughter to Samuel Galbreath Sawer in Campbeltown and Janet Langwill born 18 baptised 22 May 1804 named Mary
 
+## [1805-04-07 Jean Galbreath](/people/galbraith-jean-1805.md)
+
+[507/40 275 row 4](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358218?image=275)
+
+> Jean | Lawful Daughter to Archibald Galbreath Merchant in Campbeltown and 
+> Jean Corbet, born 28th March, baptised 7th April 1805.  Jean
+
 ## 1806-03-11 Janet Galbreath
 
 [507/40 286 row 8](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358164?image=286)
