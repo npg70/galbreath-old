@@ -495,6 +495,13 @@ John | Lawful Son to William Galbraith workman in Kildonell and Jean Campbell bo
 
 > John | Lawful Son to Robert Galbreath Farmer Peninver and Catherine Harvey, born 12th, baptised 16th April 1817. John
 
+## 1821-02-02 John Galbreath
+
+[507/60 30 row 2](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357635?image=30)
+
+> John | Lawful son of Archd Galbreath Fisherman Dalitober & Mary McMillan
+> born 30th Jan & bapt 2nd Feb 1821. John
+
 ## [1833-10-02 William Galbreath](/people/galbreath-william-1833.md)
 
 [507/70 32 row 4](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357872?image=32)
