@@ -3,7 +3,7 @@ title: Alexander Galbraith b 1854 m. Mary Campbell
 familysearch: https://www.familysearch.org/tree/person/details/LYTF-2FH
 findagrave: https://www.findagrave.com/memorial/172200082/alexander-galbraith
 ---
-***Alexander Galbraith***, son of [John Galbreath](galbreath-john-1821.md) and *Margaret Cook*, baptized at Saddell, Argyll, Scotland 25 May 1854. He died 29 Mar 1912, Carradale, Argyll, Scotland.[^death].
+***Alexander Galbraith***, son of [John Galbreath](galbreath-john-1821.md) and *Margaret Cook*, born 25 May 1854 and baptized at Campbeltown 5 Dec 1855.[^birth] He died 29 Mar 1912, Carradale, Argyll, Scotland.[^death]
 
 Children of Alexander and Mary (Campbell) Galbraith:
 
@@ -20,6 +20,8 @@ Children of Alexander and Mary (Campbell) Galbraith:
 11. *Katherine Campbell Galbraith*, b. 1895 Saddell
 12. *Hellen Galbraith*, b. Shore Cottages, Carradale, Argyll, d. 1964 • Carradale, Argyll, Scotland
 13. *Elizabeth Jessie Galbraith*, b. 1899 • Shore Cottages, Carradale, Argyll, d.  1964 • Carradale, Argyll, Scotland
+
+[^birth] [OPR record](/sources/opr-campbeltown-births.md#1854-05-25-alexander-galbraith)
 
 [^death]: [Find A Grave](https://www.findagrave.com/memorial/172200082/alexander-galbraith) transcription
     Errected By
