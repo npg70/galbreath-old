@@ -7,11 +7,43 @@ Archibald was a sailor[^anne] and fisherman[^john].
 
 There does exist an 1841 Census record of Archibald and Margaret Galbreath[^1841] (and only them, no children are listed) on "Queens Street, Campbeltown, Argyllshire, Scotland."  It gives an estimated birth year of 1781 for both of them, and gives his occupation as "fisher."   The two children we know who got married, did so before 1841, so this seems possible.
 
+1841 Census Record, Bunlarie, Saddell, Argyllshire, Scotland https://www.findmypast.com/transcript?id=GBC/1841/0016638991&expand=true
+
+Archibald: 1796, Ag Laborer
+Margaret: 1806
+Neil: 1826
+Nancy: 1828
+Donald: 1833
+Duncan: 1835
+Mary: 1836
+Archibald: 1839
+
+1851 Census Record, Bunlary Croft, Saddell, Kintyre, Argyllshire, Scotland:  https://www.findmypast.com/transcript?id=GBC/1851/0019300082&expand=true
+
+Archibald: 1794, Ag Laborer
+Margaret: 1807
+Donald: 1832
+Duncan
+Mary
+ARchibald:
+
+
+Youngest three children with margaret walker:
+https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbraith&surname_so=syn&forename_so=starts&from_year=1820&to_year=1840&parent_names_so=exact&parent_name_two=walker&parent_name_two_so=exact&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&sort=asc&order=Date&field=year
+
+marriage of Archibald and Walker: 1833/1834... looks like two ceremonies, one in South Knapdale, and a few days later in Kilberry.
+
+https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=M&record_type%5B0%5D=opr_marriages&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-banns-marriages&surname=galbreath&surname_so=exact&forename=arch&forename_so=starts&spouse_name=walker&spouse_name_so=exact&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches
+
+A number of choices for Margaret Walker: https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=walker&surname_so=exact&forename=marg&forename_so=starts&sex=F&from_year=1800&to_year=1806&parent_names_so=exact&parent_name_two_so=exact&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches
+
+
+
 Other than that, the interweb gives various accounts of the Archibald Galbreath who married Margaret McMillian:
 
 Best Canidate:
 
-- [example](https://www.ancestry.com/family-tree/person/tree/160758279/person/332228639229/facts) b. 1794, d. [25 Dec 1859](https://www.scotlandspeople.gov.uk/record-results?search_type=people&dl_cat=statutory&dl_rec=statutory-deaths&surname=galbr&surname_so=starts&forename=archibald&forename_so=starts&other_surname_so=exact&mmsurname=taylor&mmsurname_so=exact&sex=M&from_year=1859&to_year=1859&birth_year_range=1&county=ARGYLL&record_type=stat_deaths) Saddell, Argyll, Scotland, child of [Donald Galbreath](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=syn&forename=donald&forename_so=syn&sex=M&from_year=1760&to_year=1770&parent_names_so=exact&parent_name_two_so=exact&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches) b. 1767 and [Margaret Taylor](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=taylor&surname_so=exact&forename=margaret&forename_so=starts&sex=F&from_year=1766&to_year=1766&parent_names=taylor&parent_names_so=exact&parent_name_two=brown&parent_name_two_so=exact&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches) b. 1766. Oddly speciifc, but can't find birth or marriage records.  Death record gives an age of 65 (b. ~1794), father as Donald (an "Ag labourer"), mother as Margaret Taylor, and Neil his son was present.
+- [example](https://www.ancestry.com/family-tree/person/tree/160758279/person/332228639229/facts) b. 1794, d. [25 Dec 1859](https://www.scotlandspeople.gov.uk/record-results?search_type=people&dl_cat=statutory&dl_rec=statutory-deaths&surname=galbr&surname_so=starts&forename=archibald&forename_so=starts&other_surname_so=exact&mmsurname=taylor&mmsurname_so=exact&sex=M&from_year=1859&to_year=1859&birth_year_range=1&county=ARGYLL&record_type=stat_deaths) Saddell, Argyll, Scotland, child of [Donald Galbreath](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=syn&forename=donald&forename_so=syn&sex=M&from_year=1760&to_year=1770&parent_names_so=exact&parent_name_two_so=exact&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches) b. 1767 and [Margaret Taylor](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=taylor&surname_so=exact&forename=margaret&forename_so=starts&sex=F&from_year=1766&to_year=1766&parent_names=taylor&parent_names_so=exact&parent_name_two=brown&parent_name_two_so=exact&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches) b. 1766. Oddly speciifc, but can't find birth or marriage records.  Death record gives an age of 65 (b. ~1794) at Brunlarie[sic] Saddell, was an Ag Laborer, father as Donald (an "Ag labourer"), mother as Margaret Taylor, and Neil his son was present.
 
 Examples that are in no way correct:
 
