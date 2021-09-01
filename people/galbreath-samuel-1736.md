@@ -18,7 +18,7 @@ Children of Samuel and Janet (McNair) Galbreath, all baptized in Campbeltown:[^c
 3. [*Robert Galbreath*](galbreath-robert-1778.md), bp. 12 Oct 1778; m. *Katherine Harvie*
 4. *Martha Galbreath*, bp. 27 Jan 1781, bp. 28 Jan 1781
 5. *Archibald Galbreath*, bp. 8 Jun 1783, bp. 10 Jun 1783
-6. *Janet Galbreath*, b. ~1785[^1792]
+6. *Janet Galbreath*, b. ~1785[^1792], d. 23 Oct 1859[^jdeath], m. Mitchell
 7. [*Catherine Galbreath*](galbreath-catherine-1788.md), bp. 18 May 1788; m. *James Greenlees*
 8. *James Galbreath*, bp. 18 Apr 1791
 9. *Samuel Galbreath*, bp. 5 Nov 1793, bp. 5 Dec 1793
@@ -37,3 +37,5 @@ Children of Samuel and Janet (McNair) Galbreath, all baptized in Campbeltown:[^c
 [^janet-death]: Interestingly, no mention is made of a spouse in the testament of Samuel Galbreath, which may mean she passed before 1807. [FamilySearch](https://www.familysearch.org/tree/person/details/LVX6-RKP) circa 2021, lists a date of 07 Jul 1831 without citation.  OPR records indicate a Janet Galbreath did pass at Glasgow 24 Jul 1831, which can't be the same Janet.
 
 [^1792]: The Duke of Argyll's [census of 1792](/sources/list-of-inhabitants-upon-the-duke-of-argylls-property-in-kintyre-1792.md#pages-171-172).
+
+[^jdeath]: https://www.myainfolk.ca/records/5765
