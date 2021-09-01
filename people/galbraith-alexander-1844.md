@@ -12,7 +12,7 @@ He was a distillery workman[^mary-marriage]
 Children of Alexander and Agnes (Matheson) Galbraith:
 
 1. *Angus Galbraith*, b. 1877
-2. *Mary Galbraith*, b. 1879
+2. *Mary Galbraith*, b. 1879, m. *William Armour*
 3. *Agnes Galbraith*, b. 1884
 
 [^mary-marriage]: https://www.myainfolk.ca/records/20168
