@@ -18,7 +18,7 @@ Children of Samuel and Janet (McNair) Galbreath, all baptized in Campbeltown:[^c
 3. *[Robert Galbreath](galbreath-robert-1778.md)*, bp. 12 Oct 1778; m. *Katherine Harvie*
 4. *Martha Galbreath*, bp. 27 Jan 1781, bp. 28 Jan 1781
 5. *Archibald Galbreath*, bp. 8 Jun 1783, bp. 10 Jun 1783
-6. *[Janet Galbreath](galbreath-janet-1785.md)*, b. ~1785[^1792], d. 23 Oct 1859[^jdeath], m. Mitchell
+6. *[Janet Galbreath](galbreath-janet-1785.md)*, b. ~1785[^1792], d. 23 Oct 1859[^jdeath], m. *William Mitchell*
 7. *[Catherine Galbreath](galbreath-catherine-1788.md)*, bp. 18 May 1788; m. *James Greenlees*
 8. *James Galbreath*, bp. 18 Apr 1791
 9. *Samuel Galbreath*, bp. 5 Nov 1793, bp. 5 Dec 1793
