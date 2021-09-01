@@ -38,4 +38,4 @@ Children of Samuel and Janet (McNair) Galbreath, all baptized in Campbeltown:[^c
 
 [^1792]: The Duke of Argyll's [census of 1792](/sources/list-of-inhabitants-upon-the-duke-of-argylls-property-in-kintyre-1792.md#pages-171-172).
 
-[^jdeath]: https://www.myainfolk.ca/records/5765
+[^jdeath]: Statuatory Records transcribed by [MyAinFolk.ca](https://www.myainfolk.ca/records/5765)
