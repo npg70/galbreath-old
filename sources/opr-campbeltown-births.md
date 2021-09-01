@@ -358,6 +358,13 @@ On same page is a note how John McAlpine became a minister of the Lowland Congre
 > Archibald | Lawful son to Samuel Galbreath in Peninver & Jean McNair
 > was born 8th & bapt. 10th June [1783]
 
+## [1788-05-18 Catharine Galbreath](/people/galbreath-catherine-1788.md)
+
+[507/10 104 row 15](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357976?image=104)
+
+> Catharine | Lawful daut. to Samuel Galbreath in Peninver & Janet MacNair
+> was born 16th & Bapt. 18th May [1788]
+
 ## 1793-11-25 Archibald Galbreath 
 
 [507/40 111 row 13](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357780?image=111)
