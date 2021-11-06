@@ -1,8 +1,12 @@
+---
+title: Archibald Galbreath b 1803 m. Eugina Macallum m. Margaret Loynachan
+
+---
 # Archibald Galbreath
 
 - father: [James Galbreath](galbreath-james-abt-1775.md)
 - mother: *Martha Galbreath*
-- birth: 8 Sep 1803, Skerbolin Farm, Campbeltown, Argyll, Scotland
+- birth: 8 Sep 1803, Skerbolin Farm, Campbeltown, Argyll, Scotland [^birth]
 - baptism: 11 Sep 1803, Campbeltown, Argyll, Scotland
 - death: 17 Feb 1885
 
@@ -29,3 +33,5 @@
 
 - FamilySearch is a mess since it confusing multiple people
 - Excellent tree on [Ancestry.com](https://www.ancestry.com/family-tree/person/tree/5282753/person/130071167317/facts)
+
+[^birth]: OPR record for [Archibald Galbreath](/sources/opr-campbeltown-births.md#1803-09-11-archibald-galbreath)
