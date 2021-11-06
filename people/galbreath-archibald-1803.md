@@ -10,6 +10,8 @@ title: Archibald Galbreath b 1803 m. Eugina Macallum m. Margaret Loynachan
 - baptism: 11 Sep 1803, Campbeltown, Argyll, Scotland
 - death: 17 Feb 1885
 
+The 1881 census listed his occuptation as a _flesher_ (butcher).[^census1881]
+
 ## Eugina McCallum
 
 ### Children
@@ -35,3 +37,5 @@ title: Archibald Galbreath b 1803 m. Eugina Macallum m. Margaret Loynachan
 - Excellent tree on [Ancestry.com](https://www.ancestry.com/family-tree/person/tree/5282753/person/130071167317/facts)
 
 [^birth]: OPR record for [Archibald Galbreath](/sources/opr-campbeltown-births.md#1803-09-11-archibald-galbreath)
+
+[^census1881]: The 1881 Census available on [FindMyPast](https://www.findmypast.com/transcript?id=GBC%2F1881%2F0029345186)
