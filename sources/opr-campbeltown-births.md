@@ -436,7 +436,7 @@ On same page is a note how John McAlpine became a minister of the Lowland Congre
 
 > James | Lawful son to Samuel Galbreath and Janet Langwill in town born 14th baptized 15th Sept [1802] James
 
-## 1803-09-11 Archibald Galbreath
+## 1803-09-11 [Archibald Galbreath](/people/galbreath-archibald-1803.md)
 
 [507/40 252 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357282?image=252)
 
