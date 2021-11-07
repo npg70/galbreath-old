@@ -562,7 +562,7 @@ John | Lawful Son to William Galbraith workman in Kildonell and Jean Campbell bo
 [507/70 244 row 3](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357295?image=244)
 
 > Archibald | Lawful son of Arch Galbreath, farmer, Ugadale and Margaret Loynachan,
-> was  born seventeeenth July & bapt. 13 Augt. 1843
+> was born seventeeenth July & bapt. 13 Augt. 1843
 
 ## 1844-07-18 Catharine Greenless
 
@@ -571,6 +571,20 @@ John | Lawful Son to William Galbraith workman in Kildonell and Jean Campbell bo
 > Catharine - Lawful daughter of Samuel Greenless, distiller, and Agnes Greenlees was born and bapts 18th July 1844
 
 Unclear why I recorded this one.
+
+## 1845-06-15 Neill Galbreath
+
+[507/70 285 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357704?image=285)
+
+> Neill | | Lawful son of Arch Galbreath, farmer, Ugadale and Margt. Loynachan,
+> was born 20th May & bapt. 15 June 1845
+
+## 1847-11-01 Agnes Galbreath
+
+[507/70 327 row 13](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357898?image=327)
+
+> Agnes| | Lawful Daughter of Archibald Galbreath ??? ??? and Margaret Loynachan,
+> was born 25th September. Baptized 1st November 1847
 
 ## [1854-05-25 Alexander Galbraith](/people/galbraith-alexander-1854.md)
 
