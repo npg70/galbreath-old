@@ -2,34 +2,24 @@
 title: Archibald Galbreath b 1803 m. Eugina Macallum m. Margaret Loynachan
 
 ---
-# Archibald Galbreath
+***Archibald Galbreath***, son of [James Galbreath](galbreath-james-abt-1775.md) and *Martha Galbreath*, born 8 Sep 1803, Skerbolin Farm, Campbeltown, Argyll, Scotland and then baptized  11 Sep 1803, Campbeltown, Argyll, Scotland [^birth].  He died 17 Feb 1885.[^death]
 
-- father: [James Galbreath](galbreath-james-abt-1775.md)
-- mother: *Martha Galbreath*
-- birth: 8 Sep 1803, Skerbolin Farm, Campbeltown, Argyll, Scotland [^birth]
-- baptism: 11 Sep 1803, Campbeltown, Argyll, Scotland
-- death: 17 Feb 1885 [^death]
+He married first to **Eugina McCallum**.
+
+He married second to **Margaret Loynachan**, born 24 Aug 1821, South End, Argyll, Scotland,  daughter of Neil Loynachan.  She died 14 Nov 1886.
 
 The 1881 census listed his occuptation as a _flesher_ (butcher).[^census1881]
 
-## Eugina McCallum
+Children of Archibald and Eugina (McCallum) Galbreath:
 
-### Children
+1. *Martha Galbreath*, b. 27 Nov 1835
 
-1. Martha Galbreath, b. 27 Nov 1835
+Children of Archibald and Margaret (Loynachan) Galbreath:
 
-## Margaret Loynachan
-
-- father: Neil Loynachan
-- birth: 24 Aug 1821, South End, Argyll, Scotland
-- death: 14 Nov 1886
-
-### Children
-
-1. James Galbraith, b. 23 Sep 1841
-2. Archibald Galbraith, b. 17 Jul 1843
-3. Neil Galbreath, b. 20 May 1845
-4. Samuel Templeton Galbraith, b. 17 Nov 1850, Scotland; d. 19 Sep 1931, Montreal, Montreal Region, Quebec, Canada, m. *Mary Ellen Reynolds*
+1. *James Galbraith*, b. 23 Sep 1841
+2. *Archibald Galbraith*, b. 17 Jul 1843
+3. *Neil Galbreath*, b. 20 May 1845
+4. *Samuel Templeton Galbraith*, b. 17 Nov 1850, Scotland; d. 19 Sep 1931, Montreal, Montreal Region, Quebec, Canada, m. *Mary Ellen Reynolds*
 
 # Sources
 
