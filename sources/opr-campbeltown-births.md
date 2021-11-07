@@ -550,6 +550,13 @@ John | Lawful Son to William Galbraith workman in Kildonell and Jean Campbell bo
 
 > William | Lawful son of David Galbreath, sawyer, & Janet Mitchell, was born 29 Sept & Bapt 2 Oct 1833. William
 
+## 1841-11-07 James Galbreath
+
+[507/70 207 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357470?image=207)
+
+> James | Lawful son of Arch Galbreath ??? Ugadale and Margaret Loynachan
+> was born twenty thrird September and baptized 7th Nov 1841
+
 ## 1844-07-18 Catharine Greenless
 
 [507/70 266 row 1](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/3373606?image=266)
