@@ -17,9 +17,10 @@ Children of Archibald and Eugina (McCallum) Galbreath:
 Children of Archibald and Margaret (Loynachan) Galbreath:
 
 1. *James Galbraith*, b. 23 Sep 1841
-2. *Archibald Galbraith*, b. 17 Jul 1843
-3. *Neil Galbreath*, b. 20 May 1845
-4. *Samuel Templeton Galbraith*, b. 17 Nov 1850, Scotland; d. 19 Sep 1931, Montreal, Montreal Region, Quebec, Canada, m. *Mary Ellen Reynolds*
+2. *Archibald Galbraith*, bp. 17 Jul 1843
+3. *Neil Galbreath*, bp. 20 May 1845
+4. *Agnes Galbreath*, bp. 1 Nov 1847
+5. *Samuel Templeton Galbraith*, b. 17 Nov 1850, Scotland; d. 19 Sep 1931, Montreal, Montreal Region, Quebec, Canada, m. *Mary Ellen Reynolds*
 
 # Sources
 
