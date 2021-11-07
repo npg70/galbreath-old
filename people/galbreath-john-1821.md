@@ -4,7 +4,7 @@ familysearch: https://www.familysearch.org/tree/person/details/LZ62-KLL)
 ---
 ***John Galbreath***, son of  [Archibald Galbreath](galbreath-archibald-1798.md) and *Margaret McMillian*, baptized at Campbeltown 2 Feb 1821.[^birth]  He married at Campbeltown 1 Sep 1840 to **Margaret Cook**,[^marriage] born abt 1821, the daughter of *John Cook* and *Mary Taylor* both of St Quivox and Newton-on-Ayr, Ayrshire, Scotland.  She died at Saddell, Argyll on 6 Nov 1888.
 
-He was a fisherman.[^alexander]
+He was a fisherman.[^alexander][^archibald]
 
 Children of John and Margaret (Cook) Galbreath:[^oprchildren]
 
@@ -14,7 +14,7 @@ Children of John and Margaret (Cook) Galbreath:[^oprchildren]
 4. *John Galbreath*, b. Apr 1848, Campbeltown; m. *Helen Allison Carnis*
 5. *Agness Galbraith*, b. 1 Feb 1851, Campbeltown; d. 8 Aug 1884, Campbeltown, Argyll, Scotland
 6. *[Alexander Galbraith](galbraith-alexander-1854.md)*, b. 25 May 1854, Campbeltown;[^alexander] m. *Mary Campbell*
-7. *Archibald Galbreath*, b. 1856.
+7. *Archibald Galbreath*, b. 19 Aug 1856, Dalintober, Campbeltown[^archibald]
 7. *Mary Galbreath*, b. 1 Nov 1858, Saddell and Skipness, Argyll, Scotland
 8. *Elizabeth Galbreath*, b. 1 Oct 1860, Saddell and Skipness, Argyll, Scotland; d. 1964, Carradale, Argyll, Scotland
 9. *Jemimina Galbreath*, b. 13 Dec 1862, Campbeltown, Argyll, Scotland
@@ -26,3 +26,5 @@ Children of John and Margaret (Cook) Galbreath:[^oprchildren]
 [^oprchildren]: OPR for first six children on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbr&surname_so=starts&forename_so=starts&from_year=1840&to_year=1863&parent_names=galbr&parent_names_so=starts&parent_name_two=cook&parent_name_two_so=exact&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&sort=asc&order=Date&field=year). Children born after 1855 are in staturatory records and unconfirmed.
 
 [^alexander]: [OPR Record](/sources/opr-campbeltown-births.md#1854-05-25-alexander-galbraith) of baptism for Alexander also lists John as Fisher
+
+[^archibald]: Statuatory record of birth of Archibald Galbreath on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/38771094)
