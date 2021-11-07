@@ -21,10 +21,10 @@ Children of Archibald and Margaret (Loynachan) Galbreath:[^oprchildren2]
 2. *Archibald Galbraith*, bp. 17 Jul 1843
 3. *Neil Galbreath*, bp. 20 May 1845
 4. *Agnes Galbreath*, bp. 1 Nov 1847, died in early childhood.
-5. *Samuel Templeton Galbraith*, b. 17 Nov 1850, Scotland; d. 19 Sep 1931, Montreal, Montreal Region, Quebec, Canada, m. *Mary Ellen Reynolds*
-6. *Martha Galbraith*, b. 30 Apr 1853, bp. 10 Jul 1853[^martha]
-7. *Agnes Galbraith*, b. 9 June 1855[^agnes2]
-8. *John Galbraith*, b. 17 Oct 1857[^john]
+6. *Samuel Templeton Galbraith*, b. 17 Nov 1850, Scotland; d. 19 Sep 1931, Montreal, Montreal Region, Quebec, Canada, m. *Mary Ellen Reynolds*
+7. *Martha Galbraith*, b. 30 Apr 1853, bp. 10 Jul 1853[^martha]
+8. *Agnes Galbraith*, b. 9 June 1855[^agnes2]
+9. *John Galbraith*, b. 17 Oct 1857[^john]
 
 
 # Sources
@@ -34,7 +34,9 @@ Children of Archibald and Margaret (Loynachan) Galbreath:[^oprchildren2]
 
 [^birth]: OPR record for [Archibald Galbreath](/sources/opr-campbeltown-births.md#1803-09-11-archibald-galbreath)
 
-[^census1861]: The 1861 Census on [FamilySearch](https://www.familysearch.org/ark:/61903/1:1:VB78-LLK)
+[^census1851]: The 1851 Census on [FamilySearch](https://www.familysearch.org/ark:/61903/1:1:VYYQ-41Z).  Lists _Samuel_ as age 0.
+
+[^census1861]: The 1861 Census on [FamilySearch](https://www.familysearch.org/ark:/61903/1:1:VB78-LLK), Lists _James_ as age 17, _Samuel_ as age 9, along with _Margaret_ (Martha?), _Agnes_, _John_.
 
 [^census1871]: The 1871 Census on [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1871/0023442767). Only the last daughter Agnes is living with them.
 
