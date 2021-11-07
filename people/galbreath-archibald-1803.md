@@ -8,7 +8,7 @@ He married first to **Eugina McCallum**.
 
 He married second to **Margaret Loynachan**, born 24 Aug 1821, South End, Argyll, Scotland,  daughter of Neil Loynachan.  She died 14 Nov 1886.
 
-The 1881 census listed his occuptation as a _flesher_ (butcher).[^census1881]
+The 1881 census listed his occuptation as a _flesher_ (butcher).[^census1861][^census1881]
 
 Children of Archibald and Eugina (McCallum) Galbreath:[^oprchildren1]
 
@@ -32,6 +32,8 @@ Children of Archibald and Margaret (Loynachan) Galbreath:[^oprchildren2]
 - Excellent tree on [Ancestry.com](https://www.ancestry.com/family-tree/person/tree/5282753/person/130071167317/facts)
 
 [^birth]: OPR record for [Archibald Galbreath](/sources/opr-campbeltown-births.md#1803-09-11-archibald-galbreath)
+
+[^census1861]: The 1861 Census on [FamilySearch](https://www.familysearch.org/ark:/61903/1:1:VB78-LLK)
 
 [^census1881]: The 1881 Census available on [FindMyPast](https://www.findmypast.com/transcript?id=GBC%2F1881%2F0029345186)
 
