@@ -58,3 +58,4 @@ Children of Archibald and Margaret (Loynachan) Galbreath:[^oprchildren2]
 
 [^john]: Birth of *John Galbraith* from Statuatory Records on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/38879864). Contains little additional information.
 
+[^templeton]: there is a samuel templeton born in 1856  [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/38832425).
