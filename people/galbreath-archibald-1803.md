@@ -4,7 +4,7 @@ title: Archibald Galbreath b 1803 m. Eugina Macallum m. Margaret Loynachan
 ---
 ***Archibald Galbreath***, son of [James Galbreath](galbreath-james-abt-1775.md) and *Martha Galbreath*, born 8 Sep 1803, Skerbolin Farm, Campbeltown, Argyll, Scotland and then baptized  11 Sep 1803, Campbeltown, Argyll, Scotland [^birth].  He died 17 Feb 1885.[^death]
 
-He married first to **Eugina McCallum**.
+He married first at Campbeltown 5 Mar 1835[^marriage1] to **Eugina McCallum**.
 
 He married second at Campbeltown 25 Aug 1840[^marriage2] to **Margaret Loynachan**, born 24 Aug 1821, South End, Argyll, Scotland,  daughter of Neil Loynachan.  She died 14 Nov 1886.
 
@@ -33,6 +33,8 @@ Children of Archibald and Margaret (Loynachan) Galbreath:[^oprchildren2]
 - Excellent tree on [Ancestry.com](https://www.ancestry.com/family-tree/person/tree/5282753/person/130071167317/facts)
 
 [^birth]: OPR record for [Archibald Galbreath](/sources/opr-campbeltown-births.md#1803-09-11-archibald-galbreath)
+
+[^marriage1]: via OPR on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=M&record_type%5B0%5D=opr_marriages&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-banns-marriages&surname=galbreath&surname_so=fuzzy&forename=archibald&forename_so=starts&sex=M&spouse_name=mccallum&spouse_name_so=exact&from_year=1830&to_year=1840&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
 
 [^marriage2]: via OPR on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=M&record_type%5B0%5D=opr_marriages&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-banns-marriages&surname=galbreath&surname_so=fuzzy&forename=archibald&forename_so=starts&sex=M&spouse_name=Loynachan&spouse_name_so=exact&from_year=1838&to_year=1842&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
 
