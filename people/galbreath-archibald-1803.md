@@ -44,7 +44,7 @@ Children of Archibald and Margaret (Loynachan) Galbreath:[^oprchildren2]
 
 [^oprchildren2]: OPR records for first four children of Archibald and Margaret Loynachan from [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=fuzzy&forename_so=starts&from_year=1841&to_year=1860&parent_names_so=exact&parent_name_two=Loynachan&parent_name_two_so=fuzzy&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&sort=asc&order=Date&field=year)
 
-[^martha]: TODO [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/1876?image=416)
+[^martha]: TODO [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/1876?image=416).  Misindexed mothers name [search](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=fuzzy&forename_so=starts&from_year=1853&to_year=1853&parent_names=arch&parent_names_so=starts&parent_name_two_so=exact&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
 
 [^agnes2]: Birth of *Agnes Galbraith* from Statuatory Records on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/38691865). Contains many details such age ages of parents, year and location of marriage, current location.
 
