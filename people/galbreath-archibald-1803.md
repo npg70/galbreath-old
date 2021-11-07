@@ -6,7 +6,7 @@ title: Archibald Galbreath b 1803 m. Eugina Macallum m. Margaret Loynachan
 
 He married first to **Eugina McCallum**.
 
-He married second to **Margaret Loynachan**, born 24 Aug 1821, South End, Argyll, Scotland,  daughter of Neil Loynachan.  She died 14 Nov 1886.
+He married second at Campbeltown 25 Aug 1840[^marriage2] to **Margaret Loynachan**, born 24 Aug 1821, South End, Argyll, Scotland,  daughter of Neil Loynachan.  She died 14 Nov 1886.
 
 The 1881 census listed his occuptation as a _flesher_ (butcher).[^census1861][^census1871][^census1881]
 
@@ -33,6 +33,8 @@ Children of Archibald and Margaret (Loynachan) Galbreath:[^oprchildren2]
 - Excellent tree on [Ancestry.com](https://www.ancestry.com/family-tree/person/tree/5282753/person/130071167317/facts)
 
 [^birth]: OPR record for [Archibald Galbreath](/sources/opr-campbeltown-births.md#1803-09-11-archibald-galbreath)
+
+[^marriage2]: via OPR on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=M&record_type%5B0%5D=opr_marriages&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-banns-marriages&surname=galbreath&surname_so=fuzzy&forename=archibald&forename_so=starts&sex=M&spouse_name=Loynachan&spouse_name_so=exact&from_year=1838&to_year=1842&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
 
 [^census1851]: The 1851 Census on [FamilySearch](https://www.familysearch.org/ark:/61903/1:1:VYYQ-41Z).  Lists _Samuel_ as age 0.
 
