@@ -22,6 +22,8 @@ Children of Archibald and Margaret (Loynachan) Galbreath:[^oprchildren2]
 3. *Neil Galbreath*, bp. 20 May 1845
 4. *Agnes Galbreath*, bp. 1 Nov 1847
 5. *Samuel Templeton Galbraith*, b. 17 Nov 1850, Scotland; d. 19 Sep 1931, Montreal, Montreal Region, Quebec, Canada, m. *Mary Ellen Reynolds*
+6. *Agnes Galbraith*, b. 9 June 1855[^agnes2]
+
 
 # Sources
 
@@ -37,3 +39,5 @@ Children of Archibald and Margaret (Loynachan) Galbreath:[^oprchildren2]
 [^oprchildren1]: OPR records of baptism for the children of Archibald and Eugina McCallum from [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=exact&forename_so=starts&from_year=1830&to_year=1841&parent_names_so=exact&parent_name_two=mccallum&parent_name_two_so=fuzzy&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
 
 [^oprchildren2]: OPR records for children of Archibald and Margaret Loynachan from [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=fuzzy&forename_so=starts&from_year=1841&to_year=1860&parent_names_so=exact&parent_name_two=Loynachan&parent_name_two_so=fuzzy&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&sort=asc&order=Date&field=year)
+
+[^agnes2]: Birth of *Agnes Galbraith* from Statuatory Records on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/38691865).
