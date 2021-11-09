@@ -3,6 +3,8 @@ title: XXX
 ---
 
 
+Letter 1849/1850.
+
 William Fleming https://www.familysearch.org/tree/person/details/9HV9-6YJ
 
 > William is William Fleming, referred to in the note above, and
