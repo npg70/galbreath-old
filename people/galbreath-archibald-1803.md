@@ -8,7 +8,7 @@ He married first at Campbeltown 5 Mar 1835[^marriage1] to **Eugina McCallum**.
 
 He married second at Campbeltown 25 Aug 1840[^marriage2] to **Margaret Loynachan**, born 24 Aug 1821, South End, Argyll, Scotland,  daughter of Neil Loynachan.  She died 14 Nov 1886.
 
-The 1881 census listed his occuptation as a _flesher_ (butcher).[^census1861][^census1871][^census1881]
+The 1851 census listed him as farmer[^census1851], however there after until his death he was  _flesher_ or butcher.[^census1861][^census1871][^census1881]
 
 Children of Archibald and Eugina (McCallum) Galbreath:[^oprchildren1]
 
