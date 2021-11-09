@@ -29,7 +29,7 @@ Children of Archibald and Margaret (Loynachan) Galbreath:[^oprchildren2]
 
 # Sources
 
-- FamilySearch is a mess since it confusing multiple people
+- FamilySearch has another record that has info: https://www.familysearch.org/tree/person/details/K83Z-DGR
 - Excellent tree on [Ancestry.com](https://www.ancestry.com/family-tree/person/tree/5282753/person/130071167317/facts)
 
 [^birth]: OPR record for [Archibald Galbreath](/sources/opr-campbeltown-births.md#1803-09-11-archibald-galbreath)
