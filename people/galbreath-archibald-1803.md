@@ -8,7 +8,7 @@ He married first at Campbeltown 5 Mar 1835[^marriage1] to **Eugina McCallum**.  
 
 He married second at Campbeltown 25 Aug 1840[^marriage2] to **Margaret Loynachan**, born 24 Aug 1821, South End, Argyll, Scotland,  daughter of Neil Loynachan.  She died 14 Nov 1886.
 
-The 1851 census listed him as farmer[^census1851], however there after until his death he was  _flesher_ or butcher.[^census1861][^census1871][^census1881]
+The 1841 and 1851 census listed him as farmer[^census1841][^census1851], however there after until his death he was  _flesher_ or butcher.[^census1861][^census1871][^census1881]
 
 Children of Archibald and Eugina (McCallum) Galbreath, both in Campbeltown:[^oprchildren1]
 
@@ -37,6 +37,8 @@ Children of Archibald and Margaret (Loynachan) Galbreath:[^oprchildren2]
 
 [^marriage2]: Campbeltown OPR marriage record for Archibald Galbreath and Euigina McCallum, on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=M&record_type%5B0%5D=opr_marriages&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-banns-marriages&surname=galbreath&surname_so=fuzzy&forename=archibald&forename_so=starts&sex=M&spouse_name=Loynachan&spouse_name_so=exact&from_year=1838&to_year=1842&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches).  However there is another record in Kilcalmonell and Kilberry a week earlier with the same names, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=M&record_type%5B0%5D=opr_marriages&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-banns-marriages&surname=McCallum&surname_so=fuzzy&forename=eu&forename_so=starts&spouse_name_so=exact&from_year=1835&to_year=1835&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
 
+
+[^census1841]: The 1841 Census for Ugadale, Campbeltown, Argyllshire, Scotland lists Archibald as a farmer, along with his second wife Margaret, and the first child from his first wife, Martha, along with various unrelated peoples.  Available on [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1841/0016601402&expand=true).
 
 [^census1841-eugina]: The 1841 Census for Ardlammy, Gigha, Argyllshire, Scotland lists a Eugina Galbreath, age 3, living in McCallum household, which certainly matches the timeline.  Transcript available on [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1841/0016666302&expand=true).
 
