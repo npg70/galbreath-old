@@ -13,7 +13,7 @@ The 1841 and 1851 census listed him as farmer[^census1841][^census1851], however
 Children of Archibald and Eugina (McCallum) Galbreath, both in Campbeltown:[^oprchildren1]
 
 1. *Martha Galbreath*, bp. 30 Nov 1835
-2. *Eugina Galbreath*, bp. 25 Jan 1838
+2. *Eugina Galbreath*, bp. 25 Jan 1838, m. *James Wotherspoon*
 
 Children of Archibald and Margaret (Loynachan) Galbreath:[^oprchildren2]
 
