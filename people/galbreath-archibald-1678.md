@@ -1,5 +1,5 @@
 ---
-title: Archibald Galbreath m. Elizabeth Johns
+title: Archibald Galbreath b. 1678 m. Elizabeth Johns
 ---
 **Archibald Galbreath**, perhaps son of [*James Galbreath*](galbreath-james-1659.md) and *Mary Nielson*[^birth], baptized at Campbeltown, Argyll, Scotland 17 Jul 1678.  He married at Renfrew 11 Oct 1693[^marriage] to **Elizabeth Johns**, b. 22 Dec 1676, daughter of  *Jo. Johns*; *Elizabeth Flemyng* of Glasgow.
 
