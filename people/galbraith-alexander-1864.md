@@ -8,4 +8,4 @@ Listed as Fisherman in the marriage record
 
 [^birth]: birth of Alexander Galbraith in Civil Registers of Campbeltown, Argyll as transcribed by [MyAinsFolk](https://www.myainfolk.ca/records/19217).  Also lists parents marriage.
 
-[^marriage] by [MyAinsFolk](https://www.myainfolk.ca/records/21599)
+[^marriage]: by [MyAinsFolk](https://www.myainfolk.ca/records/21599)
