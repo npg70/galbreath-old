@@ -21,7 +21,7 @@ Children of Alexander and Mary (Campbell) Galbraith:
 12. *Hellen Galbraith*, b. Shore Cottages, Carradale, Argyll, d. 1964 • Carradale, Argyll, Scotland
 13. *Elizabeth Jessie Galbraith*, b. 1899 • Shore Cottages, Carradale, Argyll, d.  1964 • Carradale, Argyll, Scotland
 
-[^birth] [OPR record](/sources/opr-campbeltown-births.md#1854-05-25-alexander-galbraith)
+[^birth]: [OPR record](/sources/opr-campbeltown-births.md#1854-05-25-alexander-galbraith)
 
 [^death]: [Find A Grave](https://www.findagrave.com/memorial/172200082/alexander-galbraith) transcription
     Errected By
