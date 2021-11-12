@@ -12,7 +12,7 @@ He was a distillery workman[^marriage][^mary-marriage]
 
 Children of Alexander and Flora (Campbell) Galbraith:
 
-1. *[Alexander Galbraith](galbraith-alexander-1864.md), b. 20 Dec 1864 [^alexander-birth]
+1. *[Alexander Galbraith](galbraith-alexander-1864.md)*, b. 20 Dec 1864 [^alexander-birth]
 
 Children of Alexander and Agnes (Matheson) Galbraith:
 
