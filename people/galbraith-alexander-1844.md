@@ -15,7 +15,7 @@ Children of Alexander and Flora (Campbell) Galbraith:
 Children of Alexander and Agnes (Matheson) Galbraith:
 
 1. *Angus Galbraith*, b. 1877
-2. *Mary Galbraith*, b. 1879, m. *William Armour*
+2. *Mary Galbraith*, b. 1879, d. 9 Apr 1932, m. *William Armour*[^mary-death]
 3. *Agnes Galbraith*, b. 1884
 
 [^birth]: OPR Baptism record for [Alexander Galbreath](/sources/opr-campbeltown-births.md#1844-08-04-alexander-galbreath)
@@ -25,3 +25,5 @@ Children of Alexander and Agnes (Matheson) Galbraith:
 [^marriage2]: https://www.myainfolk.ca/records/19543
 
 [^mary-marriage]: https://www.myainfolk.ca/records/20168
+
+[^mary-death]: Death of Mary Armour, Civil Registers of Campbeltown, Argyll, transcribed by [MyAinFolk](https://www.myainfolk.ca/records/17978)
