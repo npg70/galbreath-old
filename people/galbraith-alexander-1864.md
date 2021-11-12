@@ -1,5 +1,6 @@
 ---
 title: Alexander Galbraith b. 1864 m. Maggie McIntyre
+familysearch: https://www.familysearch.org/tree/person/details/M1YN-PGV
 ---
 
 ***Alexander Galbraith***, son of Alexander Galbraith and Flora Campbell, born Campbeltown 20 Dec 1864[^birth].  He married Campbeltown 5 Aug 1887[^marriage] to **Maggie McIntyre**.
