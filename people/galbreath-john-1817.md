@@ -16,4 +16,4 @@ Children of John and Jane (McMath) Galbreath:
 7. *Etta Mae Galbreath*, b. 23 Sep 1867; d. Cincinnati, Ohio, 10 Apr 1937; m. *Charles McCullough Jones*. No known children.
 8. *Jennie C Galbreath*, b. 23 Sep 1867; d. Cincinnati, Ohio, 10 Apr 1937; m. *Stephen Dibble*.  No known children.
 
-[^birth] OPR record of baptism for [John Galbreath](/sources/opr-campbeltown-births.md#1817-04-16-john-galbreath)
+[^birth]: OPR record of baptism for [John Galbreath](/sources/opr-campbeltown-births.md#1817-04-16-john-galbreath)
