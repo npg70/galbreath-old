@@ -430,6 +430,13 @@ On same page is a note how John McAlpine became a minister of the Lowland Congre
 >  Florence | John Molloy & Katherine Galbreath in town had a lawful dau.
 >  born 27th baptized 28th Feb. The childs name is Florance
 
+## 1802-04-22 John Galbreath
+
+[507/40 228 row 3](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357637?image=228)
+
+> John | Archibald Galbreath + Margaret McAlester in town had a lawful
+> son born 21 bapts. 22 named John
+
 ## 1802-09-15 James Galbreath
 
 [507/40 232 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357492?image=234)
