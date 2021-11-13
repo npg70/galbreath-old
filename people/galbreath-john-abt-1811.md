@@ -5,7 +5,7 @@ familysearch: https://www.familysearch.org/tree/person/details/9M9H-VCZ
 ***John Galbreath***, of unknown parents, was born in Campbeltown around 1811[^census1851].
 He married at Campbeltown 11 Dec 1848[^marriage] to **Janet Watson**
 
-His occupation was in the distilling industry[^census1851]
+His occupation was in the distilling industry[^census1841][^census1851][^census1861][^census1871]
 
 Children of John and Janet (Watson) Galbreath, all baptised in Campbeltown:[^children]
 
@@ -22,6 +22,8 @@ Children of John and Janet (Watson) Galbreath, all baptised in Campbeltown:[^chi
     > were married eleventh December 1848
 
 [^children]: OPR records of children, on [ScotlandPeoples](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=fuzzy&forename_so=starts&from_year=1839&to_year=1855&parent_names_so=fuzzy&parent_name_two=watson&parent_name_two_so=exact&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&rd_real_name%5B0%5D=CAMPBELTOWN%20%28LANDWARD%29%20OR%20CAMPBELTOWN%20%28BURGH%29%20OR%20CAMPBELTOWN&rd_display_name%5B0%5D=CAMPBELTOWN%20%28LANDWARD%29%7CCAMPBELTOWN%20%28BURGH%29%7CCAMPBELTOWN_CAMPBELTOWN&rd_label%5B0%5D=CAMPBELTOWN&rd_name%5B0%5D=CAMPBELTOWN%20%2ALANDWARD%2A%20OR%20CAMPBELTOWN%20%2ABURGH%2A%20OR%20CAMPBELTOWN&sort=asc&order=Date&field=year)
+
+[^census1841]: 1841 Census, Household of John Galbratih on [FindMyPast](https://www.findmypast.com/transcript?id=GBC%2F1841%2F0016601178),
 
 [^census1851]: Household of John Galbraith on [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1851/0019256466&expand=true), list birthplace in 1811 Campbeltown, and list occupations as "Stillman"
 
