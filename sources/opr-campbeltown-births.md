@@ -208,11 +208,21 @@ https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/5631706?image=102
 
 TODO: page also has Margaret Dunplop 1735 , daighter of James Dunlop and Mary Calbreth?
 
+## 1738-10-01 Mary Galbreath
+
+[507/11 225 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357638?image=225)
+
+> Mary | John Calbraith & Isobell Clark has a dau. bapt Oct 1
+
 ## 1738-12-20 John Galbreath
 
 [507/11 225 row 4](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357638?image=225)
 
 > John | Archd Galbreath & Martha White has a son baptized 20th Dec named John
+
+[507/10 162 row 17](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/5609080?image=162)
+
+> John | Archibald Calbraith & Martha White had a son bapt John 20th Dec
 
 ## 1740-09-01 Margaret Galbreath
 
