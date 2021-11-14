@@ -604,7 +604,7 @@ Unclear why I recorded this one.
 
 ## 1847-12-19 Janet Galbreath
 
-[507/70 329 row 4](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357280?image=329)
+[507/70 329 row 4](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358145?image=329)
 
 > Janet | Lawful daughter of John Galbreath workman and Janet Watson
 > born 13th ??? Baptized 19th December 1847
