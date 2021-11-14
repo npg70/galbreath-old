@@ -588,6 +588,13 @@ Unclear why I recorded this one.
 > ???; and of Mary McTaggart
 > was born 6th July & baptized 4 Aug 1844
 
+## 1845-05-25 Janet Galbreath
+
+[507/70 284 row 3](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358146?image=284)
+
+> Janet | Lawful daughter of John Galbreath workman and Janet Watson
+> was born 26th April and Baptized 25th May 1845
+
 ## 1845-06-15 Neill Galbreath
 
 [507/70 285 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357704?image=285)
