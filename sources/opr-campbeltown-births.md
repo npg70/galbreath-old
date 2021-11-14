@@ -564,6 +564,20 @@ John | Lawful Son to William Galbraith workman in Kildonell and Jean Campbell bo
 > James | Lawful son of Arch Galbreath far[? farmer] Ugadale, and Margaret Loynachan
 > was born twenty thrird September and baptized 7th Nov 1841
 
+## 1842-09-25 Archibald Galbreath
+
+[507/70 226 row 1](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357656?image=226)
+
+> Archibald | Lawful son of John Galbreath laborer (location??) and Mary McTaggart
+> was born twenty fifth August and Baptized 25 September 1842
+
+## 1842-09-26 John Galbreath
+
+[507/70 226 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357656?image=226)
+
+> John | Lawful son of John Galbreath workman and Janet Watson
+> was born third and Baptized twentysixth September 1842
+
 ## 1843-08-13 Archibald Galbreath
 
 [507/70 244 row 3](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357295?image=244)
