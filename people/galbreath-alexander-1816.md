@@ -30,4 +30,4 @@ Children of Alexander and Elisabeth (McCualskey) Galbreath:
 
 [^1792]: Census of 1792, page 78
 
-[^margaret1]: OPR Baptism of Margaret Galbreath
+[^margaret1]: OPR Baptism of [Margaret Galbreath](/sources/opr-campbeltown-births.md#1848-10-15-margaret-galbreath)
