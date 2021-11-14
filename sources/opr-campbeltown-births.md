@@ -653,6 +653,13 @@ Unclear why I recorded this one.
 > Isabella | Lawful daughter of John Galbreath distillery workman and Janet Watson
 > born 1th May and Baptized 8th Sept 1850
 
+## 1853-11-07 William Galbraith
+
+[507/70 520 row 13](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/1353?image=420)
+
+> William | Lawful Son of John Galbraith Distilleryman and Janet Wilson[should be Watson]
+> was born 10th October and baptized 7 November 1853
+
 ## [1854-05-25 Alexander Galbraith](/people/galbraith-alexander-1854.md)
 
 [507/70 437 row 3](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/87?image=437), indexed under birth date and not baptism date.
