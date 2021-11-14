@@ -8,7 +8,7 @@ Children of Archibald and Martha (White) Galbreath, all baptized in Campbeltown:
 
 1. *John Galbreath*, bp. 3 Mar 1734, d. 1735. mother listed as "Martha Whyte".
 2. [*Samuel Galbreath*](galbreath-samuel-1736.md), bp. 4 Feb 1736, m. *Janet McNair*
-3. *John Galbreath*, bp. 20 Dec 1738. TODO: maybe m. *Isobell Clark*
+3. *John Galbreath*, bp. 20 Dec 1738
 4. [*Katharine Galbreath*](galbreath-katharine-1741.md), bp. 3 May 1741, m. *James Harvie*
 5. [*Margaret Galbreath*](galbreath-margaret-1743.md), bp. 27 Oct 1743, m. *Alexander Dunlop*.
 6. *Mary Galbreath*, bp. 29 Oct 1747.
