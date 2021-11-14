@@ -646,6 +646,20 @@ Unclear why I recorded this one.
 > Archibald | Lawful son of Donald Galbreath (Grasier????) and Flora Smith
 > born 8th and Baptized 20th December 1847
 
+## 1848-10-15 Margaret Galbreath
+
+[507/70 342 row 9](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358262?image=342)
+
+> Margaret | Lawful daughter of Alexander Galbreath, Farm Servant, and
+> Elizabeth McCallaskey, born 20th September and Baptized 15th October 1848
+
+## 1848-10-18 John Galbreath
+
+[507/70 342 row 9](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358262?image=342)
+
+> John | Lawful son of John Galbreath, Seaman Dalintober, and
+> Margaret Cook, born [day missing] April and Baptized 18th October 1848
+
 ## 1850-09-08 Isabella Galbreath
 
 [507/70 374 row 9](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358092?image=374)
