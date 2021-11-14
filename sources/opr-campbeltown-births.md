@@ -554,8 +554,17 @@ John | Lawful Son to William Galbraith workman in Kildonell and Jean Campbell bo
 ## [1833-10-02 William Galbreath](/people/galbreath-william-1833.md)
 
 [507/70 32 row 4](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357872?image=32)
->
+
 > William | Lawful son of David Galbreath, sawyer, & Janet Mitchell, was born 29 Sept & Bapt 2 Oct 1833. William
+
+## 1839-12-22 Jane Galbreath
+
+[507/70 163 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358117?image=163)
+
+> Jane | Lawful daughter of John Galbreath workman and Janet Watson
+> was born the sixth and Baptized 22 Dec 1839
+
+Note: right above on same page is the same day baptism of Jane Patterson, daughter of James Patterson and Isabella Galbreath
 
 ## 1841-11-07 James Galbreath
 
