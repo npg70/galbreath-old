@@ -616,6 +616,13 @@ Unclear why I recorded this one.
 > Archibald | Lawful son of Donald Galbreath (Grasier????) and Flora Smith
 > born 8th and Baptized 20th December 1847
 
+## 1850-09-08 Isabella Galbreath
+
+[507/70 374 row 9](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358092?image=374)
+
+> Isabella | Lawful daughter of John Galbreath distillery workman and Janet Watson
+> born 1th May and Baptized 8th Sept 1850
+
 ## [1854-05-25 Alexander Galbraith](/people/galbraith-alexander-1854.md)
 
 [507/70 437 row 3](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/87?image=437), indexed under birth date and not baptism date.
