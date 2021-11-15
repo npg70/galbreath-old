@@ -14,7 +14,7 @@ Children of Archibald and Agnes (O'May) Galbraith:
 2. John Galbraith, b. 04 Dec 1871
 3. Mary Galbraith, b. 16 Jan 1874
 4. Archibald Galbreath, b. 01 Apr 1881
-5. Agnes Galbraith, b. 10 Jan 1883
+5. Agnes Leoran Galbraith, b. 10 Jan 1883[^agnesleoran]
 
 [^birth]: OPR Campbeltown baptism record for [Archibald Galbreath](/sources/opr-campbeltown-births.md#1842-09-25-archibald-galbreath)
 
@@ -25,3 +25,5 @@ Children of Archibald and Agnes (O'May) Galbraith:
 [^census1881]: Household of Archibald Galbraith, UK Census 1881 from [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1881/0029344266&expand=true).
 
 [^census1891]: Household of Archibald Galbraith, UK Census 1891 from [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1891/0035185142&expand=true)
+
+[^agnesleoran]: Civil Registers of Campbeltown, Argyll, birth of Agnes Leoran Galbraith from [MyAinFolk](https://www.myainfolk.ca/records/19457).  Lists father as a "distillery workman"
