@@ -2,7 +2,9 @@
 title: John Galbreath b. 1815 m. Mary McTaggart
 familysearch: https://www.familysearch.org/tree/person/details/LZ62-VM4
 ---
-***John Galbreath***, of unknown origin, was born around 1815 in Clachan, Argyll, Scotland[^census1851].  He married XYZ.
+***John Galbreath***, of unknown origin, was born around 1815 in Clachan, Argyll, Scotland[^census1851][^census1871]. He married **Mary McTaggart**.
+
+His occupation was in the distilling industry[^census1851][^census1861].
 
 Children of John and Mary (McTaggart) Galbreath, all baptized at Campbeltown:[^oprchildren]
 
@@ -18,8 +20,8 @@ Children of John and Mary (McTaggart) Galbreath, all baptized at Campbeltown:[^o
 [^census1841]: Household of John Galbreath, UK Census 1841 from [FindMyPast](https://www.findmypast.com/transcript?id=GBC%2F1841%2F0016597452).
 Lists occupations as "Ag Lab" (farm laborer), along with his wife and first child Annabella.
 
-[^census1851]: Household of John Galbreath, UK Census 1851 from [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1851/0019256008&expand=true). Lists his estimated birth year of 1815, birthplace of Clachan, occupation as "Maltster", along with Mary McTaggart and their four sons.  Annabella is missing.
+[^census1851]: Household of John Galbreath, UK Census 1851 from [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1851/0019256008&expand=true). Lists his estimated birth year of 1815, birthplace of Clachan, occupation as "maltster", along with Mary McTaggart and their four sons.  Annabella is missing.
 
 [^census1861]: Household of John Galbraith, UK Census 1861 from [FindMyPast](https://www.findmypast.com/transcript?id=GBC%2F1861%2F0022162723). Lists his estimated birth year of 1814, occupation as "distillery man", along with Archibald, John, Duncan and the mother-in-law of Annabell Beith b. 1791 Killean, Argyllshire, Scotland.
 
-[^census1871]: Household of John Galbreath, UK Census 1871
+[^census1871]: Household of John Galbraith, UK Census 1871 from [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1871/0023441340). Only John and Mary are listed.  His occupation listed as "laborer", birthdate of 1814, birthplace of Clachan.
