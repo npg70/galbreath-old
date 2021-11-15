@@ -9,7 +9,7 @@ His occupation was in the distilling industry[^census1851][^census1861][^census1
 Children of John and Mary (McTaggart) Galbreath, all baptized at Campbeltown:[^oprchildren]
 
 1. *Annabella Galbreath*, bp.29 Nov 1840, suspected to have died before 1851.
-2. *Archibald Galbreath*, bp. 25 Sep 1842
+2. *[Archibald Galbreath](galbreath-archibald-1842.md)*, bp. 25 Sep 1842
 3. *[Alexander Galbreath](galbraith-alexander-1844.md)*, bp. 04 Aug 1844
 4. *John Galbreath*, bp. 08 Dec 1847
 5. *Duncan Galbraith*, bp. 12 Feb 1851
