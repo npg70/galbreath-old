@@ -6,7 +6,7 @@ familysearch: https://www.familysearch.org/tree/person/details/LTZN-9KC
 
 He married at Campbeltown 8 Dec 1869[^marriage] to **Agnes O'May**.
 
-His occupations was in the distilling industry.[^census1871][^census1881][^census1891]
+His occupation was in the distilling industry.[^census1871][^census1881][^census1891]
 
 Children of Archibald and Agnes (O'May) Galbraith:
 
