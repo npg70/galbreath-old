@@ -23,4 +23,4 @@ Children of Archibald and Agnes (O'May) Galbraith:
 
 [^census1881]: Household of Archibald Galbraith, UK Census 1881 from [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1881/0029344266&expand=true).
 
-[^census1891]: Household of Archibald Galbraith, UK Census 1881 from [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1891/0035185142&expand=true)
+[^census1891]: Household of Archibald Galbraith, UK Census 1891 from [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1891/0035185142&expand=true)
