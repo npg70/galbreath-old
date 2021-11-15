@@ -10,10 +10,11 @@ His occupations was in the distilling industry.[^census1871][^census1881][^censu
 
 Children of Archibald and Agnes (O'May) Galbraith:
 
-1. William Galbraith, b 1870
-2. John Galbraith, b. 1872
-3. Mary Galbraith, b. 1875
-4. Agnes Galbraith, b. 1884
+1. William Galbraith, b 05 Apr 1870
+2. John Galbraith, b. 04 Dec 1871
+3. Mary Galbraith, b. 16 Jan 1874
+4. Archibald Galbreath, b. 01 Apr 1881
+5. Agnes Galbraith, b. 10 Jan 1883
 
 [^birth]: OPR Campbeltown baptism record for [Archibald Galbreath](/sources/opr-campbeltown-births.md#1842-09-25-archibald-galbreath)
 
