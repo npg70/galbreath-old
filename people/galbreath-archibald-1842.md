@@ -1,6 +1,6 @@
 ---
 title: Archibald Galbreath b. 1842 m. Agnes O'May
-familysearch: https://www.familysearch.org/tree/person/details/KHMB-4T5
+familysearch: https://www.familysearch.org/tree/person/details/LTZN-9KC
 ---
 ***Archibald Galbreath***, son of [John Galbreath](galbreath-john-1815.md) and Mary McTaggart, born Campbeltown 25 Aug 1842, and baptized Campbeltown 25 Sep 1842.[^birth]
 
