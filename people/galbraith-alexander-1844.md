@@ -2,7 +2,7 @@
 title: Alexander Galbraith b 1844 m Agnes Matheson
 familysearch: https://www.familysearch.org/tree/person/details/K8D5-31F
 ---
-***Alexander Galbraith***, son of *John Galbraith* and *Mary McTaggart*, born Campbeltown 6 Jul 1844, baptized 4 Aug 1844.[^birth] He married, first, to **Flora Campbell** 20 Dec 1864, second at Campbeltown 3 Oct 1876[^marriage2] to **Agnes Matheson**.
+***Alexander Galbraith***, son of *[John Galbraith](galbreath-john-1815.md)* and *Mary McTaggart*, born Campbeltown 6 Jul 1844, baptized 4 Aug 1844.[^birth] He married, first, to **Flora Campbell** 20 Dec 1864, second at Campbeltown 3 Oct 1876[^marriage2] to **Agnes Matheson**.
 
 TBD: marriage record indicates both were widowers.
 
