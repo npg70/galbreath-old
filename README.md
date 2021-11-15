@@ -31,9 +31,13 @@ Both common names, and families have intermarried before, but Samuel's parents a
 
 [Alexander Galbreath](/people/galbreath-alexander-1816.md), a "malt man" emmigrated from Kintrye in the 1850s to West Virgina and Ohio. However, his parents are a mystery.
 
+## John Galbreath and Mary McTaggart 
+
+[John Galbreath](/people/galbreath-john-1815.md) was born around 1814 in Clachan / Kilcalmonel and moved to Campbeltown and started a family with Mary McTaggart. However no good records seem to confirm his birth.
+
 ## Lineage of David Galbreath b. 1684 and Isabella Watson
 
-[David Galbreath](/people/galbreath-david-1684.md) is of unknow origin.
+[David Galbreath](/people/galbreath-david-1684.md) is of unknown origin.
 
 ## Lineage of John Galbreath and Isobell Clark
 
