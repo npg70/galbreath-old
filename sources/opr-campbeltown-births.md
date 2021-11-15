@@ -583,7 +583,7 @@ Note: right above on same page is the same day baptism of Jane Patterson, daught
 > James | Lawful son of Arch Galbreath far[? farmer] Ugadale, and Margaret Loynachan
 > was born twenty thrird September and baptized 7th Nov 1841
 
-## 1842-09-25 Archibald Galbreath
+## [1842-09-25 Archibald Galbreath](/people/galbreath-archibald-1842.md)
 
 [507/70 226 row 1](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357656?image=226)
 
