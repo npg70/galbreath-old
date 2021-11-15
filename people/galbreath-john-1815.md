@@ -2,7 +2,7 @@
 title: John Galbreath b. 1815 m. Mary McTaggart
 familysearch: https://www.familysearch.org/tree/person/details/LZ62-VM4
 ---
-***John Galbreath***, of unknown origin, was born around 1815 in Clachan, Argyll, Scotland[^census1851][^census1871][^census1881], died Campbeltown 15 Feb 1890. He married **Mary McTaggart**, daughter of *Alexander McTaggart* and *Annabella Beith*.
+***John Galbreath***, of unknown origin, was born around 1815 in Clachan, Argyll, Scotland[^census1851][^census1871][^census1881], died Campbeltown 15 Feb 1890.[^death] He married **Mary McTaggart**, daughter of *Alexander McTaggart* and *Annabella Beith*.
 
 His occupation was in the distilling industry[^census1851][^census1861][^census1881].
 
@@ -28,4 +28,4 @@ Lists occupations as "Ag Lab" (farm laborer), along with his wife and first chil
 
 [^census1881]: House of Archibald Galbraith, UK Census 1881 from [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1881/0029344266&expand=true). Living with his son Archibald, as a widower, occupation "distillery workman", birth year of 1814, birthplace of Kilcalmonell (parish), which is next to Clachan.
 
-
+[^death]: Civil Records, Campbeltown, Death of John Galbraith from [ScotlandPeoples](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/4272947). Listed as a "distillery workman" and "widower of Mary McTaggart." Parents are listed as John Galbreath, farm servant, and Mary McGregor.  Signed by Archibald Galbreath his son.
