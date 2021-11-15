@@ -2,7 +2,7 @@
 title: Archibald Galbreath b. 1842 m. Agnes O'May
 familysearch: https://www.familysearch.org/tree/person/details/KHMB-4T5
 ---
-***Archibald Galbreath***, son of [John Galbreath](galbreath-john-1815.md) and Mary McTaggart, baptized Campbeltown 1842...
+***Archibald Galbreath***, son of [John Galbreath](galbreath-john-1815.md) and Mary McTaggart, born Campbeltown 25 Aug 1842, and baptized Campbeltown 25 Sep 1842.
 
 He married at Campbeltown 8 Dec 1869[^marriage] to **Agnes O'May**.
 
@@ -14,6 +14,8 @@ Children of Archibald and Agnes (O'May) Galbraith:
 2. John Galbraith, b. 1872
 3. Mary Galbraith, b. 1875
 4. Agnes Galbraith, b. 1884
+
+[^birth]: OPR Campbeltown baptism record for [Archibald Galbreath](/sources/opr-campbeltown-births.md#1842-09-25-archibald-galbreath)
 
 [^marriage]: Campbeltown Statuatory records, Marriage of Archibald Galbraith and Agnes O'May, from [ScotlandPeoples](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/4746913). Archibald listed a "distillery worker", age 27 and Agnes listed as domestic servant, age 18.
 
