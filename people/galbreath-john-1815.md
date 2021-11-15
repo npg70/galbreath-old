@@ -2,7 +2,7 @@
 title: John Galbreath b. 1815 m. Mary McTaggart
 familysearch: https://www.familysearch.org/tree/person/details/LZ62-VM4
 ---
-***John Galbreath***, of unknown origin, was born around 1815 in Clachan, Argyll, Scotland[^census1851][^census1871]. He married **Mary McTaggart**.
+***John Galbreath***, of unknown origin, was born around 1815 in Clachan, Argyll, Scotland[^census1851][^census1871][^census1881]. He married **Mary McTaggart**, daughter of *Alexander McTaggart* and *Annabella Beith*.
 
 His occupation was in the distilling industry[^census1851][^census1861][^census1881].
 
