@@ -37,4 +37,4 @@ Children of John and Jean (Galbraith) Coville:[^children]
 > ANDREW GALBRAITH her son died at Bournemouth 19 April 1881 aged 34 years,
 > ARCHIBALD her son died 16 May 1905 aged 65 years.
 
-[^johncoville3]: Scottish Industrial History Volume 17 1994 ISSN 0226-7428.  Business Archvies Counsil of Scottland. page 78: " John Colville (1844-1924), partner of A & A Galbraith, cotton spinners in Glasgow;", page 81: "...John Coville joined the partnership of A & A Galbraith in 1874, a firm established by his uncles Archibald and Andrew Galbraith."
+[^johncoville3]: [Scottish Industrial History Volume 17](https://busarchscot.org.uk/wp-content/uploads/2019/11/Scottish-Industrial-History-Vol-17-1994-compressed.pdf) 1994 ISSN 0226-7428.  Business Archvies Counsil of Scottland. page 78: " John Colville (1844-1924), partner of A & A Galbraith, cotton spinners in Glasgow;", page 81: "...John Coville joined the partnership of A & A Galbraith in 1874, a firm established by his uncles Archibald and Andrew Galbraith."
