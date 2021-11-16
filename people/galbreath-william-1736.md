@@ -1,6 +1,7 @@
 ---
 title: William Galbreath b abt 1736 m. Margaret Dunlop
 familysearch: https://www.familysearch.org/tree/person/details/L6FC-1XM
+wikitree: https://www.wikitree.com/wiki/Galbraith-2401
 ---
 ***William Galbreath***, of unknown origin, was born say 1736.  He married at Campbeltown 12 Jan 1760[^marriage1] to **Margaret Dunlop**.
 
