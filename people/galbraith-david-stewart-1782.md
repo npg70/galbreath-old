@@ -9,7 +9,7 @@ Moved to Campbeltown around prior to 1813.  He was a lawyer and frequently prese
 
 https://www.ancestry.com/family-tree/person/tree/17980335/person/617967166/facts
 
-Children of David and Elizabeth (Fraser) Galbreath, all baptized at Campbeltown:
+Children of David and Elizabeth (Fraser) Galbreath, all baptized at Campbeltown:[^oprchildren]
 
 1. *James Frazer Galbraith*, bp. 3 Aug 1813
 2. *Margaret Fraser Galbreath*, bp. TBD, died before 1843.
@@ -29,6 +29,8 @@ Children of David and Elizabeth (Fraser) Galbreath, all baptized at Campbeltown:
 [^birth]: no OPR records found.
 
 [^marriage]: from [FamilySearch](https://www.familysearch.org/ark:/61903/1:1:XYMB-GQB), Scotland Marriages 1561-1910.
+
+[^oprchildren]: Childrens baptism listed in the OPR of Campbeltown, on [ScotlandPeoples](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=exact&forename_so=starts&from_year=1818&to_year=1840&parent_names_so=exact&parent_name_two=frazer&parent_name_two_so=fuzzy&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&sort=asc&order=Date&field=year).  Note that the mother was listed as "Fraser" and "Frazer"
 
 [^bio]: from  Walford, Edward. The County Families of the United Kingdom, Or Royal Manual of the Titled and Untitled Aristocracy of Great Britain and Ireland ; Containing a Brief Notice of the Descent, Birth, Marriage, Education, and Appointments of Each Person, His Heir ... Together with His Town Address and Country Residence. United Kingdom: Hardwicke, 1864.  Available on [Google Books](https://www.google.com/books/edition/The_County_Families_of_the_United_Kingdo/n9pv_1xLploC)
     > GALBRAITH, DAVID STUART, Esq., late of Machrehanish, and of Drumore House, co. Argyll
