@@ -18,7 +18,7 @@ Children of John and Jean (Galbraith) Coville:[^children]
 7. *Margaret Scott Colville*, bp. 28 Jun 1837[^margaret], d. 1863
 8. *Archibald Colville*, bp. 14 Oct 1839, d. 16 May 1905
 9. *Janet Colville*, bp. 1 Aug 1841
-10. *John Colville*, bp. 4 Dec 1843, d. 1924
+10. *John Colville*, bp. 4 Dec 1843, d. 1924[^johncoville3].  This John became a partner A & A Galbraith cotton spinners.
 11. *Andrew Galbraith Colville*, bp. 31 Jan 1847, d. 19 Apr 1881
 
 [^whisky]: basic vitals of John Coville Jr are in [Campbeltown Whisky. An Encyclopaedia](https://github.com/npg70/galbreath/blob/main/sources/campbeltown-whisky-an-encyclopaedia.md#page-44).
@@ -37,3 +37,4 @@ Children of John and Jean (Galbraith) Coville:[^children]
 > ANDREW GALBRAITH her son died at Bournemouth 19 April 1881 aged 34 years,
 > ARCHIBALD her son died 16 May 1905 aged 65 years.
 
+[^johncoville3]: Scottish Industrial History Volume 17 1994 ISSN 0226-7428.  Business Archvies Counsil of Scottland. page 78: " John Colville (1844-1924), partner of A & A Galbraith, cotton spinners in Glasgow;", page 81: "...John Coville joined the partnership of A & A Galbraith in 1874, a firm established by his uncles Archibald and Andrew Galbraith."
