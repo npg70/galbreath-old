@@ -26,7 +26,6 @@ Children of John and Jean (Galbraith) Coville:[^children]
 [^children]: Bapitsm records for the 10 of 11 children on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=colville&surname_so=fuzzy&forename_so=starts&from_year=1824&to_year=1847&parent_names_so=exact&parent_name_two=galbreath&parent_name_two_so=fuzzy&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&sort=asc&order=Date&field=year)
 
 [^margaret]: Baptism of "Margaret Scott Colvill" daughter of "John Colvill and Jean Colvill" on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=colvill&surname_so=exact&forename=margaret%20scott&forename_so=exact&sex=F&from_year=1837&to_year=1837&parent_names_so=exact&parent_name_two_so=starts&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
-
 > 833.2	Here lie the remains of JOHN COLVILL Junr, Merchant, Campbeltown,
 > who departed this life 5 December 1851 in the 56 year of his age and
 > of his children
