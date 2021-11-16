@@ -2,6 +2,7 @@
 title: Jean Galbraith b 1805 m. John Coville Jr
 familysearch: https://www.familysearch.org/tree/person/details/KHWP-PG9
 findagrave: https://www.findagrave.com/memorial/167549655/jean-colvill
+wikitree: https://www.wikitree.com/wiki/Galbraith-1662
 ---
 ***Jean Galbraith***, daughter of [Archibald Galbreath](galbreath-archibald-1760.md) and *Jean Corbet*, born 7 Apr 1805 and died 3 Jun 1864.[^death] Married at Campbeltown 28 Jun 1824 to **John Coville Jr**, son of *Archibald Coville*, *Janet Clark*. [^whisky]
 
