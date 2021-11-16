@@ -15,7 +15,7 @@ Children of David and Elizabeth (Fraser) Galbreath, all baptized at Campbeltown:
 2. *Margaret Fraser Galbreath*, bp. TBD, died before 1843.
 3. *Elizabeth Galbreath*, bp. 30 Jun 1818, m. 10 Jun 1843 *Thomas McKiken Crawfuird* Maybole Parish, Ayr.[^eg]
 4. *Alexander Macdonald Galbreath*, bp. 16 Sep 1819, m. *Anna Maria Scott*
-5. *Flora Galbraith*, bp. TBD
+5. *[Flora Galbraith](galbraith-flora-1821.md)*, bp. ~1821, m. *Charles Campbell Hook*
 6. *Julia Galbraith*, bp. TBD
 7. *Emma Galbraith*, bp.  TBD
 8. *David Stewart Galbraith*, bp. 22 Aug 1827, m. *Katherina Sophia Abraham* (maybe in AU)
@@ -30,7 +30,7 @@ Children of David and Elizabeth (Fraser) Galbreath, all baptized at Campbeltown:
 
 [^marriage]: from [FamilySearch](https://www.familysearch.org/ark:/61903/1:1:XYMB-GQB), Scotland Marriages 1561-1910.
 
-[^oprchildren]: Childrens baptism listed in the OPR of Campbeltown, on [ScotlandPeoples](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=exact&forename_so=starts&from_year=1818&to_year=1840&parent_names_so=exact&parent_name_two=frazer&parent_name_two_so=fuzzy&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&sort=asc&order=Date&field=year).  Note that the mother was listed as "Fraser" and "Frazer"
+[^oprchildren]: Childrens baptism listed in the OPR of Campbeltown, on [ScotlandPeoples](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=exact&forename_so=starts&from_year=1818&to_year=1840&parent_names_so=exact&parent_name_two=frazer&parent_name_two_so=fuzzy&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&sort=asc&order=Date&field=year). Note that the mother was listed as "Fraser" and "Frazer."  Also there is an eight year gap, so Flora, Julia, and Emma are missing.
 
 [^bio]: from  Walford, Edward. The County Families of the United Kingdom, Or Royal Manual of the Titled and Untitled Aristocracy of Great Britain and Ireland ; Containing a Brief Notice of the Descent, Birth, Marriage, Education, and Appointments of Each Person, His Heir ... Together with His Town Address and Country Residence. United Kingdom: Hardwicke, 1864.  Available on [Google Books](https://www.google.com/books/edition/The_County_Families_of_the_United_Kingdo/n9pv_1xLploC)
     > GALBRAITH, DAVID STUART, Esq., late of Machrehanish, and of Drumore House, co. Argyll
