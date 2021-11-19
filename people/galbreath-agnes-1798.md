@@ -1,6 +1,6 @@
 ---
-title: Agnes Galbreath b 1798 m. Muir
-familysearch: XXX
+title: Agnes Galbreath b 1798 m. Alexander Muir
+familysearch: 
 ---
 ***Agnes Galbreath***, daughter of *[Peter Galbreath](galbreath-peter-1749.md)* and *Agnes McMurchy*, at Campbeltown, baptized 21 May 1798[^birth] and died 3 Jan 1873.[^death]
 
