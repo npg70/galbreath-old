@@ -16,13 +16,13 @@ Children of David and Elizabeth (Fraser) Galbreath, all baptized at Campbeltown:
 3. *Elizabeth Galbreath*, bp. 30 Jun 1818, m. 10 Jun 1843 *Thomas McKiken Crawfuird* Maybole Parish, Ayr.[^eg]
 4. *Alexander Macdonald Galbreath*, bp. 16 Sep 1819, m. *Anna Maria Scott*
 5. *[Flora Galbraith](galbraith-flora-1821.md)*, bp. ~1821, m. *Charles Campbell Hook*
-6. *Julia Galbraith*, bp. TBD
+6. *Julia Galbraith*, bp. TBD, d. 1848 umn.
 7. *Emma Galbraith*, bp.  TBD
 8. *David Stewart Galbraith*, bp. 22 Aug 1827, m. *Katherina Sophia Abraham* (maybe in AU)
 9. *Octavia Galbreath*, bp. 28 Aug 1829
 10. *Alfred Galbreath*, bp. 14 Sep 1830
 11. *Adelaide Galbreath*, bp. 23 Sep 1831
-12. *John Campbell Galbreath*, bp. 9 Aug 1833
+12. *John Campbell Galbreath*, bp. 9 Aug 1833, d. 1845
 13. *Albert Stuart Gilbraith*, bp. 25 Dec 1834
 14. *Henry Louis Galbraith*, bp. 12 Jun 1837
 
