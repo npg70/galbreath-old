@@ -375,6 +375,13 @@ On same page is a note how John McAlpine became a minister of the Lowland Congre
 > Catharine | Lawful daut. to Samuel Galbreath in Peninver & Janet MacNair
 > was born 16th & Bapt. 18th May [1788]
 
+## [1798-05-21 Agnes Galbreath](/people/galbreath-agnes-1798.md)
+
+[507/40 166 row 10](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357899?image=166)
+
+> Agnes | Lawfult daugt to Peter Galbreath & Agnes McMurchy
+> in Lagan was Born 18th Baptized 21th, Agnes--
+
 ## 1791-04-18 James Galbreath
 
 [507/20 130 row 8](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357528?image=130)
