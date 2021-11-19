@@ -19,7 +19,7 @@ Children of Peter and Agnes (McMurchy) Galbreath, all baptized at Campbeltown:[^
 9. *Orslay Galbreath*, bp. 23 Jun 1792
 10. *Martha Galbreath*, bp. 23 Jun 1792
 11. *Jean Galbreath*, bp. 04 Jun 1796 -- TBD, father listed as "Patrick"
-12. *Agnes Galbreath*, bp. 21 May 1798
+12. *[Agnes Galbreath](galbreath-agnes-1798.md)*, bp. 21 May 1798, m. *Alexander Muir*
 
 
 [^1792]: [Duke of Argyle's 1792 Census](/sources/list-of-inhabitants-upon-the-duke-of-argylls-property-in-kintyre-1792.md#page-178)
