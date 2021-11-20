@@ -17,7 +17,7 @@ Children of Alexander and Mary (Campbell) Galbraith:
 6. *[Alexander Galbraith](galbraith-alexander-1887.md)*, b. 19 Mar 1887 Saddell, d. 1966 Carradale, m. *Eliza Tina Campbell*
 7. *William C Galbraith*, b. ~1888 Skipness
 8. *Malcolm Galbraith*, b. 1889 Campbeltown, d. 1954
-9. *Annie C Galbraith*, b. ~1891 Saddell, d. 1969, m. Herbert Laing
+9. *Annie C Galbraith*, b. ~1891 Saddell, d. 1969, m. *Herbert Laing*
 10. *Jamesina Galbraith*, b. 1893 Saddell
 11. *Katherine Campbell Galbraith*, b. 1895 Saddell
 12. *Hellen Galbraith*, b. Shore Cottages, Carradale, Argyll, d. 1964 • Carradale, Argyll, Scotland
