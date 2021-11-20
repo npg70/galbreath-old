@@ -66,6 +66,8 @@ Which leads to an entry on [FamilySearch](https://www.familysearch.org/tree/pers
 > ferryman, Lachlan Galbraith, kept his boat for meeting the daily steamers than ran between
 > Glasgow and Campbeltown.
 
+[Lachlan Galbraith](/people/galbraith-lachlan-1878.md), b. 1878.
+
 ## Page 103
 
 > ... a case brought in May 1772 against Daniel Galbreath, shopkeeper, for carrying away 
