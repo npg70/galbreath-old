@@ -54,3 +54,7 @@ See [James Galbreath](/people/galbreath-james-abt-1775.md), b. say 1775,  marrie
 ## Lineage of David Stewart Galbraith, Esq.
 
 [David Stewart Galbraith, Esq.](/people/galbraith-david-stewart-1782.md) perhaps owned a number of lands in Argyll.  He became lawyer and presented at many Kirk Sessions in Campbeltown.  He had many children in Campbeltown.  However they all drifted away, and I don't believe there any direct male descendants left.
+
+## Lachlan Galbraith, Ferryman
+
+[Lachlan Galbraith](/people/galbraith-lachlan-1878.md), b. 1878 was a ferryman at Saddell.
