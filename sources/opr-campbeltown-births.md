@@ -60,6 +60,13 @@ Gaps:
 
 > William | Lawful Daughter to James Galbreath and Mary Fleeming his lawful spouse, Born April 30th
 
+## 1706-08-04 James Galbreath
+
+[507/11 99 row 3](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356859?image=99)
+
+> James | Lawful son to James Galbreath and Marion Fleeming
+> his lawful spouse. Born August 4th & Named James
+
 ## [1708-05-30 Archibald Galbreath](/people/galbreath-archibald-1708.md)
 
 [507/11 104 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356794?image=104)
