@@ -128,9 +128,9 @@ Gaps:
 
 > Patrick | John Galbreath & Mary Mitchell in Killkeddan has a son born 31st May named Patrick
 
-[507/10 78 col 2, row 8](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/5938207?image=78)
+[507/10 78 col 2, row 8](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/5938207?image=78), indexed under "Cabreath"
 
-> Patrick son lawful to John Calbreath & Mary Mitchell in Kilkeddan May 31
+> Patrick son lawful to John Cabreath & Mary Mitchell in Kilkeddan May 31
 
 ## 1718-10-02 David Galbreath
 
