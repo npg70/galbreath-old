@@ -4,7 +4,7 @@ familysearch: https://www.familysearch.org/tree/person/details/G3XR-SNS
 findagrave: https://www.findagrave.com/memorial/172200083/alexander-galbraith
 ---
 ***Alexander Galbraith***, son of *[Alexander Galbraith](galbraith-alexander-1854.md)* and *Mary Campbell*, born 19 Mar 1887 Saddell, d. 12 Nov 1966 Carradale.
-He married **Eliza Tina Campbell**
+He married **Eliza Tina Campbell**, d. 29 Nov 1972.[^death]
 
 Children of Alexander and Eliza (Campbell) Galbraith, all born in Carradale, Argyll, Scotland:
 
