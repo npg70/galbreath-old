@@ -8,9 +8,9 @@ He married **Eliza Tina Campbell**, d. 29 Nov 1972.[^death]
 
 Children of Alexander and Eliza (Campbell) Galbraith, all born in Carradale, Argyll, Scotland:
 
-1. *John Collin Campbell Galbraith*, b.1910, d. 13 Feb 1988 • Carradale, Argyll, Scotland, m. *Mary McKinlay MacDougall*
-2. *Alexander Galbraith*, b. 1 Jun 1914, d. 2 Jan 2000 • Carradale, Argyll, Scotland, m. *Marion Torrance Semple McDougall*
-3. *Richard Harris Galbraith*, b 17 Apr 1918, d,  30 Jul 1995 • Carradale, Argyll, Scotland, m. *Mary Rooney*
+1. *John Collin Campbell Galbraith*, b.1910, d. 13 Feb 1988, m. *Mary McKinlay MacDougall*
+2. *Alexander Galbraith*, b. 1 Jun 1914, d. 2 Jan 2000, m. *Marion Torrance Semple McDougall*
+3. *Richard Harris Galbraith*, b 17 Apr 1918, d,  30 Jul 1995, m. *Mary Rooney*
 4. *Archibald Galbraith*, b ~1927, d. 1946[^death]
 
 [^death]: Find a Grave transcription:
