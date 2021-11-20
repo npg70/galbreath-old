@@ -113,7 +113,7 @@ Deemed missing in 1940 from the Battle of Dunkirk:
 > ...Pilot Officer John Galbraith of Polliwilline Farm, Southend, was reported in
 > August 1942 as probably the first Kintyre man to cross the Atlantic by air.
 
-From Google Maps: https://goo.gl/maps/6NDDFRmokQXXab288  is on Sanda Island offshore of Campbeltown.
+From [Google Maps](https://goo.gl/maps/6NDDFRmokQXXab288), Polliwilline Farm is on Sanda Island offshore of Campbeltown.
 
 ## Page 365
 
