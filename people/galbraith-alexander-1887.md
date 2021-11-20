@@ -26,6 +26,6 @@ Children of Alexander and Eliza (Campbell) Galbraith, all born in Carradale, Arg
     Who Died 12th November 1966
     Aged 79 Years
     And His Mother
-    ELiza Tina Campbell
+    Eliza Tina Campbell
     Who Died 29th November 1972
     Aged 86 Years
