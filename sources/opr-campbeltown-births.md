@@ -122,11 +122,15 @@ Gaps:
 
 > May 11 | James Lawfull son to John Calbreath & Mary Mitchell
 
-## 1718-05-18 Patrick Galbreath 
+## [1718-05-18 Patrick Galbreath](galbreath-patrick-1718.md)
 
 [507/11 134 row 2](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356960?image=134)
 
 > Pattrick | John Galbreath & Mary Mitchell in Killkeddan has a son born 31st May named Patrick
+
+[507/10 78 col 2, row 8](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/5938207?image=78)
+
+> Patrick son lawful to John Calbreath & Mary Mitchell in Kilkeddan May 31
 
 ## 1718-10-02 David Galbreath
 
