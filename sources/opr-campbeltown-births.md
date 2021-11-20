@@ -295,6 +295,13 @@ Also on  [507/10 181](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_reco
 
 On same page is a note how John McAlpine became a minister of the Lowland Congregation
 
+## 1760-05-02 John Galbreath
+
+[507/11 319 row 15](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357663?image=319)
+
+> John | John Galbreath and Isobell Clark had a son 
+> bapt 2nd May named John
+
 ## [1762-12-08 Margaret Galbreath](/people/galbreath-margaret-1762.md)
 
 [507/11 333 row 3](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358332?image=333)
