@@ -73,10 +73,6 @@ Marriage of Mary Galbreath and William Campbell at Campbeltown 15 Dec 1768, [Sco
 
 Children of William Galbreath and Mary Campbell at Campbeltown 1770-1784, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=campbell&surname_so=fuzzy&forename_so=starts&from_year=1768&to_year=1788&parent_names=mary%20galbreath&parent_names_so=fuzzy&parent_name_two=william%20campbell&parent_name_two_so=exact&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&sort=asc&order=Date&field=year)
 
-
-
-
-
 ## Page 69
 
 TODO
@@ -84,7 +80,6 @@ TODO
 Parish of Kilkerran, Arinarach
 
 Peggy Galbreath age 16, appears to be a servant in the household of John McMichael (32)
-
 
 ## Pages 87-88
 
@@ -229,7 +224,6 @@ Possible canidates for Margaret on [ScotlandsPeople](https://www.scotlandspeople
 
 Marriage 06 Nov 1747, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=M&record_type%5B0%5D=opr_marriages&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-banns-marriages&surname=mcnair&surname_so=fuzzy&forename=archibald&forename_so=starts&sex=M&spouse_name_so=fuzzy&from_year=1747&to_year=1747&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
 
-
 ## Page 178
 
 Parish of Kilchousland, Laggan
@@ -271,7 +265,7 @@ Parish of Kilchenzie, Skeroblinraid
 
 Three generations:
 
-- Row 1: Janet MItchell is the mother of 
+- Row 1: Janet Mutchell is the mother of James Harvie (next row)
 - Row 2-3: James Harvie and [Cathrin Galbreath](/people/galbreath-katharine-1741.md)
 - Rows 4-: Children, of note is row 7 Cathrin Harvie who married [Robert Galbreath](/people/galbreath-robert-1778.md) listed on [page 172](#pages-171-172) and immigrated to Ohio, USA.
 
@@ -300,7 +294,7 @@ Parish of Kilchenzie, Cleonghart:
 
 Parish of Kilchenzie, Belochgoichan.
 
-No or no obvious records found for any of them.
+No obvious records found for any of them.
 
 | Row | Age | Birth | Men | Women | Children  |
 |-----|-----|-------|-----|-------|-----------|
