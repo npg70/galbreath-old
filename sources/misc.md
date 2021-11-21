@@ -2,12 +2,13 @@
 title: Misc Sources
 ---
 
-On location and spelling of Peninver and Ardnacross:
+Historical Map of Argyll
+https://maps.nls.uk/view/216389977
 
+On location and spelling of Peninver and Ardnacross:
 https://scotlandsplaces.gov.uk/digital-volumes/ordnance-survey-name-books/argyll-os-name-books-1868-1878/argyll-volume-78/31
 
 Google Search on Scotland Places for Galbreath
-
 https://www.google.com/search?q=site%3Ascotlandsplaces.gov.uk+galbreath
 
 Servants
