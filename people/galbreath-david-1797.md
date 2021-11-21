@@ -8,7 +8,7 @@ As a "laborer", he married 5 Oct 1824 to Janet Mitchell.[^marriage]  Later it is
 
 Children of David and Janet (Galbreath) Mitchell, all baptised Campbeltown:[^children]
 
-1. *[Archibald Galbraith](galbraith-archibald-1825.md)*, bp 10 Jul 1825
+1. *[Archibald Galbraith](galbraith-archibald-1825.md)*, bp 10 Jul 1825, m1. *Mary Paterson*, m2. *Margaret Galbreath*
 2. *Samuel Galbreath*, bp. 14 Jan 1827
 3. *Agnes Galbreath*, bp. 3 Aug 1828
 4. *Janet Galbreath*, bp. 6 May 1830
