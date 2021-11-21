@@ -195,7 +195,7 @@ https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/5631706?image=102
 
 > Samuel | John Galbreath and Mary Mitchell has a son baptized 8th August named Samuel
 
-## 1729-10-19 Mary Galbreath
+## [1729-10-19 Mary Galbreath](/people/galbreath-mary-1729.md)
 
 [507/11 182 row 6](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358472?image=182)
 
