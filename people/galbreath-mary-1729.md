@@ -7,12 +7,6 @@ wikitree: https://www.wikitree.com/wiki/Galbraith-1881
 
 Mary is sometimes incorrectly attributed to be a "Margaret" who married a Archibald McNair.
 
-## William Armour
-
-- birth: 9 May 1731, Campbeltown, Arygll, Scotland
-- father: *William Armour* b. 1731, d. 1798
-- mother: *Janet Clark* b. 1707, d. 1784
-
 Children of William and Mary (Galbreath) Armour:
 
 1. *James Armour*, m. *[Janet Galbreath](galbreath-janet-1752.md)*
