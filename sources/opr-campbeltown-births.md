@@ -312,7 +312,7 @@ Also on  [507/10 181](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_reco
 
 On same page is a note how John McAlpine became a minister of the Lowland Congregation
 
-## 1760-05-02 John Galbreath
+## [1760-05-02 John Galbreath](/people/galbreath-john-1760.md)
 
 [507/11 319 row 15](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357663?image=319)
 
