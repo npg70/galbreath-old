@@ -5,7 +5,7 @@ wikitree: https://www.wikitree.com/wiki/Galbraith-1881
 ---
 ***Mary Galbreath***, daughter of  [*William Galbreath*](galbreath-william-1701.md) and *Margaret Kilpatrick*, baptized Campbeltown 19 Oct 1729.[^birth]
 
-Mary is often attributed to be "Margaret" who married a Archibald McNair.
+Mary is sometimes incorrectly attributed to be a "Margaret" who married a Archibald McNair.
 
 ## William Armour
 
