@@ -411,6 +411,12 @@ On same page is a note how John McAlpine became a minister of the Lowland Congre
 > Catharine | Lawful daut. to Samuel Galbreath in Peninver & Janet MacNair
 > was born 16th & Bapt. 18th May [1788]
 
+## 1788-12-18 Neill Galbreath
+
+[507/40 78 row 3](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357711?image=78)
+
+> Neill | Lawful son to John Galbreath & Marion McLean in Knockanly born 16th bapt 18th
+
 ## [1798-05-21 Agnes Galbreath](/people/galbreath-agnes-1798.md)
 
 [507/40 166 row 10](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357899?image=166)
