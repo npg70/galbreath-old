@@ -417,12 +417,11 @@ On same page is a note how John McAlpine became a minister of the Lowland Congre
 
 > Neill | Lawful son to John Galbreath & Marion McLean in Knockanly born 16th bapt 18th
 
-## [1798-05-21 Agnes Galbreath](/people/galbreath-agnes-1798.md)
+## 1791-01-31 Margaret Galbreath
 
-[507/40 166 row 10](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357899?image=166)
+[507/40 90 row 7](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358315?image=90)
 
-> Agnes | Lawfult daugt to Peter Galbreath & Agnes McMurchy
-> in Lagan was Born 18th Baptized 21th, Agnes--
+> Margaret | Lawful Dau to John Galbreath & Marion McLean in Knockanly born 28th bapt 31st
 
 ## 1791-04-18 James Galbreath
 
@@ -467,6 +466,13 @@ On same page is a note how John McAlpine became a minister of the Lowland Congre
 
 > David | Lawful son to Samuel Galbreath in Town and Janet Langwill, 
 > born 16th, baptised 19th [illegible] the Childs name is David.
+
+## [1798-05-21 Agnes Galbreath](/people/galbreath-agnes-1798.md)
+
+[507/40 166 row 10](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357899?image=166)
+
+> Agnes | Lawfult daugt to Peter Galbreath & Agnes McMurchy
+> in Lagan was Born 18th Baptized 21th, Agnes--
 
 ## [1799-02-10 Andrew Galbreath](/people/galbraith-andrew-1799.md)
 
