@@ -2,7 +2,7 @@
 title: John Galbreath b 1760 m Marion McLean
 familysearch: https://www.familysearch.org/tree/person/details/L8MT-MMN
 ---
-***John Galbreath***, son of [*John Galbreath*](galbreath-john-abt-1710.md) and *Isobell Clark*, baptized at Campbeltown on 23 May 1760.[^birth]  He married 28 October 1781 to **Marion McLean**, b. about 1750 of unknown parents.
+***John Galbreath***, son of [*John Galbreath*](galbreath-john-abt-1710.md) and *Isobell Clark*, baptized at Campbeltown on 2 May 1760.[^birth] He married 28 October 1781 to **Marion McLean**, b. about 1750 of unknown parents.
 
 Children of John and Marion (McLean) Galbreath, all baptized at Campbeltown:[^oprchildren]
 
