@@ -3,8 +3,9 @@ title: Mary Galbreath b. 1729  m. William Armour
 familysearch: https://www.familysearch.org/tree/person/details/KHY2-ZHF
 wikitree: https://www.wikitree.com/wiki/Galbraith-1881
 ---
-***Mary Galbreath***, daughter of  [*William Galbreath*](galbreath-william-1701.md) and *Margaret Kilpatrick*, born 19 Oct 1729
+***Mary Galbreath***, daughter of  [*William Galbreath*](galbreath-william-1701.md) and *Margaret Kilpatrick*, baptized Campbeltown 19 Oct 1729.[^birth]
 
+Mary is often attributed to be "Margaret" who married a Archibald McNair.
 
 ## William Armour
 
@@ -21,3 +22,5 @@ Children of William and Mary (Galbreath) Armour:
 5. *Alexander Armour*, 1758-bef. 1841
 6. *John Armour*, b. 1760
 7. *Andrew Armour*, b. 1764
+
+[^birth]: OPR Campbeltown record of baptism for [Mary Galbreath](/sources/opr-campbeltown-births.md#1729-10-19-mary-galbreath)
