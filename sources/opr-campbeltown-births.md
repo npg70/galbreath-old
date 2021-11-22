@@ -75,7 +75,7 @@ Gaps:
 
 [507/10 47 row 1](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/706?image=47)
 
-> Archibald son lawfull to John Galbraith and Mary Mitchell
+> Archibald son lawfull to [John Galbraith](/people/galbreath-john-1680.md) and Mary Mitchell
 
 ## 1709-12-25 Mary Galbreath
 
@@ -87,7 +87,7 @@ Gaps:
 
 [507/11 111 row 6](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357123?image=111)
 
-> Margt | Lawful daughter to James Galbreath and Mary Fleeming his lawful spouse, Born August 14th Named Margt.
+> Margt | Lawful daughter to [James Galbreath](/people/galbreath-james-1672.md) and Mary Fleeming his lawful spouse, Born August 14th Named Margt.
 
 ## [1711-10-14 Janet Galbreath](/people/galbreath-janet-1711.md)
 
@@ -117,7 +117,7 @@ Gaps:
 
 [507/11 123 row 3](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356791?image=123)
 
-> Archd | [John Galbreath](/people/galbreath-james-1672.md) and Mary Fleeming his lawfull spouse has a son Born 9th September named Archibald
+> Archd | [James Galbreath](/people/galbreath-james-1672.md) and Mary Fleeming his lawfull spouse has a son Born 9th September named Archibald
 
 ## 1716-05-11 James Galbreath
 
@@ -143,7 +143,7 @@ Gaps:
 
 [507/11 135 row 3](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357352?image=135)
 
-> David | David Galbreath & Isobell Watson had a son bapt 2 Oct named David
+> David | [David Galbreath](/people/galbreath-david-1684.md) & Isobell Watson had a son bapt 2 Oct named David
 
 ## [1719-04-28 David Galbreath](/people/galbreath-david-1719.md)
 
@@ -179,17 +179,17 @@ https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/5631706?image=102
 
 [507/11 155 row 6](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357347?image=155)
 
-> David | John Galbreath & Mary Mitchell had a son bapt. 24th Nov named David
+> David | [John Galbreath](/people/galbreath-john-1680.md) & Mary Mitchell had a son bapt. 24th Nov named David
 
 [507/10 107 row 17](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/5631647?image=107),listed as _Calbreath_
 
-> David | John Calbreath & Mary Mitchell had lawful child called David
+> David | [John Calbreath](/people/galbreath-john-1680.md) & Mary Mitchell had lawful child called David
 
 ## 1725-08-08 Samuel Galbreath
 
 [507/10 117 row 12](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357782?image=117)
 
-> Samuel | John Galbreath and Mary Mitchell has a lawful child bapt: 8 Aug: Samuel
+> Samuel | [John Galbreath](/people/galbreath-john-1680.md) and Mary Mitchell has a lawful child bapt: 8 Aug: Samuel
 
 [507/11 163 row 10](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/5631688?image=163) is transcribed as "Calbreath" but this is clearly "Galbreath"
 
@@ -199,7 +199,7 @@ https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/5631706?image=102
 
 [507/11 182 row 6](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358472?image=182)
 
-> Mary | Wm Galbreath & Margt Kilpatrick had a Daut. baptized 19th Oct, Named Mary
+> Mary | [Wm Galbreath](/people/galbreath-william-1701.md) & Margt Kilpatrick had a Daut. baptized 19th Oct, Named Mary
 
 ## 1734-02-24 John Galbreath
 
@@ -211,17 +211,17 @@ https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/5631706?image=102
 
 [507/11 202 row 14](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357624?image=202)
 
-> John | Archd Galbreath & Martha Whyte had a son baptized 3rd March named John
+> John | [Archd Galbreath](/people/galbreath-archibald-1708.md) & Martha Whyte had a son baptized 3rd March named John
 
 ## [1736-02-04 Samuel Galbreath](/people/galbreath-samuel-1736.md)
 
 [507/11 212 row 11](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357777?image=212)
 
-> Samuel | Archibald Galbreath & Martha White has a son bapt. 4th Feb named Samuel 
+> Samuel | [Archibald Galbreath](/people/galbreath-archibald-1708.md) & Martha White has a son bapt. 4th Feb named Samuel 
 
 [507/10 154 row 12](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/5609102?image=154)
 
-> Samuel | Archd Calbraith & Martha WHite had a son bapt. Samuel
+> Samuel | [Archd Calbraith](/people/galbreath-archibald-1708.md) & Martha WHite had a son bapt. Samuel
 
 TODO: page also has Margaret Dunplop 1735 , daighter of James Dunlop and Mary Calbreth?
 
@@ -235,11 +235,11 @@ TODO: page also has Margaret Dunplop 1735 , daighter of James Dunlop and Mary Ca
 
 [507/11 225 row 4](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357638?image=225)
 
-> John | Archd Galbreath & Martha White has a son baptized 20th Dec named John
+> John | [Archd Galbreath](/people/galbreath-archibald-1708.md) & Martha White has a son baptized 20th Dec named John
 
 [507/10 162 row 17](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/5609080?image=162)
 
-> John | Archibald Calbraith & Martha White had a son bapt John 20th Dec
+> John | [Archibald Calbraith](/people/galbreath-archibald-1708.md) & Martha White had a son bapt John 20th Dec
 
 ## 1740-09-01 Margaret Galbreath
 
@@ -252,14 +252,14 @@ TODO: page also has Margaret Dunplop 1735 , daighter of James Dunlop and Mary Ca
 
 [507/11 236 row 4](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358250?image=236)
 
-> Katharine | Archd Galbreath & Martha White had a 
+> Katharine | [Archd Galbreath](/people/galbreath-archibald-1708.md) & Martha White had a 
 > Daughter. baptized 1st Sept named Katharine
 
 ## 1743-10-27 Margaret Galbreath
 
 [507/11 244 row 6](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358297?image=244)
 
-> Margt | Archd Galbreath & Martha White had a 
+> Margt | [Archd Galbreath](/people/galbreath-archibald-1708.md) & Martha White had a 
 > Daughter baptized 27th Oct named Margt
 
 ## 1745-06-25 James Galbreath
@@ -284,7 +284,7 @@ There is another record of "William Calbreath" on [507/10 181](https://www.scotl
 
 [507/11 262 row 6](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358428?image=262&viewed_images=true)
 
-> Mary | Archibald Galbreath and Martha White had a 
+> Mary | [Archibald Galbreath](/people/galbreath-archibald-1708.md) and Martha White had a 
 > Daughter baptized 29th Oct named Mary
 
 ## 1747-12-20 James Galbreath
@@ -307,7 +307,7 @@ Also on  [507/10 181](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_reco
 
 [507/11 271 row 13](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357930?image=271)
 
-> Ann | Archibald Galbreath and Martha White had a 
+> Ann | [Archibald Galbreath](/people/galbreath-archibald-1708.md) and Martha White had a 
 > Daughter baptized 15th April named Ann
 
 On same page is a note how John McAlpine became a minister of the Lowland Congregation
