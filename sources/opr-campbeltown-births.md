@@ -20,11 +20,15 @@ Gaps:
 
 ## 1674-10-28 Patrick Galbreath
 
+Son of [James Galbreath](/people/galbreath-james-1672.md)
+
 [507/11 23 row 10](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356958?image=23)
 
 > Patrick | Lawful son to James Galbreath and Mary Neilson his spouse in Kilkedan, Born Oct 28th
 
 ## 1678-07-17 Archibald Galbreath
+
+Son of [James Galbreath](/people/galbreath-james-1672.md)
 
 [507/11 31 row 13](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357265?image=31)
 
@@ -32,11 +36,15 @@ Gaps:
  
 ## [1680-05-30 John Galbreath](/people/galbreath-john-1680.md)
 
+Son of [James Galbreath](/people/galbreath-james-1672.md)
+
 [507/11 37 row 3](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357606?image=37)
 
 > John | Lawful son to James Galbreath and Mary Nielson his spouse in Kilkedan, Baptised May 17th John
 
 ## 1691-03-15 Matthew Galbreath
+
+Son of [James Galbreath](/people/galbreath-james-1672.md)
 
 [507/11 56 row 17](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356938?image=56)
 
