@@ -42,29 +42,29 @@ Gaps:
 
 > Matthew | Lawful son to [James Galbreath](/people/galbreath-james-1672.md) and Mary Nielson his lawful spouse, Born 15th March Matthew
 
-## 1698-02-24 Jenat Galbreath
+## [1698-02-24 Jenat Galbreath](/people/galbreath-janet-1698.md)
 
 [507/11 76 row 6](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357093?image=76)
 
-> Jenat | Lawful Daughter to James Galbreath and Mary Fleeming his lawful spouse, Born February 24th Named Jenat
+> Jenat | Lawful Daughter to [James Galbreath](/people/galbreath-james-1672.md) and Mary Fleeming his lawful spouse, Born February 24th Named Jenat
 
-## 1701-11-16 William Galbreath
+## [1701-11-16 William Galbreath](/people/galbreath-william-1701.md)
 
 [507/11 86 row 11](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356992?image=86)
 
-> William | Lawful son to James Galbreath and Mary Fleeming his lawful spouse, Born November 16th
+> William | Lawful son to [James Galbreath](/people/galbreath-james-1672.md) and Mary Fleeming his lawful spouse, Born November 16th
 
-## 1704-04-30 Mary Galbreath
+## [1704-04-30 Mary Galbreath](people/galbreath-mary-1704.md)
 
 [507/11 93 row 12](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357143?image=93)
 
-> William | Lawful Daughter to James Galbreath and Mary Fleeming his lawful spouse, Born April 30th
+> William | Lawful Daughter to [James Galbreath](/people/galbreath-james-1672.md) and Mary Fleeming his lawful spouse, Born April 30th
 
 ## 1706-08-04 James Galbreath
 
 [507/11 99 row 3](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356859?image=99)
 
-> James | Lawful son to James Galbreath and Marion Fleeming
+> James | Lawful son to [James Galbreath](/people/galbreath-james-1672.md) and Marion Fleeming
 > his lawful spouse. Born August 4th & Named James
 
 ## [1708-05-30 Archibald Galbreath](/people/galbreath-archibald-1708.md)
