@@ -16,7 +16,7 @@ Gaps:
 
 [507/11 15 row 4](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357494?image=15)
 
-> James | Lawful son to James Galbreath and Mary Neilsone his spouse in Ardnacross, Born Aug 22nd, baptised 25th
+> James | Lawful son to [James Galbreath](/people/galbreath-james-1659.md) and Mary Neilsone his spouse in Ardnacross, Born Aug 22nd, baptised 25th
 
 ## 1674-10-28 Patrick Galbreath
 
