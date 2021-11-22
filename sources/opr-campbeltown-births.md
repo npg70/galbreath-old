@@ -642,7 +642,7 @@ Note: right above on same page is the same day baptism of Jane Patterson, daught
 
 [507/70 226 row 1](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357656?image=226)
 
-> Archibald | Lawful son of John Galbreath laborer (location??) and Mary McTaggart
+> Archibald | Lawful son of [John Galbreath](/people/galbreath-john-1815.md) laborer (location??) and Mary McTaggart
 > was born twenty fifth August and Baptized 25 September 1842
 
 ## 1842-09-26 John Galbreath
@@ -671,7 +671,7 @@ Unclear why I recorded this one.
 
 [507/70 267 row 3](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357227?image=267)
 
-> Alexander - Lawful son of John Galbreath, laborer?
+> Alexander - Lawful son of [John Galbreath](/people/galbreath-john-1815.md), laborer?
 > ???; and of Mary McTaggart
 > was born 6th July & baptized 4 Aug 1844
 
