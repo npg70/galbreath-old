@@ -105,7 +105,7 @@ Gaps:
 
 [507/11 117 row 7](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356959?image=117), twins
 
-> Patrick & James | Lawful children to James Galbreath and Mary Flemming his lawful spouse Born 20th August Named Patrick and James
+> Patrick & James | Lawful children to [James Galbreath](/people/galbreath-james-1672.md) and Mary Flemming his lawful spouse Born 20th August Named Patrick and James
 
 ## 1714-08-08 Katharine Galbreath
 
@@ -117,7 +117,7 @@ Gaps:
 
 [507/11 123 row 3](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356791?image=123)
 
-> Archd | John Galbreath and Mary Fleeming his lawfull spouse has a son Born 9th September named Archibald
+> Archd | [John Galbreath](/people/galbreath-james-1672.md) and Mary Fleeming his lawfull spouse has a son Born 9th September named Archibald
 
 ## 1716-05-11 James Galbreath
 
