@@ -620,7 +620,7 @@ John | Lawful Son to William Galbraith workman in Kildonell and Jean Campbell bo
 
 [507/70 32 row 4](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357872?image=32)
 
-> William | Lawful son of David Galbreath, sawyer, & Janet Mitchell, was born 29 Sept & Bapt 2 Oct 1833. William
+> William | Lawful son of [David Galbreath](/people/galbreath-david-1797.md), sawyer, & Janet Mitchell, was born 29 Sept & Bapt 2 Oct 1833. William
 
 ## 1839-12-22 Jane Galbreath
 
