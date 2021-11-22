@@ -370,26 +370,26 @@ On same page is a note how John McAlpine became a minister of the Lowland Congre
 
 [507/20 35 row 7](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356969?image=35), twins
 
-> Robt. & Arch. | Lawful Sons to Samuel Galbreath and Janet McNair born 14 Sept 
+> Robt. & Arch. | Lawful Sons to [Samuel Galbreath](/people/galbreath-samuel-1736.md) and Janet McNair born 14 Sept 
 
 ## [1778-10-15 Robert Galbreath](/people/galbreath-robert-1778.md)
 
 [507/20 40 row 15](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357746?image=40)
 
-> Robert | Lawful son to Samuel Galbreath & Janet McNair born 12th ??? bapt 15th Oct 1778
+> Robert | Lawful son to [Samuel Galbreath](/people/galbreath-samuel-1736.md) & Janet McNair born 12th ??? bapt 15th Oct 1778
 
 ## 1781-01-28 Martha Galbreath
 
 [507/20 51 row 11](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358385?image=51)
 
-> Martha | Lawful Dau to Samuel Galbreath & Janet McNair
+> Martha | Lawful Dau to [Samuel Galbreath](/people/galbreath-samuel-1736.md) & Janet McNair
 > born 27th was bapt. 28th Jan 1781
 
 ## 1783-06-10 Archibald Galbreath
 
 [507/20 67 row 9](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357268?image=67)
 
-> Archibald | Lawful son to Samuel Galbreath in Peninver & Jean McNair
+> Archibald | Lawful son to [Samuel Galbreath](/people/galbreath-samuel-1736.md) in Peninver & Jean McNair
 > was born 8th & bapt. 10th June [1783]
 
 ## 1783-09-03 Mary Galbreath
@@ -408,7 +408,7 @@ On same page is a note how John McAlpine became a minister of the Lowland Congre
 
 [507/10 104 row 15](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357976?image=104)
 
-> Catharine | Lawful daut. to Samuel Galbreath in Peninver & Janet MacNair
+> Catharine | Lawful daut. to [Samuel Galbreath](/people/galbreath-samuel-1736.md) in Peninver & Janet MacNair
 > was born 16th & Bapt. 18th May [1788]
 
 ## 1788-12-18 Neill Galbreath
@@ -427,7 +427,7 @@ On same page is a note how John McAlpine became a minister of the Lowland Congre
 
 [507/20 130 row 8](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357528?image=130)
 
-> James | Lawful Son to Samuel Galbreath farmer in Peninver &
+> James | Lawful Son to [Samuel Galbreath](/people/galbreath-samuel-1736.md) farmer in Peninver &
 > Janet MacNair was born 16th & Bapt. 18th [April 1791]
 
 ## 1793-11-25 Archibald Galbreath 
@@ -440,7 +440,7 @@ On same page is a note how John McAlpine became a minister of the Lowland Congre
 
 [507/40 111 row 18](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357780?image=111)
 
-> Samuel Lawful son to Samuel Galbreath and Janet McNair Peninver les
+> Samuel Lawful son to [Samuel Galbreath](/people/galbreath-samuel-1736.md) and Janet McNair Peninver les
 
 ## 1795-XX-XX John and Elizabeth Galbreath
 
@@ -452,13 +452,13 @@ On same page is a note how John McAlpine became a minister of the Lowland Congre
 
 [507/40 131 row 10](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358151?image=131)
 
-> Janet Lawful Daugt to Samuel Galbreath & Janet Langwell (in town?) Sept 26th
+> Janet Lawful Daugt to [Samuel Galbreath](/people/galbreath-samuel-1736.md) & Janet Langwell (in town?) Sept 26th
 
 ## 1796-11-09 John Galbreath
 
 [507/40 144 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357611?image=144)
 
-> John | Lawful son to Samuel Galbreath & Janet McNair Peninver born (&?) bapt 9th
+> John | Lawful son to [Samuel Galbreath](/people/galbreath-samuel-1736.md) & Janet McNair Peninver born (&?) bapt 9th
 
 ## [1797-09-09 David Galbreath](/people/galbreath-david-1797.md)
 
@@ -538,7 +538,7 @@ John | Lawful Son to William Galbraith workman in Kildonell and Jean Campbell bo
 
 [507/40 286 row 8](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358164?image=286)
 
-> Janet | Lawful Daughter to Robert Galbreath Malster in Dalintober and Catherine Harvey born 10th baptised 11 March 1806 Janet
+> Janet | Lawful Daughter to [Robert Galbreath](/people/galbreath-robert-1778.md) Malster in Dalintober and Catherine Harvey born 10th baptised 11 March 1806 Janet
 
 ## 1806-09-02 Archibald Galbreath
 
@@ -563,7 +563,7 @@ John | Lawful Son to William Galbraith workman in Kildonell and Jean Campbell bo
 
 [507/40 316 row 14](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357775?image=316)
 
-> Samuel | Lawful Son to Robert Galbreath Farmer in Peninver and Catherine Harvie, born 18, baptised 22 March 1808.  Samuel
+> Samuel | Lawful Son to [Robert Galbreath](/people/galbreath-robert-1778.md) Farmer in Peninver and Catherine Harvie, born 18, baptised 22 March 1808.  Samuel
 
 ## [1809-09-05 John Galbreath](/people/galbraith-john-1809.md)
 
@@ -576,19 +576,19 @@ John | Lawful Son to William Galbraith workman in Kildonell and Jean Campbell bo
 
 [507/40 345 row 10](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357525?image=345)
 
-> James | Lawful Son to Robert Galbreath Farmer Peninver and Catherine Harvie, born 23, baptised 27th Dec 1809. Named James
+> James | Lawful Son to [Robert Galbreath](/people/galbreath-robert-1778.md) Farmer Peninver and Catherine Harvie, born 23, baptised 27th Dec 1809. Named James
 
 ## 1812-02-26 Robert Galbreath
 
 [507/40 380 row 8](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357753?image=380)
 
-> Robert | Lawful son to Robert Galbreath ~~weaver~~ farmer Peninver and Catherine Harvey born 25th, bapt 26th Feb 1812 named Robert
+> Robert | Lawful son to [Robert Galbreath](/people/galbreath-robert-1778.md) ~~weaver~~ farmer Peninver and Catherine Harvey born 25th, bapt 26th Feb 1812 named Robert
 
 ## 1814-02-09 Archibald Galbreath
 
 [507/40 409 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357319?image=409)
 
-> Archibald | Lawful Son to Robert Galbreath Farmer in Peninver and Catherine Harvie, born 31 Jan, baptised 9 Feb 1814. Named Archibald
+> Archibald | Lawful Son to [Robert Galbreath](/people/galbreath-robert-1778.md) Farmer in Peninver and Catherine Harvie, born 31 Jan, baptised 9 Feb 1814. Named Archibald
 
 ## 1814-04-07 Anne Galbreath
 
@@ -601,13 +601,13 @@ John | Lawful Son to William Galbraith workman in Kildonell and Jean Campbell bo
 
 [507/40 426 row 1](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357306?image=426)
 
-> Archibald | Lawful Son to Robert Galbreath Farmer Peninver and Catherine Harvey, born 19th, baptised 22 Feb 1815. Named Archibald
+> Archibald | Lawful Son to [Robert Galbreath](/people/galbreath-robert-1778.md) Farmer Peninver and Catherine Harvey, born 19th, baptised 22 Feb 1815. Named Archibald
 
 ## [1817-04-16 John Galbreath](/people/galbreath-john-1817.md)
 
 [507/40 460 row 13](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357574?image=460)
 
-> John | Lawful Son to Robert Galbreath Farmer Peninver and Catherine Harvey, born 12th, baptised 16th April 1817. John
+> John | Lawful Son to [Robert Galbreath](/people/galbreath-robert-1778.md) Farmer Peninver and Catherine Harvey, born 12th, baptised 16th April 1817. John
 
 ## [1821-02-02 John Galbreath](/people/galbreath-john-1821.md)
 
