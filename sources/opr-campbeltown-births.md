@@ -145,11 +145,11 @@ Gaps:
 
 > David | David Galbreath & Isobell Watson had a son bapt 2 Oct named David
 
-## 1719-04-28 David Galbreath
+## [1719-04-28 David Galbreath](/people/galbreath-david-1719.md)
 
 [507/11 137](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357350?image=137)
 
-> David | James Galbreath & Mary Fleeming had a son bapt 28th April named David
+> David | [James Galbreath](/people/galbreath-james-1672.md) & Mary Fleeming had a son bapt 28th April named David
 
 ## 1719-07-28 James and Mary Galbreath
 
@@ -163,11 +163,11 @@ Gaps:
 
 > John | [John Calbreath](/people/galbreath-john-1680.md) & Mary Mitchell had a lawful child bapt. John
 
-## 1722-02-18 Agnas Galbreath
+## [1722-02-18 Agnas Galbreath](/galbreath-agnes-1722.md)
 
 [507/11 148 row 14](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357891?image=148)
 
-> Agnas | James Galbreath & Mary Fleeming in Kilkeddan had a Daut. baptised 18th Feb named Agnas
+> Agnas | [James Galbreath](/people/galbreath-james-1672.md) & Mary Fleeming in Kilkeddan had a Daut. baptised 18th Feb named Agnas
  
 [507/10 102 row ](https://www.scotlandspeople.gov.uk/images/OPR507_000_0010_0102Z)
 
