@@ -71,7 +71,7 @@ Gaps:
 
 [507/11 104 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356794?image=104)
 
-> Archd lawfull son to John Galbreath and Mary Mitchell his lawful spouse. Born May 30th named Archd
+> Archd lawfull son to [John Galbreath](/people/galbreath-john-1680.md) and Mary Mitchell his lawful spouse. Born May 30th named Archd
 
 [507/10 47 row 1](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/706?image=47)
 
@@ -81,7 +81,7 @@ Gaps:
 
 [507/11 106 row 12](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357150?image=106)
 
-> Mary | Lawful Daughter to John Galbreath and Mary Mitchell his lawful spouse, Born December 25th Named Mary
+> Mary | Lawful Daughter to [John Galbreath](/people/galbreath-john-1680.md) and Mary Mitchell his lawful spouse, Born December 25th Named Mary
 
 ## 1711-08-14 Margaret Galbreath
 
@@ -93,13 +93,13 @@ Gaps:
 
 [507/11 111 row 15](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357076?image=111)
 
-> Janet | Lawful Daughter to John Galbreath and Mary Mitchell his lawful spouse, Born October 14th Named Janet
+> Janet | Lawful Daughter to [John Galbreath](/people/galbreath-john-1680.md) and Mary Mitchell his lawful spouse, Born October 14th Named Janet
 
 ## 1713-03-22 James Galbreath 
 
 [507/11 116 row 4](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356841?image=116)
 
-> James | Lawfull son to John Galbreath and Mary Mitchell his lawful spouse, Born March 22nd named James
+> James | Lawfull son to [John Galbreath](/people/galbreath-john-1680.md) and Mary Mitchell his lawful spouse, Born March 22nd named James
 
 ## 1713-08-20 Patrick and James Galbreath
 
@@ -111,7 +111,7 @@ Gaps:
 
 [507/11 119](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357095?image=119)
 
-> Katharine | John Galbreath and Mary Mitchell his lawfull spouse had a Daughter born 8th August named Katherine
+> Katharine | [John Galbreath](/people/galbreath-john-1680.md) and Mary Mitchell his lawfull spouse had a Daughter born 8th August named Katherine
 
 ## 1715-09-09 Archibald Galbreath
 
@@ -123,21 +123,21 @@ Gaps:
 
 [507/11 126 row 12](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356851?image=126)
 
-> James | John Galbreath & Mary Mitchell his lawfull spouse has a son Born 11th May named James
+> James | [John Galbreath](/people/galbreath-john-1680.md) & Mary Mitchell his lawfull spouse has a son Born 11th May named James
 
 [507/10 73 row 7](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/5631656?image=73), listed under _Calbreath_
 
-> May 11 | James Lawfull son to John Calbreath & Mary Mitchell
+> May 11 | James Lawfull son to [John Calbreath](/people/galbreath-john-1680.md) & Mary Mitchell
 
 ## [1718-05-31 Patrick Galbreath](galbreath-patrick-1718.md)
 
 [507/11 134 row 2](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356960?image=134)
 
-> Patrick | John Galbreath & Mary Mitchell in Killkeddan has a son born 31st May named Patrick
+> Patrick | [John Galbreath](/people/galbreath-john-1680.md) & Mary Mitchell in Killkeddan has a son born 31st May named Patrick
 
 [507/10 78 col 2, row 8](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/5938207?image=78), indexed under "Cabreath"
 
-> Patrick son lawful to John Cabreath & Mary Mitchell in Kilkeddan May 31
+> Patrick son lawful to [John Cabreath](/people/galbreath-john-1680.md) & Mary Mitchell in Kilkeddan May 31
 
 ## 1718-10-02 David Galbreath
 
@@ -155,13 +155,13 @@ Gaps:
 
 [507/11 138 row 17](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357504?image=138) Twins.
 
-> James & Mary | Jn. Galbreath & Mary Mitchell had a son & Daugt. baptized 28th July named James & Mary
+> James & Mary | [Jn. Galbreath](/people/galbreath-john-1680.md) & Mary Mitchell had a son & Daugt. baptized 28th July named James & Mary
 
 ## 1721-12-09 John Galbreath
 
 [507/10 100 row 16](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/1018?image=100)
 
-> John | John Calbreath & Mary Mitchell had a lawful child bapt. John
+> John | [John Calbreath](/people/galbreath-john-1680.md) & Mary Mitchell had a lawful child bapt. John
 
 ## 1722-02-18 Agnas Galbreath
 
