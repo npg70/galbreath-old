@@ -452,7 +452,7 @@ On same page is a note how John McAlpine became a minister of the Lowland Congre
 
 [507/40 131 row 10](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358151?image=131)
 
-> Janet Lawful Daugt to [Samuel Galbreath](/people/galbreath-samuel-1736.md) & Janet Langwell (in town?) Sept 26th
+> Janet Lawful Daugt to [Samuel Galbreath](/people/galbreath-samuel-1765.md) & Janet Langwell (in town?) Sept 26th
 
 ## 1796-11-09 John Galbreath
 
@@ -464,7 +464,7 @@ On same page is a note how John McAlpine became a minister of the Lowland Congre
 
 [507/40 153 row 4](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357357?image=153), indexed as "Janet Langwell" differently than all other children.
 
-> David | Lawful son to Samuel Galbreath in Town and Janet Langwill, 
+> David | Lawful son to [Samuel Galbreath](/people/galbreath-samuel-1765.md) in Town and Janet Langwill, 
 > born 16th, baptised 19th [illegible] the Childs name is David.
 
 ## [1798-05-21 Agnes Galbreath](/people/galbreath-agnes-1798.md)
@@ -485,7 +485,7 @@ On same page is a note how John McAlpine became a minister of the Lowland Congre
 
 [507/40 197 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358384?image=197)
 
->  Martha | Samuel Galbreath and Janet Langwill in Drumlesnell[sic]
+>  Martha | [Samuel Galbreath](/people/galbreath-samuel-1765.md) and Janet Langwill in Drumlesnell[sic]
 >  had a lawful dat. born 24th baptized 26th Feb. [1800] named Martha
 
 ## 1800-02-28 Florance Galbreath
@@ -506,7 +506,7 @@ On same page is a note how John McAlpine became a minister of the Lowland Congre
 
 [507/40 232 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357492?image=234)
 
-> James | Lawful son to Samuel Galbreath and Janet Langwill in town born 14th baptized 15th Sept [1802] James
+> James | Lawful son to [Samuel Galbreath](/people/galbreath-samuel-1765.md) and Janet Langwill in town born 14th baptized 15th Sept [1802] James
 
 ## 1803-09-11 [Archibald Galbreath](/people/galbreath-archibald-1803.md)
 
@@ -525,7 +525,7 @@ John | Lawful Son to William Galbraith workman in Kildonell and Jean Campbell bo
 
 [507/40 262 row 10](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358471?image=262)
 
-> Mary | Lawful Daughter to Samuel Galbreath Sawer in Campbeltown and Janet Langwill born 18 baptised 22 May 1804 named Mary
+> Mary | Lawful Daughter to [Samuel Galbreath](/people/galbreath-samuel-1765.md) Sawer in Campbeltown and Janet Langwill born 18 baptised 22 May 1804 named Mary
 
 ## [1805-04-07 Jean Galbreath](/people/galbraith-jean-1805.md)
 
@@ -550,7 +550,7 @@ John | Lawful Son to William Galbraith workman in Kildonell and Jean Campbell bo
 
 [507/40 292 row 16](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357909?image=292)
 
-> Agnes | Lawful Daughter to Samuel Galbreath sawer in Campbeltown and Janet Langwill born 2 baptised 3 September 1806 named Agnes
+> Agnes | Lawful Daughter to [Samuel Galbreath](/people/galbreath-samuel-1765.md) sawer in Campbeltown and Janet Langwill born 2 baptised 3 September 1806 named Agnes
 
 ## 1806-09-17 Janet Galbreath
 
