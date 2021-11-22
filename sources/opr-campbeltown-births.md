@@ -531,7 +531,7 @@ John | Lawful Son to William Galbraith workman in Kildonell and Jean Campbell bo
 
 [507/40 275 row 4](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358218?image=275)
 
-> Jean | Lawful Daughter to Archibald Galbreath Merchant in Campbeltown and 
+> Jean | Lawful Daughter to [Archibald Galbreath](/people/galbreath-archibald-1760.md) Merchant in Campbeltown and 
 > Jean Corbet, born 28th March, baptised 7th April 1805.  Jean
 
 ## 1806-03-11 Janet Galbreath
