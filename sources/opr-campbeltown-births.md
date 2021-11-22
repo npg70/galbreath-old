@@ -594,7 +594,7 @@ John | Lawful Son to William Galbraith workman in Kildonell and Jean Campbell bo
 
 [507/ 40 411 row 17](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357945?image=411)
 
-> Anne | Lawful Daughter to Archibald Galbreath Sailor in Campbeltown and or 
+> Anne | Lawful Daughter to [Archibald Galbreath](/people/galbreath-archibald-1798.md) Sailor in Campbeltown and or 
 > Dalintober & Margaret McMillian born 5th bapt. 7th April. Anne.
 
 ## [1815-02-22 Archibald Galbreath](/people/galbreath-archibald-1815.md)
@@ -613,7 +613,7 @@ John | Lawful Son to William Galbraith workman in Kildonell and Jean Campbell bo
 
 [507/60 30 row 2](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357635?image=30)
 
-> John | Lawful son of Archd Galbreath Fisherman Dalitober & Mary McMillan
+> John | Lawful son of [Archd Galbreath](/people/galbreath-archibald-1798.md) Fisherman Dalitober & Mary McMillan
 > born 30th Jan & bapt 2nd Feb 1821. John
 
 ## [1833-10-02 William Galbreath](/people/galbreath-william-1833.md)
@@ -658,7 +658,6 @@ Note: right above on same page is the same day baptism of Jane Patterson, daught
 
 > Archibald | Lawful son of Arch Galbreath, farmer, Ugadale and Margaret Loynachan,
 > was born seventeeenth July & bapt. 13 Augt. 1843
-
 
 ## 1844-07-18 Catharine Greenless
 
