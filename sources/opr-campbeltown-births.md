@@ -323,36 +323,36 @@ On same page is a note how John McAlpine became a minister of the Lowland Congre
 
 [507/11 333 row 3](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358332?image=333)
 
-> Margt | William Galbreath and Margaret Dunlop had a Daughter born 5th and baptised 8th Dec named Margt
+> Margt | [William Galbreath](/people/galbreath-william-1736.md) and Margaret Dunlop had a Daughter born 5th and baptised 8th Dec named Margt
 
 ## [1765-08-29 Rachel Galbreath](/people/galbreath-rachel-1765.md)
 
 [507/10 295 row 8](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2086?image=295)
 
-> Rachel | William Galbraith & Margaret Dunlop had a daughter born 27th & baptised 29th Aug named Rachel
+> Rachel | [William Galbraith](/people/galbreath-william-1736.md) & Margaret Dunlop had a daughter born 27th & baptised 29th Aug named Rachel
 
 ## 1766-11-16 William Galbreath
 
 [507/10 309 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/1344?image=309)
 
-> William | William Galbraith and Marg Dunlop had a son born the 13th baptized the 16th Nov called Andrew
+> William | [William Galbraith](/people/galbreath-william-1736.md) and Marg Dunlop had a son born the 13th baptized the 16th Nov called Andrew
 
 ## 1768-02-10 James Galbreath
 
 [507/ 11 363 row 3](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357461?image=363)
 
-> James | William Galbraith and Margt Dunlop had a son
+> James | [William Galbraith](/people/galbreath-william-1736.md) and Margt Dunlop had a son
 > born the 9th baptized the 10th Feb named James
 
 ## 1769-05-07 Andrew Galbreath
 
 [507/11 370 row 13](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356772?image=370)
 
-> Andrew | William Galbreath and Margt Dunlop had a son the 7th May named Andrew
+> Andrew | [William Galbreath](/people/galbreath-william-1736.md) and Margt Dunlop had a son the 7th May named Andrew
 
 [507/10 333 row 12](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/89?image=333), under "Andrew Galbraith"
 
-> Andrew | William Galbraith and Marg Dunlop had a son born the 7th May called Andrew
+> Andrew | [William Galbraith](/people/galbreath-william-1736.md) and Marg Dunlop had a son born the 7th May called Andrew
 
 ## 1777-09-07 Agnes Dunlop
 
@@ -478,7 +478,7 @@ On same page is a note how John McAlpine became a minister of the Lowland Congre
 
 [507/ 40 180 row 3](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357247?image=180)
 
-> Andrew | Archibald Galbreath & Jean Corbet had a lawful
+> Andrew | [Archibald Galbreath](/people/galbreath-archibald-1760.md) & Jean Corbet had a lawful
 > son born 6th baptized 10th, the Childs name is Andrew.
 
 ## 1800-02-26 Martha Galbreath
@@ -569,7 +569,7 @@ John | Lawful Son to William Galbraith workman in Kildonell and Jean Campbell bo
 
 [507/40 339 row 16](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357569?image=339)
 
-> John | Lawful Son to Archibald Galbreath Merchant in Campbeltown and 
+> John | Lawful Son to [Archibald Galbreath](/people/galbreath-archibald-1760.md) Merchant in Campbeltown and 
 > Jean Corbet, born 3rd, baptised 5th Sept 1809. Named John
 
 ## [1809-12-27 James Galbreath](/people/galbreath-james-1809.md)
