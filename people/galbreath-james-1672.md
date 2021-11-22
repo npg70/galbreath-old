@@ -4,7 +4,7 @@ familysearch: https://www.familysearch.org/tree/person/details/L4B3-KFQ
 ---
 **James Galbreath**, son of [*James Galbreath*](galbreath-james-1659.md) and *Mary Nielson*,
 born Ardnacross, Argyll, Scotland, baptized Campbeltown 25 Aug 1672.[^birth]
-His death is not recorded. He married at Campbeltown 8 Dec 1696, *Mary Fleming*,[^marriage] origin unknown.[^mary]
+His death is not recorded. He married at Campbeltown 8 Dec 1696, **Mary Fleming**,[^marriage] origin unknown.[^mary]
 
 Children of James and Mary (Fleming) Galbreath, all baptized at Campbeltown:[^children]
 
