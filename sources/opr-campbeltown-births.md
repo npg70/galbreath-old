@@ -193,7 +193,7 @@ https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/5631706?image=102
 
 [507/11 163 row 10](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/5631688?image=163) is transcribed as "Calbreath" but this is clearly "Galbreath"
 
-> Samuel | John Galbreath and Mary Mitchell has a son baptized 8th August named Samuel
+> Samuel | [John Galbreath](/people/galbreath-john-1680.md) and Mary Mitchell has a son baptized 8th August named Samuel
 
 ## [1729-10-19 Mary Galbreath](/people/galbreath-mary-1729.md)
 
@@ -229,7 +229,7 @@ TODO: page also has Margaret Dunplop 1735 , daighter of James Dunlop and Mary Ca
 
 [507/11 225 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357638?image=225)
 
-> Mary | John Calbraith & Isobell Clark has a dau. bapt Oct 1
+> Mary | [John Calbraith](/people/galbreath-john-abt-1710.md) & Isobell Clark has a dau. bapt Oct 1
 
 ## 1738-12-20 John Galbreath
 
@@ -275,7 +275,7 @@ There is another record [507/10 181](https://www.scotlandspeople.gov.uk/view-ima
 
 [507/11 252 row 10](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357835?image=252)
 
-> William | John Galbreath & Isobell Clark had a 
+> William | [John Galbreath](/galbreath-john-abt-1710.md) & Isobell Clark had a 
 > son baptized 4th Augt named William
 
 There is another record of "William Calbreath" on [507/10 181](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/5609111?image=181)
@@ -316,7 +316,7 @@ On same page is a note how John McAlpine became a minister of the Lowland Congre
 
 [507/11 319 row 15](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357663?image=319)
 
-> John | John Galbreath and Isobell Clark had a son 
+> John | [John Galbreath](/galbreath-john-abt-1710.md) and Isobell Clark had a son 
 > bapt 2nd May named John
 
 ## [1762-12-08 Margaret Galbreath](/people/galbreath-margaret-1762.md)
