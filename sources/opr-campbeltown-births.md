@@ -89,7 +89,7 @@ Gaps:
 
 > Margt | Lawful daughter to James Galbreath and Mary Fleeming his lawful spouse, Born August 14th Named Margt.
 
-## 1711-10-14 Janet Galbreath
+## [1711-10-14 Janet Galbreath](/people/galbreath-janet-1711.md)
 
 [507/11 111 row 15](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357076?image=111)
 
@@ -157,7 +157,7 @@ Gaps:
 
 > James & Mary | [Jn. Galbreath](/people/galbreath-john-1680.md) & Mary Mitchell had a son & Daugt. baptized 28th July named James & Mary
 
-## 1721-12-09 John Galbreath
+## [1721-12-09 John Galbreath](/people/galbreath-john-1721.md)
 
 [507/10 100 row 16](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/1018?image=100)
 
