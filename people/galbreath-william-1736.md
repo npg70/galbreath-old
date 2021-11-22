@@ -5,6 +5,8 @@ wikitree: https://www.wikitree.com/wiki/Galbraith-2401
 ---
 ***William Galbreath***, of unknown origin, was born say 1736.  He married at Campbeltown 12 Jan 1760[^marriage1] to **Margaret Dunlop**.
 
+Based on 1792 Census[^census1792] and the dates, it's likely Margaret Dunlop died and William remarried 20 Jun 1774 to **Mary Campbell**.[^marriage2]
+
 Theory 1 On William: a [MyHeritage Tree](https://www.myheritage.com/research/record-1-624392791-1-512186/archibald-galbraith-in-myheritage-family-trees) lists the parents as being Archibald Galbreath and Margaret McNair with out dates. There is an Archibald Galbraith/Margaret McNair on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbraith&surname_so=fuzzy&forename_so=starts&parent_names_so=exact&parent_name_two=margaret%20mcnair&parent_name_two_so=exact&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&sort=asc&order=Date&field=year), which has a William born 1735 which is about right.  However it's based of New or East Kilpatrick parish, near Glasgow.  And theory is that Archibald is the son of  [John Galbraith 1721/Agnes Langwill](/people/galbreath-john-1721.md) but there is no known child, and the dates/ages can't work.  Archibald should be born around 1700. 
 
 Theory 2 on William: another [MyHertageTree](https://www.myheritage.com/research/record-1-326066321-1-501495/william-galbraith-in-myheritage-family-trees) has William b. 1745 and the parents being William b. 1709 and Isabella Clark b. 1711.   Likewise Margaret Dunlop b ~1745.  This would mean they both got marrried at age 15.
@@ -12,8 +14,6 @@ Theory 2 on William: another [MyHertageTree](https://www.myheritage.com/research
 Theory 3:  Another without citation lists  William b 1736 d. 1799, and [Margaret Dunlop 	Aug 4 1728](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=dunlop&surname_so=fuzzy&forename=m&forename_so=starts&sex=F&from_year=1728&to_year=1728&parent_names_so=exact&parent_name_two_so=exact&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&rd_real_name%5B0%5D=CAMPBELTOWN%20%28LANDWARD%29%20OR%20CAMPBELTOWN%20%28BURGH%29%20OR%20CAMPBELTOWN&rd_display_name%5B0%5D=CAMPBELTOWN%20%28LANDWARD%29%7CCAMPBELTOWN%20%28BURGH%29%7CCAMPBELTOWN_CAMPBELTOWN&rd_label%5B0%5D=CAMPBELTOWN&rd_name%5B0%5D=CAMPBELTOWN%20%2ALANDWARD%2A%20OR%20CAMPBELTOWN%20%2ABURGH%2A%20OR%20CAMPBELTOWN)
 
 Margaret may have been the daughter of *James Dunlop* and *Mary Caldwell*, maybe born 14 Dec 1735.  But this is speculative.
-
-Based on 1792 Census[^census1792] and the dates, it's likely Margaret Dunlop died and William remarried 20 Jun 1774 to **Mary Campbell**.[^marriage2]
 
 Children of Willian and Maraget (Dunlop) Galbreath:[^children1][^children2]
 
