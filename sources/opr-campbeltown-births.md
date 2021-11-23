@@ -339,7 +339,7 @@ TBD: Patrick Galbreath / Jean Watson
 
 ## 1743-01-22 John Galbreath
 
-TBD: David Galbreath / Jean Langwill
+TBD: [David Galbreath](/people/galbreath-david-1719.md) / Jean Langwill
 
 ## 1743-05-00 Isobell Galbreath
 
@@ -364,7 +364,7 @@ TBD: [James Galbreath](/people/galbreath-james-1713.md) / Margaret Adam
 
 [507/11 252 row 10](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357835?image=252)
 
-> James | David Galbreath & Jean Langwill had a 
+> James | [David Galbreath](/people/galbreath-david-1719.md) & Jean Langwill had a 
 > son baptized 25th June named James
 
 There is another record [507/10 181](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/5609111?image=181)
@@ -396,7 +396,7 @@ TBD: [David Galbreath](/people/galbreath-david-abt-1720.md) / Martha Baird
 
 ## 1747-04-23 William Galbreath
 
-TBD: David Galbreath / Jean Langwill
+TBD: [David Galbreath](/people/galbreath-david-1719.md) / Jean Langwill
 
 ## 1747-05-14 Patrick Galbreath
 
@@ -484,7 +484,7 @@ TBD: [David Galbreath](/people/galbreath-david-abt-1720.md) / Martha Baird
 
 ## 1751-01-30 Mary Galbreath
 
-TBD: David Galbreath / Jean Langwill
+TBD: [David Galbreath](/people/galbreath-david-1719.md) / Jean Langwill
 
 ## [1760-05-02 John Galbreath](/people/galbreath-john-1760.md)
 
