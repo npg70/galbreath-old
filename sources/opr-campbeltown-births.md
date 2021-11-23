@@ -512,7 +512,7 @@ On same page is a note how John McAlpine became a minister of the Lowland Congre
 
 [507/40 252 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357282?image=252)
 
-> Archibald | Lawful Son to James Galbreath Tenant in Skerbolin and 
+> Archibald | Lawful Son to [James Galbreath](/people/galbreath-james-abt-1775.md) Tenant in Skerbolin and 
 > Martha Galbreath Born 8th Baptized 11th September 1803 Named Archibald
 
 ## 1804-05-13 John Galbraith
