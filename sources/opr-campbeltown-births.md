@@ -309,7 +309,7 @@ TBD: of [William Galbreath](/people/galbreath-william-1701.md) / Margaret Kilpat
 
 ## 1740-03-18 Mary Galbreath
 
-TBD: James Galbreath / Margaret Adam
+TBD: [James Galbreath](/people/galbreath-james-1713.md) / Margaret Adam
 
 ## 1740-04-13 John Galbreath
 
@@ -358,7 +358,7 @@ TBD: [John Galbreath](/people/galbreath-john-abt-1710.md) / Isobell Clark
 
 ## 1743-12-00 Archibald Galbreath
 
-TBD: James Galbreath / Margaret Adam
+TBD: [James Galbreath](/people/galbreath-james-1713.md) / Margaret Adam
 
 ## 1745-06-25 James Galbreath
 
@@ -384,7 +384,7 @@ TBD: Patrick Galbreath / Jean Watson
 
 ## 1746-01-15 James Galbreath
 
-TBD: James Galbreath / Margaret Adam
+TBD: [James Galbreath](/people/galbreath-james-1713.md) / Margaret Adam
 
 ## 1746-09-07 Mary Galbreath
 
@@ -428,7 +428,7 @@ TBD: [John Galbreath](/people/galbreath-john-abt-1710.md) / Isobell Clark
 
 ## 1748-07-13 Unknown Galbreath
 
-TBD: James Galbreath / Margaret Adam
+TBD: [James Galbreath](/people/galbreath-james-1713.md) / Margaret Adam
 
 ## 1748-07-22 James Galbreath
 
@@ -468,7 +468,7 @@ TBD: Patrick Galbreath / Jean Waton
 
 ## 1750-06-03 James Galbreath
 
-TBD: James Galbreath / Margaret Adam
+TBD: [James Galbreath](/people/galbreath-james-1713.md) / Margaret Adam
 
 ## 1750-10-11 Margaret Galbreath
 
