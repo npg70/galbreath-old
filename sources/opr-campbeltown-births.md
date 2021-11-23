@@ -392,7 +392,7 @@ TBD: David Galbreath / Mary Langwill
 
 ## 1746-12-04 Mary Galbreath
 
-TBD: David Galbreath / Martha Baird
+TBD: [David Galbreath](/people/galbreath-david-abt-1720.md) / Martha Baird
 
 ## 1747-04-23 William Galbreath
 
@@ -480,7 +480,7 @@ TBD: John Galbreath / Ann Clark
 
 ## 1751-01-24 Janet Galbreath
 
-TBD: David Galbreath / Martha Baird
+TBD: [David Galbreath](/people/galbreath-david-abt-1720.md) / Martha Baird
 
 ## 1751-01-30 Mary Galbreath
 
