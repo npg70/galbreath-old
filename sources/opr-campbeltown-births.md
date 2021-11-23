@@ -518,6 +518,20 @@ TBD: [David Galbreath](/people/galbreath-david-1719.md) / Jean Langwill
 > James | [William Galbraith](/people/galbreath-william-1736.md) and Margt Dunlop had a son
 > born the 9th baptized the 10th Feb named James
 
+## 1768-02-22 Matthew Galbreath
+
+TBD: John Galbreatth / Jean Clark, two records Galbreath/Galbraith
+
+## 1768-12-23 James Galbreath
+
+TBD: Henry Galbreath / Agnes Armour.
+
+NOTE: two records  1768-12-23 Galbreath + 1768-12-28 Galbraith
+
+## 1769-01-01 Ann Galbreath
+
+TBD: Lachlan Galbreath, no mother
+
 ## 1769-05-07 Andrew Galbreath
 
 [507/11 370 row 13](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356772?image=370)
@@ -527,6 +541,62 @@ TBD: [David Galbreath](/people/galbreath-david-1719.md) / Jean Langwill
 [507/10 333 row 12](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/89?image=333), under "Andrew Galbraith"
 
 > Andrew | [William Galbraith](/people/galbreath-william-1736.md) and Marg Dunlop had a son born the 7th May called Andrew
+
+## 1769-07-11  John Galbreath
+
+TBD: John Galbreath / Katharine Clark, Two records, Galbreath/Galbraith
+
+## 1769-08-22 Katherin Galbreath
+
+TBD: Donald Galbreath / Katherin McDougald
+
+## 1769-10-10 Margaret Galbreath
+
+TBD: Neill Galbreath / Ann Campbell
+
+## 1770-03-08 Margaret Galbreath
+
+TBD: Malcome Galbreath / Margaret Stewart
+
+## 1771-11-02 Margaret Galbreath
+
+TBD: Henry Galbreath / Agnes Armour, two records
+
+## 1772-03-27 Peter Galbreath
+
+TBD: John Galbreath / Katharine Clark
+
+## 1772-08-22 Daniel Galbreath
+
+TBD: John Galbreath / Margaret Clark, two records
+
+## 1773-11-03 James Galbreath
+
+TBD: Archibald Galbreath / Orsla Galbreath
+
+## 1773-12-23 Peter Galbreath
+
+TBD: Neill Galbreath / Ann Campbell
+
+## 1774-11-22 Archibald Galbreath
+
+TBD: John Galbreath / Jean Clark
+
+## 1775-07-10 James Galbreath
+
+TBD: John Galbreath / Katharine Clark
+
+## 1775-12-03 Jenat Galbreath
+
+TBD: William Galbreath / Mary Campbell
+
+## 1776-11-01 Archibald Galbreath
+
+TBD: Archibald Galbreath / Orsla Galbreath
+
+## 1777-08-21 Elisabeth Galbreath
+
+TBD: William Galbreath / Mary Campbell
 
 ## 1777-09-07 Agnes Dunlop
 
@@ -538,7 +608,7 @@ TBD: [David Galbreath](/people/galbreath-david-1719.md) / Jean Langwill
 
 [507/20 35 row 6](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356969?image=35)
 
-> Florence | Lawful Daughter to Henry Galbreath and Agnes XXX (Armour?) Born 11th Sept Bap 14
+> Florence | Lawful Daughter to Henry Galbreath and Agnes Armour Born 11th Sept Bap 14
 
 ## 1777-09-14 Robert and Archibald Galbreath
 
@@ -546,11 +616,31 @@ TBD: [David Galbreath](/people/galbreath-david-1719.md) / Jean Langwill
 
 > Robt. & Arch. | Lawful Sons to [Samuel Galbreath](/people/galbreath-samuel-1736.md) and Janet McNair born 14 Sept 
 
+## 1778-01-20 William Gilbreath
+
+TBD: Peter Gilbreath/Agnes McMurchy
+
 ## [1778-10-15 Robert Galbreath](/people/galbreath-robert-1778.md)
 
 [507/20 40 row 15](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357746?image=40)
 
 > Robert | Lawful son to [Samuel Galbreath](/people/galbreath-samuel-1736.md) & Janet McNair born 12th ??? bapt 15th Oct 1778
+
+## 1779-12-27 John Galbraith
+
+TBD: Archibald Galbraith/Orsla Galbraith
+
+## 1780-01-16 William Galbreath
+
+TBD: Henry Galbreath/Agnes Armour
+
+## 1780-12-06 John Galbreath
+
+TBD: Peter Galbreath / Agnes McMurchy
+
+## 1781-01-25 John Galbreath
+
+TBD: Alexander Galbreath / Agnes Fleeming
 
 ## 1781-01-28 Martha Galbreath
 
@@ -558,6 +648,14 @@ TBD: [David Galbreath](/people/galbreath-david-1719.md) / Jean Langwill
 
 > Martha | Lawful Dau to [Samuel Galbreath](/people/galbreath-samuel-1736.md) & Janet McNair
 > born 27th was bapt. 28th Jan 1781
+
+## 1781-06-29 Rachell Galbreath
+
+TBD: Donald Galbreath / Mary Kelly
+
+## 1781-09-16 Robert Galbreath
+
+TBD: Peter Galbreath / Agnes McMurchy
 
 ## 1783-06-10 Archibald Galbreath
 
