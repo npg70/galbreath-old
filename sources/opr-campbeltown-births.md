@@ -197,7 +197,7 @@ https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/5631706?image=102
 
 ## 1725-05-23 Mary Galbreath
 
-TBD: of William Galbreath / Margarte Kilpatrick, two records under Galbreath/Calbreath
+TBD: of [William Galbreath](/people/galbreath-william-1701.md) / Margarte Kilpatrick, two records under Galbreath/Calbreath
 
 ## 1725-08-08 Samuel Galbreath
 
@@ -211,7 +211,7 @@ TBD: of William Galbreath / Margarte Kilpatrick, two records under Galbreath/Cal
 
 ## 1726-10-02 James Galbreath
 
-TBD: of William Galbreath / Margarte Kilpatrick, two records under Galbreath/Calbreath
+TBD: of [William Galbreath](/people/galbreath-william-1701.md) / Margarte Kilpatrick, two records under Galbreath/Calbreath
 
 ## 1727-01-29 Mary Galbreath
 
@@ -219,7 +219,7 @@ TBD: Patrick Galbreath/Mary Maxwell, under Galbreath/Calbreath
 
 ## 1727-12-23 Ann Galbreath
 
-TBD: of William Galbreath / Margarte Kilpatrick,
+TBD: of [William Galbreath](/people/galbreath-william-1701.md) / Margarte Kilpatrick,
 
 ## 1729-07-00 Archibald Galbreath
 
@@ -237,11 +237,11 @@ TBD: Patrick Gakbreath/Jean Templeton
 
 ## 1732-05-14 John Galbreath
 
-TBD: of William Galbreath / Margarte Kilpatrick, two records under Galbreath/Calbreath
+TBD: of [William Galbreath](/people/galbreath-william-1701.md) / Margarte Kilpatrick, two records under Galbreath/Calbreath
 
 ## 1733-07-02 Jean Galbreath
 
-TBD: of William Galbreath / Margaret Kilpatrick
+TBD: of [William Galbreath](/people/galbreath-william-1701.md) / Margaret Kilpatrick
 
 ## 1734-02-03 Daniel Galbreath
 
@@ -265,7 +265,7 @@ TBD: John Galbreath/Janet Galbreath
 
 ## 1735-04-27 Janet Galbreath
 
-TBD: of William Galbreath / Margaret Kilpatrick
+TBD: of [William Galbreath](/people/galbreath-william-1701.md) / Margaret Kilpatrick
 
 ## [1736-02-04 Samuel Galbreath](/people/galbreath-samuel-1736.md)
 
@@ -285,7 +285,7 @@ TBD:  of John Galbreath/Isobell Clark
 
 ## 1738-01-22 Ann Galbreath
 
-TBD: of William Galbreath / Margaret Kilpatrick
+TBD: of [William Galbreath](/people/galbreath-william-1701.md) / Margaret Kilpatrick
 
 ## 1738-10-01 Mary Galbreath
 
@@ -305,7 +305,7 @@ TBD: of William Galbreath / Margaret Kilpatrick
 
 ## 1739-04-00 Henry Galbreath
 
-TBD: of William Galbreath / Margaret Kilpatrick, 2 records
+TBD: of [William Galbreath](/people/galbreath-william-1701.md) / Margaret Kilpatrick, 2 records
 
 ## 1740-03-18 Mary Galbreath
 
