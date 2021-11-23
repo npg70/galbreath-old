@@ -436,7 +436,7 @@ TBD: John Galbreath / Agnes Langwill
 
 ## 1748-10-30 James Galbreath
 
-TBD: James Galbreath / Margaret Anderson
+TBD: [James Galbreath](/people/galbreath-james-1726.md) / Margaret Anderson
 
 ## 1748-10-30 Margaret Galbreath
 
@@ -472,7 +472,7 @@ TBD: James Galbreath / Margaret Adam
 
 ## 1750-10-11 Margaret Galbreath
 
-TBD: James Galbreath / Margaret Anderson
+TBD: [James Galbreath](/people/galbreath-james-1726.md) / Margaret Anderson
 
 ## 1751-01-13 Katharine Galbreath
 
