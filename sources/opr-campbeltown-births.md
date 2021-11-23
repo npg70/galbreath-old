@@ -109,7 +109,7 @@ Gaps:
 
 ## 1713-11-26 Mary Galbreath
 
-TBD: Daughter of David Galbreath/Isobell Watson
+TBD: Daughter of [David Galbreath](/people/galbreath-david-1684.md) / Isobell Watson
 
 ## 1714-08-08 Katharine Galbreath
 
@@ -119,7 +119,7 @@ TBD: Daughter of David Galbreath/Isobell Watson
 
 ## 1715-08-13 Janet Galbreath
 
-TBD: Daughter of David Galbreath/Isobell Watson, 2 record
+TBD: Daughter of [David Galbreath](/people/galbreath-david-1684.md) / Isobell Watson, 2 record
 
 ## 1715-09-09 Archibald Galbreath
 
@@ -233,7 +233,7 @@ TBD: John Galbreath / Katharine McCallum, 2 record
 
 ## 1731-08-01 John Galbreath
 
-TBD: Patrick Gakbreath/Jean Templeton
+TBD: Patrick Gakbreath / Jean Templeton
 
 ## 1732-05-14 John Galbreath
 
@@ -245,7 +245,7 @@ TBD: of [William Galbreath](/people/galbreath-william-1701.md) / Margaret Kilpat
 
 ## 1734-02-03 Daniel Galbreath
 
-TBD: of John Galbreath/Isobell Clark
+TBD: of John Galbreath / Isobell Clark
 
 ## 1734-02-24 John Galbreath
 
@@ -261,7 +261,7 @@ TBD: of John Galbreath/Isobell Clark
 
 ## 1735-01-35 James Galbreath
 
-TBD: John Galbreath/Janet Galbreath
+TBD: John Galbreath / Janet Galbreath
 
 ## 1735-04-27 Janet Galbreath
 
@@ -281,7 +281,7 @@ TODO: page also has Margaret Dunplop 1735 , daighter of James Dunlop and Mary Ca
 
 ## 1737-02-16 Ann Galbreath
 
-TBD:  of John Galbreath/Isobell Clark
+TBD:  of John Galbreath / Isobell Clark
 
 ## 1738-01-22 Ann Galbreath
 
@@ -309,15 +309,15 @@ TBD: of [William Galbreath](/people/galbreath-william-1701.md) / Margaret Kilpat
 
 ## 1740-03-18 Mary Galbreath
 
-TBD: James Galbreath/Margaret Adam
+TBD: James Galbreath / Margaret Adam
 
 ## 1740-04-13 John Galbreath
 
-TBD: Patrick Galbreath/Jean Watson
+TBD: Patrick Galbreath / Jean Watson
 
 ## 1740-06-12 Jean Galbreath
 
-TBD:John Galbreath/Isobell Clark
+TBD:John Galbreath / Isobell Clark
 
 ## 1740-09-01 Margaret Galbreath
 
@@ -335,7 +335,7 @@ TBD:John Galbreath/Isobell Clark
 
 ## 1742-12-14 Mary Galbreath
 
-TBD: Patrick Galbreath/Jean Watson
+TBD: Patrick Galbreath / Jean Watson
 
 ## 1743-01-22 John Galbreath
 
@@ -347,7 +347,7 @@ TBD: David Galbreath / Mary Langwill
 
 ## 1743-09-15 Mary Galbreath
 
-TBD: john Galbreath / Isobell Clark
+TBD: John Galbreath / Isobell Clark
 
 ## 1743-10-27 Margaret Galbreath
 
