@@ -107,17 +107,27 @@ Gaps:
 
 > Patrick & James | Lawful children to [James Galbreath](/people/galbreath-james-1672.md) and Mary Flemming his lawful spouse Born 20th August Named Patrick and James
 
+## 1713-11-26 Mary Galbreath
+
+TBD: Daughter of David Galbreath/Isobell Watson
+
 ## 1714-08-08 Katharine Galbreath
 
 [507/11 119](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357095?image=119)
 
 > Katharine | [John Galbreath](/people/galbreath-john-1680.md) and Mary Mitchell his lawfull spouse had a Daughter born 8th August named Katherine
 
+## 1715-08-13 Janet Galbreath
+
+TBD: Daughter of David Galbreath/Isobell Watson, 2 record
+
 ## 1715-09-09 Archibald Galbreath
 
 [507/11 123 row 3](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356791?image=123)
 
 > Archd | [James Galbreath](/people/galbreath-james-1672.md) and Mary Fleeming his lawfull spouse has a son Born 9th September named Archibald
+
+TBD: another record under Calbreath
 
 ## 1716-05-11 James Galbreath
 
@@ -185,6 +195,10 @@ https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/5631706?image=102
 
 > David | [John Calbreath](/people/galbreath-john-1680.md) & Mary Mitchell had lawful child called David
 
+## 1725-05-23 Mary Galbreath
+
+TBD: of William Galbreath / Margarte Kilpatrick, two records under Galbreath/Calbreath
+
 ## 1725-08-08 Samuel Galbreath
 
 [507/10 117 row 12](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357782?image=117)
@@ -195,11 +209,43 @@ https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/5631706?image=102
 
 > Samuel | [John Galbreath](/people/galbreath-john-1680.md) and Mary Mitchell has a son baptized 8th August named Samuel
 
+## 1726-10-02 James Galbreath
+
+TBD: of William Galbreath / Margarte Kilpatrick, two records under Galbreath/Calbreath
+
+## 1727-01-29 Mary Galbreath
+
+TBD: Patrick Galbreath/Mary Maxwell, under Galbreath/Calbreath
+
+## 1727-12-23 Ann Galbreath
+
+TBD: of William Galbreath / Margarte Kilpatrick,
+
+## 1729-07-00 Archibald Galbreath
+
+TBD: John Galbreath / Katharine McCallum, 2 record
+
 ## [1729-10-19 Mary Galbreath](/people/galbreath-mary-1729.md)
 
 [507/11 182 row 6](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358472?image=182)
 
 > Mary | [Wm Galbreath](/people/galbreath-william-1701.md) & Margt Kilpatrick had a Daut. baptized 19th Oct, Named Mary
+
+## 1731-08-01 John Galbreath
+
+TBD: Patrick Gakbreath/Jean Templeton
+
+## 1732-05-14 John Galbreath
+
+TBD: of William Galbreath / Margarte Kilpatrick, two records under Galbreath/Calbreath
+
+## 1733-07-02 Jean Galbreath
+
+TBD: of William Galbreath / Margaret Kilpatrick
+
+## 1734-02-03 Daniel Galbreath
+
+TBD: of John Galbreath/Isobell Clark
 
 ## 1734-02-24 John Galbreath
 
@@ -213,6 +259,14 @@ https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/5631706?image=102
 
 > John | [Archd Galbreath](/people/galbreath-archibald-1708.md) & Martha Whyte had a son baptized 3rd March named John
 
+## 1735-01-35 James Galbreath
+
+TBD: John Galbreath/Janet Galbreath
+
+## 1735-04-27 Janet Galbreath
+
+TBD: of William Galbreath / Margaret Kilpatrick
+
 ## [1736-02-04 Samuel Galbreath](/people/galbreath-samuel-1736.md)
 
 [507/11 212 row 11](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357777?image=212)
@@ -224,6 +278,14 @@ https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/5631706?image=102
 > Samuel | [Archd Calbraith](/people/galbreath-archibald-1708.md) & Martha WHite had a son bapt. Samuel
 
 TODO: page also has Margaret Dunplop 1735 , daighter of James Dunlop and Mary Calbreth?
+
+## 1737-02-16 Ann Galbreath
+
+TBD:  of John Galbreath/Isobell Clark
+
+## 1738-01-22 Ann Galbreath
+
+TBD: of William Galbreath / Margaret Kilpatrick
 
 ## 1738-10-01 Mary Galbreath
 
@@ -241,6 +303,22 @@ TODO: page also has Margaret Dunplop 1735 , daighter of James Dunlop and Mary Ca
 
 > John | [Archibald Calbraith](/people/galbreath-archibald-1708.md) & Martha White had a son bapt John 20th Dec
 
+## 1739-04-00 Henry Galbreath
+
+TBD: of William Galbreath / Margaret Kilpatrick, 2 records
+
+## 1740-03-18 Mary Galbreath
+
+TBD: James Galbreath/Margaret Adam
+
+## 1740-04-13 John Galbreath
+
+TBD: Patrick Galbreath/Jean Watson
+
+## 1740-06-12 Jean Galbreath
+
+TBD:John Galbreath/Isobell Clark
+
 ## 1740-09-01 Margaret Galbreath
 
 [507/11 233 row 4](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358304?image=233)
@@ -255,12 +333,32 @@ TODO: page also has Margaret Dunplop 1735 , daighter of James Dunlop and Mary Ca
 > Katharine | [Archd Galbreath](/people/galbreath-archibald-1708.md) & Martha White had a 
 > Daughter. baptized 1st Sept named Katharine
 
+## 1742-12-14 Mary Galbreath
+
+TBD: Patrick Galbreath/Jean Watson
+
+## 1743-01-22 John Galbreath
+
+TBD: David Galbreath / Jean Langwill
+
+## 1743-05-00 Isobell Galbreath
+
+TBD: David Galbreath / Mary Langwill
+
+## 1743-09-15 Mary Galbreath
+
+TBD: john Galbreath / Isobell Clark
+
 ## 1743-10-27 Margaret Galbreath
 
 [507/11 244 row 6](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358297?image=244)
 
 > Margt | [Archd Galbreath](/people/galbreath-archibald-1708.md) & Martha White had a 
 > Daughter baptized 27th Oct named Margt
+
+## 1743-12-00 Archibald Galbreath
+
+TBD: James Galbreath / Margaret Adam
 
 ## 1745-06-25 James Galbreath
 
@@ -280,6 +378,34 @@ There is another record [507/10 181](https://www.scotlandspeople.gov.uk/view-ima
 
 There is another record of "William Calbreath" on [507/10 181](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/5609111?image=181)
 
+## 1745-09-22 Orsla Galbreath
+
+TBD: Patrick Galbreath / Jean Watson
+
+## 1746-01-15 James Galbreath
+
+TBD: James Galbreath / Margaret Adam
+
+## 1746-09-07 Mary Galbreath
+
+TBD: David Galbreath / Mary Langwill
+
+## 1746-12-04 Mary Galbreath
+
+TBD: David Galbreath / Martha Baird
+
+## 1747-04-23 William Galbreath
+
+TBD: David Galbreath / Jean Langwill
+
+## 1747-05-14 Patrick Galbreath
+
+TBD: William Galbreath / Margaret Watson
+
+## 1747-06-07 Janet Galbreath
+
+TBD: John Galbreath / Isobell Clark
+
 ## 1747-10-29 Mary Galbreath
 
 [507/11 262 row 6](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358428?image=262&viewed_images=true)
@@ -296,12 +422,36 @@ There is another record of "William Calbreath" on [507/10 181](https://www.scotl
 
 Also on  [507/10 181](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/5609111?image=181)
 
+## 1748-05-22 James Galbreath
+
+TBD: John Galbreath / Isobell Clark
+
+## 1748-07-13 Unknown Galbreath
+
+TBD: James Galbreath / Margaret Adam
+
+## 1748-07-22 James Galbreath
+
+TBD: John Galbreath / Agnes Langwill
+
+## 1748-10-30 James Galbreath
+
+TBD: James Galbreath / Margaret Anderson
+
+## 1748-10-30 Margaret Galbreath
+
+TBD: William Galbreath / Margaret Watson
+
 ## 1749-04-05 Peter Galbreath
 
 [507/11 267 row 9](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357739?image=267)
 
 > Peter | [David Galbreath](/people/galbreath-david-1718.md) and Mary Langwill had
 > had a son baptized 5th April named Peter
+
+## 1749-09-17 Isobell Galbreath
+
+TBD: John Galbreath / Isobell Clark
 
 ## 1750-04-15 Ann Galbreath
 
@@ -311,6 +461,30 @@ Also on  [507/10 181](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_reco
 > Daughter baptized 15th April named Ann
 
 On same page is a note how John McAlpine became a minister of the Lowland Congregation
+
+## 1750-05-25 William Galbreath
+
+TBD: Patrick Galbreath / Jean Waton
+
+## 1750-06-03 James Galbreath
+
+TBD: James Galbreath / Margaret Adam
+
+## 1750-10-11 Margaret Galbreath
+
+TBD: James Galbreath / Margaret Anderson
+
+## 1751-01-13 Katharine Galbreath
+
+TBD: John Galbreath / Ann Clark
+
+## 1751-01-24 Janet Galbreath
+
+TBD: David Galbreath / Martha Baird
+
+## 1751-01-30 Mary Galbreath
+
+TBD: David Galbreath / Jean Langwill
 
 ## [1760-05-02 John Galbreath](/people/galbreath-john-1760.md)
 
