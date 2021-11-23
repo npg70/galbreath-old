@@ -2,7 +2,7 @@
 title: Archibald Galbreath b 1803 m. Eugina McCallum m. Margaret Loynachan
 familysearch: https://www.familysearch.org/tree/person/details/KC9G-P5D
 ---
-***Archibald Galbreath***, son of [James Galbreath](galbreath-james-abt-1775.md) and *Martha Galbreath*, born 8 Sep 1803, Skerbolin Farm, Campbeltown, Argyll, Scotland and then baptized  11 Sep 1803, Campbeltown, Argyll, Scotland [^birth].  He died 17 Feb 1885.[^death]
+***Archibald Galbreath***, son of *[James Galbreath](galbreath-james-abt-1775.md)* and *Martha Galbreath*, born 8 Sep 1803, Skerbolin Farm, Campbeltown, Argyll, Scotland and then baptized  11 Sep 1803, Campbeltown, Argyll, Scotland [^birth].  He died 17 Feb 1885.[^death]
 
 He married first at Campbeltown 5 Mar 1835[^marriage1] to **Eugina McCallum**.  Since he remarried 2 years later, it likely she died in 1838 or 1839, perhaps to complications of giving birth of her last child, _Eugina_.  It appears the Eugina was taken in by a McCallum family in Gigha, although the exact relationship is unclear.[^census1841-eugina].
 
