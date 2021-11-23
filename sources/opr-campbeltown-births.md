@@ -245,7 +245,7 @@ TBD: of [William Galbreath](/people/galbreath-william-1701.md) / Margaret Kilpat
 
 ## 1734-02-03 Daniel Galbreath
 
-TBD: of John Galbreath / Isobell Clark
+TBD: of [John Galbreath](/people/galbreath-john-abt-1710.md) / Isobell Clark
 
 ## 1734-02-24 John Galbreath
 
@@ -281,7 +281,7 @@ TODO: page also has Margaret Dunplop 1735 , daighter of James Dunlop and Mary Ca
 
 ## 1737-02-16 Ann Galbreath
 
-TBD:  of John Galbreath / Isobell Clark
+TBD:  of [John Galbreath](/people/galbreath-john-abt-1710.md) / Isobell Clark
 
 ## 1738-01-22 Ann Galbreath
 
@@ -317,7 +317,7 @@ TBD: Patrick Galbreath / Jean Watson
 
 ## 1740-06-12 Jean Galbreath
 
-TBD:John Galbreath / Isobell Clark
+TBD: [John Galbreath](/people/galbreath-john-abt-1710.md) / Isobell Clark
 
 ## 1740-09-01 Margaret Galbreath
 
@@ -347,7 +347,7 @@ TBD: David Galbreath / Mary Langwill
 
 ## 1743-09-15 Mary Galbreath
 
-TBD: John Galbreath / Isobell Clark
+TBD: [John Galbreath](/people/galbreath-john-abt-1710.md) / Isobell Clark
 
 ## 1743-10-27 Margaret Galbreath
 
@@ -404,7 +404,7 @@ TBD: William Galbreath / Margaret Watson
 
 ## 1747-06-07 Janet Galbreath
 
-TBD: John Galbreath / Isobell Clark
+TBD: [John Galbreath](/people/galbreath-john-abt-1710.md) / Isobell Clark
 
 ## 1747-10-29 Mary Galbreath
 
@@ -424,7 +424,7 @@ Also on  [507/10 181](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_reco
 
 ## 1748-05-22 James Galbreath
 
-TBD: John Galbreath / Isobell Clark
+TBD: [John Galbreath](/people/galbreath-john-abt-1710.md) / Isobell Clark
 
 ## 1748-07-13 Unknown Galbreath
 
@@ -451,7 +451,7 @@ TBD: William Galbreath / Margaret Watson
 
 ## 1749-09-17 Isobell Galbreath
 
-TBD: John Galbreath / Isobell Clark
+TBD: [John Galbreath](/people/galbreath-john-abt-1710.md) / Isobell Clark
 
 ## 1750-04-15 Ann Galbreath
 
