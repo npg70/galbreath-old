@@ -486,6 +486,122 @@ TBD: [David Galbreath](/people/galbreath-david-abt-1720.md) / Martha Baird
 
 TBD: [David Galbreath](/people/galbreath-david-1719.md) / Jean Langwill
 
+## 1751-04-28 Mary Galbreath
+
+TBD: John Galbreath / Agnes Langwill
+
+## 1752-01-30 John Galbreath
+
+TBD: John Galbreath / Isobell Clark
+
+## 1752-04-15 Margaret Galbreath
+
+TBD: James Galbreath / Margaret Adam
+
+## 1752-07-26 James Galbreath
+
+TBD: James Galbreath / Margaret Anderson, two records Galbreath/Galbraith
+
+## 1752-07-30 Margaret Galbreath
+
+tbd: William Galbreath / Margaret Watson, two records Galbreath/Galbraith
+
+## 1752-11-26 Janet Galbreath
+
+Tbd: archibald galbreath / martha white
+
+## 1752-12-17 Archibald Galbreath
+
+tbd: Patrick Galbreath/ Jean Watson, two records Galbreath/Galbraith
+
+## 1753-02-03 John Galbreath
+
+Tbd: David Galbreath / Jean Langwill
+
+## 1753-04-00 Daniel Galbreath
+
+tbd: John Galbreath / Isobell Clark
+
+## 1753-04-14 James Galbreath
+
+tbd: David Galbreath / Martha Baird
+
+## 1753-06-25 Alexander Galbreath
+
+tbd: John Galbreath / Agnes Langwill, two records Galbreath/Galbraith
+
+## 1754-00-00 Isobel Galbreath
+
+tbd: William Galbreath/ Margaret Watson, two records, Galbreath/Galbraith
+
+## 1754-05-29 Elizabeth Galbreath
+
+tbd: John Galbreath / Isobell Clark
+
+## 1754-12-11 John Galbreath
+
+tbd: James Galbreath / Margaret Anderson, two records Galbreath / Galbraith
+
+## 1754-12-31 John Galbreath
+
+tbd: Robert Galbreath / Helen Love, two records
+
+## 1755-02-12 David Galbraith
+
+tbd: James Galbraith / Margaret Adam, two records
+
+## 1755-04-08 Duncan Galbraith
+
+tbd: Donald Galbraith / mother unknown
+
+## 1755-04-27 Agnes Galbraith
+
+tbd: David Galbraith / Martha Baird, two records
+
+## 1755-08-01 Mary Galbraith
+
+tbd: John Galbraith / Isobell Clark, two records
+
+## 1755-09-21 Jean Galbreath
+
+tbd: Peter Galbraith / Jean Watson, two records
+
+## 1756-02-22 Martha Galbreath
+
+tbd: Archibald Galbreath / Martha WHite, two records
+
+## 1756-03-13 Ann Galbreath
+
+tbd: James Galbreath / Margeret Anderson, two records
+
+## 1756-06-06 John Galbreath
+
+tbd: John Galbreath / Agnes Langwill, two records
+
+## 1756-08-01 Martha Galbreath
+
+tbd: William Galbreath, Margaret Watson, two records,
+
+## 1756-12-14 Ann Galbreath
+
+tbd: Joseph Galbreath / Mary Campbell, two records
+
+## 1756-12-25 Janet Galbreath
+
+tbd: Patrick Galbreath / Martha Shiddan, two records
+
+## 1757-02-04 Janet Galbreath
+
+tbd: James Galbreath / Margaret Adam, two records
+
+## 1757-02-07 Janet Galbreath
+
+tbd: Robert Galbreath / Helen Love, two records
+
+## 1757-04-02 Mary Galbraith
+
+tbd: Lachlain Galbraith / Anna Stewart
+
 ## 1757-08-14 Lillias Galbreath
 
 tbd: David Galbreath / Martha Baird, two records
