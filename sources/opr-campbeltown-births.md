@@ -486,6 +486,22 @@ TBD: [David Galbreath](/people/galbreath-david-abt-1720.md) / Martha Baird
 
 TBD: [David Galbreath](/people/galbreath-david-1719.md) / Jean Langwill
 
+## 1757-08-14 Lillias Galbreath
+
+tbd: David Galbreath / Martha Baird, two records
+
+## 1757-11-03 More Galbraith
+
+tbd: Donald Galbraith / Mary Galbraith
+
+## 1758-09-15 Mary Galbraith
+
+tbd: Lachlain Galbraith / Agnes Stewart
+
+## 1759-01-21 Mary Galbreath
+
+tbd: James Galbreath / Mary Anderson
+
 ## [1760-05-02 John Galbreath](/people/galbreath-john-1760.md)
 
 [507/11 319 row 15](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357663?image=319)
@@ -493,11 +509,45 @@ TBD: [David Galbreath](/people/galbreath-david-1719.md) / Jean Langwill
 > John | [John Galbreath](/galbreath-john-abt-1710.md) and Isobell Clark had a son 
 > bapt 2nd May named John
 
+tbd: another record
+
+## 1760-10-12 Archibald Galbreath
+
+tbd: William Galbreath / Margaret Dunlop
+
+## 1761-05-03 James Galbreath
+
+tbd: James Galbreath / Margaret Anderson
+
+## 1761-05-31 Margaret Galbreath
+
+tbd: James Galbreath / Margaret Adam
+
+## 1761-12-12 Mary Galbreath
+
+TBD: William Galbreath / Margaret Watson, two records Galbreath/Galbraith
+
+## 1762-10-17 Margaret Galbreath
+
+tbd: James Galbreath / Margaret Adam
+
 ## [1762-12-08 Margaret Galbreath](/people/galbreath-margaret-1762.md)
 
 [507/11 333 row 3](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358332?image=333)
 
 > Margt | [William Galbreath](/people/galbreath-william-1736.md) and Margaret Dunlop had a Daughter born 5th and baptised 8th Dec named Margt
+
+## 1763-11-11 Katharine Galbreath
+
+tbd: James Galbreath / Margaret Anderson, two records Galbreath/Galbraith
+
+## 1764-08-23 Mary Galbreath
+
+TBD: William Galbreath / Margaret Dunlop, two records Galbreath/Galbraith
+
+## 1765-06-07 Duncan Galbraith
+
+tbd: Neill Galbraith / Ann Campbell
 
 ## [1765-08-29 Rachel Galbreath](/people/galbreath-rachel-1765.md)
 
@@ -505,11 +555,31 @@ TBD: [David Galbreath](/people/galbreath-david-1719.md) / Jean Langwill
 
 > Rachel | [William Galbraith](/people/galbreath-william-1736.md) & Margaret Dunlop had a daughter born 27th & baptised 29th Aug named Rachel
 
+## 1765-11-28 Mary Galbreath
+
+TBD: James Galbreath / Margaret Adam, two records Galbreath/Galbraith
+
+## 1765-12-29 William Galbreath
+
+TBD: James Galbreath / Margaret Anderson, two records Galbreath / Galbraith
+
+## 1766-01-29 Peter Galbratih
+
+TBD: John Galbreath / Jean Clark, two records Galbreath / Galbraith
+
 ## 1766-11-16 William Galbreath
 
 [507/10 309 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/1344?image=309)
 
 > William | [William Galbraith](/people/galbreath-william-1736.md) and Marg Dunlop had a son born the 13th baptized the 16th Nov called Andrew
+
+## 1767-01-22 John Galbraith
+
+TBD: Neill Galbraith / Ann Campbell
+
+## 1767-05-31 Jean Galbreath
+
+TBD: John Galbreath / Katharine Clark, two records Galbreath / Galbraith
 
 ## 1768-02-10 James Galbreath
 
