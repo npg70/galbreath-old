@@ -313,7 +313,7 @@ TBD: [James Galbreath](/people/galbreath-james-1713.md) / Margaret Adam
 
 ## 1740-04-13 John Galbreath
 
-TBD: Patrick Galbreath / Jean Watson
+TBD: [Patrick Galbreath](/people/galbreath-patrick-1712.md) / Jean Watson
 
 ## 1740-06-12 Jean Galbreath
 
@@ -335,7 +335,7 @@ TBD: [John Galbreath](/people/galbreath-john-abt-1710.md) / Isobell Clark
 
 ## 1742-12-14 Mary Galbreath
 
-TBD: Patrick Galbreath / Jean Watson
+TBD: [Patrick Galbreath](/people/galbreath-patrick-1712.md) / Jean Watson
 
 ## 1743-01-22 John Galbreath
 
@@ -380,7 +380,7 @@ There is another record of "William Calbreath" on [507/10 181](https://www.scotl
 
 ## 1745-09-22 Orsla Galbreath
 
-TBD: Patrick Galbreath / Jean Watson
+TBD: [Patrick Galbreath](/people/galbreath-patrick-1712.md) / Jean Watson
 
 ## 1746-01-15 James Galbreath
 
@@ -417,7 +417,7 @@ TBD: [John Galbreath](/people/galbreath-john-abt-1710.md) / Isobell Clark
 
 [507/11 262 row 6](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358428?image=262&viewed_images=true)
 
-> James | Patrick Galbreath and Jean Watson had a 
+> James | [Patrick Galbreath](/people/galbreath-patrick-1712.md) and Jean Watson had a 
 > son baptized 20th Dec named Mary
 
 Also on  [507/10 181](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/5609111?image=181)
@@ -464,7 +464,7 @@ On same page is a note how John McAlpine became a minister of the Lowland Congre
 
 ## 1750-05-25 William Galbreath
 
-TBD: Patrick Galbreath / Jean Waton
+TBD: [Patrick Galbreath](/people/galbreath-patrick-1712.md) / Jean Waton
 
 ## 1750-06-03 James Galbreath
 
@@ -512,7 +512,7 @@ Tbd: archibald galbreath / martha white
 
 ## 1752-12-17 Archibald Galbreath
 
-tbd: Patrick Galbreath/ Jean Watson, two records Galbreath/Galbraith
+tbd: [Patrick Galbreath](/people/galbreath-patrick-1712.md) / Jean Watson, two records Galbreath/Galbraith
 
 ## 1753-02-03 John Galbreath
 
