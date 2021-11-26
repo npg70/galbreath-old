@@ -223,7 +223,7 @@ TBD: of [William Galbreath](/people/galbreath-william-1701.md) / Margarte Kilpat
 
 ## 1729-07-00 Archibald Galbreath
 
-TBD: John Galbreath / Katharine McCallum, 2 record
+TBD: [John Galbreath](/people/galbreath-john-1680.md) / Katharine McCallum, 2 record
 
 ## [1729-10-19 Mary Galbreath](/people/galbreath-mary-1729.md)
 
