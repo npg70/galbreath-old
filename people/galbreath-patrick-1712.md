@@ -18,12 +18,13 @@ Children of Patrick and Mary (Watson) Galbreath, all baptized at Campbeltown:
 
 [^birth-john]: OPR Campbeltown, baptism of [John Galbreath](/sources/opr-campbeltown-births.md#1740-04-13-john-galbreath)
 
-[^birth-mary]: XXX
+[^birth-mary]: OPR Campbeltown, baptism of [Mary Galbreath](/sources/opr-campbeltown-births.md#1742-12-14-mary-galbreath)
 
-[^birth-orsla]: XXX
+[^birth-orsla]: OPR Campbeltown, baptism of [Orsla Galbreath](/sources/opr-campbeltown-births.md#1745-09-22-orsla-galbreath)
 
-[^birth-james]: XXX
+[^birth-james]: OPR Campbeltown, baptism of [James Galbreath](/sources/opr-campbeltown-births.md#1747-12-20-james-galbreath)
 
-[^birth-william]: XXX
+[^birth-william]: OPR Campbeltown, baptism of [William Galbreath](/sources/opr-campbeltown-births.md#1750-05-25-william-galbreath)
 
-[^birth-archibald]: XXX
+[^birth-archibald]: OPR Campbeltown, baptism of [Archibald Galbreath](/sources/opr-campbeltown-births.md#1752-12-17-archibald-galbreath)
+
