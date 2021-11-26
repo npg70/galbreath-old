@@ -8,11 +8,11 @@ of John Watson b. 1688 and Isabel Barr b. 1690.
 Children of Patrick and Mary (Watson) Galbreath, all baptized at Campbeltown:
 
 1. *John Galbreath*, bp. 13 Apr 1740[^birth-john]
-2. *Mary Galbreath*, bp. [^birth-mary]
-3. *Orsla Galbreath*, bp. [^birth-orsla]
-4. *James Galbreath*, bp. [^birth-james]
-5. *William Galbreath*, bp. [^birth-william]
-6. *Archibald Galbreath*, bp. [^birth-archibald]
+2. *Mary Galbreath*, bp. 14 Dec 1742[^birth-mary]
+3. *Orsla Galbreath*, bp. 22 Sep 1745[^birth-orsla]
+4. *James Galbreath*, bp. 20 Dec 1747[^birth-james]
+5. *William Galbreath*, bp. 25 May 1750[^birth-william]
+6. *Archibald Galbreath*, bp. 03 Feb 1753[^birth-archibald]
 
 [^marriage]: OPR Campbeltown, marriage TBD
 
