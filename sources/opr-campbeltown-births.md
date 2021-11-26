@@ -804,7 +804,7 @@ TBD: William Galbreath / Mary Campbell
 
 ## 1778-01-20 William Gilbreath
 
-TBD: Peter Gilbreath / Agnes McMurchy
+TBD: [Peter Gilbreath](/people/galbreath-peter-1749.md) / Agnes McMurchy
 
 ## [1778-10-15 Robert Galbreath](/people/galbreath-robert-1778.md)
 
@@ -822,7 +822,7 @@ TBD: [Henry Galbreath](/people/galbreath-henry-1739.md) / Agnes Armour
 
 ## 1780-12-06 John Galbreath
 
-TBD: Peter Galbreath / Agnes McMurchy
+TBD: [Peter Galbreath](/people/galbreath-peter-1749.md) / Agnes McMurchy
 
 ## 1781-01-25 John Galbreath
 
@@ -841,7 +841,7 @@ TBD: Donald Galbreath / Mary Kelly
 
 ## 1781-09-16 Robert Galbreath
 
-TBD: Peter Galbreath / Agnes McMurchy
+TBD: [Peter Galbreath](/people/galbreath-peter-1749.md) / Agnes McMurchy
 
 ## 1782-10-09 Mary Galbreath
 
