@@ -11,7 +11,7 @@ Children of Henry and Agnes (Armour) Galbreath:[^children]
 
 1. *James Galbreath*, b. 1768
 2. *[Margaret Galbreath](galbreath-margaret-1771.md)*, b. 1 Nov 1771, m. *Nathaniel McNair Sr*.  Immigrant to Canada.
-3. *Flora Galbreath*, b. 1776
+3. *Florence Galbreath*, bp. 14 Sep 1777
 4. *[William Galbreath](galbreath-william-1780.md)*, bp. 16 Jan 1780, m. *Jean Campbell*
 5. *Mary Galbreath*, b. 1782
 6. *John Galbreath*, b. 1786
