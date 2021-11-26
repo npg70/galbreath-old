@@ -629,7 +629,7 @@ tbd: another record
 
 ## 1760-10-12 Archibald Galbreath
 
-tbd: William Galbreath / Margaret Dunlop
+tbd: [William Galbreath](/people/galbreath-william-1736.md) / Margaret Dunlop
 
 ## 1761-05-03 James Galbreath
 
@@ -659,7 +659,7 @@ tbd: [James Galbreath](/people/galbreath-james-1726.md) / Margaret Anderson, two
 
 ## 1764-08-23 Mary Galbreath
 
-TBD: William Galbreath / Margaret Dunlop, two records Galbreath/Galbraith
+TBD: [William Galbreath](/people/galbreath-william-1736.md) / Margaret Dunlop, two records Galbreath/Galbraith
 
 ## 1765-06-07 Duncan Galbraith
 
