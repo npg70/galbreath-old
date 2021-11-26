@@ -215,7 +215,7 @@ TBD: of [William Galbreath](/people/galbreath-william-1701.md) / Margarte Kilpat
 
 ## 1727-01-29 Mary Galbreath
 
-TBD: Patrick Galbreath/Mary Maxwell, under Galbreath/Calbreath
+TBD: Patrick Galbreath / Mary Maxwell, under Galbreath/Calbreath
 
 ## 1727-12-23 Ann Galbreath
 
@@ -496,11 +496,11 @@ TBD: John Galbreath / Isobell Clark
 
 ## 1752-04-15 Margaret Galbreath
 
-TBD: James Galbreath / Margaret Adam
+TBD: [James Galbreath](/people/galbreath-james-1713.md) / Margaret Adam
 
 ## 1752-07-26 James Galbreath
 
-TBD: James Galbreath / Margaret Anderson, two records Galbreath/Galbraith
+TBD: [James Galbreath](/people/galbreath-james-1726.md) / Margaret Anderson, two records Galbreath/Galbraith
 
 ## 1752-07-30 Margaret Galbreath
 
@@ -508,7 +508,7 @@ tbd: William Galbreath / Margaret Watson, two records Galbreath/Galbraith
 
 ## 1752-11-26 Janet Galbreath
 
-Tbd: archibald galbreath / martha white
+Tbd: [Archibald Galbreath](/people/galbreath-archibald-1708.md) / Martha White
 
 ## 1752-12-17 Archibald Galbreath
 
@@ -524,7 +524,7 @@ tbd: John Galbreath / Isobell Clark
 
 ## 1753-04-14 James Galbreath
 
-tbd: David Galbreath / Martha Baird
+tbd: [David Galbreath](/people/galbreath-david-abt-1720.md) / Martha Baird
 
 ## 1753-06-25 Alexander Galbreath
 
@@ -532,7 +532,7 @@ tbd: John Galbreath / Agnes Langwill, two records Galbreath/Galbraith
 
 ## 1754-00-00 Isobel Galbreath
 
-tbd: William Galbreath/ Margaret Watson, two records, Galbreath/Galbraith
+tbd: William Galbreath / Margaret Watson, two records, Galbreath/Galbraith
 
 ## 1754-05-29 Elizabeth Galbreath
 
@@ -540,7 +540,7 @@ tbd: John Galbreath / Isobell Clark
 
 ## 1754-12-11 John Galbreath
 
-tbd: James Galbreath / Margaret Anderson, two records Galbreath / Galbraith
+tbd: [James Galbreath](/people/galbreath-james-1726.md) / Margaret Anderson, two records Galbreath / Galbraith
 
 ## 1754-12-31 John Galbreath
 
@@ -548,7 +548,7 @@ tbd: Robert Galbreath / Helen Love, two records
 
 ## 1755-02-12 David Galbraith
 
-tbd: James Galbraith / Margaret Adam, two records
+tbd: [James Galbraith](/people/galbreath-james-1713.md) / Margaret Adam, two records
 
 ## 1755-04-08 Duncan Galbraith
 
@@ -556,7 +556,7 @@ tbd: Donald Galbraith / mother unknown
 
 ## 1755-04-27 Agnes Galbraith
 
-tbd: David Galbraith / Martha Baird, two records
+tbd: [David Galbraith](/people/galbreath-david-abt-1720.md) / Martha Baird, two records
 
 ## 1755-08-01 Mary Galbraith
 
@@ -568,11 +568,11 @@ tbd: Peter Galbraith / Jean Watson, two records
 
 ## 1756-02-22 Martha Galbreath
 
-tbd: Archibald Galbreath / Martha WHite, two records
+tbd: Archibald Galbreath / Martha White, two records
 
 ## 1756-03-13 Ann Galbreath
 
-tbd: James Galbreath / Margeret Anderson, two records
+tbd: [James Galbreath](/people/galbreath-james-1726.md) / Margeret Anderson, two records
 
 ## 1756-06-06 John Galbreath
 
@@ -580,7 +580,7 @@ tbd: John Galbreath / Agnes Langwill, two records
 
 ## 1756-08-01 Martha Galbreath
 
-tbd: William Galbreath, Margaret Watson, two records,
+tbd: William Galbreath / Margaret Watson, two records,
 
 ## 1756-12-14 Ann Galbreath
 
@@ -592,7 +592,7 @@ tbd: Patrick Galbreath / Martha Shiddan, two records
 
 ## 1757-02-04 Janet Galbreath
 
-tbd: James Galbreath / Margaret Adam, two records
+tbd: [James Galbreath](/people/galbreath-james-1713.md) / Margaret Adam, two records
 
 ## 1757-02-07 Janet Galbreath
 
@@ -604,7 +604,7 @@ tbd: Lachlain Galbraith / Anna Stewart
 
 ## 1757-08-14 Lillias Galbreath
 
-tbd: David Galbreath / Martha Baird, two records
+tbd: [David Galbreath](/people/galbreath-david-abt-1720.md) / Martha Baird, two records
 
 ## 1757-11-03 More Galbraith
 
@@ -633,11 +633,11 @@ tbd: William Galbreath / Margaret Dunlop
 
 ## 1761-05-03 James Galbreath
 
-tbd: James Galbreath / Margaret Anderson
+tbd: [James Galbreath](/people/galbreath-james-1726.md) / Margaret Anderson
 
 ## 1761-05-31 Margaret Galbreath
 
-tbd: James Galbreath / Margaret Adam
+tbd: [James Galbreath](/people/galbreath-james-1713.md) / Margaret Adam
 
 ## 1761-12-12 Mary Galbreath
 
@@ -645,7 +645,7 @@ TBD: William Galbreath / Margaret Watson, two records Galbreath/Galbraith
 
 ## 1762-10-17 Margaret Galbreath
 
-tbd: James Galbreath / Margaret Adam
+tbd: [James Galbreath](/people/galbreath-james-1713.md) / Margaret Adam
 
 ## [1762-12-08 Margaret Galbreath](/people/galbreath-margaret-1762.md)
 
@@ -655,7 +655,7 @@ tbd: James Galbreath / Margaret Adam
 
 ## 1763-11-11 Katharine Galbreath
 
-tbd: James Galbreath / Margaret Anderson, two records Galbreath/Galbraith
+tbd: [James Galbreath](/people/galbreath-james-1726.md) / Margaret Anderson, two records Galbreath/Galbraith
 
 ## 1764-08-23 Mary Galbreath
 
@@ -673,11 +673,11 @@ tbd: Neill Galbraith / Ann Campbell
 
 ## 1765-11-28 Mary Galbreath
 
-TBD: James Galbreath / Margaret Adam, two records Galbreath/Galbraith
+TBD: [James Galbreath](/people/galbreath-james-1713.md) / Margaret Adam, two records Galbreath/Galbraith
 
 ## 1765-12-29 William Galbreath
 
-TBD: James Galbreath / Margaret Anderson, two records Galbreath / Galbraith
+TBD: [James Galbreath](/people/galbreath-james-1726.md) / Margaret Anderson, two records Galbreath / Galbraith
 
 ## 1766-01-29 Peter Galbratih
 
