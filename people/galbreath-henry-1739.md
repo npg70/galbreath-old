@@ -12,12 +12,16 @@ Children of Henry and Agnes (Armour) Galbreath, all baptized at Campbeltown:[^ch
 1. *James Galbreath*, bp. 23 Dec 1768
 2. *[Margaret Galbreath](galbreath-margaret-1771.md)*, bp. 1 Nov 1771, m. *Nathaniel McNair Sr*.  Immigrant to Canada.
 3. *Florence Galbreath*, bp. 14 Sep 1777
-4. *[William Galbreath](galbreath-william-1780.md)*, bp. 16 Jan 1780, m. *Jean Campbell*
-5. *Mary Galbreath*, bp. 09 Oct 1782
+4. *[William Galbreath](galbreath-william-1780.md)*, bp. 16 Jan 1780,[^birth-william] m. *Jean Campbell*
+5. *Mary Galbreath*, bp. 09 Oct 1782[^birth-mary]
 6. *John Galbreath*, bp. 14 Mar 1786[^birth-john]
 7. *Alexander Galbreath*, bp. 06 Oct 1788[^birth-alexander]
 
 [^children]: OPR Children of Henry and Agnes on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=syn&forename_so=syn&from_year=1760&to_year=1790&parent_names=galbreath&parent_names_so=fuzzy&parent_name_two=armour&parent_name_two_so=fuzzy&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&rd_real_name%5B0%5D=CAMPBELTOWN%20%28LANDWARD%29%20OR%20CAMPBELTOWN%20%28BURGH%29%20OR%20CAMPBELTOWN&rd_display_name%5B0%5D=CAMPBELTOWN%20%28LANDWARD%29%7CCAMPBELTOWN%20%28BURGH%29%7CCAMPBELTOWN_CAMPBELTOWN&rd_label%5B0%5D=CAMPBELTOWN&rd_name%5B0%5D=CAMPBELTOWN%20%2ALANDWARD%2A%20OR%20CAMPBELTOWN%20%2ABURGH%2A%20OR%20CAMPBELTOWN&sort=asc&order=Date&field=year)
+
+[^birth-william]: OPR Campbeltown, baptism of [William Galbreath](/sources/opr-campbeltown-births.md#1780-01-16-william-galbreath)
+
+[^birth-mary]: OPR Campbeltown, baptism of [Mary Galbreath](/sources/opr-campbeltown-births.md#1782-10-09-mary-galbreath)
 
 [^birth-john]: OPR Campbeltown record of baptism, [John Galbreath](/sources/opr-campbeltown-births.md#1786-03-14-john-galbreath)
 
