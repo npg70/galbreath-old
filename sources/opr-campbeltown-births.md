@@ -991,7 +991,7 @@ TBD: [Henry Galbreath](/people/galbreath-henry-1739.md) / Agnes Armour
 
 [507/40 262](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358471?image=262)
 
-John | Lawful Son to William Galbraith workman in Kildonell and Jean Campbell born 11th baptized 13 May 1804 named John 
+John | Lawful Son to [William Galbraith](/people/galbreath-william-1780.md) workman in Kildonell and Jean Campbell born 11th baptized 13 May 1804 named John 
 
 ## 1804-05-22 Mary Galbreath
 
