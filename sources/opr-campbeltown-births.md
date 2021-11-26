@@ -710,7 +710,7 @@ TBD: John Galbreatth / Jean Clark, two records Galbreath/Galbraith
 
 ## 1768-12-23 James Galbreath
 
-TBD: Henry Galbreath / Agnes Armour.
+TBD: [Henry Galbreath](/people/galbreath-henry-1739.md) / Agnes Armour.
 
 NOTE: two records  1768-12-23 Galbreath + 1768-12-28 Galbraith
 
@@ -746,7 +746,7 @@ TBD: Malcome Galbreath / Margaret Stewart
 
 ## 1771-11-02 Margaret Galbreath
 
-TBD: Henry Galbreath / Agnes Armour, two records
+TBD: [Henry Galbreath](/people/galbreath-henry-1739.md) / Agnes Armour, two records
 
 ## 1772-03-27 Peter Galbreath
 
@@ -804,7 +804,7 @@ TBD: William Galbreath / Mary Campbell
 
 ## 1778-01-20 William Gilbreath
 
-TBD: Peter Gilbreath/Agnes McMurchy
+TBD: Peter Gilbreath / Agnes McMurchy
 
 ## [1778-10-15 Robert Galbreath](/people/galbreath-robert-1778.md)
 
@@ -814,11 +814,11 @@ TBD: Peter Gilbreath/Agnes McMurchy
 
 ## 1779-12-27 John Galbraith
 
-TBD: Archibald Galbraith/Orsla Galbraith
+TBD: Archibald Galbraith / Orsla Galbraith
 
 ## 1780-01-16 William Galbreath
 
-TBD: Henry Galbreath/Agnes Armour
+TBD: [Henry Galbreath](/people/galbreath-henry-1739.md) / Agnes Armour
 
 ## 1780-12-06 John Galbreath
 
@@ -843,6 +843,12 @@ TBD: Donald Galbreath / Mary Kelly
 
 TBD: Peter Galbreath / Agnes McMurchy
 
+## 1782-10-09 Mary Galbreath
+
+Maybe 1782-12-28 -- two records
+
+TBD: [Henry Galbreath](/people/galbreath-henry-1739.md) / Agnes Armour
+
 ## 1783-06-10 Archibald Galbreath
 
 [507/20 67 row 9](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357268?image=67)
@@ -862,12 +868,20 @@ TBD: Peter Galbreath / Agnes McMurchy
 
 > Janet | Lawful Dau. to [John Galbreath](/people/galbreath-john-1760.md) & Marion Mclean, Knockanly born 9th [Jan 1786]
 
+## 1786-03-14 John Galbreath
+
+TBD: [Henry Galbreath](/people/galbreath-henry-1739.md) / Agnes Armour
+
 ## [1788-05-18 Catharine Galbreath](/people/galbreath-catherine-1788.md)
 
 [507/10 104 row 15](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357976?image=104)
 
 > Catharine | Lawful daut. to [Samuel Galbreath](/people/galbreath-samuel-1736.md) in Peninver & Janet MacNair
 > was born 16th & Bapt. 18th May [1788]
+
+## 1788-10-06 Alexander Galbreath
+
+TBD: [Henry Galbreath](/people/galbreath-henry-1739.md) / Agnes Armour
 
 ## 1788-12-18 Neill Galbreath
 
