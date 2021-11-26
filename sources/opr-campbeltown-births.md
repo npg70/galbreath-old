@@ -492,7 +492,7 @@ TBD: John Galbreath / Agnes Langwill
 
 ## 1752-01-30 John Galbreath
 
-TBD: John Galbreath / Isobell Clark
+TBD: [John Galbreath](/people/galbreath-john-abt-1710.md) / Isobell Clark
 
 ## 1752-04-15 Margaret Galbreath
 
@@ -520,7 +520,7 @@ Tbd: David Galbreath / Jean Langwill
 
 ## 1753-04-00 Daniel Galbreath
 
-tbd: John Galbreath / Isobell Clark
+tbd: [John Galbreath](/people/galbreath-john-abt-1710.md) / Isobell Clark
 
 ## 1753-04-14 James Galbreath
 
@@ -536,7 +536,7 @@ tbd: William Galbreath / Margaret Watson, two records, Galbreath/Galbraith
 
 ## 1754-05-29 Elizabeth Galbreath
 
-tbd: John Galbreath / Isobell Clark
+tbd: [John Galbreath](/people/galbreath-john-abt-1710.md) / Isobell Clark
 
 ## 1754-12-11 John Galbreath
 
@@ -560,7 +560,7 @@ tbd: [David Galbraith](/people/galbreath-david-abt-1720.md) / Martha Baird, two 
 
 ## 1755-08-01 Mary Galbraith
 
-tbd: John Galbraith / Isobell Clark, two records
+tbd: [John Galbraith](/people/galbreath-john-abt-1710.md) / Isobell Clark, two records
 
 ## 1755-09-21 Jean Galbreath
 
@@ -568,7 +568,7 @@ tbd: Peter Galbraith / Jean Watson, two records
 
 ## 1756-02-22 Martha Galbreath
 
-tbd: Archibald Galbreath / Martha White, two records
+tbd: [Archibald Galbreath](/people/galbreath-archibald-1708.md) / Martha White, two records
 
 ## 1756-03-13 Ann Galbreath
 
