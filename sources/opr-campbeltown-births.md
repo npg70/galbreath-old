@@ -1105,6 +1105,14 @@ John | Lawful Son to [William Galbraith](/people/galbreath-william-1780.md) work
 
 > William | Lawful son of [David Galbreath](/people/galbreath-david-1797.md), sawyer, & Janet Mitchell, was born 29 Sept & Bapt 2 Oct 1833. William
 
+## 1835-11-30 Martha Galbreath
+
+TBD: [Archibald Galbreath](/people/galbreath-archibald-1803.md) / Eugina McCallum
+
+## 1838-01-25 Eugina Galbreath
+
+TBD: [Archibald Galbreath](/people/galbreath-archibald-1803.md) / Eugina McCallum
+
 ## 1839-12-22 Jane Galbreath
 
 [507/70 163 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358117?image=163)
@@ -1118,7 +1126,7 @@ Note: right above on same page is the same day baptism of Jane Patterson, daught
 
 [507/70 207 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357470?image=207)
 
-> James | Lawful son of Arch Galbreath far[? farmer] Ugadale, and Margaret Loynachan
+> James | Lawful son of [Arch Galbreath](/people/galbreath-archibald-1803.md) far[? farmer] Ugadale, and Margaret Loynachan
 > was born twenty thrird September and baptized 7th Nov 1841
 
 ## [1842-09-25 Archibald Galbreath](/people/galbreath-archibald-1842.md)
@@ -1139,7 +1147,7 @@ Note: right above on same page is the same day baptism of Jane Patterson, daught
 
 [507/70 244 row 3](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357295?image=244)
 
-> Archibald | Lawful son of Arch Galbreath, farmer, Ugadale and Margaret Loynachan,
+> Archibald | Lawful son of [Arch Galbreath](/people/galbreath-archibald-1803.md), farmer, Ugadale and Margaret Loynachan,
 > was born seventeeenth July & bapt. 13 Augt. 1843
 
 ## 1844-07-18 Catharine Greenless
@@ -1169,14 +1177,14 @@ Unclear why I recorded this one.
 
 [507/70 285 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357704?image=285)
 
-> Neill | | Lawful son of Arch Galbreath, farmer, Ugadale and Margt. Loynachan,
+> Neill | | Lawful son of [Arch Galbreath](/people/galbreath-archibald-1803.md), farmer, Ugadale and Margt. Loynachan,
 > was born 20th May & bapt. 15 June 1845
 
 ## 1847-11-01 Agnes Galbreath
 
 [507/70 327 row 13](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357898?image=327)
 
-> Agnes| | Lawful Daughter of Archibald Galbreath ??? ??? and Margaret Loynachan,
+> Agnes| | Lawful Daughter of [Archibald Galbreath](/people/galbreath-archibald-1803.md) ??? ??? and Margaret Loynachan,
 > was born 25th September. Baptized 1st November 1847
 
 ## 1847-12-19 Janet Galbreath
