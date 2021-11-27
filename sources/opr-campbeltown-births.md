@@ -432,7 +432,7 @@ TBD: [James Galbreath](/people/galbreath-james-1713.md) / Margaret Adam
 
 ## 1748-07-22 James Galbreath
 
-TBD: John Galbreath / Agnes Langwill
+TBD: [John Galbreath](/people/galbreath-john-1721.md) / Agnes Langwill
 
 ## 1748-10-30 James Galbreath
 
@@ -488,7 +488,7 @@ TBD: [David Galbreath](/people/galbreath-david-1719.md) / Jean Langwill
 
 ## 1751-04-28 Mary Galbreath
 
-TBD: John Galbreath / Agnes Langwill
+TBD: [John Galbreath](/people/galbreath-john-1721.md) / Agnes Langwill
 
 ## 1752-01-30 John Galbreath
 
@@ -528,7 +528,7 @@ tbd: [David Galbreath](/people/galbreath-david-abt-1720.md) / Martha Baird
 
 ## 1753-06-25 Alexander Galbreath
 
-tbd: John Galbreath / Agnes Langwill, two records Galbreath/Galbraith
+tbd: [John Galbreath](/people/galbreath-john-1721.md) / Agnes Langwill, two records Galbreath/Galbraith
 
 ## 1754-00-00 Isobel Galbreath
 
@@ -576,7 +576,7 @@ tbd: [James Galbreath](/people/galbreath-james-1726.md) / Margeret Anderson, two
 
 ## 1756-06-06 John Galbreath
 
-tbd: John Galbreath / Agnes Langwill, two records
+tbd: [John Galbreath](/people/galbreath-john-1721.md) / Agnes Langwill, two records
 
 ## 1756-08-01 Martha Galbreath
 
@@ -826,7 +826,10 @@ TBD: [Peter Galbreath](/people/galbreath-peter-1749.md) / Agnes McMurchy
 
 ## 1781-01-25 John Galbreath
 
-TBD: Alexander Galbreath / Agnes Fleeming
+[507/20 51 row 10](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357564?image=51)
+
+> John | Lawful son to [Alexr Galbreath](/people/galbreath-alexander-1753.md) & Agnes Fleeming,
+> born 22nd was bapt 25th Jan 1781
 
 ## 1781-01-28 Martha Galbreath
 
@@ -842,6 +845,10 @@ TBD: Donald Galbreath / Mary Kelly
 ## 1781-09-16 Robert Galbreath
 
 TBD: [Peter Galbreath](/people/galbreath-peter-1749.md) / Agnes McMurchy
+
+## 1782-05-19 James Galbreath
+
+TBD: [Alexander Galbreath](/people/galbreath-alexander-1753.md) / Agnes Flemming
 
 ## 1782-10-09 Mary Galbreath
 
@@ -861,6 +868,10 @@ TBD: [Henry Galbreath](/people/galbreath-henry-1739.md) / Agnes Armour
 [507/40 50 row 20](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358460?image=50)
 
 > Mary | Lawful Dau to [John Galbreath](/people/galbreath-john-1760.md) & Marion McLean, Knockanly born 1st bapt 3rd [Sep 1783]
+
+## 1784-01-08 John Galbreath
+
+TBD: [Alexander Galbreath](/people/galbreath-alexander-1753.md) / Agnes Flemming
 
 ## [1786-01-10 Janet Galbreath](/people/galbraith-janet-1786.md)
 
