@@ -991,7 +991,7 @@ TBD: [Henry Galbreath](/people/galbreath-henry-1739.md) / Agnes Armour
 
 > James | Lawful son to [Samuel Galbreath](/people/galbreath-samuel-1765.md) and Janet Langwill in town born 14th baptized 15th Sept [1802] James
 
-## 1803-09-11 [Archibald Galbreath](/people/galbreath-archibald-1803.md)
+## [1803-09-11 Archibald Galbreath](/people/galbreath-archibald-1803.md)
 
 [507/40 252 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357282?image=252)
 
