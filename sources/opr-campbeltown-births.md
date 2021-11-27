@@ -794,7 +794,7 @@ TBD: William Galbreath / Mary Campbell
 
 [507/20 35 row 6](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356969?image=35)
 
-> Florence | Lawful Daughter to Henry Galbreath and Agnes Armour Born 11th Sept Bap 14
+> Florence | Lawful Daughter to [Henry Galbreath](/people/galbreath-henry-1739.md) and Agnes Armour Born 11th Sept Bap 14
 
 ## 1777-09-14 Robert and Archibald Galbreath
 
