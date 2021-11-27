@@ -526,7 +526,7 @@ tbd: [John Galbreath](/people/galbreath-john-abt-1710.md) / Isobell Clark
 
 tbd: [David Galbreath](/people/galbreath-david-abt-1720.md) / Martha Baird
 
-## 1753-06-25 Alexander Galbreath
+## [1753-06-25 Alexander Galbreath](/people/galbreath-alexander-1753.md)
 
 tbd: [John Galbreath](/people/galbreath-john-1721.md) / Agnes Langwill, two records Galbreath/Galbraith
 
