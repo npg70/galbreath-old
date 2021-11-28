@@ -895,7 +895,7 @@ TBD: Neill Galbreath / Isalbell Mckinlay
 
 ## 1783-11-02 Archibald Galbreath
 
-TBD: Peter Galbreath / Agnes McMurchy
+TBD: [Peter Galbreath](/people/galbreath-peter-1749.md) / Agnes McMurchy
 
 ## 1784-01-08 John Galbreath
 
@@ -915,7 +915,7 @@ TBD: John Galbreath / Katharine Hegon
 
 ## 1785-09-21 Mary Galbraith
 
-TBD: Peter Galbraith / Agnes McMurchy
+TBD: [Peter Galbraith](/people/galbreath-peter-1749.md) / Agnes McMurchy
 
 ## 1785-10-23 Jean Galbreath
 
@@ -953,7 +953,7 @@ TBD: David or Samuel Galbraith / Mary Fleeming
 
 ## 1787-10-27 James Galbreath
 
-TBD: Peter Galbreath / Agnes MacMurchy
+TBD: [Peter Galbreath](/people/galbreath-peter-1749.md) / Agnes MacMurchy
 
 ## [1788-05-18 Catharine Galbreath](/people/galbreath-catherine-1788.md)
 
@@ -1039,11 +1039,11 @@ TBD: Archibald Galbreath / Jean Corbet
 
 ## 1792-06-23 Orslay Galbreath 
 
-TBD: Peter Galbreath / Agnes McMurchy
+TBD: [Peter Galbreath](/people/galbreath-peter-1749.md) / Agnes McMurchy
 
 ## 1792-06-23 Martha Galbreath
 
-TBD: Peter Galbreath / Agnes McMurchy
+TBD: [Peter Galbreath](/people/galbreath-peter-1749.md) / Agnes McMurchy
 
 ## 1793-02-09 Archibald Galbreath
 
@@ -1125,7 +1125,7 @@ TBD: James Galbreath / Jean Harvy
 
 ## 1796-06-04 Jean Galbreath
 
-TBD: Patrick Galbreath  / Agnes McMurchy
+TBD: [Patrick Galbreath](/people/galbreath-peter-1749.md)  / Agnes McMurchy
 
 ## 1796-07-27 Hester Galbreath
 
