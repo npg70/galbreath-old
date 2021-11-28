@@ -1051,7 +1051,7 @@ TBD: John Galbreath / Agnes Galbreath
 
 ## 1793-04-12 John Galbreath
 
-TBD: John Galbreath / Marion McLean
+TBD:  [John Galbreath](/people/galbreath-john-1760.md) / Marion McLean
 
 ## 1793-05-14 Lachlan Galbreath
 
@@ -1083,7 +1083,7 @@ TBD: [David Galbreath](/people/galbreath-david-1755.md) / Mary Fleeming
 
 [507/40 114 row 22](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357933?image=114)
 
-> Ann | Lawful Dau to John Galbreath & More McLean Toleclach (??) borth 16 bapt 18
+> Ann | Lawful Dau to [John Galbreath](/people/galbreath-john-1760.md) & More McLean Toleclach (??) borth 16 bapt 18
 
 ## 1794-07-02 Jean Galbreath
 
