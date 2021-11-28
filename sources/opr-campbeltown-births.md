@@ -885,7 +885,9 @@ TBD: [David Galbreath](/people/galbreath-david-1755.md) / Mary Fleeming
 
 ## 1783-06-26 Ann Galbreath
 
-TBD: Neill Galbreath / Isalbell Mckinlay
+[507/40 50 row 10](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357934?image=50)
+
+Ann | Natural Daughter to Neill Galbreath & Isabell McKinlay in Drumord (?) born 19th Bapt 26
 
 ## 1783-09-03 Mary Galbreath
 
