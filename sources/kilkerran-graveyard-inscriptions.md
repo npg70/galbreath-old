@@ -162,7 +162,7 @@ Can't find a baptism or marriage record for Daniel.
 > The above MARGARET TURNER died 9 June 1880 aged 90 years, SARA their daughter,
 > relict of PETER GALBRAITH died 25 October 1899 aged 76 years interred here.
 
-Attributed to [Peter Galbraith](/people/galbraith-peter-1811.md) born 1811, son of *[William Galbraith](/people/galbreath-william-1780.md)* and *Jean Campbell*, although the computed birth date of 1825 doesn't match.
+Attributed to [Peter Galbraith](/people/galbraith-peter-1811.md) born 1811, son of *[William Galbraith](/people/galbreath-william-1780.md)* and *Jean Campbell*.
 
 
 ## 1127
