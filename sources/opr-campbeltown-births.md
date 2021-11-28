@@ -874,7 +874,7 @@ TBD: [Henry Galbreath](/people/galbreath-henry-1739.md) / Agnes Armour
 
 ## 1782-11-03 Margaret Galbreath
 
-TBD: David Galbreath / Mary Fleeming
+TBD: [David Galbreath](/people/galbreath-david-1755.md) / Mary Fleeming
 
 ## 1783-06-10 Archibald Galbreath
 
@@ -931,7 +931,7 @@ TBD: Neill Galbriath / Isalbell McKinlay
 
 ## 1785-11-29 John Galbraith
 
-TBD: David Galbraith / Mary Fleeming
+TBD: [David Galbraith](/people/galbreath-david-1755.md) / Mary Fleeming
 
 ## 1786-01-04 Janet Galbraith
 
@@ -949,7 +949,7 @@ TBD: [Henry Galbreath](/people/galbreath-henry-1739.md) / Agnes Armour
 
 ## 1786-12-31 James Galbraith
 
-TBD: David or Samuel Galbraith / Mary Fleeming
+TBD: [David](/people/galbreath-david-1755.md) or Samuel Galbraith / Mary Fleeming
 
 ## 1787-10-27 James Galbreath
 
@@ -962,9 +962,9 @@ TBD: [Peter Galbreath](/people/galbreath-peter-1749.md) / Agnes MacMurchy
 > Catharine | Lawful daut. to [Samuel Galbreath](/people/galbreath-samuel-1736.md) in Peninver & Janet MacNair
 > was born 16th & Bapt. 18th May [1788]
 
-## 1788-08-29 Mary Galbreath
+## [1788-08-29 Mary Galbreath](/people/galbreath-mary-1788.md)
 
-Tbd: David Galbreath / Mary Fleeming
+Tbd: [David Galbreath](/people/galbreath-david-1755.md) / Mary Fleeming
 
 ## 1788-10-06 Alexander Galbreath
 
@@ -998,7 +998,7 @@ TBD: Peter Galbreath / Agnes MacFarlane
 
 ## 1790-12-24 Janet Galbreath
 
-TBD: David Galbreath / Mary Fleeming
+TBD: [David Galbreath](/people/galbreath-david-1755.md) / Mary Fleeming
 
 ## 1791-01-03 John Galbreath
 
@@ -1059,7 +1059,7 @@ TBD: Neil Galbreath / Florance Paterson
 
 ## 1793-08-28 David Galbreath
 
-TBD: David Galbreath / Mary Fleeming
+TBD: [David Galbreath](/people/galbreath-david-1755.md) / Mary Fleeming
 
 ## 1793-11-25 Archibald Galbreath 
 
@@ -1095,7 +1095,7 @@ TBD: [Archibald Galbreath](/galbreath-archibald-1760.md) / Jean Corbett
 
 ## 1795-02-04 Orslay Galbreath
 
-TBD: David Galbreath / Mary Fleeming
+TBD: [David Galbreath](/people/galbreath-david-1755.md) / Mary Fleeming
 
 ## 1795-02-08 Elizabeth Galbreath
 
@@ -1175,9 +1175,9 @@ TBD: James Galbreath / Jean Harvey
 
 TBD: James Galbreath / Jean Harvey
 
-## 1798-09-30 Archibald Galbreath
+## [1798-09-30 Archibald Galbreath](/people/galbreath-archibald-1798.md)
 
-TBD: David Galbreath / Mary Fleemin
+TBD: [David Galbreath](/people/galbreath-david-1755.md) / Mary Fleemin
 
 ## 1798-10-20 Martha Galbreath
 
