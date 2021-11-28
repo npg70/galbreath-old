@@ -982,7 +982,7 @@ TBD: Neill Galbreath / Isabell McKinlay
 
 ## 1789-02-12 William Galbreath
 
-TBD: Archibald Galbreath / Martha Langwill
+TBD: [Archibald Galbreath](/galbreath-archibald-1760.md) / Martha Langwill
 
 ## 1789-10-24 Neill Galbreath
 
@@ -1035,7 +1035,7 @@ TBD: Peter Galbreath / Margaret Galbreath
 
 ## 1792-03-19 Martha Galbreath
 
-TBD: Archibald Galbreath / Jean Corbet
+TBD: [Archibald Galbreath](/galbreath-archibald-1760.md) / Jean Corbet
 
 ## 1792-06-23 Orslay Galbreath 
 
@@ -1091,7 +1091,7 @@ TBD: Peter Galbreath / Margaret Galbreath
 
 ## 1794-11-09 William Galbreath
 
-TBD: Archibald Galbreath / Jean Corbett
+TBD: [Archibald Galbreath](/galbreath-archibald-1760.md) / Jean Corbett
 
 ## 1795-02-04 Orslay Galbreath
 
@@ -1147,7 +1147,7 @@ TBD: Peter Galbreath / Margaret Galbreath
 
 ## 1797-02-04 Agnes Galbreath
 
-TBD: Archibald Galbreath / Jean Corbet
+TBD: [Archibald Galbreath](/galbreath-archibald-1760.md) / Jean Corbet
 
 ## [1797-09-09 David Galbreath](/people/galbreath-david-1797.md)
 
