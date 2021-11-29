@@ -177,6 +177,8 @@ Canidates of Janet on [ScotlandPeoples](https://www.scotlandspeople.gov.uk/recor
 >
 > By WILLIAM JOHNSTON, Wright in Campbeltown, in memory of MARGARET GALBREATH his mother who died 9 September 1821 aged 58 years.
 
+This is [Margaret Galbreath](/people/galbreath-margaret-1762.md), born 1762, daughter of William Galbreath and Margaret Dunlop.
+
 ## 1103
 
 > 1103.	Erected by DANIEL GALBRAITH, shipmaster in Campbeltown,
@@ -211,4 +213,10 @@ Attributed to [Peter Galbraith](/people/galbraith-peter-1811.md) born 1811, son 
 ## 1127
 
 > 1815	Erected by DONALD McLACHLAN, Malster in Campbeltown in memory of his father in law J. PARK late merchant there who died 9 October 1806 aged 56 years also his mother in law MARY GALBREATH who died 3 April 1825 aged 71 years.
+
+2021-11-28: 
+* [Canidates for Mary](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=fuzzy&forename=mary&forename_so=starts&sex=F&from_year=1750&to_year=1756&parent_names_so=exact&parent_name_two_so=exact&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&sort=asc&order=Date&field=year)
+* [Canidates for J Park](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=park&surname_so=fuzzy&forename=j&forename_so=starts&sex=M&from_year=1748&to_year=1751&parent_names_so=exact&parent_name_two_so=exact&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&sort=asc&order=Date&field=year)
+* Couldn't find any marriage records
+
 
