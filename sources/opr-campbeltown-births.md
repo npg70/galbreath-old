@@ -1453,6 +1453,13 @@ Unclear why I recorded this one.
 > ???; and of Mary McTaggart
 > was born 6th July & baptized 4 Aug 1844
 
+## 1844-08-25 William Galbreath
+
+[507/70 268 row 10](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357844?image=268)
+
+> William | Lawful son of Peter Galbreath, Laborer and Sarah Armour
+> was born 27 July and baptized 25 Augst 1844
+
 ## 1845-05-25 Janet Galbreath
 
 [507/70 284 row 3](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358146?image=284)
@@ -1467,6 +1474,13 @@ Unclear why I recorded this one.
 > Neill | | Lawful son of [Arch Galbreath](/people/galbreath-archibald-1803.md), farmer, Ugadale and Margt. Loynachan,
 > was born 20th May & bapt. 15 June 1845
 
+## 1846-07-12 Archibald Galbreath 
+
+[507/70 306 row 12](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357318?image=306)
+
+> Archibald | Lawful son of Peter Galbreath workman and Sarah Armour was born 7 June
+> and baptized 12 July 1846.
+ 
 ## 1847-11-01 Agnes Galbreath
 
 [507/70 327 row 13](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357898?image=327)
@@ -1502,12 +1516,33 @@ Unclear why I recorded this one.
 > John | Lawful son of [John Galbreath](/people/galbreath-john-1821.md), Seaman Dalintober, and
 > Margaret Cook, born [day missing] April and Baptized 18th October 1848
 
+## 1849-03-25 Jane Galbreath
+
+[507/70 350 row 9](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358114?image=350)
+
+> Jane | Lawful Daughter of Peter Galbreath Workman and Sarah Armour born 19th February
+> and baptized 25th Marc 1849
+
+## 1850-05-26 Jane Galbraith
+
+[507/70 369 row 7](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/1675?image=369)
+
+> Jane | Lawful Daughter of Peter Galbraith Laborer & Sarah Armour 
+> born 30th March & bapts 26 May 1850
+> 
 ## 1850-09-08 Isabella Galbreath
 
 [507/70 374 row 9](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358092?image=374)
 
 > Isabella | Lawful daughter of John Galbreath distillery workman and Janet Watson
 > born 1th May and Baptized 8th Sept 1850
+
+## 1852-10-04 Margaret Galbraith
+
+[507/70 407 row 4](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/1962?image=407)
+
+> Margaret | Lawful daughter of Peter Galbraith Maltster and Sarah Armour born
+> 11 (4?) September and baptized 4 October 1852.
 
 ## 1853-11-07 William Galbraith
 
