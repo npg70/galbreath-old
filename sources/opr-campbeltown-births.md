@@ -1394,11 +1394,13 @@ John | Lawful Son to [William Galbraith](/people/galbreath-william-1780.md) work
 
 ## 1835-11-30 Martha Galbreath
 
-TBD: [Archibald Galbreath](/people/galbreath-archibald-1803.md) / Eugina McCallum
+> Martha | Lawful daughter of [Archd Galbreath](/people/galbreath-archibald-1803.md) farmer Skerbolin and Eugina McCallum 
+> was born 21st (27th ?) & bapt 30 Nov 1835
 
-## 1838-01-25 Eugina Galbreath
+## 1838-01-25 Ugenia Galbreath
 
-TBD: [Archibald Galbreath](/people/galbreath-archibald-1803.md) / Eugina McCallum
+> Ugenia | Lawful daughter of [Arch Galbreath](/people/galbreath-archibald-1803.md) and Ugenia McCallum
+> in [Skerbolin?] was born [illegible] and bapt 25 Jan 1838
 
 ## 1839-12-22 Jane Galbreath
 
