@@ -1349,6 +1349,13 @@ John | Lawful Son to [William Galbraith](/people/galbreath-william-1780.md) work
 > John | Lawful son of [Archd Galbreath](/people/galbreath-archibald-1798.md) Fisherman Dalitober & Mary McMillan
 > born 30th Jan & bapt 2nd Feb 1821. John
 
+## 1831-03-13 Mary Galbreath
+
+[507/60 31 row 11](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358436?image=31)
+
+> Mary | Lawful ~Son~ Dau of [James Galbreath](/people/galbreath-james-abt-1775.md) Farmer Skerbolin and Martha Galbreath
+> Both 12th & Bapts 13th March 1831. Mary.
+
 ## [1833-10-02 William Galbreath](/people/galbreath-william-1833.md)
 
 [507/70 32 row 4](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357872?image=32)
