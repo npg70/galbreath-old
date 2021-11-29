@@ -65,11 +65,10 @@ Children of Archibald and Margaret (Loynachan) Galbreath:[^oprchildren2]
 
 [^birth-neil]: OPR Campbeltown, record of baptism of [Neil Galbreath](/sources/opr-campbeltown-births.md#1845-06-15-neill-galbreath)
 
-[^birth-agnes1]: OPR Campbeltown, record of baptism of [Agnes Galbreath]
+[^birth-agnes1]: OPR Campbeltown, record of baptism of [Agnes Galbreath](/sources/opr-campbeltown-births.md#1847-11-01-agnes-galbreath)
 
 [^agnes2]: Birth of *Agnes Galbraith* from Statuatory Records on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/38691865). Contains many details such age ages of parents, year and location of marriage, current location.
 )
-
 
 [^john]: Birth of *John Galbraith* from Statuatory Records on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/38879864). Contains little additional information.
 
