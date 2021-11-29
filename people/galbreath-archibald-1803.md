@@ -17,10 +17,10 @@ Children of Archibald and Eugina (McCallum) Galbreath, both in Campbeltown:[^opr
 
 Children of Archibald and Margaret (Loynachan) Galbreath:[^oprchildren2]
 
-1. *James Galbraith*, b. 23 Sep 1841
-2. *Archibald Galbraith*, bp. 17 Jul 1843
-3. *Neil Galbreath*, bp. 20 May 1845
-4. *Agnes Galbreath*, bp. 1 Nov 1847, died in early childhood.
+1. *James Galbraith*, bp. 23 Sep 1841[^birth-james]
+2. *Archibald Galbraith*, bp. 17 Jul 1843[^birth-archibald]
+3. *Neil Galbreath*, bp. 20 May 1845[^birth-neil]
+4. *Agnes Galbreath*, bp. 1 Nov 1847,[^birth-agnes1] died in early childhood.
 6. *Samuel Templeton Galbraith*, b. 17 Nov 1850, Scotland; d. 19 Sep 1931, Montreal, Montreal Region, Quebec, Canada, m. *Mary Ellen Reynolds*
 7. *Margaret Galbraith*, b. 30 Apr 1853, bp. 10 Jul 1853[^martha]
 8. *Agnes Galbraith*, b. 9 June 1855[^agnes2]
@@ -59,7 +59,17 @@ Children of Archibald and Margaret (Loynachan) Galbreath:[^oprchildren2]
 
 [^martha]: TODO [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/1876?image=416).  Misindexed mothers name [search](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=fuzzy&forename_so=starts&from_year=1853&to_year=1853&parent_names=arch&parent_names_so=starts&parent_name_two_so=exact&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
 
+[^birth-james]: OPR Campbeltown, record of baptism of [James Galbreath](/opr-campbeltown-births.md#1841-11-07-james-galbreath)
+
+[^birth-archibald]: OPR Campbeltown, record of baptism of [Archibald Galbreath](/opr-campbeltown-births.md#1843-08-13-archibald-galbreath)
+
+[^birth-neil]: OPR Campbeltown, record of baptism of [Neil Galbreath](/sources/opr-campbeltown-births.md#1845-06-15-neill-galbreath)
+
+[^birth-agnes1]: OPR Campbeltown, record of baptism of [Agnes Galbreath]
+
 [^agnes2]: Birth of *Agnes Galbraith* from Statuatory Records on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/38691865). Contains many details such age ages of parents, year and location of marriage, current location.
+)
+
 
 [^john]: Birth of *John Galbraith* from Statuatory Records on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/38879864). Contains little additional information.
 
