@@ -102,7 +102,7 @@ Daughter of [William Galbreath](/people/galbreath-william-1780.md).
 >
 > Erected by ARCHIBALD KELLY in memory of his mother JANET GALBREATH who died 25 Jul 1842 aged 37 years and of his father WILLIAM KELLY who died 11 Jan 1844 aged 41 years and of his aunt MARY KELLY died 22 Jan 1887 aged 86 years.
 
-2021-11-28: Look at distillery notes.  Kelly/Galbreath rings a bell
+2021-11-28: Look at [distillery notes](/sources/campbeltown-whisky-an-encyclopaedia.md#page-125) for another reference to Janet.
 
 ## 531
 
