@@ -512,7 +512,11 @@ Tbd: [Archibald Galbreath](/people/galbreath-archibald-1708.md) / Martha White
 
 ## 1752-12-17 Archibald Galbreath
 
-tbd: [Patrick Galbreath](/people/galbreath-patrick-1712.md) / Jean Watson, two records Galbreath/Galbraith
+TBD another record under Galbreath
+
+[507/10 210 row 12](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/712?image=210)
+
+> Archibald | [Patrick Galbraith](/people/galbreath-patrick-1712.md) & Jean Watson had a (??) bap 17th
 
 ## 1753-02-03 John Galbreath
 
@@ -1291,6 +1295,13 @@ John | Lawful Son to [William Galbraith](/people/galbreath-william-1780.md) work
 
 > Samuel | Lawful Son to [Robert Galbreath](/people/galbreath-robert-1778.md) Farmer in Peninver and Catherine Harvie, born 18, baptised 22 March 1808.  Samuel
 
+## 1808-12-20 Isobell Galbreath
+
+[507/40 329 row ](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358101?image=329)
+
+> Isobell | Lawful Daughter to William Galbreath Laborer Toniorch(??) and Jean Campbell
+> born 19th, baptized 20th December 1808. Isobell.
+
 ## [1809-09-05 John Galbreath](/people/galbraith-john-1809.md)
 
 [507/40 339 row 16](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357569?image=339)
@@ -1310,6 +1321,19 @@ John | Lawful Son to [William Galbraith](/people/galbreath-william-1780.md) work
 
 > Samuel | Lawful son to [James Galbreath](/people/galbreath-james-abt-1775.md) Farmer Skerbolin & Martha Galbreath
 > born 17th bapt 20th Feb 1811. Samuel.
+
+## 1811-05-31 Peter Galbreath
+
+[507/40 369 row 16](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357737?image=369)
+
+> Peter | Lawful son to William Galbreath farmer Laggan and Janet Campbell
+> born 30th baptized 31th May 1811. Named Peter
+
+## 1811-05-31 Robert Galbreath
+
+[507/20 149 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357765?image=149), note William Galbreath/Janet Campbell above.  Not twins, but different people, in different books.
+
+> Robert | Lawful son to William Galbreath & Jean Campbell. Born 30th & Baptized 31th May 1811
 
 ## 1812-02-26 Robert Galbreath
 
