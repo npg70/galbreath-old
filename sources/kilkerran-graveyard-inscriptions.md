@@ -156,6 +156,8 @@ Canidates of Janet on [ScotlandPeoples](https://www.scotlandspeople.gov.uk/recor
 
 > 927	Erected by ANDREW SPIERS in memory of his father ANDREW SPIERS who was drowned in Troon Harbour in his 31st year and his mother JANE GALBRAITH who died 10 July 1915 in her 76th year.  The above ANDREW SPIERS died 2 September 1939 in his 74th year also his wife JANET MONTGOMERY died 24 January 1940 in her 71st year.
 
+[Jane Galbraith](/people/galbraith-jane-1839.md), born 1839, daughter of [John Galbreath](/main/people/galbreath-john-abt-1811.md) and *Janet Watson*.
+
 ## 970
 
 > 970	Railed enclosure, three tablets
