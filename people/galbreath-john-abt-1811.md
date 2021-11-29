@@ -9,7 +9,7 @@ His occupation was in the distilling industry[^census1841][^census1851][^census1
 
 Children of John and Janet (Watson) Galbreath, all baptised in Campbeltown:[^children]
 
-1. *Jean/Jane Galbraith*, bp. 22 Dec 1839
+1. *[Jane Galbraith](galbraith-jane-1839.md)*, bp. 22 Dec 1839, m1 *Andrew Spiers*, m2 *John McLean*
 2. *John Galbreath*, bp. 26 Sep 1842
 3. *Janet Galbraith*, bp. 25 May 1845, assumed died in infancy 
 4. *Janet Galbraith*, bp. 19 Dec 1847
