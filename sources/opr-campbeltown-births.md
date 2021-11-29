@@ -1211,8 +1211,15 @@ TBD: Neil Galbreath / Fineul ??
 
 [507/40 197 row 8](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358384?image=197)
 
->  Florence | John Molloy & Katherine Galbreath in town had a lawful dau.
+>  Florence | John Molloy & Katherine Galbreath in town had a lawful dau. A
 >  born 27th baptized 28th Feb. The childs name is Florance
+
+## 1801-09-31 Janet Galbreath
+
+[507/40 19 row 16](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358131?image=219)
+
+> Janet | [James Galbreath](/people/galbreath-james-abt-1775.md) & Martha Galbreath Skerbolin 
+> had a lawful Dau Born 30th Baptized 31st named Janet
 
 ## 1802-04-22 John Galbreath
 
@@ -1296,6 +1303,13 @@ John | Lawful Son to [William Galbraith](/people/galbreath-william-1780.md) work
 [507/40 345 row 10](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357525?image=345)
 
 > James | Lawful Son to [Robert Galbreath](/people/galbreath-robert-1778.md) Farmer Peninver and Catherine Harvie, born 23, baptised 27th Dec 1809. Named James
+
+## 1811-02-20 Samuel Galbreath
+
+[507/40 365 row 16](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357779?image=365)
+
+> Samuel | Lawful son to [James Galbreath](/people/galbreath-james-abt-1775.md) Farmer Skerbolin & Martha Galbreath
+> born 17th bapt 20th Feb 1811. Samuel.
 
 ## 1812-02-26 Robert Galbreath
 
