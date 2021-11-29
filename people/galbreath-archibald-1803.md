@@ -12,8 +12,8 @@ The 1841 and 1851 census listed him as farmer[^census1841][^census1851], however
 
 Children of Archibald and Eugina (McCallum) Galbreath, both in Campbeltown:[^oprchildren1]
 
-1. *Martha Galbreath*, bp. 30 Nov 1835
-2. *Eugina Galbreath*, bp. 25 Jan 1838, m. *James Wotherspoon*
+1. *Martha Galbreath*, bp. 30 Nov 1835[^birth-martha]
+2. *Eugina Galbreath*, bp. 25 Jan 1838,[^birth-ugenia] m. *James Wotherspoon*
 
 Children of Archibald and Margaret (Loynachan) Galbreath:[^oprchildren2]
 
@@ -22,7 +22,7 @@ Children of Archibald and Margaret (Loynachan) Galbreath:[^oprchildren2]
 3. *Neil Galbreath*, bp. 20 May 1845[^birth-neil]
 4. *Agnes Galbreath*, bp. 1 Nov 1847,[^birth-agnes1] died in early childhood.
 6. *Samuel Templeton Galbraith*, b. 17 Nov 1850, Scotland; d. 19 Sep 1931, Montreal, Montreal Region, Quebec, Canada, m. *Mary Ellen Reynolds*
-7. *Margaret Galbraith*, b. 30 Apr 1853, bp. 10 Jul 1853[^martha]
+7. *Margaret Galbraith*, b. 30 Apr 1853, bp. 10 Jul 1853[^birth-margaret]
 8. *Agnes Galbraith*, b. 9 June 1855[^agnes2]
 9. *John Galbraith*, b. 17 Oct 1857[^john]
 
@@ -37,7 +37,6 @@ Children of Archibald and Margaret (Loynachan) Galbreath:[^oprchildren2]
 [^marriage1]: via OPR on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=M&record_type%5B0%5D=opr_marriages&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-banns-marriages&surname=galbreath&surname_so=fuzzy&forename=archibald&forename_so=starts&sex=M&spouse_name=mccallum&spouse_name_so=exact&from_year=1830&to_year=1840&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
 
 [^marriage2]: Campbeltown OPR marriage record for Archibald Galbreath and Euigina McCallum, on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=M&record_type%5B0%5D=opr_marriages&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-banns-marriages&surname=galbreath&surname_so=fuzzy&forename=archibald&forename_so=starts&sex=M&spouse_name=Loynachan&spouse_name_so=exact&from_year=1838&to_year=1842&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches).  However there is another record in Kilcalmonell and Kilberry a week earlier with the same names, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=M&record_type%5B0%5D=opr_marriages&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-banns-marriages&surname=McCallum&surname_so=fuzzy&forename=eu&forename_so=starts&spouse_name_so=exact&from_year=1835&to_year=1835&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
-
 
 [^census1841]: The 1841 Census for Ugadale, Campbeltown, Argyllshire, Scotland lists Archibald as a farmer, along with his second wife Margaret, and the first child from his first wife, Martha, along with various unrelated peoples.  Available on [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1841/0016601402&expand=true).
 
@@ -57,7 +56,9 @@ Children of Archibald and Margaret (Loynachan) Galbreath:[^oprchildren2]
 
 [^oprchildren2]: OPR records for first four children of Archibald and Margaret Loynachan from [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=fuzzy&forename_so=starts&from_year=1841&to_year=1860&parent_names_so=exact&parent_name_two=Loynachan&parent_name_two_so=fuzzy&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&sort=asc&order=Date&field=year)
 
-[^martha]: TODO [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/1876?image=416).  Misindexed mothers name [search](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=fuzzy&forename_so=starts&from_year=1853&to_year=1853&parent_names=arch&parent_names_so=starts&parent_name_two_so=exact&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
+[^birth-martha]: OPR Campbeltown, record of batpism of [Martha Galbreath](/sources/opr-campbeltown-births.md#1835-11-30-martha-galbreath)
+
+[^birth-ugenia]: OPR Campbeltown, record of baptism of [Ugenia Galbreath](/sources/opr-campbeltown-births.md#1838-01-25-ugenia-galbreath)
 
 [^birth-james]: OPR Campbeltown, record of baptism of [James Galbreath](/opr-campbeltown-births.md#1841-11-07-james-galbreath)
 
@@ -66,6 +67,8 @@ Children of Archibald and Margaret (Loynachan) Galbreath:[^oprchildren2]
 [^birth-neil]: OPR Campbeltown, record of baptism of [Neil Galbreath](/sources/opr-campbeltown-births.md#1845-06-15-neill-galbreath)
 
 [^birth-agnes1]: OPR Campbeltown, record of baptism of [Agnes Galbreath](/sources/opr-campbeltown-births.md#1847-11-01-agnes-galbreath)
+
+[^birth-margaret]: TODO [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/1876?image=416).  Misindexed mothers name [search](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=fuzzy&forename_so=starts&from_year=1853&to_year=1853&parent_names=arch&parent_names_so=starts&parent_name_two_so=exact&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
 
 [^agnes2]: Birth of *Agnes Galbraith* from Statuatory Records on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/38691865). Contains many details such age ages of parents, year and location of marriage, current location.
 )
