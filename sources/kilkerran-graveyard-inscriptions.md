@@ -41,6 +41,8 @@ publisher: unpublished
 > aged 17 years ROBERT FULLARTON, painter, beloved husband of JEAN GALBRAITH died 
 > 4 Feb 1933 aged 87.
 
+[Jean Galbraith](https://www.familysearch.org/tree/person/details/M1TZ-CLL), perhaps born 5 Aug 1855, died 14 Jul 1942.  Daughter of Duncan Galbraith and Catharine McPhater.
+
 ## 270
 
 > 270.	Railed enclosure with 2 stones and 1 loose tablet
@@ -51,11 +53,25 @@ publisher: unpublished
 > in infancy MARY who died 4 Mar 1827 aged 24 years, FLORA who died
 > 23 Aug 1828 aged 23 years and DAVID who died 9 Nov 1831 aged 24 years.
 
+Helen Galbreath on [FamilySearch](https://www.familysearch.org/tree/person/details/KZVS-VZ8) is a mess, but this should be solvable.
+
 ## 310
 
 > 310.	Inscribed stone
 > 
 > Erected by CATHERINE GALBRAITH in memory of her husband DAVID GALBRAITH who died 19 Aug 1855 aged 38 years and of their family MARGARET died 26 Jul 1881 aged 31 years, ISABELLA died 21 Sep 1882 aged 33 years, ROBERT died 18 May 1885 aged 33 years also her uncle DUGALD HAXTON died 1 Dec 1872 aged 87 years, the above CATHERINE GALBRAITH died 5 Mar 1886 aged 68 years, ALEXANDER GALBRAITH Private 72 Highlanders died 4 Dec 1887 aged 42 years took part in the following engagements, Pliwarmotal, Cara …, Cabul, Kandahar and Tel-el-keber.
+
+2021-11-28:
+* nothing on familysearch
+* David is not in civil records.
+* Catherina Galbraith is in civil records
+    * https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/2849533?return_row=6
+    * Widow of David Galbraith, Fisherman
+    * death 6 March 1886 Campbeltown
+    * Age 66
+    * Father: John McKinnon
+    * Mother: Isabella Haxton
+    * Alexander? Galbraith, son, present
 
 ## 407
 
@@ -75,17 +91,30 @@ publisher: unpublished
 >
 > Erected by ARCHIBALD KELLY in memory of his mother JANET GALBREATH who died 25 Jul 1842 aged 37 years and of his father WILLIAM KELLY who died 11 Jan 1844 aged 41 years and of his aunt MARY KELLY died 22 Jan 1887 aged 86 years.
 
+2021-11-28: Look at distillery notes.  Kelly/Galbreath rings a bell
+
 ## 531
 
 > 531.	Stone slab with coat of arms
 > 
 > In memory of DONALD CAMPBELL of Clachan late provost of Campbeltown  obt March 1727 aged 83.  MARGARET McFARLAN his spouse died August 1706 aged 46 and MARY CLARK their grand daughter obt 17 ….  By permission of CHARLES ROWATT, Surgeon, grandson of DONALD CAMPBELL, MARGARET PHILIPS HILL and AGNES GALBRAITH, wives of the Rev. Jas PINKERTON, lie here with ROBERT, CHARLES and WILLIAM his sons also the Rev JAMES PINKERTON first minister of the relief congregation in Campbeltown the duties of his office he discharged with fidelity he lived respected and died lamented 22 May 1805 in the 62 year of his age and 37 of his marriage remarried Jan 1843 
 
+2021-11-28: FamilySearch as not much, but given the details here this should be solveable.
+
 ## 541
 
 > 541.	Inscribed stone
 >
 > By MALCOM McMILLAN ship carpenter in Campbeltown and MARTHA GALBRAITH his wife in memory of their children MALCOM MONTGOMERY McMILLAN who died 2 September 1838 aged 6 months, NEIL died 2 March 1840 aged 6 years, MARGARET died 1 May 1853 aged 11 years and 11 months, MARTHA GALBRAITH died 20 March 1871 aged 71 years and the above MALCOM McMILLAN died 7 June 1873 aged 76 years.
+
+[Martha Galbreath](/people/galbreath-matha-1800.md)
+
+2021-11-28: Martha McMillian death records: https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/1382101?return_row=1
+* Married to Malcom McMillan, Innkeeper
+* died 20 Mar 1871 in Campbeltown
+* Age 71
+* Father: Samuel Galbreath, sawyer, deceased
+* Mother: Janet Langwill, deceased
 
 ## 563
 
