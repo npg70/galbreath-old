@@ -1336,6 +1336,12 @@ John | Lawful Son to [William Galbraith](/people/galbreath-william-1780.md) work
 
 > Archibald | Lawful Son to [Robert Galbreath](/people/galbreath-robert-1778.md) Farmer Peninver and Catherine Harvey, born 19th, baptised 22 Feb 1815. Named Archibald
 
+## 1815-07-21 William Galbreath
+
+[50740 432 row 11](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357852?image=432)
+
+> William | Lawful son to William Galbreath Farmer Laggan and Jean Campbell born 19th. Baptized 21st July 1815.  Named William
+
 ## [1817-04-16 John Galbreath](/people/galbreath-john-1817.md)
 
 [507/40 460 row 13](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357574?image=460)
