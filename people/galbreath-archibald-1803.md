@@ -51,7 +51,7 @@ Children of Archibald and Margaret (Loynachan) Galbreath:[^oprchildren2]
 
 [^census1881]: The 1881 Census available on [FindMyPast](https://www.findmypast.com/transcript?id=GBC%2F1881%2F0029345186).  No children listed.
 
-[^death]: Statutory Records for the death of Archibald Galbreath on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/2677198).  Lists both wives, occupation as butcher, parents.
+[^death]: Statutory Records for the death of Archibald Galbreath on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/2677198).  Lists both wives, occupation as butcher, parents, confirms Marta Galbreath's maiden name was Galbreath.
 
 [^oprchildren1]: OPR records of baptism for the children of Archibald and Eugina McCallum from [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=exact&forename_so=starts&from_year=1830&to_year=1841&parent_names_so=exact&parent_name_two=mccallum&parent_name_two_so=fuzzy&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
 
