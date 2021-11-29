@@ -10,6 +10,15 @@ publisher: unpublished
 > aged 4  …? …, SUSANNAH GALBRAITH who died 9 Mar 1888 aged 70 and of their son
 > DUNCAN and of WILLIAM BLUE father of the above WILLIAM reported lost at sea.
 
+2021-11-28:  Didn't check FamilySearch
+
+Death of Susanna Blue: https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/3047971?return_row=0
+* Widow of William Blue, slater
+* Death, 9 March 1888, age 48 (b ~ 1840)
+* Father: Duncan Galbraith, ?? workman, deceased
+* Mother: Mary Kelly, deceased
+* Present: William Blue, son
+
 ## 95
 
 > 95.	Inscribed stone
@@ -53,7 +62,7 @@ publisher: unpublished
 > in infancy MARY who died 4 Mar 1827 aged 24 years, FLORA who died
 > 23 Aug 1828 aged 23 years and DAVID who died 9 Nov 1831 aged 24 years.
 
-Helen Galbreath on [FamilySearch](https://www.familysearch.org/tree/person/details/KZVS-VZ8) is a mess, but this should be solvable.
+2021: Helen Galbreath on [FamilySearch](https://www.familysearch.org/tree/person/details/KZVS-VZ8) is a mess, but this should be solvable.
 
 ## 310
 
@@ -83,7 +92,9 @@ Helen Galbreath on [FamilySearch](https://www.familysearch.org/tree/person/detai
 
 > 412.	Inscribed stone
 >
-> 1840	By JAMES PATERSON and ISABELLA GALBRAITH his wife in memory of their son WILLIAM who died > young.
+> 1840	By JAMES PATERSON and ISABELLA GALBRAITH his wife in memory of their son WILLIAM who died young.
+
+Daughter of [William Galbreath](/people/galbreath-william-1780.md).
 
 ## 490
 
