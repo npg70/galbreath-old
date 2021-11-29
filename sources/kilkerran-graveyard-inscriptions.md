@@ -101,6 +101,8 @@ publisher: unpublished
 
 > 697.	Erected by WILLIAM McDOUGALL in memory of his parents DANIEL McDOUGALL who died 16 June 1816 aged 83 years and MARY GALBREATH his wife who died 10 January 1838 aged 92 years also of their son DANIEL sailing master, R N who died at Antigua 13 December 1816 aged 37 years, ARCHIBALD who died March 1833 aged 58 years.
 
+2021-11-28: Perhaps a Margaret Galbreath that married at Campbeltown 28 Aug 1784 ( [ScotlandPeoples](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=M&record_type%5B0%5D=opr_marriages&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-banns-marriages&surname=galbraith&surname_so=fuzzy&forename=mar&forename_so=starts&sex=F&spouse_name=Mac&spouse_name_so=starts&from_year=1763&to_year=1765&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)).  [FamilySearch](https://www.familysearch.org/tree/person/details/KZH7-K3Y) is a mess.
+
 ## 816
 
 > 816	Erected by LACH. McNEIL your. Of Kilchrist in memory of CATHARIN CLARK his spouse who died 10 November 1732 her age 17.  By CATHERINE McNEILL in memory of her husband JAMES GALBRAITH, Mariner, who died 6 February 1817 aged 37 years and of her mother CATHERINE McNEILL who died 26 May 1845 aged 74 years, MARGARET GALBRAITH daughter of the above JAMES GALBRAITH and CATHERINE McNEILL and spouse of the late EDWARD REATON, Mariner, who died 10 May 1890 aged 79 years.
