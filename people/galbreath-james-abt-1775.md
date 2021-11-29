@@ -22,3 +22,5 @@ Children of James and Martha Galbreath, all baptized in Campbeltown:[^children]
 
 [^children]: All births confirmed on ScotlandsPeople but there is no nice query
 
+[^birth-samuel]: OPR Campbeltown record of baptism for [Samuel Galbreath](/sources/opr-campbeltown-births.md#1811-02-20-samuel-galbreath)
+
