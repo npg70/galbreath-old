@@ -1041,7 +1041,7 @@ TBD: Peter Galbreath / Margaret Galbreath
 
 ## 1792-03-19 Martha Galbreath
 
-TBD: [Archibald Galbreath](/galbreath-archibald-1760.md) / Jean Corbet
+TBD: [Archibald Galbreath](/people/galbreath-archibald-1760.md) / Jean Corbet
 
 ## 1792-06-23 Orslay Galbreath 
 
@@ -1097,7 +1097,7 @@ TBD: Peter Galbreath / Margaret Galbreath
 
 ## 1794-11-09 William Galbreath
 
-TBD: [Archibald Galbreath](/galbreath-archibald-1760.md) / Jean Corbett
+TBD: [Archibald Galbreath](/people/galbreath-archibald-1760.md) / Jean Corbett
 
 ## 1795-02-04 Orslay Galbreath
 
@@ -1153,7 +1153,7 @@ TBD: Peter Galbreath / Margaret Galbreath
 
 ## 1797-02-04 Agnes Galbreath
 
-TBD: [Archibald Galbreath](/galbreath-archibald-1760.md) / Jean Corbet
+TBD: [Archibald Galbreath](/people/galbreath-archibald-1760.md) / Jean Corbet
 
 ## [1797-09-09 David Galbreath](/people/galbreath-david-1797.md)
 
