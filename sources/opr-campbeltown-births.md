@@ -1204,7 +1204,7 @@ TBD: Neil Galbreath / Mary McViccar
 
 TBD: Neil Galbreath / Fineul ??
 
-## 1800-02-26 Martha Galbreath
+## [1800-02-26 Martha Galbreath](/people/galbreath-martha-1800.md)
 
 [507/40 197 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358384?image=197)
 
