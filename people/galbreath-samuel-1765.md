@@ -19,7 +19,7 @@ Children of Samuel and Jenat (Langwill) Galbreath, all born in Campbeltown:[^chi
 1. *Archibald Galbreath*, bp. 25 Nov 1793 "in Town", and note a few days later a Samuel Galbreath was born from a different Samuel Galbreath (same OPR page).
 2. *Janet Galbreath*, bp. 26 Oct 1795 "in Town"
 3. *[David Galbreath](galbreath-david-1797.md)*, bp. 19 Sep 1797, m. *Janet Mitchell*
-4. *[Martha Galbreath](galbreath-matha-1800.md)*, bp. 26 Feb 1800, m. *Malcolm McMillan*, "in Drumlenell" or something.
+4. *[Martha Galbreath](galbreath-matha-1800.md)*, bp. 26 Feb 1800,[^martha-birth] m. *Malcolm McMillan*, "in Drumlenell" or something.
 5. *James Galbreath*, b. 15 Sep 1802 "in Town"
 6. *[Mary Galbreath](galbreath-mary-1804.md)*, bp. 22 May 1804; m. *Duncan McGill*
 7. *Agnes Galbreath*, bp. 3 Sep 1806
@@ -27,6 +27,8 @@ Children of Samuel and Jenat (Langwill) Galbreath, all born in Campbeltown:[^chi
 [^marriage]: OPR record of marriage on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=M&record_type%5B0%5D=opr_marriages&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-banns-marriages&surname=galbreath&surname_so=exact&forename_so=starts&sex=M&spouse_name=langwill&spouse_name_so=exact&from_year=1790&to_year=1794&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
 
 [^children]: OPR for children [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=exact&forename_so=starts&from_year=1793&to_year=1806&parent_names=galbreath&parent_names_so=exact&parent_name_two=langwill&parent_name_two_so=fuzzy&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&rd_real_name%5B0%5D=CAMPBELTOWN%20%28LANDWARD%29%20OR%20CAMPBELTOWN%20%28BURGH%29%20OR%20CAMPBELTOWN&rd_display_name%5B0%5D=CAMPBELTOWN%20%28LANDWARD%29%7CCAMPBELTOWN%20%28BURGH%29%7CCAMPBELTOWN_CAMPBELTOWN&rd_label%5B0%5D=CAMPBELTOWN&rd_name%5B0%5D=CAMPBELTOWN%20%2ALANDWARD%2A%20OR%20CAMPBELTOWN%20%2ABURGH%2A%20OR%20CAMPBELTOWN)
+
+[^martha-birth]: OPR Campbeltown, baptism of [Martha Galbreath](/sources/opr-campbeltown-births.md#1800-02-26-martha-galbreath)
 
 - Various trees on Ancestry.com
     - [tree1](https://www.ancestry.com/family-tree/person/tree/169736359/person/392210512163/facts)
