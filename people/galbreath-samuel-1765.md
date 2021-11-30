@@ -26,7 +26,7 @@ Children of Samuel and Jenat (Langwill) Galbreath, all born in Campbeltown:[^chi
 1. *Archibald Galbreath*, bp. 25 Nov 1793 "in Town", and note a few days later a Samuel Galbreath was born from a different Samuel Galbreath (same OPR page).
 2. *Janet Galbreath*, bp. 26 Oct 1795 "in Town"
 3. *[David Galbreath](galbreath-david-1797.md)*, bp. 19 Sep 1797, m. *Janet Mitchell*
-4. *[Martha Galbreath](galbreath-matha-1800.md)*, bp. 26 Feb 1800,[^martha-birth] m. *Malcolm McMillan*, "in Drumlenell" or something.
+4. *[Martha Galbreath](galbreath-martha-1800.md)*, bp. 26 Feb 1800,[^martha-birth] m. *Malcolm McMillan*, "in Drumlenell" or something.
 5. *James Galbreath*, b. 15 Sep 1802 "in Town"
 6. *[Mary Galbreath](galbreath-mary-1804.md)*, bp. 22 May 1804; m. *Duncan McGill*
 7. *Agnes Galbreath*, bp. 3 Sep 1806
