@@ -32,7 +32,7 @@ Children of Archibald and Martha (Langwill) Galbreath:[^children1]
 
 Children of Archibald and Jean (Corbet) Galbreath:[^children2]
 
-1. *Martha Galbreath*, b. 19 Mar 1792
+1. *Martha Galbreath*, bp. 19 Mar 1792,[^martha-birth] d. 13 July 1858, buried at Kilkerran, unmarried.[^martha-death]
 2. *William Galbreath*, b. 9 Nov 1794
 3. *Agnes Galbreath*, b. 4 Feb 1797
 4. *[Andrew Galbraith](galbraith-andrew-1799.md)*, b. 10 Feb 1799, m. *Margaret Bogle Scott*. Lord Provost of Glasgow 1857-60
@@ -50,6 +50,10 @@ Children of Archibald and Jean (Corbet) Galbreath:[^children2]
 [^children1]: OPR Children of Archibald and Martha Langwill in [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbraith&surname_so=syn&forename_so=starts&from_year=1780&to_year=1790&parent_names=galbr&parent_names_so=starts&parent_name_two=langwill&parent_name_two_so=starts&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
 
 [^children2]:OPR Children of Archibald and Jean Corbet/Corbett/Corbit/Corbert in [ScotlandPeoples](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=exact&forename_so=starts&from_year=1792&to_year=1820&parent_names=galbreath&parent_names_so=exact&parent_name_two=cor&parent_name_two_so=starts&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&sort=asc&order=Date&field=year)
+
+[^martha-birth]: OPR Campbeltown, baptism of [Martha Galbreath](/sources/opr-campbeltown-births.md#1792-03-19-martha-galbreath)
+
+[^martha-death]: Statutory registers Deaths 507/ 73, Martha Galbraith 1858 on [ScotlandPeoples](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/271145).  Listed as "Single", Age 66, her brother John present.
 
 - Jean Corbert in [FindAGrave](https://www.findagrave.com/memorial/207287627/jean-galbraith)
 
