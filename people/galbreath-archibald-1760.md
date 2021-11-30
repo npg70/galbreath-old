@@ -27,7 +27,7 @@ Children of Archibald and Jean (Corbet) Galbreath:[^children2]
 2. *William Galbreath*, b. 9 Nov 1794
 3. *Agnes Galbreath*, b. 4 Feb 1797
 4. *[Andrew Galbraith](galbraith-andrew-1799.md)*, b. 10 Feb 1799, m. *Margaret Bogle Scott*. Lord Provost of Glasgow 1857-60
-5. *William Galbreath*, b. 8 Feb 1801, d. 1863
+5. *William Galbreath*, b. 8 Feb 1801, d. 2 Nov 1863, merchant, unmarried[^william2-death]
 6. *Margaret Galbreath*, b. 19 Jan 1803
 7. *[Jean Galbreath](galbraith-jean-1805.md)*, b. 7 Apr 1805, m. *John Coville Jr*
 8. *[Archibald Galbraith](galbraith-archibald-1807.md)*, b. 31 May 1807.  Cotton Merchant & Manufacturer A&A Galbraith
@@ -45,6 +45,8 @@ Children of Archibald and Jean (Corbet) Galbreath:[^children2]
 [^martha-birth]: OPR Campbeltown, baptism of [Martha Galbreath](/sources/opr-campbeltown-births.md#1792-03-19-martha-galbreath)
 
 [^martha-death]: Statutory registers Deaths 507/ 73, Martha Galbraith 1858 on [ScotlandPeoples](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/271145).  Listed as "Single", Age 66, her brother John present.
+
+[^william2-death]: 1863 GALBRAITH, WILLIAM Statutory registers Deaths 507/ 140 on [ScotlandPeoples](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/581240)
 
 [^jean-burial]: Jean Corbert in [FindAGrave](https://www.findagrave.com/memorial/207287627/jean-galbraith)
 
