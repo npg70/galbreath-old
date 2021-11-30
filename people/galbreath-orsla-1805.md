@@ -15,4 +15,4 @@ Children of High and Orsla (Galbreath) Templeton:
 7. *Archibald Templeton*, 1843–Deceased	 • 	K8YW-RNY​​
 8. *Elizabeth Templeton*, 1844–Deceased	 • 	KH21-LN6
 
-[^birth]: OPR Campbelotwn, baptism of [Orsella Galbreath]()
+[^birth]: OPR Campbeltown, baptism of [Orsella Galbreath](/sources/opr-campbeltown-births.md#1805-11-24-orsella-galbreath)
