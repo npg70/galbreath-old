@@ -2,7 +2,7 @@
 title: Mary Galbreath b. 1788 m. Robert Clark
 familysearch: https://www.familysearch.org/tree/person/details/M1Y6-GJN
 ---
-***Mary Galbreath***, daughter of *[David Galbreath](galbreath-david-1755.md)* and *Mary Flemming*, born Campbeltown 29 Aug 1788, [^birth], died 6 Aug 1877,[^death] burried in Kilkerran.[^burial] Married 22 Apr 1813 [^marriage] to **Robert Clark**.
+***Mary Galbreath***, daughter of *[David Galbreath](galbreath-david-1755.md)* and *Mary Flemming*, born Campbeltown 29 Aug 1788,[^birth], died 6 Aug 1877,[^death] burried in Kilkerran.[^burial] Married 22 Apr 1813 [^marriage] to **Robert Clark**.
 
 Children of Robert and Mary (Galbreath) Clark, all baptised in Campbeltown:[^children]
 
@@ -13,9 +13,7 @@ Children of Robert and Mary (Galbreath) Clark, all baptised in Campbeltown:[^chi
 5. *Robert Clark*, bp. 14 Sep 1823, m. *Catherine McNair*
 6. *Jean Clark*, bp. 27 Jun 1826
 
-
-[^birth]: OPR record of baptism TBD
-
+[^birth]: OPR Campbeltown, baptism of [Mary Galbreath](/sources/opr-campbeltown-births.md#1788-08-29-mary-galbreath)
 
 [^death]: Civil death record confirms date of death as well as her parents on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&dl_cat=statutory&dl_rec=statutory-deaths&surname=Clark&surname_so=exact&forename=Mary&forename_so=starts&other_surname_so=exact&mmsurname_so=syn&sex=F&from_year=1877&to_year=1877&birth_year_range=3&county=ARGYLL&rd_real_name%5B0%5D=ARGYLL%20AND%20BUTE%20%28CAMPBELTOWN%29%20OR%20CAMPBELTOWN%20%28LANDWARD%29%20OR%20CAMPBELTOWN%20%28BURGH%29%20OR%20CAMPBELTOWN&rd_display_name%5B0%5D=ARGYLL%20AND%20BUTE%20%28CAMPBELTOWN%29%7CCAMPBELTOWN%20%28LANDWARD%29%7CCAMPBELTOWN%20%28BURGH%29%7CCAMPBELTOWN_CAMPBELTOWN&rdno%5B0%5D=ARGYLL%20AND%20BUTE%20%2ACAMPBELTOWN%2A%20OR%20CAMPBELTOWN%20%2ALANDWARD%2A%20OR%20CAMPBELTOWN%20%2ABURGH%2A%20OR%20CAMPBELTOWN&record_type=stat_deaths)
 
