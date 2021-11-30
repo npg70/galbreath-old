@@ -13,18 +13,9 @@ Married first at Campbeltown 14 Sep 1787 to **Martha Langwill**[^marriage1]
 - burial: Kilkerran Cemetery, Campbeltown, Argyll and Bute, Scotland
 - marriage: 14 Sep 1787; Campbeltown, Argyll, Scotland
 
-He married second to **Jean Corbett**.
-
-- father: *Alexander Corbett*
-- mother: *Isobell Peterson*
-- birth: 12 May 1771; Abbey, Paisley, Scottland
-- baptism: 15 May 1771; Abbey, Paisley, Renfrew, Scotland
-- death: 2 Aug 1861; Paisley, Renfrewshire, Scotland
-- burial: Kilkerran Cemetery, Campbeltown, Argyll and Bute, Scotland
-- marriage: should be around 1789-1791, but can't find it in OPR
+He married second to **Jean Corbett**, daughter of Daniel Corbett blacksmith and Agnes Armour.  She died 2 Aug 1861 and burried at  Kilkerran Cemetery, Campbeltown, Argyll and Bute, Scotland.[^jean-burial]  The marriage should be around 1789-1791, but can't find it in OPR
 
 Likely occupation was Maltster, and then a "Grazier" (a pastoral/livestock farmer)[^1841]
-
 
 Children of Archibald and Martha (Langwill) Galbreath:[^children1]
 
@@ -55,7 +46,7 @@ Children of Archibald and Jean (Corbet) Galbreath:[^children2]
 
 [^martha-death]: Statutory registers Deaths 507/ 73, Martha Galbraith 1858 on [ScotlandPeoples](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/271145).  Listed as "Single", Age 66, her brother John present.
 
-- Jean Corbert in [FindAGrave](https://www.findagrave.com/memorial/207287627/jean-galbraith)
+[^jean-burial]: Jean Corbert in [FindAGrave](https://www.findagrave.com/memorial/207287627/jean-galbraith)
 
 - "A List of the Matriculated Members of the Merchants House of Glasgow From 3rd October, 1768, to 10th June, 1891 : Arranged Alphabetically, in Chronological Order: to which is Appended a List of the Deans of Guild : and Collectors of the House, from the Date of the Letter of Guildry in the Year 1605, to the Present Time", available on [Google Books](https://www.google.com/books/edition/A_List_of_the_Matriculated_Members_of_th/csYxAQAAMAAJ?hl=en&gbpv=1&bsq=galbraith).  Lists "Archibald Galbraitth, Maltster, Campbeltown" with two sons admitted to Glasgow Merchant House
     - "Galbraith, Arch.", matriculated in 1843, elected 1856 as Director
