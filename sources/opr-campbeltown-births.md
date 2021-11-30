@@ -1264,7 +1264,7 @@ John | Lawful Son to [William Galbraith](/people/galbreath-william-1780.md) work
 > Jean | Lawful Daughter to [Archibald Galbreath](/people/galbreath-archibald-1760.md) Merchant in Campbeltown and 
 > Jean Corbet, born 28th March, baptised 7th April 1805.  Jean
 
-## [1805-11-24 Orsella Galbreath](/people/galbreath-orsla-1805.md)
+## [1805-11-24 Orsella Galbreath](/people/galbreath-orsella-1805.md)
 
 [507/40 282 row 18](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358491?image=282)
 
