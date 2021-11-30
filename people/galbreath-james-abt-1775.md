@@ -8,7 +8,7 @@ Children of James and Martha Galbreath, all baptized in Campbeltown:[^children]
 
 1. *Janet Galbreath*, bp. 31 Sep 1801[^birth-janet]
 2. [*Archibald Galbreath*](galbreath-archibald-1803.md), bp. 11 Sep 1803,[^birth-archibald], m1. *Eugina McCallum*, m2. *Margaret Loynachan*
-3. [*Orsella Galbreath*](galbreath-orsla-1805.md), bp. 24 Nov 1805[^birth-orsla]
+3. [*Orsella Galbreath*](galbreath-orsla-1805.md), bp. 24 Nov 1805[^birth-orsella]
 4. *Martha Galbreath*, bp. 16 Dec 1807[^birth-martha]
 4. *Catharine Galbreath*, bp. 25 Apr 1809[^birth-catharine]
 5. *Samuel Galbreath*, bp. 20 Feb 1811[^birth-samuel]
@@ -18,7 +18,8 @@ Children of James and Martha Galbreath, all baptized in Campbeltown:[^children]
 8. *Jean Galbreath*, bp. 3 Dec 1817[^birth-jean]
 9. *Mary Galbreath*, bp. 13 Mar 1821[^birth-mary2]
 
-[^marriage]: OPR for marriage on [ScotlandsPeople]()
+[^marriage]: OPR for marriage on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/9531021?image=51&return_row=0) indexed as 20 March 1800, but appears to me as the 26th.  The transcription is:
+    > James Galbreath and Martha Galbreath both of this parish 26 [March 1800]
 
 [^children]: All births confirmed on ScotlandsPeople but there is no nice query
 
