@@ -6,7 +6,7 @@ findagrave: https://www.findagrave.com/memorial/167549527/martha-gailbraith
 ***Martha Galbreath***, daughter of *[Samuel Galbreath](/people/galbreath-samuel-1765.md) and Janet Langwill,
 baptized at Campbeltown 26 Feb 1800,[^birth] died at Shore Stree, Campbeltown 17 March 1871.[^death]
 
-She married at Campbeltown 26 Jan 1832, to **Malcom McMillian**, an inn-keeper.
+She married at Campbeltown 26 Jan 1832,[^marriage] to **Malcom McMillian**, an inn-keeper.
 
 [^birth]: OPR Campbeltown, baptism of [Martha Galbreath](/sources/opr-campbeltown-births.md#1800-02-26-martha-galbreath)
 
