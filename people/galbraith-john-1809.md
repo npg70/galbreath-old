@@ -49,4 +49,4 @@ From Angus Martin's "Campbeltown Whisky: An Encyclopaedia", page 77:
 
 [^scotia1]: [Distilleries of Campbeltown, page 89](/sources/distilleries-of-campbeltown.md#page-89)
 
-[^birth-archibald]: OPR Campbeltwon, baptism of [Archibald Galbreath](/opr-campbeltown-births.md#1845-10-06-archibald-galbreath)
+[^birth-archibald]: OPR Campbeltown, baptism of [Archibald Galbreath](/opr-campbeltown-births.md#1845-10-06-archibald-galbreath)
