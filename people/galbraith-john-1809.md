@@ -10,7 +10,8 @@ findagrave: https://www.findagrave.com/memorial/177759816/john-galbraith
 
 Children of John and Mary (McEwing) Galbraith:
 
-1. *Elizabeth Galbraith*, b. 1841, m. *James Nicol Fleming* 
+1. *Elizabeth Galbraith*, bp. 1841, m. *James Nicol Fleming* 
+2. *Archibald Galbraith*, bp. 06 Oct 1845
 
 # Sources
 
