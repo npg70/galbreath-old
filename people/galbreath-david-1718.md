@@ -19,6 +19,6 @@ Children of David and Mary (Langwill) Galbreath, all baptized at Campbeltown:
 
 [^birth-isobell]: OPR Campbeltown, baptism of [Isobell Galbreath](/sources/opr-campbeltown-births.md#1743-05-00-isobell-galbreath)
 
-[^birth-mary]: OPR Campbeltown, baptism of [Mary Galbreath](/sources/opr-campbeltown-births.md#1746-09-07-mary-galbreath
+[^birth-mary]: OPR Campbeltown, baptism of [Mary Galbreath](/sources/opr-campbeltown-births.md#1746-09-07-mary-galbreath)
 
 [^birth-peter]: OPR Campbeltown, baptism of [Peter Galbreath](/sources/opr-campbeltown-births.md#1749-04-05-peter-galbreath)
