@@ -31,7 +31,7 @@ Children of Archibald and Jean (Corbet) Galbreath:[^children2]
 2. *William Galbreath*, bp. 9 Nov 1794[^william1-birth]
 3. *Agnes Galbreath*, bp. 4 Feb 1797,[^agnes-birth] d. 8 Aug 1884[^agnes-death]
 4. *[Andrew Galbraith](galbraith-andrew-1799.md)*, bp. 10 Feb 1799,[^andrew-birth] m. *Margaret Bogle Scott*. Lord Provost of Glasgow 1857-60
-5. *William Galbreath*, bp. 8 Feb 1801, d. 2 Nov 1863, merchant, unmarried[^william2-death]
+5. *William Galbreath*, bp. 8 Feb 1801,[^william2-birth] d. 2 Nov 1863, merchant, unmarried[^william2-death]
 6. *Margaret Galbreath*, bp. 19 Jan 1803
 7. *[Jean Galbreath](galbraith-jean-1805.md)*, bp. 7 Apr 1805, m. *John Coville Jr*
 8. *[Archibald Galbraith](galbraith-archibald-1807.md)*, bp. 31 May 1807.  Cotton Merchant & Manufacturer A&A Galbraith
@@ -58,6 +58,8 @@ Children of Archibald and Jean (Corbet) Galbreath:[^children2]
 [^agnes-death]: [Scotland, National Probate Index (Calendar of Confirmations and Inventories), 1876-1936](https://www.ancestry.com/sharing/23506551?h=f30cea&clickref=1101liD82beH%2C1101liD82beH&adref=&o_xid=01011l4xx5&o_lid=01011l4xx5&o_sch=Affiliate%2BExternal) and [FindAGrave](https://www.findagrave.com/memorial/204250233/agnes-galbraith)
 
 [^andrew-birth]: OPR Campbeltown, baptism of [Andrew Galbreath](/sources/opr-campbeltown-births.md#1799-02-10-andrew-galbreath)
+
+[^william2-birth]: OPR Campbeltown, baptism of [William Galbreath](/sources/opr-campbeltown-births.md#1801-02-08-william-galbreath)
 
 [^william2-death]: 1863 GALBRAITH, WILLIAM Statutory registers Deaths 507/ 140 on [ScotlandPeoples](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/581240)
 
