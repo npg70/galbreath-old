@@ -18,7 +18,7 @@ Children of David and Janet (Galbreath) Mitchell, all baptised Campbeltown:[^chi
 8. *James Galbreath*, bp. 2 Jun 1839
 9. *John Galbreath*, bp. 25 Jul 1842
 
-[^birth]: OPR record of baptism for [David Galbreath](/sources/opr-campbeltown-births.md#1797-09-09-david-galbreath)
+[^birth]: OPR Campbeltown, baptism of [David Galbreath](/sources/opr-campbeltown-births.md#1797-09-09-david-galbreath)
 
 [^marriage]: OPR record of marriage for David Galbreath and Janet Mitchell on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/9530948?image=263)
 
