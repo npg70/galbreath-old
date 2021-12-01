@@ -40,3 +40,9 @@ Children of James and Mary (Fleming) Galbreath, all baptized at Campbeltown:[^ch
 [^birth-patrick]: OPR Campbeltown, baptism of [Patrick Galbreath](/sources/opr-campbeltown-births.md#1713-08-20-patrick-galbreath)
 
 [^birth-james2]: OPR Campbeltown, baptism of [James Galbreath](/sources/opr-campbeltown-births.md#1713-03-22-james-galbreath)
+
+[^birth-archibald]: OPR Campbeltown, baptism of [Archibald Galbreath](/sources/opr-campbeltown-births.md#1715-09-09-archibald-galbreath)
+
+[^birth-david]: OPR Campbeltown, baptism of [David Galbreath](/sources/opr-campbeltown-births.md#1719-04-28-david-galbreath)
+
+[^birth-agnes]: OPR Campbeltown, baptism of [Agnas Galbreath](/sources/opr-campbeltown-births.md#1722-02-18-agnas-galbreath)
