@@ -1453,6 +1453,10 @@ TBD: [Archibald Galbreath](/people/galbreath-archibald-1760.md) / Jean Corbet
 
 Note: right above on same page is the same day baptism of Jane Patterson, daughter of James Patterson and Isabella Galbreath
 
+## 1841-05-10 Elizabeth Galbreath
+
+TBD:  [John Galbraith](/people/galbraith-john-1809.md) / Mary Coville McEwing
+
 ## 1841-11-07 James Galbreath
 
 [507/70 207 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357470?image=207)
