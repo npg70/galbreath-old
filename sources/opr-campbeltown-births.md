@@ -343,7 +343,7 @@ TBD: [David Galbreath](/people/galbreath-david-1719.md) / Jean Langwill
 
 ## 1743-05-00 Isobell Galbreath
 
-TBD: David Galbreath / Mary Langwill
+TBD: [David Galbreath](/people/galbreath-david-1718.md) / Mary Langwill
 
 ## 1743-09-15 Mary Galbreath
 
@@ -388,7 +388,7 @@ TBD: [James Galbreath](/people/galbreath-james-1713.md) / Margaret Adam
 
 ## 1746-09-07 Mary Galbreath
 
-TBD: David Galbreath / Mary Langwill
+TBD: [David Galbreath](/people/galbreath-david-1718.md) / Mary Langwill
 
 ## 1746-12-04 Mary Galbreath
 
