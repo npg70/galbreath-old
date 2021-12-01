@@ -20,4 +20,4 @@ Larne, Ireland is almost exactly straight south from Campbeltown across the sea.
 
 [^children]: TBD. These are now civil records.
 
-[^m2]: Birth of Maria Galbreath in Civil Registers of Campbeltown, Argyll as trasnscribed at [MyAinsFolk](https://www.myainfolk.ca/records/5060)
+[^m2]: Birth of Maria Galbraith in Civil Registers of Campbeltown, Argyll as trasnscribed at [MyAinsFolk](https://www.myainfolk.ca/records/5060)
