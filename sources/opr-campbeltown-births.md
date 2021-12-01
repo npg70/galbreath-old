@@ -1518,6 +1518,10 @@ Unclear why I recorded this one.
 > Neill | | Lawful son of [Arch Galbreath](/people/galbreath-archibald-1803.md), farmer, Ugadale and Margt. Loynachan,
 > was born 20th May & bapt. 15 June 1845
 
+## 1845-10-06 Archibald Galbreath
+
+TBD: [John Galbraith](/people/galbraith-john-1809.md) /  Mary Coville McEwing
+
 ## 1846-07-12 Archibald Galbreath 
 
 [507/70 306 row 12](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357318?image=306)
