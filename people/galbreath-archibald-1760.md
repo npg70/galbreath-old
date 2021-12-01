@@ -17,6 +17,10 @@ He married second to **Jean Corbett**, daughter of Daniel Corbett blacksmith and
 
 Likely occupation was Maltster, and then a "Grazier" (a pastoral/livestock farmer)[^1841]
 
+- "A List of the Matriculated Members of the Merchants House of Glasgow From 3rd October, 1768, to 10th June, 1891 : Arranged Alphabetically, in Chronological Order: to which is Appended a List of the Deans of Guild : and Collectors of the House, from the Date of the Letter of Guildry in the Year 1605, to the Present Time", available on [Google Books](https://www.google.com/books/edition/A_List_of_the_Matriculated_Members_of_th/csYxAQAAMAAJ?hl=en&gbpv=1&bsq=galbraith).  Lists "Archibald Galbraitth, Maltster, Campbeltown" with two sons admitted to Glasgow Merchant House
+    - "Galbraith, Arch.", matriculated in 1843, elected 1856 as Director
+    - "Galbraith, And.", matriculated in 1843, elected 1850 as "Dean of Guild"
+
 Children of Archibald and Martha (Langwill) Galbreath:[^children1]
 
 1. *William Galbreath*, b. 12 Feb 1789
@@ -24,15 +28,16 @@ Children of Archibald and Martha (Langwill) Galbreath:[^children1]
 Children of Archibald and Jean (Corbet) Galbreath:[^children2]
 
 1. *Martha Galbreath*, bp. 19 Mar 1792,[^martha-birth] d. 13 July 1858, buried at Kilkerran, unmarried.[^martha-death]
-2. *William Galbreath*, b. 9 Nov 1794
-3. *Agnes Galbreath*, b. 4 Feb 1797
-4. *[Andrew Galbraith](galbraith-andrew-1799.md)*, b. 10 Feb 1799, m. *Margaret Bogle Scott*. Lord Provost of Glasgow 1857-60
-5. *William Galbreath*, b. 8 Feb 1801, d. 2 Nov 1863, merchant, unmarried[^william2-death]
-6. *Margaret Galbreath*, b. 19 Jan 1803
-7. *[Jean Galbreath](galbraith-jean-1805.md)*, b. 7 Apr 1805, m. *John Coville Jr*
-8. *[Archibald Galbraith](galbraith-archibald-1807.md)*, b. 31 May 1807.  Cotton Merchant & Manufacturer A&A Galbraith
-9. *[John Galbraith](galbraith-john-1809.md)*, b. 5 Sept. 1809, m. *Mary Colvill McEwing*. Provost of Campbeltown 1860-66
-10. *Mary Galbreath*, b. 16 Jan 1814.  Under "Archd. Galbreath/Jean Corbert"
+2. *William Galbreath*, bp. 9 Nov 1794
+3. *Agnes Galbreath*, bp. 4 Feb 1797
+4. *[Andrew Galbraith](galbraith-andrew-1799.md)*, bp. 10 Feb 1799, m. *Margaret Bogle Scott*. Lord Provost of Glasgow 1857-60
+5. *William Galbreath*, bp. 8 Feb 1801, d. 2 Nov 1863, merchant, unmarried[^william2-death]
+6. *Margaret Galbreath*, bp. 19 Jan 1803
+7. *[Jean Galbreath](galbraith-jean-1805.md)*, bp. 7 Apr 1805, m. *John Coville Jr*
+8. *[Archibald Galbraith](galbraith-archibald-1807.md)*, bp. 31 May 1807.  Cotton Merchant & Manufacturer A&A Galbraith
+9. *[John Galbraith](galbraith-john-1809.md)*, bp. 5 Sept. 1809, m. *Mary Colvill McEwing*. Provost of Campbeltown 1860-66
+10. *Rachel Galbreath*, bp. 25 Aug 1811,[^birth-rachel]
+11. *Mary Galbreath*, bp. 16 Jan 1814.  Under "Archd. Galbreath/Jean Corbert"
 
 [^1841]: Family listed in 1841 Census in [FindMyPast](https://www.findmypast.com/transcript?id=GBC%2F1841%2F0016605235) (Grazier: a pastoral farmer, producing livestock rather than crops)
 
@@ -50,6 +55,6 @@ Children of Archibald and Jean (Corbet) Galbreath:[^children2]
 
 [^jean-burial]: Jean Corbert in [FindAGrave](https://www.findagrave.com/memorial/207287627/jean-galbraith)
 
-- "A List of the Matriculated Members of the Merchants House of Glasgow From 3rd October, 1768, to 10th June, 1891 : Arranged Alphabetically, in Chronological Order: to which is Appended a List of the Deans of Guild : and Collectors of the House, from the Date of the Letter of Guildry in the Year 1605, to the Present Time", available on [Google Books](https://www.google.com/books/edition/A_List_of_the_Matriculated_Members_of_th/csYxAQAAMAAJ?hl=en&gbpv=1&bsq=galbraith).  Lists "Archibald Galbraitth, Maltster, Campbeltown" with two sons admitted to Glasgow Merchant House
-    - "Galbraith, Arch.", matriculated in 1843, elected 1856 as Director
-    - "Galbraith, And.", matriculated in 1843, elected 1850 as "Dean of Guild"
+[^birth-rachel]: OPR Campbeltown, baptism of [Rachel Galbreath](/sources/opr-campbeltown-births.md#1811-08-25-rachel-galbreath)
+
+
