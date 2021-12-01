@@ -11,7 +11,7 @@ Children of William and Maria (McMurtry) Galbreath:[^children]
 1. *Maria Galbraith*, b. 11 Apr 1874 [^m2]
 
 
-[^birth]: [OPR record of bapitsm](/sources/opr-campbeltown-births.md#1833-10-02-william-galbreath)
+[^birth]: OPR Campbeltown, baptsim of [William Galbreath](/sources/opr-campbeltown-births.md#1833-10-02-william-galbreath)
 
 [^marriage]: two records from Family searchhttps://www.familysearch.org/ark:/61903/1:1:QGVD-29Z8?from=lynx1UIV8&treeref=K84P-4BG
 https://www.familysearch.org/ark:/61903/1:1:FGX1-QBP?from=lynx1UIV8&treeref=K84P-4BG Source list William’s father as “David Galbraith”
