@@ -83,7 +83,8 @@ some children of William Blue and Susan Galbreath: https://www.scotlandspeople.g
 
 2021-11-28:
 * nothing on familysearch
-* David is not in civil records.
+* maybe david birth, son of David farmer Ugalale, and Mary Greenless  https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357356?image=489&return_row=1
+* David death is not in civil records.
 * Catherina Galbraith is in civil records
     * https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/2849533?return_row=6
     * Widow of David Galbraith, Fisherman
