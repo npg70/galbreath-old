@@ -17,7 +17,7 @@ Children of James and Mary (Fleming) Galbreath, all baptized at Campbeltown:[^ch
 7. [*James Galbreath*](galbreath-james-1713.md), bp. 20 Aug 1713,[^birth-james2] m. *Margaret Adam*.
 8. *Archibald Galbreath*, bp. 9 Sept 1715.[^birth-archibald]
 9. [*David Galbreath*](galbreath-david-1719.md), bp. 28 Apr 1719;[^birth-david] m. *Jean Langwill*.
-10. [*Agnes Galbreath*](galbreath-agnes-1722.md), bp. 18 Feb 1722;[^birth-anges] m. *James Clark*.
+10. [*Agnes Galbreath*](galbreath-agnes-1722.md), bp. 18 Feb 1722;[^birth-angas] m. *James Clark*.
 
 [^birth]: OPR baptism record for [James Galbreath](/sources/opr-campbeltown-births.md#1672-08-25-james-galbreath)
 
@@ -45,4 +45,5 @@ Children of James and Mary (Fleming) Galbreath, all baptized at Campbeltown:[^ch
 
 [^birth-david]: OPR Campbeltown, baptism of [David Galbreath](/sources/opr-campbeltown-births.md#1719-04-28-david-galbreath)
 
-[^birth-agnes]: OPR Campbeltown, baptism of [Agnas Galbreath](/sources/opr-campbeltown-births.md#1722-02-18-agnas-galbreath)
+[^birth-agnas]: OPR Campbeltown, baptism of [Agnas Galbreath](/sources/opr-campbeltown-births.md#1722-02-18-agnas-galbreath)
+
