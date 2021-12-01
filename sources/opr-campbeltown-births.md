@@ -1235,12 +1235,17 @@ TBD: Neil Galbreath / Fineul ??
 >  Florence | John Molloy & Katherine Galbreath in town had a lawful dau. A
 >  born 27th baptized 28th Feb. The childs name is Florance
 
+## 1801-02-08 William Galbreath
+
+TBD: [Archibald Galbreath](/people/galbreath-archibald-1760.md) / Jean Corbet
+
 ## 1801-09-31 Janet Galbreath
 
 [507/40 19 row 16](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358131?image=219)
 
 > Janet | [James Galbreath](/people/galbreath-james-abt-1775.md) & Martha Galbreath Skerbolin 
 > had a lawful Dau Born 30th Baptized 31st named Janet
+
 
 ## 1802-04-22 John Galbreath
 
