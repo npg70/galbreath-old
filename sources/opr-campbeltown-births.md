@@ -101,7 +101,13 @@ Gaps:
 
 > James | Lawfull son to [John Galbreath](/people/galbreath-john-1680.md) and Mary Mitchell his lawful spouse, Born March 22nd named James
 
-## 1713-08-20 Patrick and James Galbreath
+## 1713-08-20 Patrick Galbreath
+
+[507/11 117 row 7](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356959?image=117), twins
+
+> Patrick & James | Lawful children to [James Galbreath](/people/galbreath-james-1672.md) and Mary Flemming his lawful spouse Born 20th August Named Patrick and James
+
+## 1713-08-20 James Galbreath
 
 [507/11 117 row 7](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356959?image=117), twins
 
