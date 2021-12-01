@@ -13,7 +13,7 @@ Children of David and Janet (Galbreath) Mitchell, all baptised Campbeltown:[^chi
 3. *Agnes Galbreath*, bp. 3 Aug 1828
 4. *Janet Galbreath*, bp. 6 May 1830
 5. *David Galbreath*, bp. 29 Jul 1832
-6. *[William Galbreath](galbreath-william-1833.md)*, bp. 2 Oct 1833
+6. *[William Galbreath](galbreath-william-1833.md)*, bp. 2 Oct 1833, m. *Maria McMurtry*
 7. *David Galbreath*, bp. 30 Aug 1835
 8. *James Galbreath*, bp. 2 Jun 1839
 9. *John Galbreath*, bp. 25 Jul 1842
