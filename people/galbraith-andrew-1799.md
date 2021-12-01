@@ -14,7 +14,7 @@ Children of Andrew and Margaret (Scott) Galbraith, all baptised at the Barony Pa
 3. *Agnes Galbraith*, bp. 11 Dec 1835
 4. *Willamina Galbraith*, b. 7 Jun 1838, d. 1920,  m. *Hugh Cowan*
 
-[^birth]: [OPR record for birth](/sources/opr-campbeltown-births.md#1799-02-10-andrew-galbreath)
+[^birth]: OPR Campbeltown, baptsim of [Andrew Galbreath](/sources/opr-campbeltown-births.md#1799-02-10-andrew-galbreath)
 
 [^marriage]: OPR record of marriage on [ScotlandsPeoples](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=M&record_type%5B0%5D=opr_marriages&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-banns-marriages&surname=Galbraith&surname_so=exact&forename=Andrew&forename_so=starts&sex=M&spouse_name=Scott&spouse_name_so=exact&from_year=1826&to_year=1826&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
 
