@@ -30,14 +30,14 @@ Children of Archibald and Jean (Corbet) Galbreath:[^children2]
 1. *Martha Galbreath*, bp. 19 Mar 1792,[^martha-birth] d. 13 July 1858, buried at Kilkerran, unmarried.[^martha-death]
 2. *William Galbreath*, bp. 9 Nov 1794[^william1-birth]
 3. *Agnes Galbreath*, bp. 4 Feb 1797,[^agnes-birth] d. 8 Aug 1884[^agnes-death]
-4. *[Andrew Galbraith](galbraith-andrew-1799.md)*, bp. 10 Feb 1799, m. *Margaret Bogle Scott*. Lord Provost of Glasgow 1857-60
+4. *[Andrew Galbraith](galbraith-andrew-1799.md)*, bp. 10 Feb 1799,[^andrew-birth] m. *Margaret Bogle Scott*. Lord Provost of Glasgow 1857-60
 5. *William Galbreath*, bp. 8 Feb 1801, d. 2 Nov 1863, merchant, unmarried[^william2-death]
 6. *Margaret Galbreath*, bp. 19 Jan 1803
 7. *[Jean Galbreath](galbraith-jean-1805.md)*, bp. 7 Apr 1805, m. *John Coville Jr*
 8. *[Archibald Galbraith](galbraith-archibald-1807.md)*, bp. 31 May 1807.  Cotton Merchant & Manufacturer A&A Galbraith
 9. *[John Galbraith](galbraith-john-1809.md)*, bp. 5 Sept. 1809, m. *Mary Colvill McEwing*. Provost of Campbeltown 1860-66
-10. *Rachel Galbreath*, bp. 25 Aug 1811,[^birth-rachel], d. 1817[^death-rachel]
-11. *Mary Galbreath*, bp. 16 Jan 1814.  Under "Archd. Galbreath/Jean Corbert"
+10. *Rachel Galbreath*, bp. 25 Aug 1811,[^birth-rachel] d. 1817[^death-rachel]
+11. *Mary Galbreath*, bp. 16 Jan 1814. Under "Archd. Galbreath/Jean Corbert"
 
 [^1841]: Family listed in 1841 Census in [FindMyPast](https://www.findmypast.com/transcript?id=GBC%2F1841%2F0016605235) (Grazier: a pastoral farmer, producing livestock rather than crops)
 
@@ -56,6 +56,8 @@ Children of Archibald and Jean (Corbet) Galbreath:[^children2]
 [^agnes-birth]: OPR Campbeltown, baptism of [Agnes Galbreath](/sources/opr-campbeltown-births.md#1797-02-04-agnes-galbreath)
 
 [^agnes-death]: [Scotland, National Probate Index (Calendar of Confirmations and Inventories), 1876-1936](https://www.ancestry.com/sharing/23506551?h=f30cea&clickref=1101liD82beH%2C1101liD82beH&adref=&o_xid=01011l4xx5&o_lid=01011l4xx5&o_sch=Affiliate%2BExternal) and [FindAGrave](https://www.findagrave.com/memorial/204250233/agnes-galbraith)
+
+[^andrew-birth]: OPR Campbeltown, baptism of [Andrew Galbreath](/sources/opr-campbeltown-births.md#1799-02-10-andrew-galbreath)
 
 [^william2-death]: 1863 GALBRAITH, WILLIAM Statutory registers Deaths 507/ 140 on [ScotlandPeoples](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/581240)
 
