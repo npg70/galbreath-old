@@ -1228,7 +1228,7 @@ TBD: Neil Galbreath / Fineul ??
 >  Martha | [Samuel Galbreath](/people/galbreath-samuel-1765.md) and Janet Langwill in Drumlesnell[sic]
 >  had a lawful dat. born 24th baptized 26th Feb. [1800] named Martha
 
-## 1800-02-28 Florance Galbreath
+## 1800-02-28 Florance Molloy
 
 [507/40 197 row 8](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358384?image=197)
 
