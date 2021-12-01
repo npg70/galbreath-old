@@ -149,7 +149,7 @@ TBD: another record under Calbreath
 
 > Patrick son lawful to [John Cabreath](/people/galbreath-john-1680.md) & Mary Mitchell in Kilkeddan May 31
 
-## 1718-10-02 David Galbreath
+## [1718-10-02 David Galbreath](/people/galbreath-david-1718.md)
 
 [507/11 135 row 3](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357352?image=135)
 
