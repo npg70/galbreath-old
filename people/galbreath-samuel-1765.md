@@ -44,3 +44,6 @@ Children of Samuel and Jenat (Langwill) Galbreath, all born in Campbeltown:[^chi
 [^birth-janet]: OPR Campbeltown, baptism of [Janet Galbreath](/sources/opr-campbeltown-births.md#1795-10-26-janet-galbreath)
 
 [^birth-james]: OPR Campbeltown, baptism of [James Galbreath](/sources/opr-campbeltown-births.md#1802-09-15-james-galbreath)
+
+[^birth-mary]: OPR Campbeltown, baptism of [Mary Galbreath](/sources/opr-campbeltown-births.md#1804-05-22-mary-galbreath)
+
