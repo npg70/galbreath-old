@@ -27,9 +27,9 @@ Children of Samuel and Jenat (Langwill) Galbreath, all born in Campbeltown:[^chi
 2. *Janet Galbreath*, bp. 26 Oct 1795[^birth-janet]
 3. *[David Galbreath](galbreath-david-1797.md)*, bp. 19 Sep 1797,[^birth-david] m. *Janet Mitchell*
 4. *[Martha Galbreath](galbreath-martha-1800.md)*, bp. 26 Feb 1800,[^birth-martha] m. *Malcolm McMillan*, "in Drumlenell" or something.
-5. *James Galbreath*, b. 15 Sep 1802[^birth-james]
-6. *[Mary Galbreath](galbreath-mary-1804.md)*, bp. 22 May 1804; m. *Duncan McGill*
-7. *Agnes Galbreath*, bp. 3 Sep 1806
+5. *James Galbreath*, bp. 15 Sep 1802[^birth-james]
+6. *[Mary Galbreath](galbreath-mary-1804.md)*, bp. 22 May 1804,[^birth-mary] m. *Duncan McGill*
+7. *Agnes Galbreath*, bp. 3 Sep 1806[^birth-agnes]
 
 [^marriage]: OPR record of marriage on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=M&record_type%5B0%5D=opr_marriages&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-banns-marriages&surname=galbreath&surname_so=exact&forename_so=starts&sex=M&spouse_name=langwill&spouse_name_so=exact&from_year=1790&to_year=1794&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
 
@@ -37,13 +37,15 @@ Children of Samuel and Jenat (Langwill) Galbreath, all born in Campbeltown:[^chi
 
 [^birth-archibald]: OPR Campbeltown, baptism of [Archibald Galbreath](/sources/opr-campbeltown-births.md#1793-11-25-archibald-galbreath)
 
-[^birth-martha]: OPR Campbeltown, baptism of [Martha Galbreath](/sources/opr-campbeltown-births.md#1800-02-26-martha-galbreath)
+[^birth-janet]: OPR Campbeltown, baptism of [Janet Galbreath](/sources/opr-campbeltown-births.md#1795-10-26-janet-galbreath)
 
 [^birth-david]: OPR Campbeltown, baptism of [David Galbreath](/sources/opr-campbeltown-births.md#1797-09-09-david-galbreath)
 
-[^birth-janet]: OPR Campbeltown, baptism of [Janet Galbreath](/sources/opr-campbeltown-births.md#1795-10-26-janet-galbreath)
+[^birth-martha]: OPR Campbeltown, baptism of [Martha Galbreath](/sources/opr-campbeltown-births.md#1800-02-26-martha-galbreath)
 
 [^birth-james]: OPR Campbeltown, baptism of [James Galbreath](/sources/opr-campbeltown-births.md#1802-09-15-james-galbreath)
 
 [^birth-mary]: OPR Campbeltown, baptism of [Mary Galbreath](/sources/opr-campbeltown-births.md#1804-05-22-mary-galbreath)
+
+[^birth-agnes]: OPR Campbeltown, baptism of [Agnes Galbreath](/sources/opr-campbeltown-births.md#1806-09-03-agnes-galbreath)
 
