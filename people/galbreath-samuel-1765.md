@@ -23,8 +23,8 @@ Various baptism records indicate he was a sawyer / sawer, a maker of wood boards
 
 Children of Samuel and Jenat (Langwill) Galbreath, all born in Campbeltown:[^children]
 
-1. *Archibald Galbreath*, bp. 25 Nov 1793, [^birth-archibald]
-2. *Janet Galbreath*, bp. 26 Oct 1795 "in Town"
+1. *Archibald Galbreath*, bp. 25 Nov 1793[^birth-archibald]
+2. *Janet Galbreath*, bp. 26 Oct 1795[^birth-janet]
 3. *[David Galbreath](galbreath-david-1797.md)*, bp. 19 Sep 1797, m. *Janet Mitchell*
 4. *[Martha Galbreath](galbreath-martha-1800.md)*, bp. 26 Feb 1800,[^birth-martha] m. *Malcolm McMillan*, "in Drumlenell" or something.
 5. *James Galbreath*, b. 15 Sep 1802 "in Town"
@@ -39,4 +39,4 @@ Children of Samuel and Jenat (Langwill) Galbreath, all born in Campbeltown:[^chi
 
 [^birth-martha]: OPR Campbeltown, baptism of [Martha Galbreath](/sources/opr-campbeltown-births.md#1800-02-26-martha-galbreath)
 
-
+[^birth-janet]: OPR Campbeltown, baptism of [Janet Galbreath](/sources/opr-campbeltown-births.md#1795-10-26-janet-galbreath)
