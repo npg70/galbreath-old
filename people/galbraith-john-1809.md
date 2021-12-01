@@ -45,7 +45,7 @@ From Angus Martin's "Campbeltown Whisky: An Encyclopaedia", page 77:
 - The two "Archibald Galbreath" are the same person.  He married twice, first to Margaret Langwill, then to Jean Corbet.
 - Using this correction, the grand-father is William Galbreath who married Margaret Dunlop
 
-[^birth]: [OPR records](/sources/opr-campbeltown-births.md#1809-09-05-john-galbreath)
+[^birth]: OPR Campbeltown, baptism of [John Galbreath](/sources/opr-campbeltown-births.md#1809-09-05-john-galbreath)
 
 [^scotia1]: [Distilleries of Campbeltown, page 89](/sources/distilleries-of-campbeltown.md#page-89)
 
