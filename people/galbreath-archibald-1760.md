@@ -51,6 +51,8 @@ Children of Archibald and Jean (Corbet) Galbreath:[^children2]
 
 [^martha-death]: Statutory registers Deaths 507/ 73, Martha Galbraith 1858 on [ScotlandPeoples](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/271145).  Listed as "Single", Age 66, her brother John present.
 
+[^agnes-birth]: OPR Campbeltown, baptism of [Agnes Galbreath](/sources/opr-campbeltown-births.md#1797-02-04-agnes-galbreath)
+
 [^agnes-death]: [Scotland, National Probate Index (Calendar of Confirmations and Inventories), 1876-1936](https://www.ancestry.com/sharing/23506551?h=f30cea&clickref=1101liD82beH%2C1101liD82beH&adref=&o_xid=01011l4xx5&o_lid=01011l4xx5&o_sch=Affiliate%2BExternal) and [FindAGrave](https://www.findagrave.com/memorial/204250233/agnes-galbraith)
 
 [^william2-death]: 1863 GALBRAITH, WILLIAM Statutory registers Deaths 507/ 140 on [ScotlandPeoples](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/581240)
