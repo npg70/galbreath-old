@@ -8,9 +8,9 @@ His death is not recorded. He married at Campbeltown 8 Dec 1696, **Mary Fleming*
 
 Children of James and Mary (Fleming) Galbreath, all baptized at Campbeltown:[^children]
 
-1. [*Jenat Galbreath*](galbreath-janet-1698.md), bp. 24 Feb 1698, m. *Peter Langwill*.
-2. [*William Galbreath*](galbreath-william-1701.md), bp. 16 Nov 1701, m. *Maraget Kilpatrick*.
-3. [*Mary Galbreath*](galbreath-mary-1704.md), bp. 30 Apr 1704, m. *Matthew Ryburn*
+1. [*Jenat Galbreath*](galbreath-janet-1698.md), bp. 24 Feb 1698,[^birth-jenat] m. *Peter Langwill*.
+2. [*William Galbreath*](galbreath-william-1701.md), bp. 16 Nov 1701,[^birth-william] m. *Maraget Kilpatrick*.
+3. [*Mary Galbreath*](galbreath-mary-1704.md), bp. 30 Apr 1704,[^birth-mary] m. *Matthew Ryburn*
 4. *James Galbreath*, bp. 4 Aug 1706. Listed under "James Galbreath/Marion Fleeming". Assumed died in infancy.
 5. *Margaret Galbreath*, bp. 14 Aug 1711
 6. [*James Galbreath*](galbreath-james-1713.md), bp. 20 Aug 1713, m. *Margaret Adam*. Listed under "James Galbreath/Mary Fleming"
@@ -27,5 +27,10 @@ Children of James and Mary (Fleming) Galbreath, all baptized at Campbeltown:[^ch
 
 [^mary]: Little is known about Mary Fleming. [FamilySearch](https://www.familysearch.org/tree/person/details/K2VD-B41) gives a birth of Campbeltown 12 Feb 1676, but no records match in OPR.
 
+[^birth-jenat]: OPR Campbeltown, baptism of [Jenat Galbreath](/sources/opr-campbeltown-births.md#1698-02-24-jenat-galbreath)
+
+[^birth-william]: OPR Campbeltown, baptism of [William Galbreath](/sources/opr-campbeltown-births.md#1701-11-16-william-galbreath)
+
+[^birth-mary]: OPR Campbeltown, baptism of [Mary Galbreath](/sources/opr-campbeltown-births.md#1704-04-30-mary-galbreath)
 
 
