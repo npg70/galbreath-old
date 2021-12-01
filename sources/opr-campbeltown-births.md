@@ -1393,6 +1393,13 @@ John | Lawful Son to [William Galbraith](/people/galbreath-william-1780.md) work
 > Archibald | Lawful son of [David Galbreath](/people/galbreath-david-1797.md) sawyer and
 > Janet Mitchell was born 7th & bapt 10th July. Arch
 
+## 1827-01-14 Samuel Galbreath
+
+[507/60 137 row 8](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357778?image=137)
+
+> Samuel | Lawful son of [David Galbreath](/people/galbreath-david-1797.md) sawyer and
+> Janet Mitchell was born & bapt 14 Jan 1827. Samuel
+
 ## 1831-03-13 Mary Galbreath
 
 [507/60 31 row 11](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358436?image=31)
