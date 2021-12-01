@@ -1359,6 +1359,10 @@ John | Lawful Son to [William Galbraith](/people/galbreath-william-1780.md) work
 
 > Robert | Lawful son to William Galbreath & Jean Campbell. Born 30th & Baptized 31th May 1811
 
+## 1811-08-25 Rachel Galbreath
+
+TBD: [Archibald Galbreath](/people/galbreath-archibald-1760.md) / Jean Corbet
+
 ## 1812-02-26 Robert Galbreath
 
 [507/40 380 row 8](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357753?image=380)
