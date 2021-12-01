@@ -1386,6 +1386,13 @@ John | Lawful Son to [William Galbraith](/people/galbreath-william-1780.md) work
 > John | Lawful son of [Archd Galbreath](/people/galbreath-archibald-1798.md) Fisherman Dalitober & Mary McMillan
 > born 30th Jan & bapt 2nd Feb 1821. John
 
+## [1825-07-10 Archibald Galbreath](/people/galbraith-archibald-1825.md)
+
+[507/60 108 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357269?image=108)
+
+> Archibald | Lawful son of [David Galbreath](/people/galbreath-david-1797.md) sawyer and
+> Janet Mitchell was born 7th & bapt 10th July. Arch
+
 ## 1831-03-13 Mary Galbreath
 
 [507/60 31 row 11](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358436?image=31)
