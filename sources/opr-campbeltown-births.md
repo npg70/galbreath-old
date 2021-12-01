@@ -1453,9 +1453,9 @@ TBD: [Archibald Galbreath](/people/galbreath-archibald-1760.md) / Jean Corbet
 
 Note: right above on same page is the same day baptism of Jane Patterson, daughter of James Patterson and Isabella Galbreath
 
-## 1841-05-10 Elizabeth Galbreath
+## [1841-05-10 Elizabeth Galbreath](/people/galbraith-elizabeth-1841.md)
 
-TBD:  [John Galbraith](/people/galbraith-john-1809.md) / Mary Coville McEwing
+TBD: [John Galbraith](/people/galbraith-john-1809.md) / Mary Coville McEwing
 
 ## 1841-11-07 James Galbreath
 
