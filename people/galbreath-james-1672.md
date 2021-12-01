@@ -11,7 +11,7 @@ Children of James and Mary (Fleming) Galbreath, all baptized at Campbeltown:[^ch
 1. *[Jenat Galbreath](galbreath-janet-1698.md)*, bp. 24 Feb 1698,[^birth-jenat] m. *Peter Langwill*.
 2. *[William Galbreath](galbreath-william-1701.md)*, bp. 16 Nov 1701,[^birth-william] m. *Maraget Kilpatrick*.
 3. *[Mary Galbreath](galbreath-mary-1704.md)*, bp. 30 Apr 1704,[^birth-mary] m. *Matthew Ryburn*
-4. *James Galbreath*, bp. 4 Aug 1706. Listed under "James Galbreath/Marion Fleeming". Assumed died in infancy.
+4. *James Galbreath*, bp. 4 Aug 1706.[^birth-james1] Assumed died in infancy.
 5. *Margaret Galbreath*, bp. 14 Aug 1711[^birth-margaret]
 6. *[Patrick Galbreath](galbreath-patrick-1713.md)*, bp. 20 Aug 1713,[^birth-patrick] m. *Martha Shiddan*.
 7. *[James Galbreath](galbreath-james-1713.md)*, bp. 20 Aug 1713,[^birth-james2] m. *Margaret Adam*.
