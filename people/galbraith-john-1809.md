@@ -11,7 +11,7 @@ findagrave: https://www.findagrave.com/memorial/177759816/john-galbraith
 Children of John and Mary (McEwing) Galbraith:
 
 1. *Elizabeth Galbraith*, bp. 1841, m. *James Nicol Fleming* 
-2. *Archibald Galbraith*, bp. 06 Oct 1845
+2. *Archibald Galbraith*, bp. 06 Oct 1845[^birth-archibald]
 
 # Sources
 
@@ -48,3 +48,5 @@ From Angus Martin's "Campbeltown Whisky: An Encyclopaedia", page 77:
 [^birth]: [OPR records](/sources/opr-campbeltown-births.md#1809-09-05-john-galbreath)
 
 [^scotia1]: [Distilleries of Campbeltown, page 89](/sources/distilleries-of-campbeltown.md#page-89)
+
+[^birth-archibald]: OPR Campbeltwon, baptism of [Archibald Galbreath](/opr-campbeltown-births.md#1845-10-06-archibald-galbreath)
