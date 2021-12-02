@@ -23,7 +23,7 @@ Likely occupation was Maltster, and then a "Grazier" (a pastoral/livestock farme
 
 Children of Archibald and Martha (Langwill) Galbreath:[^children1]
 
-1. *William Galbreath*, b. 12 Feb 1789
+1. *William Galbreath*, b. 12 Feb 1789[^william0]
 
 Children of Archibald and Jean (Corbet) Galbreath:[^children2]
 
@@ -49,6 +49,8 @@ Children of Archibald and Jean (Corbet) Galbreath:[^children2]
 [^children1]: OPR Children of Archibald and Martha Langwill in [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbraith&surname_so=syn&forename_so=starts&from_year=1780&to_year=1790&parent_names=galbr&parent_names_so=starts&parent_name_two=langwill&parent_name_two_so=starts&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
 
 [^children2]:OPR Children of Archibald and Jean Corbet/Corbett/Corbit/Corbert in [ScotlandPeoples](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=exact&forename_so=starts&from_year=1792&to_year=1820&parent_names=galbreath&parent_names_so=exact&parent_name_two=cor&parent_name_two_so=starts&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&sort=asc&order=Date&field=year)
+
+[^william0-birth]: OPR Campbeltown, baptism of [William Galbreath](/sources/opr-campbeltown-births.md#1794-11-09-william-galbreath)
 
 [^martha-birth]: OPR Campbeltown, baptism of [Martha Galbreath](/sources/opr-campbeltown-births.md#1792-03-19-martha-galbreath)
 
