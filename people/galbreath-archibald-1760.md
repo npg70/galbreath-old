@@ -33,10 +33,10 @@ Children of Archibald and Jean (Corbet) Galbreath:[^children2]
 4. *[Andrew Galbraith](galbraith-andrew-1799.md)*, bp. 10 Feb 1799,[^andrew-birth] m. *Margaret Bogle Scott*. Lord Provost of Glasgow 1857-60
 5. *William Galbreath*, bp. 8 Feb 1801,[^william2-birth] d. 2 Nov 1863, merchant, unmarried[^william2-death]
 6. *Margaret Galbreath*, bp. 19 Jan 1803[^margaret-birth]
-7. *[Jean Galbreath](galbraith-jean-1805.md)*, bp. 7 Apr 1805, m. *John Coville Jr*
-8. *[Archibald Galbraith](galbraith-archibald-1807.md)*, bp. 31 May 1807.  Cotton Merchant & Manufacturer A&A Galbraith
-9. *[John Galbraith](galbraith-john-1809.md)*, bp. 5 Sept. 1809, m. *Mary Colvill McEwing*. Provost of Campbeltown 1860-66
-10. *Rachel Galbreath*, bp. 25 Aug 1811,[^birth-rachel] d. 1817[^death-rachel]
+7. *[Jean Galbreath](galbraith-jean-1805.md)*, bp. 7 Apr 1805,[jean-birth] m. *John Coville Jr*
+8. *[Archibald Galbraith](galbraith-archibald-1807.md)*,[archibald-birth] bp. 31 May 1807.  Cotton Merchant & Manufacturer A&A Galbraith
+9. *[John Galbraith](galbraith-john-1809.md)*, bp. 5 Sept. 1809,[^john-birth] m. *Mary Colvill McEwing*. Provost of Campbeltown 1860-66
+10. *Rachel Galbreath*, bp. 25 Aug 1811,[^rachel-birth] d. 1817[^rachel-death]
 11. *Mary Galbreath*, bp. 16 Jan 1814[^birth-mary]
 
 [^1841]: Family listed in 1841 Census in [FindMyPast](https://www.findmypast.com/transcript?id=GBC%2F1841%2F0016605235) (Grazier: a pastoral farmer, producing livestock rather than crops)
@@ -70,8 +70,12 @@ Children of Archibald and Jean (Corbet) Galbreath:[^children2]
 
 [^jean-birth]: OPR Campbeltown, baptism of [Jean Galbreath](/sources/opr-campbeltown-births.md#1805-04-07-jean-galbreath)
 
-[^birth-rachel]: OPR Campbeltown, baptism of [Rachel Galbreath](/sources/opr-campbeltown-births.md#1811-08-25-rachel-galbreath)
+[^archibald-birth]: OPR Campbeltown, baptism of [Archibald Galbreath](/sources/opr-campbeltown-births.md#1807-05-31-archibald-galbreath)
 
-[^death-rachel]: Memorial of Rachel Galbreath on [FindAGrave](https://www.findagrave.com/memorial/207287606/rachel-galbraith)
+[^john-birth]: OPR Campbeltown, baptism of [John Galbreath](/sources/opr-campbeltown-births.md#1809-09-05-john-galbreath)
 
-[^birth-mary]: OPR Campbeltown, baptism of [Mary Galbreath](/sources/opr-campbeltown-births.md#1814-01-16-mary-galbreath)
+[^rachel-birth]: OPR Campbeltown, baptism of [Rachel Galbreath](/sources/opr-campbeltown-births.md#1811-08-25-rachel-galbreath)
+
+[^rachel-death]: Memorial of Rachel Galbreath on [FindAGrave](https://www.findagrave.com/memorial/207287606/rachel-galbraith)
+
+[^mary-birth]: OPR Campbeltown, baptism of [Mary Galbreath](/sources/opr-campbeltown-births.md#1814-01-16-mary-galbreath)
