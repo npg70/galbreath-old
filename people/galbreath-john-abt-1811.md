@@ -23,11 +23,11 @@ Children of John and Janet (Watson) Galbreath, all baptised in Campbeltown:[^chi
 
 [^children]: OPR records of children, on [ScotlandPeoples](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=fuzzy&forename_so=starts&from_year=1839&to_year=1855&parent_names_so=fuzzy&parent_name_two=watson&parent_name_two_so=exact&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&rd_real_name%5B0%5D=CAMPBELTOWN%20%28LANDWARD%29%20OR%20CAMPBELTOWN%20%28BURGH%29%20OR%20CAMPBELTOWN&rd_display_name%5B0%5D=CAMPBELTOWN%20%28LANDWARD%29%7CCAMPBELTOWN%20%28BURGH%29%7CCAMPBELTOWN_CAMPBELTOWN&rd_label%5B0%5D=CAMPBELTOWN&rd_name%5B0%5D=CAMPBELTOWN%20%2ALANDWARD%2A%20OR%20CAMPBELTOWN%20%2ABURGH%2A%20OR%20CAMPBELTOWN&sort=asc&order=Date&field=year)
 
-[^census1841]: 1841 Census, Household of John Galbratih on [FindMyPast](https://www.findmypast.com/transcript?id=GBC%2F1841%2F0016601178),
+[^census1841]: UK Census of 1841 Census, Household of John Galbratih on [FindMyPast](https://www.findmypast.com/transcript?id=GBC%2F1841%2F0016601178),
 
-[^census1851]: Household of John Galbraith on [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1851/0019256466&expand=true), list birthplace in 1811 Campbeltown, and list occupations as "Stillman"
+[^census1851]: UK Census of 1851, Household of John Galbraith on [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1851/0019256466&expand=true), list birthplace in 1811 Campbeltown, and list occupations as "Stillman"
 
-[^census1861]: Household of John Galbraith on [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1861/0022162427&expand=true),
+[^census1861]: UK Census of 1861, Household of John Galbraith on [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1861/0022162427&expand=true),
 lists birthplace in 1805 Campbeltown, a "distillery man", a widower.
 
-[^census1871]: Household of John Galbraith on [FindMyPast](https://www.findmypast.com/transcript?id=GBC%2F1871%2F0023441458), 
+[^census1871]: UK Census of 1871, Household of John Galbraith on [FindMyPast](https://www.findmypast.com/transcript?id=GBC%2F1871%2F0023441458), 
