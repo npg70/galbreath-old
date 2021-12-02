@@ -8,7 +8,7 @@ He married first at Campbeltown 5 Mar 1835[^marriage1] to **Eugina McCallum**.  
 
 He married second at Campbeltown 25 Aug 1840[^marriage2] to **Margaret Loynachan**, born 24 Aug 1821, South End, Argyll, Scotland,  daughter of Neil Loynachan.  She died 14 Nov 1886.
 
-The 1841 and 1851 census listed him as farmer[^census1841][^census1851], however there after until his death he was  _flesher_ or butcher.[^census1861][^census1871][^census1881]
+The 1841 and 1851 census listed him as farmer[^census1841][^census1851], however there after until his death he was  _flesher_ or butcher.[^census1861][^census1871][^census1881][^james-death]
 
 Children of Archibald and Eugina (McCallum) Galbreath, both in Campbeltown:[^oprchildren1]
 
@@ -17,7 +17,7 @@ Children of Archibald and Eugina (McCallum) Galbreath, both in Campbeltown:[^opr
 
 Children of Archibald and Margaret (Loynachan) Galbreath:[^oprchildren2]
 
-1. *James Galbraith*, bp. 23 Sep 1841[^birth-james]
+1. *James Galbraith*, bp. 23 Sep 1841[^birth-james], d. 6 Dec 1875.  Seaman. Unmarried.[^james-death]
 2. *Archibald Galbraith*, bp. 17 Jul 1843[^birth-archibald]
 3. *Neil Galbreath*, bp. 20 May 1845[^birth-neil]
 4. *Agnes Galbreath*, bp. 1 Nov 1847,[^birth-agnes1] died in early childhood.
@@ -55,6 +55,8 @@ Children of Archibald and Margaret (Loynachan) Galbreath:[^oprchildren2]
 [^oprchildren1]: OPR records of baptism for the children of Archibald and Eugina McCallum from [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=exact&forename_so=starts&from_year=1830&to_year=1841&parent_names_so=exact&parent_name_two=mccallum&parent_name_two_so=fuzzy&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
 
 [^oprchildren2]: OPR records for first four children of Archibald and Margaret Loynachan from [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=fuzzy&forename_so=starts&from_year=1841&to_year=1860&parent_names_so=exact&parent_name_two=Loynachan&parent_name_two_so=fuzzy&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&sort=asc&order=Date&field=year)
+
+[^james-death]: 1875 GALBRAITH, JAMES (Statutory registers Deaths 507/ 174) on [ScotlandPeoples](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/1730657)
 
 [^birth-martha]: OPR Campbeltown, record of batpism of [Martha Galbreath](/sources/opr-campbeltown-births.md#1835-11-30-martha-galbreath)
 
