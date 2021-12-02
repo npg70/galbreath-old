@@ -23,7 +23,7 @@ Likely occupation was Maltster, and then a "Grazier" (a pastoral/livestock farme
 
 Children of Archibald and Martha (Langwill) Galbreath:[^children1]
 
-1. *William Galbreath*, b. 12 Feb 1789[^william0]
+1. *William Galbreath*, b. 12 Feb 1789[^william0-birth]
 
 Children of Archibald and Jean (Corbet) Galbreath:[^children2]
 
