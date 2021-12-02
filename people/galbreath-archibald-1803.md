@@ -24,7 +24,7 @@ Children of Archibald and Margaret (Loynachan) Galbreath:[^oprchildren2]
 6. *Samuel Templeton Galbraith*, b. 17 Nov 1850, Scotland; d. 19 Sep 1931, Montreal, Montreal Region, Quebec, Canada, m. *Mary Ellen Reynolds*
 7. *Margaret Galbraith*, b. 30 Apr 1853, bp. 10 Jul 1853[^birth-margaret]
 8. *Agnes Galbraith*, b. 9 June 1855[^agnes2]
-9. *John Galbraith*, b. 17 Oct 1857[^john]
+9. *John Galbraith*, b. 17 Oct 1857[^john-birth], d. 7 Mar 1864[^john-death]
 
 # Sources
 
@@ -75,6 +75,8 @@ Children of Archibald and Margaret (Loynachan) Galbreath:[^oprchildren2]
 [^agnes2]: Birth of *Agnes Galbraith* from Statuatory Records on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/38691865). Contains many details such age ages of parents, year and location of marriage, current location.
 )
 
-[^john]: Birth of *John Galbraith* from Statuatory Records on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/38879864). Contains little additional information.
+[^john-birth]: Birth of *John Galbraith* from Statuatory Records on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/38879864). Contains little additional information.
+
+[^john-death]: 1864 GALBRAITH, JOHN (Statutory registers Deaths 507/ 49) on [ScotlandPeoples](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/687368)
 
 [^templeton]: there is a samuel templeton born in 1856  [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/38832425).
