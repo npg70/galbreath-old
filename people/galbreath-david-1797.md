@@ -4,7 +4,7 @@ familysearch: https://www.familysearch.org/tree/person/details/LZVY-GWN
 ---
 ***David Galbreath***, son of *[Samuel Galbreath](galbreath-samuel-1765.md)* and *Janet Langwill*, at Campbeltown was born 16 Sept 1797 and baptised 19 Sep 1797.[^birth] He died 12 Aug 1884.[^death]
 
-As a "laborer", he married 5 Oct 1824 to **Janet Mitchell**.[^marriage]  Later it is indicated he was a fisherman.[^archibald-death]
+As a "laborer", he married 5 Oct 1824 to **Janet Mitchell**.[^marriage]  Later it is indicated he was a fisherman[^archibald-death] and a potato buyer[^david2-death].
 
 Children of David and Janet (Galbreath) Mitchell, all baptised Campbeltown:[^children]
 
@@ -13,8 +13,8 @@ Children of David and Janet (Galbreath) Mitchell, all baptised Campbeltown:[^chi
 3. *Agnes Galbreath*, bp. 3 Aug 1828
 4. *Janet Galbreath*, bp. 6 May 1830
 5. *David Galbreath*, bp. 29 Jul 1832, assumed died in early childhood
-6. *[William Galbreath](galbreath-william-1833.md)*, bp. 2 Oct 1833,[^birth-william] m. *Maria McMurtry*
-7. *David Galbreath*, bp. 30 Aug 1835, d. Poorhouse of Campbeltown 5 Feb 1806. Unmarried.[^david2-death]
+6. *[William Galbreath](galbreath-william-1833.md)*, bp. 2 Oct 1833,[^william-birth] m. *Maria McMurtry*
+7. *David Galbreath*, bp. 30 Aug 1835, d. Poorhouse of Campbeltown 5 Feb 1806. Was a "clerk." Unmarried.[^david2-death]
 8. *James Galbreath*, bp. 2 Jun 1839
 9. *John Galbreath*, bp. 25 Jul 1842
 
@@ -32,6 +32,6 @@ Children of David and Janet (Galbreath) Mitchell, all baptised Campbeltown:[^chi
 
 [^archibald-death]: Civil Registers of Campbeltown, Argyll, Death of Archibald Galbreath, transcribed on [MyAinFolk](https://www.myainfolk.ca/records/6834)
 
-[^birth-william]: OPR Campbeltown, baptism of [William Galbreath](/sources/opr-campbeltown-births.md#1833-10-02-william-galbreath)
+[^william-birth]: OPR Campbeltown, baptism of [William Galbreath](/sources/opr-campbeltown-births.md#1833-10-02-william-galbreath)
 
 [^david2-death]: 1906 GALBRAITH, DAVID (Statutory registers Deaths 507/ 21) [ScotlandPeoples](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/5926269)
