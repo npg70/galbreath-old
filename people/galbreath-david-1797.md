@@ -34,4 +34,6 @@ Children of David and Janet (Galbreath) Mitchell, all baptised Campbeltown:[^chi
 
 [^william-birth]: OPR Campbeltown, baptism of [William Galbreath](/sources/opr-campbeltown-births.md#1833-10-02-william-galbreath)
 
+[^william-death]: 1894 GALBRAITH, WILLIAM (Statutory registers Deaths 507/ 94) on [ScotlandPeoples](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/4599656)
+
 [^david2-death]: 1906 GALBRAITH, DAVID (Statutory registers Deaths 507/ 21) [ScotlandPeoples](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/5926269)
