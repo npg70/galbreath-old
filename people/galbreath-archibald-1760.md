@@ -78,4 +78,4 @@ Children of Archibald and Jean (Corbet) Galbreath:[^children2]
 
 [^rachel-death]: Memorial of Rachel Galbreath on [FindAGrave](https://www.findagrave.com/memorial/207287606/rachel-galbraith)
 
-[^mary-birth]: OPR Campbeltown, baptism of [Mary Galbreath](/sources/opr-campbeltown-births.md#1814-01-16-mary-galbreath)
+[^birth-mary]: OPR Campbeltown, baptism of [Mary Galbreath](/sources/opr-campbeltown-births.md#1814-01-16-mary-galbreath)
