@@ -37,7 +37,7 @@ Children of Archibald and Jean (Corbet) Galbreath:[^children2]
 8. *[Archibald Galbraith](galbraith-archibald-1807.md)*, bp. 31 May 1807.  Cotton Merchant & Manufacturer A&A Galbraith
 9. *[John Galbraith](galbraith-john-1809.md)*, bp. 5 Sept. 1809, m. *Mary Colvill McEwing*. Provost of Campbeltown 1860-66
 10. *Rachel Galbreath*, bp. 25 Aug 1811,[^birth-rachel] d. 1817[^death-rachel]
-11. *Mary Galbreath*, bp. 16 Jan 1814. Under "Archd. Galbreath/Jean Corbert"
+11. *Mary Galbreath*, bp. 16 Jan 1814[^birth-mary]
 
 [^1841]: Family listed in 1841 Census in [FindMyPast](https://www.findmypast.com/transcript?id=GBC%2F1841%2F0016605235) (Grazier: a pastoral farmer, producing livestock rather than crops)
 
@@ -68,3 +68,5 @@ Children of Archibald and Jean (Corbet) Galbreath:[^children2]
 [^birth-rachel]: OPR Campbeltown, baptism of [Rachel Galbreath](/sources/opr-campbeltown-births.md#1811-08-25-rachel-galbreath)
 
 [^death-rachel]: Memorial of Rachel Galbreath on [FindAGrave](https://www.findagrave.com/memorial/207287606/rachel-galbraith)
+
+[^birth-mary]: OPR Campbeltown, baptism of [Mary Galbreath](/sources/opr-campbeltown-births.md#1814-01-16-mary-galbreath)
