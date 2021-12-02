@@ -9,7 +9,7 @@ As a "laborer", he married 5 Oct 1824 to **Janet Mitchell**.[^marriage]  Later i
 Children of David and Janet (Galbreath) Mitchell, all baptised Campbeltown:[^children]
 
 1. *[Archibald Galbraith](galbraith-archibald-1825.md)*, bp 10 Jul 1825,[^birth-archibald] m1. *Mary Paterson*, m2. *Margaret Galbreath*
-2. *Samuel Galbreath*, bp. 14 Jan 1827[^birth-samuel]
+2. *Samuel Galbreath*, bp. 14 Jan 1827[^samuel-birth], d. 17 Oct 1860[^samuel-death]
 3. *Agnes Galbreath*, bp. 3 Aug 1828
 4. *Janet Galbreath*, bp. 6 May 1830
 5. *David Galbreath*, bp. 29 Jul 1832, assumed died in early childhood
@@ -28,7 +28,10 @@ Children of David and Janet (Galbreath) Mitchell, all baptised Campbeltown:[^chi
 
 [^birth-archibald]: OPR Campbeltown, baptism of [Archibald Galbreath](/sources/opr-campbeltown-births.md#1825-07-10-archibald-galbreath)
 
-[^birth-samuel]: OPR Campbeltown, baptism of [Samuel Galbreath](/sources/opr-campbeltown-births.md#1827-01-14-samuel-galbreath)
+[^samuel-birth]: OPR Campbeltown, baptism of [Samuel Galbreath](/sources/opr-campbeltown-births.md#1827-01-14-samuel-galbreath)
+
+[^samuel-death]: Death record for [1860 GALBRAITH, SAMUEL (Statutory registers Deaths 507/ 149)
+](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/385069) is missing parents or occupation, however the estimated birth matches.
 
 [^archibald-death]: Civil Registers of Campbeltown, Argyll, Death of Archibald Galbreath, transcribed on [MyAinFolk](https://www.myainfolk.ca/records/6834)
 
