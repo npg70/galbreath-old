@@ -1417,6 +1417,13 @@ TBD: [Archibald Galbreath](/people/galbreath-archibald-1760.md) / Jean Corbet
 
 > John | Lawful Son to [Robert Galbreath](/people/galbreath-robert-1778.md) Farmer Peninver and Catherine Harvey, born 12th, baptised 16th April 1817. John
 
+## 1891-04-01 David Galbreath
+
+[507/40 489 row 12](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357356?image=489)
+
+> David | Lawful son of David Galbreath Farmer Ugadale & Mary Greenlees
+> born 28th March & Bapt 1st April 1891. David.
+
 ## [1821-02-02 John Galbreath](/people/galbreath-john-1821.md)
 
 [507/60 30 row 2](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357635?image=30)
