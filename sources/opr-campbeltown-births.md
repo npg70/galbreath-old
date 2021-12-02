@@ -1260,6 +1260,10 @@ TBD: [Archibald Galbreath](/people/galbreath-archibald-1760.md) / Jean Corbet
 
 > James | Lawful son to [Samuel Galbreath](/people/galbreath-samuel-1765.md) and Janet Langwill in town born 14th baptized 15th Sept [1802] James
 
+## 1803-01-19 Margaret Galbreath
+
+TBD: [Archibald Galbreath](/people/galbreath-archibald-1760.md) / Jean Corbet
+
 ## [1803-09-11 Archibald Galbreath](/people/galbreath-archibald-1803.md)
 
 [507/40 252 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357282?image=252)
@@ -1318,6 +1322,10 @@ John | Lawful Son to [William Galbraith](/people/galbreath-william-1780.md) work
 > Janet | Lawful Daughter to Archibald Galbreath Baker in Campbeltown and Jackie Templeton
 > born 14th baptised 17th September 1806 named Janet
 
+## 1807-05-31 Archibald Galbreath
+
+TBD: [Archibald Galbreath](/people/galbreath-archibald-1760.md) / Jean Corbet
+
 ## 1808-03-22 Samuel Galbreath
 
 [507/40 316 row 14](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357775?image=316)
@@ -1373,6 +1381,10 @@ TBD: [Archibald Galbreath](/people/galbreath-archibald-1760.md) / Jean Corbet
 [507/40 380 row 8](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357753?image=380)
 
 > Robert | Lawful son to [Robert Galbreath](/people/galbreath-robert-1778.md) ~~weaver~~ farmer Peninver and Catherine Harvey born 25th, bapt 26th Feb 1812 named Robert
+
+## 1814-01-16 Mary Galbreath
+
+TBD: [Archibald Galbreath](/people/galbreath-archibald-1760.md) / Jean Corbet
 
 ## 1814-02-09 Archibald Galbreath
 
