@@ -1481,6 +1481,10 @@ TBD: [John Galbraith](/people/galbraith-john-1809.md) / Mary Coville McEwing
 > James | Lawful son of [Arch Galbreath](/people/galbreath-archibald-1803.md) far[? farmer] Ugadale, and Margaret Loynachan
 > was born twenty thrird September and baptized 7th Nov 1841
 
+## [1842-07-25 John Galbreath](/people/galbreath-john-1842.md)
+
+John | Lawful son of [David Galbreath](/people/galbreath-david-1797.md) Sawyer and Janet Mitchell born second and baptized 25 July 1842
+
 ## [1842-09-25 Archibald Galbreath](/people/galbreath-archibald-1842.md)
 
 [507/70 226 row 1](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357656?image=226)
