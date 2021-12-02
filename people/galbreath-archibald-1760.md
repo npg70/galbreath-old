@@ -34,7 +34,7 @@ Children of Archibald and Jean (Corbet) Galbreath:[^children2]
 5. *William Galbreath*, bp. 8 Feb 1801,[^william2-birth] d. 2 Nov 1863, merchant, unmarried[^william2-death]
 6. *Margaret Galbreath*, bp. 19 Jan 1803[^margaret-birth]
 7. *[Jean Galbreath](galbraith-jean-1805.md)*, bp. 7 Apr 1805,[^jean-birth] m. *John Coville Jr*
-8. *[Archibald Galbraith](galbraith-archibald-1807.md)*,[archibald-birth] bp. 31 May 1807.  Cotton Merchant & Manufacturer A&A Galbraith
+8. *[Archibald Galbraith](galbraith-archibald-1807.md)*,[^archibald-birth] bp. 31 May 1807.  Cotton Merchant & Manufacturer A&A Galbraith
 9. *[John Galbraith](galbraith-john-1809.md)*, bp. 5 Sept. 1809,[^john-birth] m. *Mary Colvill McEwing*. Provost of Campbeltown 1860-66
 10. *Rachel Galbreath*, bp. 25 Aug 1811,[^rachel-birth] d. 1817[^rachel-death]
 11. *Mary Galbreath*, bp. 16 Jan 1814[^birth-mary]
