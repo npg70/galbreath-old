@@ -44,7 +44,7 @@ Children of Archibald and Jean (Corbet) Galbreath:[^children2]
 [^marriage1]: OPR Marriage to Martha Langwill in [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=M&record_type%5B0%5D=opr_marriages&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-banns-marriages&surname=galbr&surname_so=starts&forename_so=starts&sex=M&spouse_name=langwill&spouse_name_so=starts&from_year=1787&to_year=1787&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
 
 
-[^jean-cobet-burial]: Jean Corbert in [FindAGrave](https://www.findagrave.com/memorial/207287627/jean-galbraith)
+[^jean-corbet-burial]: Jean Corbert in [FindAGrave](https://www.findagrave.com/memorial/207287627/jean-galbraith)
 
 [^children1]: OPR Children of Archibald and Martha Langwill in [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbraith&surname_so=syn&forename_so=starts&from_year=1780&to_year=1790&parent_names=galbr&parent_names_so=starts&parent_name_two=langwill&parent_name_two_so=starts&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
 
