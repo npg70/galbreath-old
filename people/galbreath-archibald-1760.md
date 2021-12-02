@@ -13,7 +13,7 @@ Married first at Campbeltown 14 Sep 1787 to **Martha Langwill**[^marriage1]
 - burial: Kilkerran Cemetery, Campbeltown, Argyll and Bute, Scotland
 - marriage: 14 Sep 1787; Campbeltown, Argyll, Scotland
 
-He married second to **Jean Corbett**, daughter of Daniel Corbett blacksmith and Agnes Armour.  She died 2 Aug 1861 and burried at  Kilkerran Cemetery, Campbeltown, Argyll and Bute, Scotland.[^jean-burial]  The marriage should be around 1789-1791, but can't find it in OPR
+He married second to **Jean Corbett**, daughter of Daniel Corbett blacksmith and Agnes Armour.  She died 2 Aug 1861 and burried at  Kilkerran Cemetery, Campbeltown, Argyll and Bute, Scotland.[^jean-corbet-burial]  The marriage should be around 1789-1791, but can't find it in OPR
 
 Likely occupation was Maltster, and then a "Grazier" (a pastoral/livestock farmer)[^1841]
 
@@ -32,7 +32,7 @@ Children of Archibald and Jean (Corbet) Galbreath:[^children2]
 3. *Agnes Galbreath*, bp. 4 Feb 1797,[^agnes-birth] d. 8 Aug 1884[^agnes-death]
 4. *[Andrew Galbraith](galbraith-andrew-1799.md)*, bp. 10 Feb 1799,[^andrew-birth] m. *Margaret Bogle Scott*. Lord Provost of Glasgow 1857-60
 5. *William Galbreath*, bp. 8 Feb 1801,[^william2-birth] d. 2 Nov 1863, merchant, unmarried[^william2-death]
-6. *Margaret Galbreath*, bp. 19 Jan 1803
+6. *Margaret Galbreath*, bp. 19 Jan 1803[^margaret-birth]
 7. *[Jean Galbreath](galbraith-jean-1805.md)*, bp. 7 Apr 1805, m. *John Coville Jr*
 8. *[Archibald Galbraith](galbraith-archibald-1807.md)*, bp. 31 May 1807.  Cotton Merchant & Manufacturer A&A Galbraith
 9. *[John Galbraith](galbraith-john-1809.md)*, bp. 5 Sept. 1809, m. *Mary Colvill McEwing*. Provost of Campbeltown 1860-66
@@ -42,6 +42,9 @@ Children of Archibald and Jean (Corbet) Galbreath:[^children2]
 [^1841]: Family listed in 1841 Census in [FindMyPast](https://www.findmypast.com/transcript?id=GBC%2F1841%2F0016605235) (Grazier: a pastoral farmer, producing livestock rather than crops)
 
 [^marriage1]: OPR Marriage to Martha Langwill in [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=M&record_type%5B0%5D=opr_marriages&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-banns-marriages&surname=galbr&surname_so=starts&forename_so=starts&sex=M&spouse_name=langwill&spouse_name_so=starts&from_year=1787&to_year=1787&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
+
+
+[^jean-cobet-burial]: Jean Corbert in [FindAGrave](https://www.findagrave.com/memorial/207287627/jean-galbraith)
 
 [^children1]: OPR Children of Archibald and Martha Langwill in [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbraith&surname_so=syn&forename_so=starts&from_year=1780&to_year=1790&parent_names=galbr&parent_names_so=starts&parent_name_two=langwill&parent_name_two_so=starts&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
 
@@ -63,7 +66,9 @@ Children of Archibald and Jean (Corbet) Galbreath:[^children2]
 
 [^william2-death]: 1863 GALBRAITH, WILLIAM Statutory registers Deaths 507/ 140 on [ScotlandPeoples](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/581240)
 
-[^jean-burial]: Jean Corbert in [FindAGrave](https://www.findagrave.com/memorial/207287627/jean-galbraith)
+[^margaret-birth]: OPR Campbeltown, baptism of [Margaret Galbreath](/sources/opr-campbeltown-births.md#1803-01-19-margaret-galbreath0
+
+[^jean-birth]: OPR Campbeltown, baptism of [Jean Galbreath](/sources/opr-campbeltown-births.md#1805-04-07-jean-galbreath)
 
 [^birth-rachel]: OPR Campbeltown, baptism of [Rachel Galbreath](/sources/opr-campbeltown-births.md#1811-08-25-rachel-galbreath)
 
