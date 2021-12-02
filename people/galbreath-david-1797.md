@@ -4,7 +4,7 @@ familysearch: https://www.familysearch.org/tree/person/details/LZVY-GWN
 ---
 ***David Galbreath***, son of *[Samuel Galbreath](galbreath-samuel-1765.md)* and *Janet Langwill*, at Campbeltown was born 16 Sept 1797 and baptised 19 Sep 1797.[^birth] He died 12 Aug 1884.[^death]
 
-As a "laborer", he married 5 Oct 1824 to **Janet Mitchell**.[^marriage]  Later it is indicated he was a fisherman[^archibald-death] and a potato buyer[^david2-death].
+As a "laborer", he married 5 Oct 1824 to **Janet Mitchell**.[^marriage]  Later it is indicated he was a fisherman[^archibald-death], potato buyer[^david2-death], and a sawyer[^william-death].
 
 Children of David and Janet (Galbreath) Mitchell, all baptised Campbeltown:[^children]
 
@@ -13,7 +13,7 @@ Children of David and Janet (Galbreath) Mitchell, all baptised Campbeltown:[^chi
 3. *Agnes Galbreath*, bp. 3 Aug 1828
 4. *Janet Galbreath*, bp. 6 May 1830
 5. *David Galbreath*, bp. 29 Jul 1832, assumed died in early childhood
-6. *[William Galbreath](galbreath-william-1833.md)*, bp. 2 Oct 1833,[^william-birth] m. *Maria McMurtry*
+6. *[William Galbreath](galbreath-william-1833.md)*, bp. 2 Oct 1833,[^william-birth], m. *Maria McMurtry*
 7. *David Galbreath*, bp. 30 Aug 1835, d. Poorhouse of Campbeltown 5 Feb 1806. Was a "clerk." Unmarried.[^david2-death]
 8. *James Galbreath*, bp. 2 Jun 1839
 9. *John Galbreath*, bp. 25 Jul 1842
