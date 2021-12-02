@@ -4,7 +4,7 @@ familysearch: https://www.familysearch.org/tree/person/details/K84P-4BG
 ---
 ***William Galbreath***, son of *[David Galbreath](galbreath-david-1797.md)* and Janet Mitchell, was born 29 Sept 1833 and baptised 2 Oct 1833 at Campbeltown.[^birth] He died 28 May 1894 and his death record listed him as a fisherman.[^death]
 
-Married 4 Apr 1851 Larne, Ireland to Maria McMurtry.[^marriage]
+Married 4 Apr 1851 Larne, Ireland[^marriage] to **Maria McMurtry**.
 
 Children of William and Maria (McMurtry) Galbreath:[^children]
 
