@@ -14,7 +14,7 @@ Children of David and Janet (Galbreath) Mitchell, all baptised Campbeltown:[^chi
 4. *Janet Galbreath*, bp. 6 May 1830
 5. *David Galbreath*, bp. 29 Jul 1832, assumed died in early childhood
 6. *[William Galbreath](galbreath-william-1833.md)*, bp. 2 Oct 1833,[^birth-william] m. *Maria McMurtry*
-7. *David Galbreath*, bp. 30 Aug 1835
+7. *David Galbreath*, bp. 30 Aug 1835, d. Poorhouse of Campbeltown 5 Feb 1806. Unmarried.[^david2-death]
 8. *James Galbreath*, bp. 2 Jun 1839
 9. *John Galbreath*, bp. 25 Jul 1842
 
@@ -34,3 +34,4 @@ Children of David and Janet (Galbreath) Mitchell, all baptised Campbeltown:[^chi
 
 [^birth-william]: OPR Campbeltown, baptism of [William Galbreath](/sources/opr-campbeltown-births.md#1833-10-02-william-galbreath)
 
+[^david2-death]: 1906 GALBRAITH, DAVID (Statutory registers Deaths 507/ 21) [ScotlandPeoples](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/5926269)
