@@ -773,7 +773,7 @@ TBD: Neill Galbreath / Ann Campbell
 
 TBD: Malcome Galbreath / Margaret Stewart
 
-## 1771-11-02 Margaret Galbreath
+## [1771-11-02 Margaret Galbreath](/people/galbreath-margaret-1771.md)
 
 TBD: [Henry Galbreath](/people/galbreath-henry-1739.md) / Agnes Armour, two records
 
