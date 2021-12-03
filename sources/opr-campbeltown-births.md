@@ -228,7 +228,9 @@ TBD: of [William Galbreath](/people/galbreath-william-1701.md) / Margarte Kilpat
 
 ## [1726-10-02 James Galbreath](/people/galbreath-james-1726.md)
 
-TBD: of [William Galbreath](/people/galbreath-william-1701.md) / Margarte Kilpatrick, two records under Galbreath/Calbreath
+James | [William Galbreath](/people/galbreath-william-1701.md) & Margt Kilpatrick had a son baptized 2nd Oct named James
+
+two records under Galbreath/Calbreath
 
 ## 1727-01-29 Mary Galbreath
 
