@@ -2,7 +2,7 @@
 title: William Galbreath b 1780 m Jean Campbell
 familysearch: https://www.familysearch.org/tree/person/details/KFJY-V29
 ---
-***William Galbreath***, son of *[Henry Galbreath](galbreath-henry-1739.md)* and *Agnes Armour*, baptized at Campbeltown 16 Jan 1780.  He married at Campbeltown 27 June 1803[^marriage] to **Jean Campbell**.
+***William Galbreath***, son of *[Henry Galbreath](galbreath-henry-1739.md)* and *Agnes Armour*, baptized at Campbeltown 16 Jan 1780.[^birth]  He married at Campbeltown 27 June 1803[^marriage] to **Jean Campbell**.
 
 Children of William and Jean (Campbell) Galbreath, all baptized in Campbeltown:[^children]
 
@@ -11,6 +11,9 @@ Children of William and Jean (Campbell) Galbreath, all baptized in Campbeltown:[
 3. *[Peter Galbraith](galbraith-peter-1811.md)*, bp. 31 May 1811,[^peter-birth] m. *Sarah Armour*
 4. *Robert Galbraith*, bp. 31 May 1811[^robert-birth]
 5. *[William Galbraith](galbraith-william-1815.md)*, bp. 21 July 1815,[^william-birth] m. *Janet McGill*
+
+
+[^birth]: OPR Campbeltown, baptism of [William Galbreath](/sources/opr-campbeltown-births.md#1780-01-16-william-galbreath)
 
 [^marriage]: OPR Campbeltown, marriage TBD
 
