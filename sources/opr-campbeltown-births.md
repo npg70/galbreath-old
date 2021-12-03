@@ -280,7 +280,7 @@ TBD: of [John Galbreath](/people/galbreath-john-abt-1710.md) / Isobell Clark
 
 TBD: John Galbreath / Janet Galbreath
 
-## 1735-04-27 Janet Galbreath
+## [1735-04-27 Janet Galbreath](/people/galbreath-janet-1735.md)
 
 TBD: of [William Galbreath](/people/galbreath-william-1701.md) / Margaret Kilpatrick
 
@@ -320,7 +320,7 @@ TBD: of [William Galbreath](/people/galbreath-william-1701.md) / Margaret Kilpat
 
 > John | [Archibald Calbraith](/people/galbreath-archibald-1708.md) & Martha White had a son bapt John 20th Dec
 
-## 1739-04-00 Henry Galbreath
+## [1739-04-00 Henry Galbreath](/people/galbreath-henry-1739.md)
 
 TBD: of [William Galbreath](/people/galbreath-william-1701.md) / Margaret Kilpatrick, 2 records
 
