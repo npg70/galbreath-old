@@ -1340,11 +1340,11 @@ TBD: [Archibald Galbreath](/people/galbreath-archibald-1760.md) / Jean Corbet
 
 > Samuel | Lawful Son to [Robert Galbreath](/people/galbreath-robert-1778.md) Farmer in Peninver and Catherine Harvie, born 18, baptised 22 March 1808.  Samuel
 
-## 1808-12-20 Isobell Galbreath
+## [1808-12-20 Isobell Galbreath](/people/galbraith-isabella-1808.md)
 
 [507/40 329 row ](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358101?image=329)
 
-> Isobell | Lawful Daughter to William Galbreath Laborer Toniorch(??) and Jean Campbell
+> Isobell | Lawful Daughter to [William Galbreath](/people/galbreath-william-1780.md) Laborer Toniorch(??) and Jean Campbell
 > born 19th, baptized 20th December 1808. Isobell.
 
 ## [1809-09-05 John Galbreath](/people/galbraith-john-1809.md)
@@ -1367,18 +1367,18 @@ TBD: [Archibald Galbreath](/people/galbreath-archibald-1760.md) / Jean Corbet
 > Samuel | Lawful son to [James Galbreath](/people/galbreath-james-abt-1775.md) Farmer Skerbolin & Martha Galbreath
 > born 17th bapt 20th Feb 1811. Samuel.
 
-## 1811-05-31 Peter Galbreath
+## [1811-05-31 Peter Galbreath](/people/galbraith-peter-1811.md)
 
 [507/40 369 row 16](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357737?image=369)
 
-> Peter | Lawful son to William Galbreath farmer Laggan and Janet Campbell
+> Peter | Lawful son to [William Galbreath](/people/galbreath-william-1780.md) farmer Laggan and Janet Campbell
 > born 30th baptized 31th May 1811. Named Peter
 
 ## 1811-05-31 Robert Galbreath
 
 [507/20 149 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357765?image=149), note William Galbreath/Janet Campbell above.  Not twins, but different people, in different books.
 
-> Robert | Lawful son to William Galbreath & Jean Campbell. Born 30th & Baptized 31th May 1811
+> Robert | Lawful son to [William Galbreath](/people/galbreath-william-1780.md) & Jean Campbell. Born 30th & Baptized 31th May 1811
 
 ## 1811-08-25 Rachel Galbreath
 
@@ -1417,7 +1417,7 @@ TBD: [Archibald Galbreath](/people/galbreath-archibald-1760.md) / Jean Corbet
 
 [50740 432 row 11](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357852?image=432)
 
-> William | Lawful son to William Galbreath Farmer Laggan and Jean Campbell born 19th. Baptized 21st July 1815.  Named William
+> William | Lawful son to [William Galbreath](/people/galbreath-william-1780.md) Farmer Laggan and Jean Campbell born 19th. Baptized 21st July 1815.  Named William
 
 ## [1817-04-16 John Galbreath](/people/galbreath-john-1817.md)
 
