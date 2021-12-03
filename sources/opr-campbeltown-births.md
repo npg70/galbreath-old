@@ -226,7 +226,7 @@ TBD: of [William Galbreath](/people/galbreath-william-1701.md) / Margarte Kilpat
 
 > Samuel | [John Galbreath](/people/galbreath-john-1680.md) and Mary Mitchell has a son baptized 8th August named Samuel
 
-## 1726-10-02 James Galbreath
+## [1726-10-02 James Galbreath](/people/galbreath-james-1726.md)
 
 TBD: of [William Galbreath](/people/galbreath-william-1701.md) / Margarte Kilpatrick, two records under Galbreath/Calbreath
 
