@@ -1413,7 +1413,7 @@ TBD: [Archibald Galbreath](/people/galbreath-archibald-1760.md) / Jean Corbet
 
 > Archibald | Lawful Son to [Robert Galbreath](/people/galbreath-robert-1778.md) Farmer Peninver and Catherine Harvey, born 19th, baptised 22 Feb 1815. Named Archibald
 
-## 1815-07-21 William Galbreath
+## [1815-07-21 William Galbreath](/people/galbraith-william-1815.md)
 
 [50740 432 row 11](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357852?image=432)
 
