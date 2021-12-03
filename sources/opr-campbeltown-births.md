@@ -322,7 +322,11 @@ TBD: of [William Galbreath](/people/galbreath-william-1701.md) / Margaret Kilpat
 
 ## [1739-04-00 Henry Galbreath](/people/galbreath-henry-1739.md)
 
-TBD: of [William Galbreath](/people/galbreath-william-1701.md) / Margaret Kilpatrick, 2 records
+[507/11 227 row last](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357430?image=227)
+
+> Henry | [William Galbreath](/people/galbreath-william-1701.md) and Margt Kilpatrick has a son baptized [missing] Apr named Henry.
+
+There is a another record as well.  THe previous entry had April 20th.  Looking at the next page might narrow down the range.
 
 ## 1740-03-18 Mary Galbreath
 
