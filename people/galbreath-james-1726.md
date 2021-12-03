@@ -7,7 +7,7 @@ familysearch: https://www.familysearch.org/tree/person/KCQW-GZT
 Children of James and Margaret (Anderson) Galbreath, all baptized at Campbeltown:[^children]
 
 1. *James Galbreath*, bp. 30 Oct 1748, assumed died in early childhood.
-2. *Margaret Galbreath*, bp. 11 Oct 1750
+2. *Margaret Galbreath*, bp. 11 Oct 1750, d. 1788 TBD
 3. *James Galbreath*, bp. 26 Jul 1752, assumed died in early childhood.
 4. *John Galbreath*, bp. 11 Dec 1754.
 5. *Ann Galbreath*, bp. 13 Mar 1756.
