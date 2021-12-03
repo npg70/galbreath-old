@@ -7,7 +7,7 @@ familysearch: https://www.familysearch.org/tree/person/details/G3PJ-SDL
 Children of William and Margaret (Kilpatrick) Galbreath, all baptized in Campbeltown:[^children]
 
 1. *Mary Galbreath*, bp. 23 May 1725.[^mary1-birth] Assumed died in childhood.
-2. [*James Galbreath*](galbreath-james-1726.md), bp. 2 Oct 1726; m. *Margaret Anderson*
+2. [*James Galbreath*](galbreath-james-1726.md), bp. 2 Oct 1726;[^james-birth] m. *Margaret Anderson*
 3. *Ann Galbreath*, bp. 23 Dec 1727. Assumed died in infancy.
 4. [*Mary Galbreath*](galbreath-mary-1729.md), bp. 19 Oct 1729, m. *William Armour*
 5. *John Galbreath*, bp. 14 May 1732.
