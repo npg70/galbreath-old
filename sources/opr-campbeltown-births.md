@@ -228,6 +228,8 @@ TBD: of [William Galbreath](/people/galbreath-william-1701.md) / Margarte Kilpat
 
 ## [1726-10-02 James Galbreath](/people/galbreath-james-1726.md)
 
+[507/11 168 row 7](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357490?image=168)
+
 James | [William Galbreath](/people/galbreath-william-1701.md) & Margt Kilpatrick had a son baptized 2nd Oct named James
 
 two records under Galbreath/Calbreath
