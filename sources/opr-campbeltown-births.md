@@ -643,7 +643,7 @@ tbd: Donald Galbraith / Mary Galbraith
 
 tbd: Lachlain Galbraith / Agnes Stewart
 
-## 1759-01-21 Mary Galbreath
+## [1759-01-21 Mary Galbreath](/people/galbreath-mary-1759.md)
 
 tbd: James Galbreath / Mary Anderson
 
