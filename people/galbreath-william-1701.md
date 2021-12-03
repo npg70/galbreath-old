@@ -14,7 +14,7 @@ Children of William and Margaret (Kilpatrick) Galbreath, all baptized in Campbel
 6. *Jean Galbreath*, bp. 2 Jul 1733.
 7. [*Janet Galbreath*](galbreath-janet-1735.md), bp. 27 Apr 1735,[^janet-birth] m. *William Ryburn*
 8. *Ann Galbreath*, bp. 22 Jan 1738.
-9. [*Henry Galbreath*](galbreath-henry-1739.md), bp. Apr 1739. m. *Agnes Armour*
+9. [*Henry Galbreath*](galbreath-henry-1739.md), bp. Apr 1739.[^henry-birth] m. *Agnes Armour*
 
 [^birth]: OPR Campbeltown, baptism of [William Galbreath](/sources/opr-campbeltown-births.md#1780-01-16-william-galbreath)
 
@@ -31,3 +31,7 @@ Children of William and Margaret (Kilpatrick) Galbreath, all baptized in Campbel
 [^mary2-birth]: OPR Campbeltowm, baptism of [Mary Galbreath](/sources/opr-campbeltown-births.md#1729-10-19-mary-galbreath)
 
 [^janet-birth]: OPR Campbeltown, baptism of [Janet Galbreath](/sources/opr-campbeltown-births.md#1735-04-27-janet-galbreath)
+
+[^ann2-birth]: OPR Campbeltown, baptism of [Ann Galbreath](/sources/opr-campbeltown-births.md#1738-01-22-ann-galbreath)
+
+[^henry-birth]: OPR Campbeltown, baptism of [Henry Galbreath]()
