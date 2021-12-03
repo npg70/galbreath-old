@@ -2,7 +2,7 @@
 title: Margaret Galbreath b 1771 m. Nathaniel McNair Sr
 familysearch: https://www.familysearch.org/tree/person/details/L2M9-JSL
 ---
-***Margaret Galbreath***, daughter of *[Henry Galbreath](galbreath-henry-1739.md)* and  *Agnes Armour*, baptized Campbeltown 1 Nov 1771.
+***Margaret Galbreath***, daughter of *[Henry Galbreath](galbreath-henry-1739.md)* and  *Agnes Armour*, baptized Campbeltown 1 Nov 1771.[^birth]
 
 
 Immigrated with family to Canada in June 1821.
@@ -29,3 +29,5 @@ Children of Nathaniel and Margaret (Galbreath) McNair, all in Campbeltown unless
 9. *Jean McNair*, b. 1819
 10. *Janet McNair*, b. 1824, New Mills, Colborne, Restigouche, New Brunswick, Canada
 
+
+[^birth]: OPR Campbeltown, baptism of [Margaret Galbreath](/sources/opr-campbeltown-births.md#1771-11-02-margaret-galbreath)
