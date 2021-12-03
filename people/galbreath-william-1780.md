@@ -10,7 +10,7 @@ Children of William and Jean (Campbell) Galbreath, all baptized in Campbeltown:[
 2. *[Isabella Galbraith](galbraith-isabella-1808.md)*, bp. 12 Dec 1808, m. *James Patterson*
 3. *[Peter Galbraith](galbraith-peter-1811.md)*, bp. 31 May 1811, m. *Sarah Armour*
 4. *Robert Galbraith*, bp. 31 May 1811
-5. *William Galbraith*, bp. 21 July 1815, m. *Janet McGill*
+5. *[William Galbraith(galbraith-william-1815.md)*, bp. 21 July 1815, m. *Janet McGill*
 
 [^marriage]: OPR Campbeltown, marriage TBD
 
