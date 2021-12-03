@@ -1,21 +1,6 @@
-# Mary Galbreath
-
-- father: [James Galbreath](galbreath-james-1726.md)
-- mother: *Margaret Anderson*
-- birth: 21 Jan 1759, Campbeltown, Argyll, Scotland
-- death: 13 Apr 1856
-- burial: Glade Spring, Washington County, Virginia, USA
-
-## Peter Clark
-
-- birth: 1752
-- death: Sep 1821
-- burial: Glade Spring, Washington County, Virginia, USA
-
-
-### Children
-
-# Sources
-
-- Mary Galbreath on [Find A Grave](https://www.findagrave.com/memorial/41551747/mary-clark).  Tombstone lists birth as 1758.
-
+---
+title: Mary Galbreath b 1759 m Peter Clark
+familysearch: XXX
+findagrave: https://www.findagrave.com/memorial/41551747/mary-clark
+---
+***Mary Galbreath***, daughter of *[James Galbreath](galbreath-james-1726.md)* and *Margaret Anderson*, was baptized at Campbeltown 21 Jan 1759.  She died 13 Apr 1856 in Virginia and buried at Glade Spring, Washington County, Virginia, USA.  She married **Peter Clark**, b 1752, d 1821.
