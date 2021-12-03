@@ -10,10 +10,10 @@ Children of William and Margaret (Kilpatrick) Galbreath, all baptized in Campbel
 2. [*James Galbreath*](galbreath-james-1726.md), bp. 2 Oct 1726;[^james-birth] m. *Margaret Anderson*
 3. *Ann Galbreath*, bp. 23 Dec 1727.[^ann1-birth] Assumed died in infancy.
 4. [*Mary Galbreath*](galbreath-mary-1729.md), bp. 19 Oct 1729,[^mary2-birth] m. *William Armour*
-5. *John Galbreath*, bp. 14 May 1732.
-6. *Jean Galbreath*, bp. 2 Jul 1733.
+5. *John Galbreath*, bp. 14 May 1732.[^john-birth]
+6. *Jean Galbreath*, bp. 2 Jul 1733.[^jean-birth]
 7. [*Janet Galbreath*](galbreath-janet-1735.md), bp. 27 Apr 1735,[^janet-birth] m. *William Ryburn*
-8. *Ann Galbreath*, bp. 22 Jan 1738.
+8. *Ann Galbreath*, bp. 22 Jan 1738.[^ann2-birth]
 9. [*Henry Galbreath*](galbreath-henry-1739.md), bp. Apr 1739.[^henry-birth] m. *Agnes Armour*
 
 [^birth]: OPR Campbeltown, baptism of [William Galbreath](/sources/opr-campbeltown-births.md#1780-01-16-william-galbreath)
@@ -29,6 +29,10 @@ Children of William and Margaret (Kilpatrick) Galbreath, all baptized in Campbel
 [^ann1-birth]: OPR Campbeltown, baptism of [Ann Galbreath](/sources/opr-campbeltown-births.md#1727-12-23-ann-galbreath)
 
 [^mary2-birth]: OPR Campbeltowm, baptism of [Mary Galbreath](/sources/opr-campbeltown-births.md#1729-10-19-mary-galbreath)
+
+[^john-birth]: OPR Campbeltowm, baptism of [John Galbreath]()
+
+[^jean-birth]: OPR Campbeltowm, baptism of [Jean Galbreath]()
 
 [^janet-birth]: OPR Campbeltown, baptism of [Janet Galbreath](/sources/opr-campbeltown-births.md#1735-04-27-janet-galbreath)
 
