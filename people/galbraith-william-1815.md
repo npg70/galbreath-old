@@ -1,6 +1,6 @@
 ---
 title: Willaim Galbraith b. 1815
-familysearch: 
+familysearch: https://www.familysearch.org/tree/person/details/9MFS-951
 ---
 ***William Galbraith***, son of *[William Galbreath](galbreath-william-1780.md)* and *Jean Campbell*, was baptized at Campbeltown.[^birth]  He died 11 Feb 1888[^death].
 
