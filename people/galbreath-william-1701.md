@@ -30,7 +30,7 @@ Children of William and Margaret (Kilpatrick) Galbreath, all baptized in Campbel
 
 [^mary2-birth]: OPR Campbeltowm, baptism of [Mary Galbreath](/sources/opr-campbeltown-births.md#1729-10-19-mary-galbreath)
 
-[^john-birth]: OPR Campbeltowm, baptism of [John Galbreath]()
+[^john-birth]: OPR Campbeltowm, baptism of [John Galbreath](/sources/opr-campbeltown-births.md#1732-05-14-john-galbreath)
 
 [^jean-birth]: OPR Campbeltowm, baptism of [Jean Galbreath](/sources/opr-campbeltown-births.md#1733-07-02-jean-galbreath)
 
