@@ -6,7 +6,7 @@ familysearch: https://www.familysearch.org/tree/person/details/K8D5-31F
 
 TBD: marriage record indicates both were widowers.
 
-He was a distillery workman[^marriage][^mary-marriage]
+He was a distillery workman[^mary-marriage][^marriage2]
 
 Children of Alexander and Flora (Campbell) Galbraith:
 
