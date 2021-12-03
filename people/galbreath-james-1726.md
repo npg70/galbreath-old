@@ -11,7 +11,7 @@ Children of James and Margaret (Anderson) Galbreath, all baptized at Campbeltown
 3. *James Galbreath*, bp. 26 Jul 1752, assumed died in early childhood.
 4. *John Galbreath*, bp. 11 Dec 1754.
 5. *Ann Galbreath*, bp. 13 Mar 1756.
-6. [*Mary Galbreath*](galbreath-mary-1759.md), bp. 21 Jan 1759.[^mary-birth] Listed under "Galbreath" and "Galbraith", mother listed as "Mary" not Margaret.
+6. [*Mary Galbreath*](galbreath-mary-1759.md), bp. 21 Jan 1759.[^mary-birth], m. *Peter Clark*
 7. *James Galbreath*, bp. 3 May 1761
 8. *Catherine Galbreath*, bp. 11 Nov 1763, m. *John Milloy*  TBD [FamilySearch](https://www.familysearch.org/tree/person/details/KH5T-Y9Y)
 9. *William Galbreath*, bp. 29 Dec 1765.
