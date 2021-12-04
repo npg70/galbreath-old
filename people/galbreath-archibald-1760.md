@@ -28,7 +28,7 @@ Children of Archibald and Martha (Langwill) Galbreath:[^children1]
 Children of Archibald and Jean (Corbet) Galbreath:[^children2]
 
 1. *Martha Galbreath*, bp. 19 Mar 1792,[^martha-birth] d. 13 July 1858, buried at Kilkerran, unmarried.[^martha-death]
-2. *William Galbreath*, bp. 9 Nov 1794[^william1-birth]
+2. *William Galbreath*, bp. 9 Nov 1794[^william1-birth], assumed died in early childhood.
 3. *Agnes Galbreath*, bp. 4 Feb 1797,[^agnes-birth] d. 8 Aug 1884[^agnes-death]
 4. *[Andrew Galbraith](galbraith-andrew-1799.md)*, bp. 10 Feb 1799,[^andrew-birth] m. *Margaret Bogle Scott*. Lord Provost of Glasgow 1857-60
 5. *William Galbreath*, bp. 8 Feb 1801,[^william2-birth] d. 2 Nov 1863, merchant, unmarried[^william2-death]
