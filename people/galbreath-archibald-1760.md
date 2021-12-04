@@ -13,7 +13,7 @@ Married first at Campbeltown 14 Sep 1787 to **Martha Langwill**[^marriage1]
 - burial: Kilkerran Cemetery, Campbeltown, Argyll and Bute, Scotland
 - marriage: 14 Sep 1787; Campbeltown, Argyll, Scotland
 
-He married second to **Jean Corbett**, daughter of Daniel Corbett blacksmith and Agnes Armour.  She died 2 Aug 1861 and burried at  Kilkerran Cemetery, Campbeltown, Argyll and Bute, Scotland.[^jean-corbet-burial]  The marriage should be around 1789-1791, but can't find it in OPR
+He married second to **Jean Corbett**, daughter of Daniel Corbett blacksmith and Agnes Armour.  She died 2 Aug 1861 and burried at  Kilkerran Cemetery, Campbeltown, Argyll and Bute, Scotland.[^jean-corbet-burial]  The marriage should be around 1789-1791, but can't find it in OPR.  She lived in Campbeltown with her unmarried children until her death.[^census1851][^census1861].
 
 Likely occupation was Maltster, and then a "Grazier" (a pastoral/livestock farmer)[^1841]
 
@@ -37,12 +37,15 @@ Children of Archibald and Jean (Corbet) Galbreath:[^children2]
 8. *[Archibald Galbraith](galbraith-archibald-1807.md)*, bp. 31 May 1807.[^archibald-birth] Cotton Merchant & Manufacturer A&A Galbraith
 9. *[John Galbraith](galbraith-john-1809.md)*, bp. 5 Sept. 1809,[^john-birth] m. *Mary Colvill McEwing*. Provost of Campbeltown 1860-66
 10. *Rachel Galbreath*, bp. 25 Aug 1811,[^rachel-birth] d. 1817[^rachel-death]
-11. *Mary Galbreath*, bp. 16 Jan 1814[^birth-mary]
+11. *Mary Galbreath*, bp. 16 Jan 1814[^birth-mary], unmarried.
 
-[^1841]: Family listed in 1841 Census in [FindMyPast](https://www.findmypast.com/transcript?id=GBC%2F1841%2F0016605235) (Grazier: a pastoral farmer, producing livestock rather than crops)
+[^1841]: UK Census of 1841 Census, Household of Archibald Galbraith, [FindMyPast](https://www.findmypast.com/transcript?id=GBC%2F1841%2F0016605235) (Grazier: a pastoral farmer, producing livestock rather than crops)
+
+[^census1851]: UK Census of 1851, Household of Jane Galbraith, [FindMyPast](https://www.findmypast.com/transcript?id=GBC%2F1851%2F0019259701). Recorded as "Jane" not "Jean", but children of Martha, William (merchant) and May(Mary) all match.
+
+[^census1861]: UK Census of 1861, Household of Jean Galbraith, [FindMyPast](https://www.findmypast.com/transcript?id=GBC%2F1861%2F0022165780). List children Agnes and William (General Merchant).
 
 [^marriage1]: OPR Marriage to Martha Langwill in [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=M&record_type%5B0%5D=opr_marriages&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-banns-marriages&surname=galbr&surname_so=starts&forename_so=starts&sex=M&spouse_name=langwill&spouse_name_so=starts&from_year=1787&to_year=1787&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
-
 
 [^jean-corbet-burial]: Jean Corbert in [FindAGrave](https://www.findagrave.com/memorial/207287627/jean-galbraith)
 
