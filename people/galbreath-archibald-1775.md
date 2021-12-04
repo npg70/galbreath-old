@@ -21,4 +21,4 @@ Children of Archibald and Jean (Black) Galbreath, all baptized at Killean and Ki
 
 [^marriage]: 23/07/1800 GALBREATH, ARCHIBALD (Old Parish Registers Marriages 519/ 10 342 Killean and Kilchenzie) Page 342 of 379 [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/9530933?image=342&return_row=1)
 
-[^census1841]: UK Census of 1841, Household of Jean Galbreath, [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1841/0016627241), lists Margaret, Archibald (shoemaker), Duncan, Mary.  
+[^census1841]: UK Census of 1841, Household of Jean Galbreath, [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1841/0016627241), lists Margaret, Archibald (shoemaker), Duncan, Mary.  Jean Black has an estimated birth year of 1781.
