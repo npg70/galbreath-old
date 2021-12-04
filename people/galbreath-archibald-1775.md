@@ -10,9 +10,9 @@ He was a shoemaker, according to various death records of his children.
 
 Children of Archibald and Jean (Black) Galbreath, all baptized at Killean and Kilchenzie:[^children]
 
-1. *Margaret Galbreath*, bp. 23 Mar 1802
+1. *Margaret Galbreath*, bp. 23 Mar 1802, d. 13 Nov 1831,[^margaret-death], m. *Dugald ??*
 2. *John Galbreath*, bp. 27 May 1804
-3. *Archibald Galbreath*, bp. 22 Apr 1807, d. 16 Jan 1891[^archibald-death]
+3. *Archibald Galbreath*, bp. 22 Apr 1807, d. 16 Jan 1891[^archibald-death], m. *Betty McMillian*
 4. *Flora Galbreath*, bp. 23 Jul 1809
 5. *Mary Galbreath*, bp. 28 Aug 1811, d. 32 Feb 1900[^mary-death], m. Robert Greenlees
 6. *Betty Galbreath*, bp. 30 Jun 1813
@@ -24,6 +24,8 @@ Children of Archibald and Jean (Black) Galbreath, all baptized at Killean and Ki
 [^marriage]: 23/07/1800 GALBREATH, ARCHIBALD (Old Parish Registers Marriages 519/ 10 342 Killean and Kilchenzie) Page 342 of 379 [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/9530933?image=342&return_row=1)
 
 [^census1841]: UK Census of 1841, Household of Jean Galbreath, [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1841/0016627241), lists Margaret, Archibald (shoemaker), Duncan, Mary.  Jean Black has an estimated birth year of 1781.
+
+[^margaret-death]: 1871 GALBRAITH, MARGARET (Statutory registers Deaths 519/ 22), on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/1357861)
 
 [^archibald-death]: 1891 GALBRAITH, ARCHIBALD (Statutory registers Deaths 519/ 1), on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/4345480), shoemaker, married to Betty McMillian, Father listed as Shoemaker and Edward Galbraith, son, present.
 
