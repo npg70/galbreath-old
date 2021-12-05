@@ -10,7 +10,7 @@ He was a shoemaker, according to various death records of his children.
 
 Children of Archibald and Jean (Black) Galbreath, all baptized at Killean and Kilchenzie:[^children]
 
-1. *Margaret Galbreath*, bp. 23 Mar 1802, d. 13 Nov 1831,[^margaret-death], m. *Dugald ??*
+1. *Margaret Galbreath*, bp. 23 Mar 1802, d. 13 Nov 1871,[^margaret-death] m. *Dugald ??*
 2. *John Galbreath*, bp. 27 May 1804
 3. *Archibald Galbreath*, bp. 22 Apr 1807, d. 16 Jan 1891[^archibald-death], m. *Betty McMillian*
 4. *Flora Galbreath*, bp. 23 Jul 1809
