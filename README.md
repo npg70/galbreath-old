@@ -65,5 +65,5 @@ TBD [Patrick Galbreath](/people/galbreath-patrick-1712.md) and Jean Watson had s
 
 ## Family of Archibald Galbreath and Jean Black
 
-It's unclear where [Archibald Galbreath](/people/galbreath-archibald-1775.md) came from, but some of his children moved to Campbeltown in the 1800s
+It's unclear where [Archibald Galbreath](/people/galbreath-archibald-1775.md) came from, but some of his children moved to Campbeltown in the late 1800s
 
