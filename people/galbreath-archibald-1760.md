@@ -70,7 +70,7 @@ Children of Archibald and Jean (Corbet) Galbreath:[^children2]
 
 [^william2-death]: 1863 GALBRAITH, WILLIAM Statutory registers Deaths 507/ 140 on [ScotlandPeoples](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/581240)
 
-[^margaret-birth]: OPR Campbeltown, baptism of [Margaret Galbreath](/sources/opr-campbeltown-births.md#1803-01-19-margaret-galbreath0
+[^margaret-birth]: OPR Campbeltown, baptism of [Margaret Galbreath](/sources/opr-campbeltown-births.md#1803-01-19-margaret-galbreath)
 
 [^jean-birth]: OPR Campbeltown, baptism of [Jean Galbreath](/sources/opr-campbeltown-births.md#1805-04-07-jean-galbreath)
 
