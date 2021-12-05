@@ -11,7 +11,6 @@ Married first at Campbeltown 14 Sep 1787 to **Martha Langwill**[^marriage1]
 - birth: 12 May 1768; Campbeltown, Argyll and Bute, Scotland
 - death: 1789; Campbeltown, Argyll and Bute, Scotland
 - burial: Kilkerran Cemetery, Campbeltown, Argyll and Bute, Scotland
-- marriage: 14 Sep 1787; Campbeltown, Argyll, Scotland
 
 He married second to **Jean Corbett**, daughter of Daniel Corbett blacksmith and Agnes Armour.  She died 2 Aug 1861 and burried at  Kilkerran Cemetery, Campbeltown, Argyll and Bute, Scotland.[^jean-corbet-burial]  The marriage should be around 1789-1791, but can't find it in OPR.  She lived in Campbeltown with her unmarried children until her death.[^census1851][^census1861].
 
