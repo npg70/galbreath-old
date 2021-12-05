@@ -62,3 +62,8 @@ TBD [Patrick Galbreath](/people/galbreath-patrick-1712.md) and Jean Watson had s
 ## Lachlan Galbraith, Ferryman
 
 [Lachlan Galbraith](/people/galbraith-lachlan-1878.md), b. 1878 was a ferryman at Saddell.
+
+## Family of Archibald Galbreath and Jean Black
+
+It's unclear where [Archibald Galbreath] came from, but some of his children moved to Campbeltown in the 1800s
+
