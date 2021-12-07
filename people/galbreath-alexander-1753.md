@@ -8,7 +8,7 @@ Alexander and family "emigrated and landed in Baltimore on 1st September 1785."[
 
 Children of Alexander and Agnes (Fleming) Galbreath:[^oprchildren]
 
-1. *John Galbreath*, bp. Campbeltown 25 May 1781. Assumed died in infancy.
+1. *John Galbreath*, bp. Campbeltown 25 May 1781.[^john1-birth] Assumed died in infancy.
 2. *James Galbreath*, bp. Campbeltown 19 May 1782, d. 23 Jan 1811. Not married, no known children.
 3. *[John Galbreath](galbreath-john-1784.md)*, b. Campbeltown 8 Jan 1784, d. 25 May 1844.  m. *Hannah Morrison*
 4. *[Agnes Galbreath](galbreath-agnes-1789.md)*, b. 20 Feb 1789. d. 9 Mar 1839; m. *Samuel P Morrison*.
@@ -18,3 +18,9 @@ Children of Alexander and Agnes (Fleming) Galbreath:[^oprchildren]
 [^oprchildren]: The birth of the first three children in OPR on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbr&surname_so=starts&forename_so=starts&from_year=1779&to_year=1784&parent_names=galb&parent_names_so=starts&parent_name_two=fle&parent_name_two_so=starts&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&sort=asc&order=Date&field=year)
 
 [^immigrant]: See [Ralston Genealogy](http://www.ralstongenealogy.com/number35kintmag.htm)
+
+[^john1-birth]: OPR Campbeltown, baptism of [John Galbreath](/sources/opr-campbeltown-births.md#1781-01-25-john-galbreath)
+
+[^james-birth]: OPR Campbeltown, baptism of [James Galbreath](/sources/opr-campbeltown-births.md#1782-03-19-james-galbreath)
+
+[^john2-birth]: OPR Campbeltown, baptism of [John Galbreath](/sources/opr-campbeltown-births.md#1784-01-08-john-galbreath)
