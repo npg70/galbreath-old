@@ -4,7 +4,7 @@ familysearch: https://www.familysearch.org/tree/person/details/LZ62-KLL)
 ---
 ***John Galbreath***, son of  [Archibald Galbreath](galbreath-archibald-1798.md) and *Margaret McMillian*, baptized at Campbeltown 2 Feb 1821.[^birth], and died at Shore Cottages, Carradale, Saddel.[^death] He married at Campbeltown 1 Sep 1840 to **Margaret Cook**,[^marriage] born abt 1821, the daughter of *John Cook* and *Mary Taylor* both of St Quivox and Newton-on-Ayr, Ayrshire, Scotland.  She died at Saddell, Argyll on 6 Nov 1888.
 
-He was a fisherman.[^alexander][^archibald]
+He was a fisherman.[^death][^alexander][^archibald]
 
 Children of John and Margaret (Cook) Galbreath:[^oprchildren]
 
