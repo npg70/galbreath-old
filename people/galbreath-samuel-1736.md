@@ -50,7 +50,7 @@ Children of Samuel and Janet (McNair) Galbreath, all baptized in Campbeltown:[^c
 
 [^jdeath]: Statuatory Records transcribed by [MyAinFolk.ca](https://www.myainfolk.ca/records/5765)
 
-[^catharine-birth]: OPR Campbeltown, baptism of [Catharine Galbreath](/sources/opr-campbeltown-births.md#1788-05-18-catharine-galbreath)
+[^catherine-birth]: OPR Campbeltown, baptism of [Catherine Galbreath](/sources/opr-campbeltown-births.md#1788-05-18-catharine-galbreath)
 
 [^james-birth]: OPR Campbeltown, baptism of [James Galbreath](/sources/opr-campbeltown-births.md#1791-04-18-james-galbreath)
 
