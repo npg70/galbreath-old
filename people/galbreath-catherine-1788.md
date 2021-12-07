@@ -21,7 +21,7 @@ Children of James and Catharine (Galbreath) Greenlees, all baptized in Campbelto
 9. *Martha Greenlees*, bp. 18 Apr 1830
 10. *Archibald Greenlees*, bp. 8 Jan 1833
 
-[^birth] [OPR Briths 507/10 104 Campbeltown](/sources/opr-campbeltown-births.md#1788-05-18-catharine-galbreath)
+[^birth]: OPR Campbeltown, baptism of [Catharine Galbreath](/sources/opr-campbeltown-births.md#1788-05-18-catharine-galbreath)
 
 [^james]:
     General biographical information on James is found in Argyll's Forgotten Whisky Barons
