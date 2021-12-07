@@ -12,7 +12,7 @@ The origins of *Mary Mitchell* are not clear.
 
 Children of John and Mary (Mitchell) Galbreath, all baptized in Campbeltown:[^children1]
 
-1. [*Archibald Galbreath*](galbreath-archibald-1708.md), bp. 30 May 1708,[^archibald1-birht] m. *Martha White*. OPR listed under "Galbreath" and "Galbraith"
+1. [*Archibald Galbreath*](galbreath-archibald-1708.md), bp. 30 May 1708,[^archibald1-birth] m. *Martha White*. OPR listed under "Galbreath" and "Galbraith"
 2. *Mary Galbreath*, bp. 25 Dec 1709. Assumed died in early childhood.
 3. [*Janet Galbreath*](galbreath-janet-1711.md), bp. 14 Oct. 1711, m. *David Ryburn*
 4. *James Galbreath*, bp. 22 Mar 1713. Assumed died in infancy.
