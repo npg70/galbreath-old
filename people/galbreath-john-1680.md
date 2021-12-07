@@ -14,7 +14,7 @@ Children of John and Mary (Mitchell) Galbreath, all baptized in Campbeltown:[^ch
 
 1. [*Archibald Galbreath*](galbreath-archibald-1708.md), bp. 30 May 1708,[^archibald1-birth] m. *Martha White*. OPR listed under "Galbreath" and "Galbraith"
 2. *Mary Galbreath*, bp. 25 Dec 1709.[^mary1-birth] Assumed died in early childhood.
-3. [*Janet Galbreath*](galbreath-janet-1711.md), bp. 14 Oct. 1711, m. *David Ryburn*
+3. [*Janet Galbreath*](galbreath-janet-1711.md), bp. 14 Oct. 1711,[^janet-birth] m. *David Ryburn*
 4. *James Galbreath*, bp. 22 Mar 1713. Assumed died in infancy.
 5. *Katharine Galbreath*, bp. 8 Aug 1714
 6. *James Galbreath*, bp. 11 May 1716. Assumed died in infancy.
@@ -51,3 +51,5 @@ Child of John and Katharine (McCallum) Galbreath:[^children2]
 [^archibald1-birth]: OPR Campbeltown, baptism of [Archibald Galbreath](/sources/opr-campbeltown-births.md#1708-05-30-archibald-galbreath)
 
 [^mary1-birth]: OPR Campbeltown, baptism of [Mary Galbreath](/sources/opr-campbeltown-births.md#1709-12-25-mary-galbreath)
+
+[^janet-birth]: OPR Campbeltown, baptism of [Janet Galbreath](/sources/opr-campbeltown-births.md#1711-10-14-janet-galbreath)
