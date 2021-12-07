@@ -59,3 +59,14 @@ Child of John and Katharine (McCallum) Galbreath:[^children2]
 
 [^james2-birth]: OPR Campbeltown, baptism of [James Galbreath](/sources/opr-campbeltown-births.md#1716-05-11-james-galbreath)
 
+[^patrick-birth]: OPR Campbeltown, baptism of [Patrick Galbreath](/sources/opr-campbeltown-births.md#1718-05-31-patrick-galbreath)
+
+[^james3-birth]: OPR Campbeltown, baptism of [James Galbreath](/sources/opr-campbeltown-births.md#1719-07-28-james-galbreath)
+
+[^mary2-birth]: OPR Campbeltown, baptism of [Mary Galbreath](/sources/opr-campbeltown-births.md#1719-07-28-mary-galbreath)
+
+[^john-birth]: OPR Campbeltown, baptism of [John Galbreath](/sources/opr-campbeltown-births.md#1721-12-09-john-galbreath)
+
+[^david-birth]: OPR Campbeltown, baptism of [David Galbreath](/sources/opr-campbeltown-births.md#1723-11-24-david-galbreath)
+
+[^samuel-birth]: OPR Campbeltown, baptism of [Samuel Galbreath](/sources/opr-campbeltown-births.md#1725-08-08-samuel-galbreath)
