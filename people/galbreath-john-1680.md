@@ -27,7 +27,7 @@ Children of John and Mary (Mitchell) Galbreath, all baptized in Campbeltown:[^ch
 
 Child of John and Katharine (McCallum) Galbreath:[^children2]
 
-1. *Archibald Galbreath*, bp. Jul 1729
+1. *Archibald Galbreath*, bp. Jul 1729[^archibald2-birth]
 
 [^birth]: OPR for baptism of [John Galbreath](/sources/opr-campbeltown-births.md#1680-05-30-john-galbreath)
 
@@ -70,3 +70,5 @@ Child of John and Katharine (McCallum) Galbreath:[^children2]
 [^david-birth]: OPR Campbeltown, baptism of [David Galbreath](/sources/opr-campbeltown-births.md#1723-11-24-david-galbreath)
 
 [^samuel-birth]: OPR Campbeltown, baptism of [Samuel Galbreath](/sources/opr-campbeltown-births.md#1725-08-08-samuel-galbreath)
+
+[^archibald2-birth]: OPR Campbeltown, baptism of [Archibald Galbreath](/sources/opr-campbeltown-births.md#1729-07-00-archibald-galbreath)
