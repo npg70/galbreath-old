@@ -539,11 +539,15 @@ tbd: William Galbreath / Margaret Watson, two records Galbreath/Galbraith
 
 ## 1752-11-26 Janet Galbreath
 
-Tbd: [Archibald Galbreath](/people/galbreath-archibald-1708.md) / Martha White
+[507/ 11 284 row 2](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358176?image=284)
+
+Janet |  [Archibald Galbreath](/people/galbreath-archibald-1708.md) and Martha White had a Daughter baptized 26th Nov named Janet
 
 ## 1752-12-17 Archibald Galbreath
 
-TBD another record under Galbreath
+[507/11 284 row 8] TBD link
+
+> Archibald | [Patrick Galbraith](/people/galbreath-patrick-1712.md) and Jean Watson had a son baptized 17th Dec named Archibald
 
 [507/10 210 row 12](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/712?image=210)
 
