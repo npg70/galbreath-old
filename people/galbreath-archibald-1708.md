@@ -6,15 +6,15 @@ familysearch: https://www.familysearch.org/tree/person/details/LZZ8-6K7
 
 Children of Archibald and Martha (White) Galbreath, all baptized in Campbeltown:[^children]
 
-1. *John Galbreath*, bp. 3 Mar 1734, d. 1735. mother listed as "Martha Whyte".
-2. [*Samuel Galbreath*](galbreath-samuel-1736.md), bp. 4 Feb 1736, m. *Janet McNair*
-3. *John Galbreath*, bp. 20 Dec 1738
-4. [*Katharine Galbreath*](galbreath-katharine-1741.md), bp. 3 May 1741, m. *James Harvie*
-5. [*Margaret Galbreath*](galbreath-margaret-1743.md), bp. 27 Oct 1743, m. *Alexander Dunlop*.
-6. *Mary Galbreath*, bp. 29 Oct 1747.
-7. *Ann Galbreath*, bp. 15 Apr 1750.
-8. [*Janet Galbreath*](galbreath-janet-1752.md), bp. 26 Nov 1752, m. *James Armour*.
-9. *Martha Galbreath*, bp. 22 Feb 1756. Two records "Galbreath" and "Galbraith".
+1. *John Galbreath*, bp. 3 Mar 1734,[^john1-birth], assumed died in infancy.
+2. [*Samuel Galbreath*](galbreath-samuel-1736.md), bp. 4 Feb 1736,[^samuel-birth] m. *Janet McNair*
+3. *John Galbreath*, bp. 20 Dec 1738[^john2-birth]
+4. [*Katharine Galbreath*](galbreath-katharine-1741.md), bp. 3 May 1741,[^katharine-birth] m. *James Harvie*
+5. [*Margaret Galbreath*](galbreath-margaret-1743.md), bp. 27 Oct 1743,[^margaret-birth] m. *Alexander Dunlop*.
+6. *Mary Galbreath*, bp. 29 Oct 1747.[^mary-birth]
+7. *Ann Galbreath*, bp. 15 Apr 1750.[^ann-birth]
+8. [*Janet Galbreath*](galbreath-janet-1752.md), bp. 26 Nov 1752,[^janet-birth] m. *James Armour*.
+9. *Martha Galbreath*, bp. 22 Feb 1756.[^martha-birth]
 
 
 [^birth]: OPR record of baptism for [Archibald Galbreath](/sources/opr-campbeltown-births.md#1708-05-30-archibald-galbreath)
@@ -38,3 +38,20 @@ Children of Archibald and Martha (White) Galbreath, all baptized in Campbeltown:
     illegible
     ``` 
 
+[^john1-birth]: OPR Campbeltown, baptism of [John Galbreath](/sources/opr-campbeltown-births.md#1734-03-03-john-galbreath)
+
+[^samuel-birth]: OPR Campbeltown, baptism of [Samuel Galbreath](/sources/opr-campbeltown-births.md#1736-02-04-samuel-galbreath)
+
+[^john2-birth]: OPR Campbeltown, baptism of [John Galbreath](/sources/opr-campbeltown-births.md#1738-12-20-john-galbreath)
+
+[^katharine-birth]: OPR Campbeltown, baptism of [Katharine Galbreath](/sources/opr-campbeltown-births.md#1741-04-03-katharine-galbreath)
+
+[^margaret-birth]: OPR Campbeltown, baptism of [Margaret Galbreath](/sources/opr-campbeltown-births.md#1743-10-27-margaret-galbreath)
+
+[^mary-birth]: OPR Campbeltown, baptism of [Mary Galbreath](/sources/opr-campbeltown-births.md#1747-10-29-mary-galbreath)
+
+[^ann-birth]: OPR Campbeltown, baptism of [Ann Galbreath](/sources/opr-campbeltown-births.md#1750-04-15-ann-galbreath)
+
+[^janet-birth]: OPR Campbeltown, baptism of [Janet Galbreath](/sources/opr-campbeltown-births.md#1752-11-26-janet-galbreath)
+
+[^martha-birth]: OPR Campbeltown, baptism of [Martha Galbreath](/sources/opr-campbeltown-births.md#1756-02-22-martha-galbreath)
