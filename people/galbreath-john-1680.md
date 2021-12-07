@@ -13,7 +13,7 @@ The origins of *Mary Mitchell* are not clear.
 Children of John and Mary (Mitchell) Galbreath, all baptized in Campbeltown:[^children1]
 
 1. [*Archibald Galbreath*](galbreath-archibald-1708.md), bp. 30 May 1708,[^archibald1-birth] m. *Martha White*. OPR listed under "Galbreath" and "Galbraith"
-2. *Mary Galbreath*, bp. 25 Dec 1709. Assumed died in early childhood.
+2. *Mary Galbreath*, bp. 25 Dec 1709.[^mary1-birth] Assumed died in early childhood.
 3. [*Janet Galbreath*](galbreath-janet-1711.md), bp. 14 Oct. 1711, m. *David Ryburn*
 4. *James Galbreath*, bp. 22 Mar 1713. Assumed died in infancy.
 5. *Katharine Galbreath*, bp. 8 Aug 1714
@@ -48,4 +48,6 @@ Child of John and Katharine (McCallum) Galbreath:[^children2]
 
 [^maybemary2]: [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=mitchell&surname_so=fuzzy&forename=mary&forename_so=exact&sex=F&from_year=1684&to_year=1684&parent_names_so=fuzzy&parent_name_two_so=fuzzy&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
 
-[^archibald1-birth]: OPR Campbeltown, baptismed of [Archibald Galbreath](/sources/opr-campbeltown-births.md#1708-05-30-archibald-galbreath)
+[^archibald1-birth]: OPR Campbeltown, baptism of [Archibald Galbreath](/sources/opr-campbeltown-births.md#1708-05-30-archibald-galbreath)
+
+[^mary1-birth]: OPR Campbeltown, baptism of [Mary Galbreath](/sources/opr-campbeltown-births.md#1709-12-25-mary-galbreath)
