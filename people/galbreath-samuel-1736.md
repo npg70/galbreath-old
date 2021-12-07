@@ -13,16 +13,16 @@ Of note there is another [Samuel Galbreath](galbreath-samuel-1765.md) and lived 
 
 Children of Samuel and Janet (McNair) Galbreath, all baptized in Campbeltown:[^children]
 
-1. *Archibald Galbreath*, bp. 14 Sept 1777, twins, assumed died in infancy.
-2. *Robert Galbreath*, bp. 14 Sep 1777, twins, assumed died in infancy.
-3. *[Robert Galbreath](galbreath-robert-1778.md)*, bp. 12 Oct 1778; m. *Katherine Harvie*
-4. *Martha Galbreath*, bp. 27 Jan 1781, bp. 28 Jan 1781
-5. *Archibald Galbreath*, bp. 8 Jun 1783, bp. 10 Jun 1783
+1. *Archibald Galbreath*, bp. 14 Sept 1777,[^archibald1-birth] twins, assumed died in infancy.
+2. *Robert Galbreath*, bp. 14 Sep 1777,[^robert1-birth] twins, assumed died in infancy.
+3. *[Robert Galbreath](galbreath-robert-1778.md)*, bp. 12 Oct 1778;[^robert2-birth] m. *Katherine Harvie*
+4. *Martha Galbreath*, b. 27 Jan 1781, bp. 28 Jan 1781[^martha-birth]
+5. *Archibald Galbreath*, b. 8 Jun 1783, bp. 10 Jun 1783[^archibald2-birth]
 6. *[Janet Galbreath](galbreath-janet-1785.md)*, b. ~1785[^1792], d. 23 Oct 1859[^jdeath], m. *William Mitchell*
-7. *[Catherine Galbreath](galbreath-catherine-1788.md)*, bp. 18 May 1788; m. *James Greenlees*
-8. *James Galbreath*, bp. 18 Apr 1791
-9. *Samuel Galbreath*, bp. 5 Nov 1793, bp. 5 Dec 1793
-10. *John Galbreath*, bp. 7 Nov 1796, bp. 9 Nov 1796
+7. *[Catherine Galbreath](galbreath-catherine-1788.md)*, bp. 18 May 1788;[^catherine-birth] m. *James Greenlees*
+8. *James Galbreath*, bp. 18 Apr 1791[^james-birth]
+9. *Samuel Galbreath*, bp. 5 Nov 1793, bp. 5 Dec 1793[^samuel-birth]
+10. *John Galbreath*, bp. 7 Nov 1796, bp. 9 Nov 1796[^john-birth]
 
 [^birth]: OPR baptism of [Samuel Galbreath](/sources/opr-campbeltown-births.md#1736-02-04-samuel-galbreath)
 
@@ -36,6 +36,24 @@ Children of Samuel and Janet (McNair) Galbreath, all baptized in Campbeltown:[^c
 
 [^janet-death]: Interestingly, no mention is made of a spouse in the testament of Samuel Galbreath, which may mean she passed before 1807. [FamilySearch](https://www.familysearch.org/tree/person/details/LVX6-RKP) circa 2021, lists a date of 07 Jul 1831 without citation.  OPR records indicate a Janet Galbreath did pass at Glasgow 24 Jul 1831, which can't be the same Janet.
 
+[^archibald1-birth]: OPR Campbeltown, baptism of [Archibald Galbreath](/sources/opr-campbeltown-births.md#1777-09-14-archibald-galbreath)
+
+[^robert1-birth]: OPR Campbeltown, baptism of [Robert Galbreath](/sources/opr-campbeltown-births.md#1777-09-14-robert-galbreath)
+
+[^robert2-birth]: OPR Campbeltown, baptism of [Robert-Galbreath](/sources/opr-campbeltown-births.md#1778-10-15-robert-galbreath)
+
+[^martha-birth]: OPR Campbeltown, baptism of [Martha-Galbreath](/sources/opr-campbeltown-births.md#1781-01-28-martha-galbreath)
+
+[^archibald2-birth]: OPR Campbeltown, baptism of [Archibald Galbreath](/sources/opr-campbeltown-births.md#1783-06-10-archibald-galbreath)
+
 [^1792]: The Duke of Argyll's [census of 1792](/sources/list-of-inhabitants-upon-the-duke-of-argylls-property-in-kintyre-1792.md#pages-171-172).
 
 [^jdeath]: Statuatory Records transcribed by [MyAinFolk.ca](https://www.myainfolk.ca/records/5765)
+
+[^catharine-birth]: OPR Campbeltown, baptism of [Catharine Galbreath](/sources/opr-campbeltown-births.md#1788-05-18-catharine-galbreath)
+
+[^james-birth]: OPR Campbeltown, baptism of [James Galbreath](/sources/opr-campbeltown-births.md#1791-04-18-james-galbreath)
+
+[^samuel-birth]: OPR Campbeltown, baptism of [Samuel Galbreath](/sources/opr-campbeltown-births.md#1793-12-05-samuel-galbreath)
+
+[^john-birth]: OPR Campbeltown, baptism of [John Galbreath](/sources/opr-campbeltown-births.md#1795-10-26-janet-galbreath)
