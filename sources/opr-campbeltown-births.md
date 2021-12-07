@@ -178,7 +178,13 @@ TBD: another record under Calbreath
 
 > David | [James Galbreath](/people/galbreath-james-1672.md) & Mary Fleeming had a son bapt 28th April named David
 
-## 1719-07-28 James and Mary Galbreath
+## 1719-07-28 James Galbreath
+
+[507/11 138 row 17](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357504?image=138) Twins.
+
+> James & Mary | [Jn. Galbreath](/people/galbreath-john-1680.md) & Mary Mitchell had a son & Daugt. baptized 28th July named James & Mary
+
+## 1719-07-28 Mary Galbreath
 
 [507/11 138 row 17](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357504?image=138) Twins.
 
