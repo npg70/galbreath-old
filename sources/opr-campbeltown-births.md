@@ -831,7 +831,13 @@ TBD: William Galbreath / Mary Campbell
 
 > Florence | Lawful Daughter to [Henry Galbreath](/people/galbreath-henry-1739.md) and Agnes Armour Born 11th Sept Bap 14
 
-## 1777-09-14 Robert and Archibald Galbreath
+## 1777-09-14 Robert Galbreath
+
+[507/20 35 row 7](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356969?image=35), twins
+
+> Robt. & Arch. | Lawful Sons to [Samuel Galbreath](/people/galbreath-samuel-1736.md) and Janet McNair born 14 Sept 
+
+## 1777-09-14 Archibald Galbreath
 
 [507/20 35 row 7](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356969?image=35), twins
 
