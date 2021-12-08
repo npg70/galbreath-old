@@ -1547,6 +1547,10 @@ TBD: JOHN GALBRAITH/MARGARET MCKECHNEY
 
 Note: right above on same page is the same day baptism of Jane Patterson, daughter of James Patterson and Isabella Galbreath
 
+## 1840-11-29 Annabella Galbreath
+
+TBD: [JOHN GALBREATH](/people/galbreath-john-1815.md)/MARY MCTAGGART
+
 ## [1841-05-10 Elizabeth Galbreath](/people/galbraith-elizabeth-1841.md)
 
 TBD: [John Galbraith](/people/galbraith-john-1809.md) / Mary Coville McEwing
@@ -1656,7 +1660,7 @@ TBD: DAVID GALBREATH/CATHARINE MCKINNON
 
 ## 1847-12-08 John Galbreath
 
-TBD: JOHN GALBREATH/MARY MCTAGGART
+TBD: [JOHN GALBREATH](/people/galbreath-john-1815.md)/MARY MCTAGGART
 
 ## 1847-12-19 Janet Galbreath
 
@@ -1745,7 +1749,7 @@ TBD: DONALD GALBRAITH/ISABELLA MCLEAN
 
 ## 1851-02-12 Duncan Galbraith
 
-TBD: JOHN GALBRAITH/MARY MACTAGGART
+TBD: [JOHN GALBRAITH](/people/galbreath-john-1815.md)/MARY MACTAGGART
 
 ## 1851-07-29 Flora Galbraith
 
