@@ -1444,7 +1444,7 @@ TBD: [Archibald Galbreath](/people/galbreath-archibald-1760.md) / Jean Corbet
 
 [507/40 449 row 9](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357713?image=449)
 
-> Niel | Lawful son to Archibald Galbreath Fisher Dalintober and Margaret MacMillan. Born 17th. Baptized 18th Aug 1816 named Niel
+> Niel | Lawful son to [Archibald Galbreath](/people/galbreath-archibald-1798.md) Fisher Dalintober and Margaret MacMillan. Born 17th. Baptized 18th Aug 1816 named Niel
 
 ## [1817-04-16 John Galbreath](/people/galbreath-john-1817.md)
 
