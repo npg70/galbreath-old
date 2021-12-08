@@ -1453,6 +1453,10 @@ TBD: [Archibald Galbreath](/people/galbreath-archibald-1760.md) / Jean Corbet
 > David | Lawful son of David Galbreath Farmer Ugadale & Mary Greenlees
 > born 28th March & Bapt 1st April 1819. David.
 
+## 1819-12-22 Neill Galbraith
+
+TBD: NEILL GALBRAITH/MARY MCMILLAN
+
 ## [1821-02-02 John Galbreath](/people/galbreath-john-1821.md)
 
 [507/60 30 row 2](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357635?image=30)
@@ -1496,6 +1500,10 @@ TBD: [Archibald Galbreath](/people/galbreath-archibald-1760.md) / Jean Corbet
 
 > Ugenia | Lawful daughter of [Arch Galbreath](/people/galbreath-archibald-1803.md) and Ugenia McCallum
 > in [Skerbolin?] was born [illegible] and bapt 25 Jan 1838
+
+## 1839-12-01 Edward Galbraith
+
+TBD: JOHN GALBRAITH/MARGARET MCKECHNEY 
 
 ## 1839-12-22 Jane Galbreath
 
@@ -1625,6 +1633,14 @@ TBD: [John Galbraith](/people/galbraith-john-1809.md) /  Mary Coville McEwing
 > John | Lawful son of [John Galbreath](/people/galbreath-john-1821.md), Seaman Dalintober, and
 > Margaret Cook, born [day missing] April and Baptized 18th October 1848
 
+## 1848-11-19 Daniel Galbraith
+
+TBD: DUNCAN GALBRAITH/MARY THOMSON
+
+## 1849-01-12 Duncan Galbraith
+
+TBD: NEIL GALBRAITH/FLORA MCNEAL
+
 ## 1849-03-25 Jane Galbreath
 
 [507/70 350 row 9](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358114?image=350)
@@ -1632,13 +1648,25 @@ TBD: [John Galbraith](/people/galbraith-john-1809.md) /  Mary Coville McEwing
 > Jane | Lawful Daughter of Peter Galbreath Workman and Sarah Armour born 19th February
 > and baptized 25th Marc 1849
 
+## 1849-12-26 Margaret Galbraith
+
+TBD: DAVID GALBRAITH/CATHARINE MCKINNON
+
+## 1850-05-05 John Galbraith
+
+TBD: DUNCAN GALBRAITH/CATHARINE MCFAYTER
+
 ## 1850-05-26 Jane Galbraith
 
 [507/70 369 row 7](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/1675?image=369)
 
 > Jane | Lawful Daughter of Peter Galbraith Laborer & Sarah Armour 
 > born 30th March & bapts 26 May 1850
-> 
+
+## 1850-08-22 Isabella Galbraith
+
+TBD: DONALD GALBRAITH/ISABELLA MCLEAN
+
 ## 1850-09-08 Isabella Galbreath
 
 [507/70 374 row 9](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358092?image=374)
@@ -1646,12 +1674,44 @@ TBD: [John Galbraith](/people/galbraith-john-1809.md) /  Mary Coville McEwing
 > Isabella | Lawful daughter of John Galbreath distillery workman and Janet Watson
 > born 1th May and Baptized 8th Sept 1850
 
+## 1851-02-12 Duncan Galbraith
+
+TBD: JOHN GALBRAITH/MARY MACTAGGART
+
+## 1851-07-29 Flora Galbraith
+
+TBD: DUNCAN GALBRAITH/MARY THOMSON
+
+## 1851-08-17 Agnes Galbraith
+
+TBD: JOHN GALBRAITH/MARGARET COOK 
+
+## 1852-06-29 Robert Galbraith
+
+TBD: DAVID GALBRAITH/CATHERINE MCKINNON
+
 ## 1852-10-04 Margaret Galbraith
 
 [507/70 407 row 4](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/1962?image=407)
 
 > Margaret | Lawful daughter of Peter Galbraith Maltster and Sarah Armour born
 > 11 (4?) September and baptized 4 October 1852.
+
+## 1852-12-06 Jean Cameron Galbraith
+
+TBD: WILLIAM GALBRAITH/GRACE GLASS
+
+## 1853-04-05 Catharine Galbraith
+
+TBD: DUNCAN GALBRAITH/CATHARINE MCPATON
+
+## 1853-07-10 Margaret Galbraith
+
+TBD: ARCHIBALD GALBRAITH/MARGARET CORMACHAN
+
+## 1853-08-29 Margaret Galbraith
+
+TBD: DONALD GALBRAITH/ISABELLA MCLEAN
 
 ## 1853-11-07 William Galbraith
 
