@@ -8,9 +8,9 @@ His occupation was in the distilling industry[^census1851][^census1861][^census1
 
 Children of John and Mary (McTaggart) Galbreath, all baptized at Campbeltown:[^oprchildren]
 
-1. *Annabella Galbreath*, bp.29 Nov 1840, suspected to have died before 1851.
-2. *[Archibald Galbreath](galbreath-archibald-1842.md)*, bp. 25 Sep 1842
-3. *[Alexander Galbreath](galbraith-alexander-1844.md)*, bp. 04 Aug 1844, m1 *Flora Campbell*, m2 *Agnes Matheson*
+1. *Annabella Galbreath*, bp.29 Nov 1840,[^annabella-birth] suspected to have died before 1851.
+2. *[Archibald Galbreath](galbreath-archibald-1842.md)*, bp. 25 Sep 1842[^archibald-birth]
+3. *[Alexander Galbreath](galbraith-alexander-1844.md)*, bp. 04 Aug 1844,[^alexander-birth] m1 *Flora Campbell*, m2 *Agnes Matheson*
 4. *John Galbreath*, bp. 08 Dec 1847[^john-birth]
 5. *Duncan Galbraith*, bp. 12 Feb 1851[^duncan-birth]
 
@@ -29,6 +29,12 @@ Lists occupations as "Ag Lab" (farm laborer), along with his wife and first chil
 [^census1881]: House of Archibald Galbraith, UK Census 1881 from [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1881/0029344266&expand=true). Living with his son Archibald, as a widower, occupation "distillery workman", birth year of 1814, birthplace of Kilcalmonell (parish), which is next to Clachan.
 
 [^death]: Civil Records, Campbeltown, Death of John Galbraith from [ScotlandPeoples](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/4272947). Listed as a "distillery workman" and "widower of Mary McTaggart." Parents are listed as John Galbreath, farm servant, and Mary McGregor.  Signed by Archibald Galbreath his son.
+
+[^annabella-birth]: OPR Campbeltown, [Annabella Galbreath](/sources/opr-campbeltown-births.md#1840-11-29-annabella-galbreath
+
+[^archibald-birth]: OPR Campbeltown, [Archibald Galbreath](/sources/opr-campbeltown-births.md#1842-09-25-archibald-galbreath)
+
+[^alexander-birth]: OPR Campbeltown, [Alexander Galbreath](/sources/opr-campbeltown-births.md#1844-08-04-alexander-galbreath)
 
 [^john-birth]: OPR Campbeltown, [John Galbraith](/sources/opr-campbeltown-births.md#1847-12-08-john-galbreath)
 
