@@ -24,5 +24,5 @@ Child of Archibald and XXX (XXX) Galbraith:
     David 1853
     John 1847
 
-[^death]:  1867 GALBRAITH, ARCHIBALD (Statutory registers Deaths 573/2 44) on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/982697).  His son Archibald, died the day before, both of typhus fever, both listed as shoemarker.  THe elder Archibald is listed as a widower, but name is missing, and information on his parents is missing.
+[^death]: 1867 GALBRAITH, ARCHIBALD (Statutory registers Deaths 573/2 44) on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/982697). His son Archibald, died the day before, both of typhus fever, both listed as shoemarker.  THe elder Archibald is listed as a widower, but name is missing, and information on his parents is missing.
 
