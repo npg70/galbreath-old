@@ -4,7 +4,7 @@ familysearch: https://www.familysearch.org/tree/person/details/9M9D-6TZ
 ---
 **Archibald Galbreath**, of unknown origin, married at Campbeltown, Arygll, Scottland 16 Feb 1813 to **Margaret McMillian**, baptised at Campbeltown 25 Oct 1791,[^margaret] daughter of *Neil McMillian*, b. 1750 and *Margaret Mceachine*, born at Campbeltown 9 Jan 1769.
 
-Archibald was a sailor[^anne-birth] and fisherman[^archibald-birth][^john-birth].
+Archibald was a sailor[^anne-birth] and fisherman[^archibald-birth][^niel-birth][^john-birth].
 
 There does exist an 1841 Census record of Archibald and Margaret Galbreath[^1841] (and only them, no children are listed) on "Queens Street, Campbeltown, Argyllshire, Scotland."  It gives an estimated birth year of 1781 for both of them, and gives his occupation as "fisher."   The two children we know who got married, did so before 1841, so this seems possible.
 
@@ -58,6 +58,8 @@ Children of Archibald and Margaret (McMillian) Galbreath.  Note that two childre
 4. *[John Galbreath](galbreath-john-1821.md)*, b. 2 Feb 1821;[^john-birth] m. *Margaret Cook*
 
 [^anne-birth]: [OPR baptism record](/sources/opr-campbeltown-births.md#1814-04-07-anne-galbreath) for Anne lists Archibald as a sailor.
+
+[^niel-birth]: OPR Campbeltown, baptism of [Niel Galbreath](/sources/opr-campbeltown-births.md#1816-08-18-niel-galbreath), lists father as fisher in Dalintober.
 
 [^archibald-birth]: OPR Campbeltown, baptism of [Archibald Galbreath](/sources/opr-campbeltown-births.md#1819-01-19-archibald-galbreath), list father as a fisherman in Dalintober.
 
