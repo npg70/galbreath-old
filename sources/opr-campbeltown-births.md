@@ -1436,9 +1436,15 @@ TBD: [Archibald Galbreath](/people/galbreath-archibald-1760.md) / Jean Corbet
 
 ## [1815-07-21 William Galbreath](/people/galbraith-william-1815.md)
 
-[50740 432 row 11](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357852?image=432)
+[507/40 432 row 11](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357852?image=432)
 
 > William | Lawful son to [William Galbreath](/people/galbreath-william-1780.md) Farmer Laggan and Jean Campbell born 19th. Baptized 21st July 1815.  Named William
+
+## 1816-08-18 Niel Galbreath
+
+[507/40 449 row 9](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357713?image=449)
+
+> Niel | Lawful son to Archibald Galbreath Fisher Dalintober and Margaret MacMillan. Born 17th. Baptized 18th Aug 1816 named Niel
 
 ## [1817-04-16 John Galbreath](/people/galbreath-john-1817.md)
 
