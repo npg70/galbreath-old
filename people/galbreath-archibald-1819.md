@@ -8,7 +8,7 @@ He was a shoemaker.[^1851][^1861]
 
 Child of Archibald and Sarah (McNeil) Galbraith:
 
-1. *Alexander Galbraith*,
+1. *Alexander Galbraith*, d. Paisley Low Church 1865
 2. *Donald Galbraith*,
 3. *Sarah Galbraith*, d. Paisley Low Church 1865
 4. *Archibald Galbreath*, d. Paisley, 3 Feb 1867[^death]
