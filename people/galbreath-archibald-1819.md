@@ -4,7 +4,7 @@ familysearch: https://www.familysearch.org/tree/person/details/M1YS-YCW
 ---
 ***Archibald Galbreath***, son of *[Archibald Galbreath](/people/galbreath-archibald-1798.md)* and *Margaret McMillan*,  He died at Paisley, 4 Feb 1867, along with his son Archibald of Typhus fever[^death]
 
-His was a shoemaker.[^1851][^1861]
+He was a shoemaker.[^1851][^1861]
 
 Child of Archibald and XXX (XXX) Galbraith:
 
