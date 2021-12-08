@@ -1605,6 +1605,14 @@ TBD: [John Galbraith](/people/galbraith-john-1809.md) /  Mary Coville McEwing
 > Agnes| | Lawful Daughter of [Archibald Galbreath](/people/galbreath-archibald-1803.md) ??? ??? and Margaret Loynachan,
 > was born 25th September. Baptized 1st November 1847
 
+## 1847-11-15 Isabella Galbreath
+
+TBD: DAVID GALBREATH/CATHARINE MCKINNON
+
+## 1847-12-08 John Galbreath
+
+TBD: JOHN GALBREATH/MARY MCTAGGART
+
 ## 1847-12-19 Janet Galbreath
 
 [507/70 329 row 4](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358145?image=329)
@@ -1618,6 +1626,22 @@ TBD: [John Galbraith](/people/galbraith-john-1809.md) /  Mary Coville McEwing
 
 > Archibald | Lawful son of Donald Galbreath (Grasier????) and Flora Smith
 > born 8th and Baptized 20th December 1847
+
+## 1848-01-25 Agnes Galbreath
+
+TBD: DONALD GALBREATH/ISABELLA MCLEA
+
+## 1848-02-27 Alexander Galbreath
+
+TBD: ARCHIBALD GALBREATH/AGNES MCFARLANE
+
+## 1848-03-19 Angus Galbreath
+
+TBD: DUNCAN GALBREATH/CATHARINE MCFATER
+
+## 1848-08-28 Agnes Galbreath
+
+TBD: WILLIAM GALBREATH/GRACE GLASS
 
 ## 1848-10-15 Margaret Galbreath
 
