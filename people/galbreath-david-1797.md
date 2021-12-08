@@ -10,7 +10,7 @@ Children of David and Janet (Galbreath) Mitchell, all baptised Campbeltown:[^chi
 
 1. *[Archibald Galbraith](galbraith-archibald-1825.md)*, bp 10 Jul 1825,[^birth-archibald] m1. *Mary Paterson*, m2. *Margaret Galbreath*
 2. *Samuel Galbreath*, bp. 14 Jan 1827[^samuel-birth], d. 17 Oct 1860[^samuel-death]
-3. *Agnes Galbreath*, bp. 3 Aug 1828
+3. *Agnes Galbreath*, bp. 3 Aug 1828[^agnes-birth]
 4. *Janet Galbreath*, bp. 6 May 1830
 5. *David Galbreath*, bp. 29 Jul 1832, assumed died in early childhood
 6. *[William Galbreath](galbreath-william-1833.md)*, bp. 2 Oct 1833,[^william-birth], m. *Maria McMurtry*
@@ -34,6 +34,8 @@ Children of David and Janet (Galbreath) Mitchell, all baptised Campbeltown:[^chi
 
 [^samuel-death]: Death record for [1860 GALBRAITH, SAMUEL (Statutory registers Deaths 507/ 149)
 ](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/385069) is missing parents or occupation, however the estimated birth matches.
+
+[^agnes-birth]: OPR Campbeltown, baptism of [Agnes Galbreath](sources/opr-campbeltown-births.md#1828-08-03-agnes-galbreath)
 
 [^archibald-death]: Civil Registers of Campbeltown, Argyll, Death of Archibald Galbreath, transcribed on [MyAinFolk](https://www.myainfolk.ca/records/6834)
 
