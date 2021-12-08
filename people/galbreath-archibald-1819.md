@@ -8,12 +8,11 @@ His occupation was as a shoemaker[^1861]
 
 Child of Archibald and XXX (XXX) Galbraith:
 
-1. Alexander Galbraith
-2. Sarah Galbraith
-3. Archibald Galbreath
-4. David Galbraith
-5. John Galbraith
-6. 
+1. *Alexander Galbraith*
+2. *Sarah Galbraith*
+3. *Archibald Galbreath*, d. Paisley, 3 Feb 1867[^death]
+4. *David Galbraith*
+5. *John Galbraith*
 
 [^1861]: UK Census of 1861, High Street, Greenock, High Church Parish Paisley, Renfrewshire, Scotland, household of Archibald Galbraith
 
