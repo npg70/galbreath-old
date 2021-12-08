@@ -13,7 +13,7 @@ Child of Archibald and Sarah (McNeil) Galbraith:
 3. *Sarah Galbraith*,
 4. *Archibald Galbreath*, d. Paisley, 3 Feb 1867[^death]
 5. *David Galbraith*,
-6. *John Galbraith*,
+6. *John Galbraith*, 23 DEC 1856
 
 [^1851]: UK Census of 1851, 71, High Street, Greenock, Renfrewshire, Scotland, household of Archibald Galbraith on [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1851/0019190310&expand=true)
     Archibald Galbraith 1819 Argylshire, shoemaker
