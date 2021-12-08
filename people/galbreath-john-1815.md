@@ -6,6 +6,8 @@ familysearch: https://www.familysearch.org/tree/person/details/LZ62-VM4
 
 His occupation was in the distilling industry[^census1851][^census1861][^census1881].
 
+From the death records[^death], it says his parents were "John Galbreath / Mary McGreggor" birth a birth around 1815.
+
 Children of John and Mary (McTaggart) Galbreath, all baptized at Campbeltown:[^oprchildren]
 
 1. *Annabella Galbreath*, bp.29 Nov 1840,[^annabella-birth] suspected to have died before 1851.
