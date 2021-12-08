@@ -31,6 +31,8 @@ Children of John and Margaret (Cook) Galbreath:[^oprchildren]
 
 [^mary-birth]: OPR Campbeltown, baptism of [Mary Galbreath](/sources/opr-campbeltown-births.md#1843-11-05-mary-galbreath)
 
+[^margaret-birth]: OPR Campbeltown, baptism of [Margaret Galbreath](/sources/opr-campbeltown-births.md#1845-06-29-margaret-galbreath)
+
 [^john-birth]: OPR Campbeltown, baptism of [John Galbreath](/sources/opr-campbeltown-births.md#1848-10-18-john-galbreath)
 
 [^agnes-birth]: OPR Campbeltown, baptism of [Agnes Galbraith](/sources/opr-campbeltown-births.md#1851-08-17-agnes-galbraith)
