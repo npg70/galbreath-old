@@ -2,9 +2,8 @@
 title: Alexander Galbraith b 1844 m1 Flora Campbell m2 Agnes Matheson
 familysearch: https://www.familysearch.org/tree/person/details/K8D5-31F
 ---
-***Alexander Galbraith***, son of *[John Galbraith](galbreath-john-1815.md)* and *Mary McTaggart*, born Campbeltown 6 Jul 1844, baptized 4 Aug 1844.[^birth] He died 25 Dec 1883.[^death] He married, first, to **Flora Campbell** 20 Dec 1864, second at Campbeltown 3 Oct 1876[^marriage2] to **Agnes Matheson**.
+***Alexander Galbraith***, son of *[John Galbraith](galbreath-john-1815.md)* and *Mary McTaggart*, born Campbeltown 6 Jul 1844, baptized 4 Aug 1844.[^birth] He died 25 Dec 1883.[^death] He married, first at Campbeltown 6 Oct 1864[^marriage1] to **Flora Campbell**, second at Campbeltown 3 Oct 1876[^marriage2] to **Agnes Matheson**.
 
-TBD: marriage record indicates both were widowers.
 
 He was a distillery workman[^mary-marriage][^marriage2]
 
@@ -35,6 +34,8 @@ Children of Alexander and Agnes (Matheson) Galbraith:
 [^archibald-birth]: "Scotland Births and Baptisms, 1564-1950", database, FamilySearch (https://familysearch.org/ark:/61903/1:1:FQJY-TRH : 12 February 2020), Archibald Galbraith, 1872.
 
 [^agnes-birth]: "Scotland Births and Baptisms, 1564-1950", database, FamilySearch (https://familysearch.org/ark:/61903/1:1:FQD1-JC9 : 12 February 2020), Agnes McMillan Galbraith, 1874.
+
+[^marriage1]: 1864 GALBRAITH, ALEXANDER (Statutory registers Marriages 507/ 31), [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/11089832)
 
 [^marriage2]: https://www.myainfolk.ca/records/19543
 
