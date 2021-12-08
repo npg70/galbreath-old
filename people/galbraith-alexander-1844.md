@@ -8,7 +8,7 @@ He was a distillery workman[^mary-marriage][^marriage2]
 
 Children of Alexander and Flora (Campbell) Galbraith:
 
-1. *[Alexander Galbraith](galbraith-alexander-1864.md)*, b. 20 Dec 1864[^alexander-birth], m. *Maggie McIntyre*
+1. *[Alexander Galbraith](galbraith-alexander-1864.md)*, b. 20 Dec 1864, Campbeltown[^alexander-birth], m. *Maggie McIntyre*
 2. *John Galbraith*, b. 19 Jul 1867 Milton, Glasgow, Lanark, Scotland,[^john-birth] d. 12 Feb 1880 Campbeltown
 3. *James Galbraith*, b. 26 Sep 1870, Central District, Glasgow, Lanark, Scotland[^james-birth]
 4. *Archibald Galbraith*, b. 11 Jun 1872, Milton, Glasgow, Lanark, Scotland[^archibald-birth]
