@@ -1611,7 +1611,7 @@ Unclear why I recorded this one.
 
 [507/70 268 row 10](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357844?image=268)
 
-> William | Lawful son of Peter Galbreath, Laborer and Sarah Armour
+> William | Lawful son of [Peter Galbreath](/people/galbraith-peter-1811.md), Laborer and Sarah Armour
 > was born 27 July and baptized 25 Augst 1844
 
 ## 1845-05-25 Janet Galbreath
@@ -1640,7 +1640,7 @@ TBD: [John Galbraith](/people/galbraith-john-1809.md) /  Mary Coville McEwing
 
 [507/70 306 row 12](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357318?image=306)
 
-> Archibald | Lawful son of Peter Galbreath workman and Sarah Armour was born 7 June
+> Archibald | Lawful son of [Peter Galbreath](/people/galbraith-peter-1811.md) workman and Sarah Armour was born 7 June
 > and baptized 12 July 1846.
  
 ## 1847-11-01 Agnes Galbreath
@@ -1714,7 +1714,7 @@ TBD: NEIL GALBRAITH/FLORA MCNEAL
 
 [507/70 350 row 9](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358114?image=350)
 
-> Jane | Lawful Daughter of Peter Galbreath Workman and Sarah Armour born 19th February
+> Jane | Lawful Daughter of [Peter Galbreath](/people/galbraith-peter-1811.md) Workman and Sarah Armour born 19th February
 > and baptized 25th Marc 1849
 
 ## 1849-12-26 Margaret Galbraith
@@ -1729,7 +1729,7 @@ TBD: DUNCAN GALBRAITH/CATHARINE MCFAYTER
 
 [507/70 369 row 7](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/1675?image=369)
 
-> Jane | Lawful Daughter of Peter Galbraith Laborer & Sarah Armour 
+> Jane | Lawful Daughter of [Peter Galbraith](/people/galbraith-peter-1811.md) Laborer & Sarah Armour 
 > born 30th March & bapts 26 May 1850
 
 ## 1850-08-22 Isabella Galbraith
@@ -1763,7 +1763,7 @@ TBD: DAVID GALBRAITH/CATHERINE MCKINNON
 
 [507/70 407 row 4](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/1962?image=407)
 
-> Margaret | Lawful daughter of Peter Galbraith Maltster and Sarah Armour born
+> Margaret | Lawful daughter of [Peter Galbraith](/people/galbraith-peter-1811.md) Maltster and Sarah Armour born
 > 11 (4?) September and baptized 4 October 1852.
 
 ## 1852-12-06 Jean Cameron Galbraith
