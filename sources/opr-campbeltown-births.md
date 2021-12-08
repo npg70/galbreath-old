@@ -1491,12 +1491,28 @@ TBD: NEILL GALBRAITH/MARY MCMILLAN
 > Samuel | Lawful son of [David Galbreath](/people/galbreath-david-1797.md) sawyer and
 > Janet Mitchell was born & bapt 14 Jan 1827. Samuel
 
+## 1828-08-03 Agnes Galbreath
+
+TBD: [David Galbreath](/people/galbreath-david-1797.md)/Janet Mitchell
+
+## 1830-05-06 Janet Galbreath
+
+TBD: [David Galbreath](/people/galbreath-david-1797.md)/Janet Mitchell
+
 ## 1831-03-13 Mary Galbreath
 
 [507/60 31 row 11](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358436?image=31)
 
 > Mary | Lawful ~Son~ Dau of [James Galbreath](/people/galbreath-james-abt-1775.md) Farmer Skerbolin and Martha Galbreath
 > Both 12th & Bapts 13th March 1831. Mary.
+
+## 1832-07-29 David Galbreath
+
+TBD: [David Galbreath](/people/galbreath-david-1797.md)/Janet Mitchell
+
+## 1835-08-30 David Galbreath
+
+TBD: [David Galbreath](/people/galbreath-david-1797.md)/Janet Mitchell
 
 ## [1833-10-02 William Galbreath](/people/galbreath-william-1833.md)
 
@@ -1513,6 +1529,10 @@ TBD: NEILL GALBRAITH/MARY MCMILLAN
 
 > Ugenia | Lawful daughter of [Arch Galbreath](/people/galbreath-archibald-1803.md) and Ugenia McCallum
 > in [Skerbolin?] was born [illegible] and bapt 25 Jan 1838
+
+## 1839-06-02 James Galbreath
+
+TBD: [David Galbreath](/people/galbreath-david-1797.md)/Janet Mitchell
 
 ## 1839-12-01 Edward Galbraith
 
