@@ -24,8 +24,8 @@ Child of Archibald and XXX (XXX) Galbraith:
 
 [^1861]: UK Census of 1861, High Street, Greenock, High Church Parish Paisley, Renfrewshire, Scotland, household of Archibald Galbraith on [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1861/0021978019&expand=true)
 
-    Archibald Galbraith 1821, shoemarker
-    Sarah Galbraith 1821
+    Archibald Galbraith 1821 Campbeltown, shoemaker
+    Sarah Galbraith 1821 Argyllshire
     Alexander Galbraith 1843, salesman
     Sarah 1849
     Archibald 1851
