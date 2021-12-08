@@ -12,10 +12,10 @@ Children of David and Janet (Galbreath) Mitchell, all baptised Campbeltown:[^chi
 2. *Samuel Galbreath*, bp. 14 Jan 1827[^samuel-birth], d. 17 Oct 1860[^samuel-death]
 3. *Agnes Galbreath*, bp. 3 Aug 1828[^agnes-birth]
 4. *Janet Galbreath*, bp. 6 May 1830[^janet-birth]
-5. *David Galbreath*, bp. 29 Jul 1832, assumed died in early childhood
+5. *David Galbreath*, bp. 29 Jul 1832,[^david1-birth] assumed died in early childhood
 6. *[William Galbreath](galbreath-william-1833.md)*, bp. 2 Oct 1833,[^william-birth], m. *Maria McMurtry*
-7. *David Galbreath*, bp. 30 Aug 1835, d. Poorhouse of Campbeltown 5 Feb 1806. Was a "clerk." Unmarried.[^david2-death]
-8. *James Galbreath*, bp. 2 Jun 1839
+7. *David Galbreath*, bp. 30 Aug 1835,[^david2-birth] d. Poorhouse of Campbeltown 5 Feb 1806. Was a "clerk." Unmarried.[^david2-death]
+8. *James Galbreath*, bp. 2 Jun 1839[^james-birth]
 9. *[John Galbreath](galbreath-john-1842.md)*, bp. 25 Jul 1842,[^john-birth] m1 *Agnes McAlpine*, m2 *Charolotte Wylie*, m3. *Isabella Galbraith*
 
 [^birth]: OPR Campbeltown, baptism of [David Galbreath](/sources/opr-campbeltown-births.md#1797-09-09-david-galbreath)
@@ -37,7 +37,9 @@ Children of David and Janet (Galbreath) Mitchell, all baptised Campbeltown:[^chi
 
 [^agnes-birth]: OPR Campbeltown, baptism of [Agnes Galbreath](/sources/opr-campbeltown-births.md#1828-08-03-agnes-galbreath)
 
-[^janet-brith]:  OPR Campbeltown, baptism of [Janet Galbreath]((/sources/opr-campbeltown-births.md#1830-05-06-janet-galbreath)
+[^janet-birth]:  OPR Campbeltown, baptism of [Janet Galbreath]((/sources/opr-campbeltown-births.md#1830-05-06-janet-galbreath)
+
+[^david1-birth]: OPR Campbeltown, baptism of [David Galbreath](/sources/opr-campbeltown-births.md#1832-07-29-david-galbreath)
 
 [^archibald-death]: Civil Registers of Campbeltown, Argyll, Death of Archibald Galbreath, transcribed on [MyAinFolk](https://www.myainfolk.ca/records/6834)
 
@@ -45,6 +47,10 @@ Children of David and Janet (Galbreath) Mitchell, all baptised Campbeltown:[^chi
 
 [^william-death]: 1894 GALBRAITH, WILLIAM (Statutory registers Deaths 507/ 94) on [ScotlandPeoples](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/4599656)
 
+[^david2-birth]: OPR Campbeltown, baptism of [David Galbreath](/sources/opr-campbeltown-births.md#1835-08-30-david-galbreath)
+
 [^david2-death]: 1906 GALBRAITH, DAVID (Statutory registers Deaths 507/ 21) [ScotlandPeoples](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/5926269)
+
+[^james-birth]: OPR Campbeltown, baptism of [James Galbreath](/sources/opr-campbeltown-births.md#1839-06-02-james-galbreath)
 
 [^john-birth]: OPR Campbeltown, baptism of [John Galbreath](/sources/opr-campbeltown-births.md#1842-07-25-john-galbreath)
