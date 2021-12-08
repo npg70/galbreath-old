@@ -1538,6 +1538,10 @@ TBD: [John Galbraith](/people/galbraith-john-1809.md) / Mary Coville McEwing
 > James | Lawful son of [Arch Galbreath](/people/galbreath-archibald-1803.md) far[? farmer] Ugadale, and Margaret Loynachan
 > was born twenty thrird September and baptized 7th Nov 1841
 
+## 1841-12-30 Neill Galbreath
+
+TBD: [JOHN GALBREATH](/people/galbreath-john-1821.md)/MARGARET COOK 
+
 ## [1842-07-25 John Galbreath](/people/galbreath-john-1842.md)
 
 John | Lawful son of [David Galbreath](/people/galbreath-david-1797.md) Sawyer and Janet Mitchell born second and baptized 25 July 1842
@@ -1562,6 +1566,10 @@ John | Lawful son of [David Galbreath](/people/galbreath-david-1797.md) Sawyer a
 
 > Archibald | Lawful son of [Arch Galbreath](/people/galbreath-archibald-1803.md), farmer, Ugadale and Margaret Loynachan,
 > was born seventeeenth July & bapt. 13 Augt. 1843
+
+## 1843-11-05 Mary Galbreath
+
+TBD: [JOHN GALBREATH](/people/galbreath-john-1821.md)/MARGARET COOK 
 
 ## 1844-07-18 Catharine Greenless
 
@@ -1599,6 +1607,10 @@ Unclear why I recorded this one.
 
 > Neill | | Lawful son of [Arch Galbreath](/people/galbreath-archibald-1803.md), farmer, Ugadale and Margt. Loynachan,
 > was born 20th May & bapt. 15 June 1845
+
+## 1845-06-29 Margaret Galbreath
+
+TBD: [JOHN GALBREATH](/people/galbreath-john-1821.md)/MARGARET COOK 
 
 ## 1845-10-06 Archibald Galbreath
 
@@ -1721,7 +1733,7 @@ TBD: DUNCAN GALBRAITH/MARY THOMSON
 
 ## 1851-08-17 Agnes Galbraith
 
-TBD: JOHN GALBRAITH/MARGARET COOK 
+TBD: [JOHN GALBRAITH](/people/galbreath-john-1821.md)/MARGARET COOK 
 
 ## 1852-06-29 Robert Galbraith
 
