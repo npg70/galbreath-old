@@ -18,7 +18,7 @@ https://www.ancestry.com/family-tree/person/tree/17980335/person/617967166/facts
 
 Child of David Steward Galbreath and Margaret McKeigh:
 
-1. *John Sayers Galbreath*, b. 4 May 1810, bp 14 Mar 1811, Greenock or Old West[^jsg-birth1][^jsg-birth2][^jsg-birth3]
+1. *John Sayers Galbreath*, b. 4 May 1810, bp 14 Mar 1811, Greenock Old or West, Renfrew, Scotland[^jsg-birth1][^jsg-birth2][^jsg-birth3]
 
 Children of David and Elizabeth (Fraser) Galbreath, all baptized at Campbeltown:[^oprchildren]
 
