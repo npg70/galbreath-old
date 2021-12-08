@@ -4,16 +4,15 @@ familysearch: https://www.familysearch.org/tree/person/details/K8D5-31F
 ---
 ***Alexander Galbraith***, son of *[John Galbraith](galbreath-john-1815.md)* and *Mary McTaggart*, born Campbeltown 6 Jul 1844, baptized 4 Aug 1844.[^birth] He died 25 Dec 1883.[^death] He married, first at Campbeltown 6 Oct 1864[^marriage1] to **Flora Campbell**, second at Campbeltown 3 Oct 1876[^marriage2] to **Agnes Matheson**.
 
-
 He was a distillery workman[^mary-marriage][^marriage2]
 
 Children of Alexander and Flora (Campbell) Galbraith:
 
 1. *[Alexander Galbraith](galbraith-alexander-1864.md)*, b. 20 Dec 1864 [^alexander-birth]
-2. *John Galbraith*, b 1886 , d. 12 Feb 1880 Campbeltown
+2. *John Galbraith*, b. 19 Jul 1867 Milton, Glasgow, Lanark, Scotland, d. 12 Feb 1880 Campbeltown
 3. *James Galbraith*, b. 26 Sep 1870, Central District, Glasgow, Lanark, Scotland[^james-birth]
 4. *Archibald Galbraith*, b. 11 Jun 1872, Milton, Glasgow, Lanark, Scotland[^archibald-birth]
-5. *Agnes McMillian Galbraith*, b. 26 Aug 1874, Milton, Glasgow, Lanark, Scotland[^agnes-birth]
+5. *Agnes McMillan Galbraith*, b. 26 Aug 1874, Milton, Glasgow, Lanark, Scotland[^agnes-birth]
 
 Children of Alexander and Agnes (Matheson) Galbraith:
 
