@@ -4,7 +4,7 @@ familysearch: https://www.familysearch.org/tree/person/details/M1YS-YCW
 ---
 ***Archibald Galbreath***, son of *[Archibald Galbreath](/people/galbreath-archibald-1798.md)* and *Margaret McMillan*,  He died at Paisley, 4 Feb 1867, along with his son Archibald of Typhus fever[^death]
 
-His occupation was as a shoemaker[^1861]
+His was a shoemaker.[^1851][^1861]
 
 Child of Archibald and XXX (XXX) Galbraith:
 
@@ -13,6 +13,13 @@ Child of Archibald and XXX (XXX) Galbraith:
 3. *Archibald Galbreath*, d. Paisley, 3 Feb 1867[^death]
 4. *David Galbraith*
 5. *John Galbraith*
+
+[^1851]: UK Census of 1851, 71, High Street, Greenock, Renfrewshire, Scotland, household of Archibald Galbraith
+    Archibald Galbraith 1819 Argylshire, shoemaker
+    Sarah Galbraith 1821 Argyllshire
+    Alexander 1843, Paisley
+    Donald 1844, Paisley
+    Sarah 1849, Paisley
 
 [^1861]: UK Census of 1861, High Street, Greenock, High Church Parish Paisley, Renfrewshire, Scotland, household of Archibald Galbraith
 
