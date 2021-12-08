@@ -3,11 +3,22 @@ title: David Stewart Galbraith b 1780 m. Elizabeth Fraser
 familysearch: https://www.familysearch.org/tree/person/details/KZDT-66V
 ---
 ***David Stewart Galbraith***, son of *Daniel Torquil Galbraith*, Laird of Machrehanish and *Maragaret Stuart* (dau. of Archibald Stuart, Esq., of Askomibeg); b. 1780.[^birth]
+
+Hmmm maybe another marriage and children....
+
+> GALBREATH JOHN SAYERS son of DAVID STEWART GALBREATH MARGARET MCKEIGH 14/03/1811 @ Greenock or Old West.
+> transcription says DWG was a "writer", so I suspect the same person.
+
+
 He married at Edinburgh Parish, Edinburgh, Midlothian, Scotland 8 Jun 1812 to **Elizabeth Fraser**, daughter of *James Fraser*.[^marriage]
 
 Moved to Campbeltown around prior to 1813.  He was a lawyer and frequently present in Kirk Sessions in Campbeltown.
 
 https://www.ancestry.com/family-tree/person/tree/17980335/person/617967166/facts
+
+Child of David Steward Galbreath and Margaret McKeigh:
+
+1. *John Sayers Galbreath*, bp 14 Mar 1811, Greenock or Old West[^jsg-birth]
 
 Children of David and Elizabeth (Fraser) Galbreath, all baptized at Campbeltown:[^oprchildren]
 
@@ -27,6 +38,8 @@ Children of David and Elizabeth (Fraser) Galbreath, all baptized at Campbeltown:
 14. *Henry Louis Galbraith*, bp. 12 Jun 1837
 
 [^birth]: no OPR records found.
+
+[^jsg-birth]: OPR Records, Greenock Old or West, baptism of "John Sayers Galbreath", on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357669?image=179)
 
 [^marriage]: from [FamilySearch](https://www.familysearch.org/ark:/61903/1:1:XYMB-GQB), Scotland Marriages 1561-1910.
 
