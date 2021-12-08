@@ -30,7 +30,7 @@ Lists occupations as "Ag Lab" (farm laborer), along with his wife and first chil
 
 [^death]: Civil Records, Campbeltown, Death of John Galbraith from [ScotlandPeoples](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/4272947). Listed as a "distillery workman" and "widower of Mary McTaggart." Parents are listed as John Galbreath, farm servant, and Mary McGregor.  Signed by Archibald Galbreath his son.1916 GALBRAITH, JOHN (Statutory registers Deaths 564/2 350)
 
-[^annabella-birth]: OPR Campbeltown, [Annabella Galbreath](/sources/opr-campbeltown-births.md#1840-11-29-annabella-galbreath
+[^annabella-birth]: OPR Campbeltown, [Annabella Galbreath](/sources/opr-campbeltown-births.md#1840-11-29-annabella-galbreath)
 
 [^archibald-birth]: OPR Campbeltown, [Archibald Galbreath](/sources/opr-campbeltown-births.md#1842-09-25-archibald-galbreath)
 
