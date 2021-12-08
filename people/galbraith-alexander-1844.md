@@ -2,9 +2,15 @@
 title: Alexander Galbraith b 1844 m1 Flora Campbell m2 Agnes Matheson
 familysearch: https://www.familysearch.org/tree/person/details/K8D5-31F
 ---
-***Alexander Galbraith***, son of *[John Galbraith](galbreath-john-1815.md)* and *Mary McTaggart*, born Campbeltown 6 Jul 1844, baptized 4 Aug 1844.[^birth] He died 25 Dec 1883.[^death] He married, first at Campbeltown 6 Oct 1864[^marriage1] to **Flora Campbell**, second at Campbeltown 3 Oct 1876[^marriage2] to **Agnes Matheson**.
+***Alexander Galbraith***, son of *[John Galbraith](galbreath-john-1815.md)* and *Mary McTaggart*, born Campbeltown 6 Jul 1844, baptized 4 Aug 1844.[^birth] He died 25 Dec 1883.[^death]
+
+He married, first at Campbeltown 6 Oct 1864[^marriage1] to **Flora Campbell**, daughter of Alexander Campbell and Agnes/Anne McMillan, born at South End 2 Nov 1845[^flora-birth]. She died 15 Aug 1875 in Campbeltown.[^flora-death]
+
+He married second at Campbeltown 3 Oct 1876[^marriage2] to **Agnes Matheson**.
 
 He was a distillery workman or maltster[^mary-marriage][^marriage2]
+
+It would appear that Alexander and Flora moved from Campbeltown to Glasgow after their first child.  And then moved backed after the birth of *Agnes McMillian* (the same name as Flora's mother).
 
 Children of Alexander and Flora (Campbell) Galbraith:
 
@@ -23,6 +29,10 @@ Children of Alexander and Agnes (Matheson) Galbraith:
 [^birth]: OPR Baptism record for [Alexander Galbreath](/sources/opr-campbeltown-births.md#1844-08-04-alexander-galbreath)
 
 [^death]: 1883 GALBRAITH, ALEXANDER (Statutory registers Deaths 507/ 212) on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/2541282)
+
+[^flora-birth]: OPR Southend, baptism of Flora Campbell, on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=Campbell&surname_so=exact&forename=Flora&forename_so=exact&sex=F&from_year=1845&to_year=1845&parent_names=campbell&parent_names_so=exact&parent_name_two=MCMILLAN&parent_name_two_so=exact&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
+
+[^flora-death]: 1875 CAMPBELL, FLORA (Statutory registers Deaths 507/ 98), [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/1765723)
 
 [^alexander-birth]: https://www.myainfolk.ca/records/19217
 
