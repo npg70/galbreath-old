@@ -53,7 +53,7 @@ Examples that are in no way correct:
 Children of Archibald and Margaret (McMillian) Galbreath.  Note that two children married into the same *Cook* family.
 
 1. *[Anne Galbreath](galbreath-agnes-1814.md)*, b. 7 Apr 1814;[^anne-birth] m. *James Cook*
-2. *Neil Galbreath*, b. 18 Aug 1816
+2. *Neil Galbreath*, b. 18 Aug 1816[^niel-birth]
 3. *Archibald Galbreath*, b. 19 Jan 1819[^archibald-birth]
 4. *[John Galbreath](galbreath-john-1821.md)*, b. 2 Feb 1821;[^john-birth] m. *Margaret Cook*
 
