@@ -1450,7 +1450,7 @@ TBD: [Archibald Galbreath](/people/galbreath-archibald-1760.md) / Jean Corbet
 
 [507/ 40 486 row 10](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357296?image=486)
 
-Archibald | Lawful Son to Archibald Galbreath Fisherman Dalintober & Margaret MacMillan Born 17 & Bapt 19 Janry 1819 Archibald
+Archibald | Lawful Son to [Archibald Galbreath](/people/galbreath-archibald-1798.md) Fisherman Dalintober & Margaret MacMillan Born 17 & Bapt 19 Janry 1819 Archibald
 
 ## 1819-04-01 David Galbreath
 
