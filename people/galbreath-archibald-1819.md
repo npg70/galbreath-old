@@ -10,7 +10,7 @@ Child of Archibald and Sarah (McNeil) Galbraith:
 
 1. *Alexander Galbraith*,
 2. *Donald Galbraith*,
-3. *Sarah Galbraith*,
+3. *Sarah Galbraith*, d. Paisley Low Church 1865
 4. *Archibald Galbreath*, d. Paisley, 3 Feb 1867[^death]
 5. *David Galbraith*,
 6. *John Galbraith*, 23 DEC 1856
