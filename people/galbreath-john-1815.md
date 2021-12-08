@@ -12,7 +12,7 @@ Children of John and Mary (McTaggart) Galbreath, all baptized at Campbeltown:[^o
 2. *[Archibald Galbreath](galbreath-archibald-1842.md)*, bp. 25 Sep 1842,[^archibald-birth] m. *Agnes O'May*
 3. *[Alexander Galbreath](galbraith-alexander-1844.md)*, bp. 04 Aug 1844,[^alexander-birth] m1 *Flora Campbell*, m2 *Agnes Matheson*
 4. *John Galbreath*, bp. 08 Dec 1847[^john-birth],d. 5 Jun 1916 Greenock, seaman, unmarried.[^john-death]
-5. *Duncan Galbraith*, bp. 12 Feb 1851[^duncan-birth]
+5. *Duncan Galbraith*, bp. 12 Feb 1851[^duncan-birth], d 10 Mar 1885 South End, unmarried[^duncan-death]
 
 [^oprchildren]: OPR baptism records for the children of John Galbreath/Galbraith and Mary McTaggart/MacTaggart from
 [ScotlandPeoples](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=fuzzy&forename_so=starts&from_year=1830&to_year=1860&parent_names_so=exact&parent_name_two=MCTAGGART&parent_name_two_so=fuzzy&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&sort=asc&order=Date&field=year)
@@ -41,3 +41,5 @@ Lists occupations as "Ag Lab" (farm laborer), along with his wife and first chil
 [^john-death]: 1916 GALBRAITH, JOHN (Statutory registers Deaths 564/2 350), [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/6921156)
 
 [^duncan-birth]: OPR Campbeltown, [Duncan Galbraith](/sources/opr-campbeltown-births.md#1851-02-12-duncan-galbraith)
+
+[^duncan-death]: 1885 GALBRAITH, DUNCAN (Statutory registers Deaths 532/ 4), [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/2695025), occupation is illegible, single, father was a  maltster, mother deceased
