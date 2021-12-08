@@ -18,6 +18,7 @@ Searches:
 
 Gaps:
 * [23 Nov 1748 to 2 Apr 1749](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357739?image=267)
+* [1681](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357606?image=40&session=073357) weird oddity covers 1/2 of page
 
 ## 1659-04-03 James Galbreath
 
