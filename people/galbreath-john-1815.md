@@ -12,7 +12,7 @@ Children of John and Mary (McTaggart) Galbreath, all baptized at Campbeltown:[^o
 2. *[Archibald Galbreath](galbreath-archibald-1842.md)*, bp. 25 Sep 1842
 3. *[Alexander Galbreath](galbraith-alexander-1844.md)*, bp. 04 Aug 1844, m1 *Flora Campbell*, m2 *Agnes Matheson*
 4. *John Galbreath*, bp. 08 Dec 1847
-5. *Duncan Galbraith*, bp. 12 Feb 1851
+5. *Duncan Galbraith*, bp. 12 Feb 1851[^duncan-birth]
 
 [^oprchildren]: OPR baptism records for the children of John Galbreath/Galbraith and Mary McTaggart/MacTaggart from
 [ScotlandPeoples](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=fuzzy&forename_so=starts&from_year=1830&to_year=1860&parent_names_so=exact&parent_name_two=MCTAGGART&parent_name_two_so=fuzzy&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&sort=asc&order=Date&field=year)
@@ -29,3 +29,5 @@ Lists occupations as "Ag Lab" (farm laborer), along with his wife and first chil
 [^census1881]: House of Archibald Galbraith, UK Census 1881 from [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1881/0029344266&expand=true). Living with his son Archibald, as a widower, occupation "distillery workman", birth year of 1814, birthplace of Kilcalmonell (parish), which is next to Clachan.
 
 [^death]: Civil Records, Campbeltown, Death of John Galbraith from [ScotlandPeoples](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/4272947). Listed as a "distillery workman" and "widower of Mary McTaggart." Parents are listed as John Galbreath, farm servant, and Mary McGregor.  Signed by Archibald Galbreath his son.
+
+[^duncan-birth]: OPR Campbeltown, [Duncan Galbraith](/sources/opr-campbeltown-births.md#1851-02-12-duncan-galbraith)
