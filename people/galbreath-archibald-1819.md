@@ -6,6 +6,8 @@ familysearch: https://www.familysearch.org/tree/person/details/M1YS-YCW
 
 He was a shoemaker.[^1851][^1861]
 
+An obvious question would be how does a son of a fisherman become a shoemaker?  The 1841 UK Census of lists a "Archibald Gilbrieth" in[^1841]
+
 Child of Archibald and Sarah (McNeil) Galbraith:
 
 1. *Alexander Galbraith*, d. Paisley Low Church 1865
@@ -14,6 +16,8 @@ Child of Archibald and Sarah (McNeil) Galbraith:
 4. *Archibald Galbreath*, d. Paisley, 3 Feb 1867[^death]
 5. *David Galbraith*,
 6. *John Galbraith*, 23 DEC 1856
+
+[^1841]: Uk Census of 1841 on [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1841/0016767364&expand=true)
 
 [^1851]: UK Census of 1851, 71, High Street, Greenock, Renfrewshire, Scotland, household of Archibald Galbraith on [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1851/0019190310&expand=true)
     Archibald Galbraith 1819 Argylshire, shoemaker
