@@ -11,6 +11,10 @@ He was a distillery workman[^mary-marriage][^marriage2]
 Children of Alexander and Flora (Campbell) Galbraith:
 
 1. *[Alexander Galbraith](galbraith-alexander-1864.md)*, b. 20 Dec 1864 [^alexander-birth]
+2. *John Galbraith*, b 1886 , d. 12 Feb 1880 Campbeltown
+3. *James Galbraith*, b. 26 Sep 1870, Central District, Glasgow, Lanark, Scotland[^james-birth]
+4. *Archibald Galbraith*, b. 11 Jun 1872, Milton, Glasgow, Lanark, Scotland[^archibald-birth]
+5. *Agnes McMillian Galbraith*, b. 26 Aug 1874, Milton, Glasgow, Lanark, Scotland[^agnes-birth]
 
 Children of Alexander and Agnes (Matheson) Galbraith:
 
@@ -23,6 +27,14 @@ Children of Alexander and Agnes (Matheson) Galbraith:
 [^death]: 1883 GALBRAITH, ALEXANDER (Statutory registers Deaths 507/ 212) on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/2541282)
 
 [^alexander-birth]: https://www.myainfolk.ca/records/19217
+
+[^john-death]: 1880 GALBRAITH, JOHN (Statutory registers Deaths 507/ 38), [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/2215415), mother listed as deceased.
+
+[^james-birth]: "Scotland Births and Baptisms, 1564-1950", database, FamilySearch (https://familysearch.org/ark:/61903/1:1:FQY1-BWL : 12 February 2020), James Galbraith, 1870.
+
+[^archibald-birth]: "Scotland Births and Baptisms, 1564-1950", database, FamilySearch (https://familysearch.org/ark:/61903/1:1:FQJY-TRH : 12 February 2020), Archibald Galbraith, 1872.
+
+[^agnes-birth]: "Scotland Births and Baptisms, 1564-1950", database, FamilySearch (https://familysearch.org/ark:/61903/1:1:FQD1-JC9 : 12 February 2020), Agnes McMillan Galbraith, 1874.
 
 [^marriage2]: https://www.myainfolk.ca/records/19543
 
