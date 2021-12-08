@@ -1,6 +1,6 @@
 ---
 title: Archibald Galbreath b 1819
-familysearch: XXX
+familysearch: https://www.familysearch.org/tree/person/details/M1YS-YCW
 ---
 ***Archibald Galbreath***, son of *[Archibald Galbreath](/people/galbreath-archibald-1798.md)* and *Margaret McMillan*,  He died at Paisley, 4 Feb 1867, along with his son Archibald of Typhus fever[^death]
 
