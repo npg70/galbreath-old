@@ -164,6 +164,8 @@ Canidates of Janet on [ScotlandPeoples](https://www.scotlandspeople.gov.uk/recor
 
 > 833.2	Here lie the remains of JOHN COLVILL Junr, Merchant, Campbeltown, who departed this life 5 December 1851 in the 56 year of his age and of his children JOHN died 7 March 1836 aged 3 years, ARCHIBALD died 6 April 1836 aged 9 years, MARY died 23 September 1848 aged 20 years, JEAN GALBRAITH his wife died 3 June 1864 in her 59th year, ANDREW GALBRAITH her son died at Bournemouth 19 April 1881 aged 34 years, ARCHIBALD her son died 16 May 1905 aged 65 years.
 
+[Jean Galbraith](/people/galbraith-jean-1805.md), born 1805, daughter of daughter of [Archibald Galbreath](/poeple/galbreath-archibald-1760.md) and *Jean Corbet*
+
 ## 927
 
 > 927	Erected by ANDREW SPIERS in memory of his father ANDREW SPIERS who was drowned in Troon Harbour in his 31st year and his mother JANE GALBRAITH who died 10 July 1915 in her 76th year.  The above ANDREW SPIERS died 2 September 1939 in his 74th year also his wife JANET MONTGOMERY died 24 January 1940 in her 71st year.
