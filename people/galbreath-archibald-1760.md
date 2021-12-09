@@ -4,7 +4,7 @@ familysearch: https://www.familysearch.org/tree/person/details/M1YM-NN8
 findagrave: https://www.findagrave.com/memorial/204250177/archibald-galbraith
 wikitree: https://www.wikitree.com/wiki/Galbraith-2402
 ---
-***Archibald Galbreath***, son of [William Galbreath](galbreath-william-1736.md) and *Margaret Dunlop*, born Campbeltown 12 Oct 1760, and died in 1846.  Burried at Kilkerran Cemetery, Campbeltown.
+***Archibald Galbreath***, son of *[William Galbreath](galbreath-william-1736.md)* and *Margaret Dunlop*, born Campbeltown 12 Oct 1760, and died in 1846.  Burried at Kilkerran Cemetery, Campbeltown.
 
 Married first at Campbeltown 14 Sep 1787 to **Martha Langwill**[^marriage1]
 
