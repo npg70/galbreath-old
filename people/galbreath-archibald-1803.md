@@ -13,7 +13,7 @@ The 1841 and 1851 census listed him as farmer[^census1841][^census1851], however
 Children of Archibald and Eugina (McCallum) Galbreath, both in Campbeltown:[^oprchildren1]
 
 1. *Martha Galbreath*, bp. 30 Nov 1835[^martha-birth], d. 9 Jul 1922 Campbeltown, unmarried.[^martha-death]
-2. *Eugina Galbreath*, bp. 25 Jan 1838,[^eugenia-birth], d. 5 Oct 1920, Burnside Cottages, Cladan, Kintyre, m. *James Wotherspoon*[^eugina-death]
+2. *Eugina Galbreath*, bp. 25 Jan 1838,[^eugenia-birth], d. 5 Oct 1920, Burnside Cottages, Cladan, Kintyre, m. *James Wotherspoon*[^euginia-death]
 
 Children of Archibald and Margaret (Loynachan) Galbreath:[^oprchildren2]
 
