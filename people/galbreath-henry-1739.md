@@ -11,9 +11,9 @@ Children of Henry and Agnes (Armour) Galbreath, all baptized at Campbeltown:[^ch
 
 1. *James Galbreath*, bp. 23 Dec 1768[^james-birth]
 2. *[Margaret Galbreath](galbreath-margaret-1771.md)*, bp. 1 Nov 1771,[^margaret-birth] m. *Nathaniel McNair Sr*.  Immigrant to Canada.
-3. *Florance Galbreath*, bp. 14 Sep 1777[^florance-birth]
+3. *Florance Galbreath*, bp. 14 Sep 1777[^florance-birth], likely died young or unmarried.[^inscription]
 4. *[William Galbreath](galbreath-william-1780.md)*, bp. 16 Jan 1780,[^birth-william] m. *Jean Campbell*
-5. *Mary Galbreath*, bp. 09 Oct 1782[^birth-mary]
+5. *Mary Galbreath*, bp. 09 Oct 1782[^birth-mary], likely died young or unmarried.[^inscription]
 6. *John Galbreath*, bp. 14 Mar 1786[^birth-john]
 7. *Alexander Galbreath*, bp. 06 Oct 1788[^birth-alexander]
 
