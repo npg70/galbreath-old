@@ -42,7 +42,7 @@ Children of Archibald and Margaret (Loynachan) Galbreath:[^oprchildren2]
 
 [^census1841-eugina]: The 1841 Census for Ardlammy, Gigha, Argyllshire, Scotland lists a Eugina Galbreath, age 3, living in McCallum household, which certainly matches the timeline.  Transcript available on [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1841/0016666302&expand=true).
 
-[^census1851]: The 1851 Census on [FamilySearch](https://www.familysearch.org/ark:/61903/1:1:VYYQ-41Z).  Lists wife, along with _Martha, _Archibald_, _Niel_, and _Samuel_ as age 0.
+[^census1851]: The 1851 Census on [FamilySearch](https://www.familysearch.org/ark:/61903/1:1:VYYQ-41Z).  Lists wife, along with _Martha_, _James_, _Archibald_, _Niel_, and _Samuel_ age 0.
 
 [^census1861]: The 1861 Census on [FamilySearch](https://www.familysearch.org/ark:/61903/1:1:VB78-LLK), Lists _James_ as age 17, _Samuel_ as age 9, along with _Margaret_, _Agnes_, _John_.
 
