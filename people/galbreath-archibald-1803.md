@@ -48,7 +48,7 @@ Children of Archibald and Margaret (Loynachan) Galbreath:[^oprchildren2]
 
 [^census1871]: The 1871 Census on [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1871/0023442767). Only the last daughter Agnes is living with them.
 
-[^census1881]: The 1881 Census available on [FindMyPast](https://www.findmypast.com/transcript?id=GBC%2F1881%2F0029345186).  No children listed.
+[^census1881]: The 1881 Census. Well Close, Longrow Street, Campbeltown, Argyllshire, Scotland. Household of Archibald Galbraith, on [FindMyPast](https://www.findmypast.com/transcript?id=GBC%2F1881%2F0029345186).  Only Archibald and Margaret listed, no children present.
 
 [^death]: Statutory Records for the death of Archibald Galbreath on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/2677198).  Lists both wives, occupation as butcher, parents, confirms Marta Galbreath's maiden name was Galbreath.
 
