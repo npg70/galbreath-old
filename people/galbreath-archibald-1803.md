@@ -13,7 +13,7 @@ The 1841 and 1851 census listed him as farmer[^census1841][^census1851], however
 Children of Archibald and Eugina (McCallum) Galbreath, both in Campbeltown:[^oprchildren1]
 
 1. *Martha Galbreath*, bp. 30 Nov 1835[^martha-birth], d. 9 Jul 1922 Campbeltown, unmarried.[^martha-death]
-2. *Eugina Galbreath*, bp. 25 Jan 1838,[^birth-ugenia] m. *James Wotherspoon*
+2. *Eugina Galbreath*, bp. 25 Jan 1838,[^eugenia-birth], d. 5 Oct 1920, Burnside Cottages, Cladan, Kintyre, m. *James Wotherspoon*[^eugina-death]
 
 Children of Archibald and Margaret (Loynachan) Galbreath:[^oprchildren2]
 
@@ -62,7 +62,9 @@ Children of Archibald and Margaret (Loynachan) Galbreath:[^oprchildren2]
 
 [^martha-death]: Civil Records of Campbeltown, Argyll, 1922 GALBRAITH, MARTHA (Statutory registers Deaths 507/ 92), [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/7620649).  Occupation is illegible, father was a farmer, a cousin James (last name illegible) was present.
 
-[^birth-ugenia]: OPR Campbeltown, record of baptism of [Ugenia Galbreath](/sources/opr-campbeltown-births.md#1838-01-25-ugenia-galbreath)
+[^eugenia-birth]: OPR Campbeltown, record of baptism of [Ugenia Galbreath](/sources/opr-campbeltown-births.md#1838-01-25-ugenia-galbreath)
+
+[^eugenia-death]: Civil records of Kilcalmonel, Argyll, Scotland, 1920 WOTHERSPOON, EUGENIA (Statutory registers Deaths 516/ 6), [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/7510900).  List father as a Archibald Galbreath, butcher, deceased and mother as Eugeina Galbraith, M.S. Wynne(?) McCallum.  Unclear if that's two maiden names or what.
 
 [^birth-james]: OPR Campbeltown, record of baptism of [James Galbreath](/opr-campbeltown-births.md#1841-11-07-james-galbreath)
 
