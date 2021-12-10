@@ -19,7 +19,7 @@ Children of Archibald and Margaret (Loynachan) Galbreath:[^oprchildren2]
 
 1. *James Galbraith*, bp. 23 Sep 1841[^birth-james], d. 6 Dec 1875.  Seaman. Unmarried.[^james-death]
 2. *Archibald Galbraith*, bp. 17 Jul 1843[^birth-archibald]
-3. *Neil Galbreath*, bp. 20 May 1845[^birth-neil]
+3. *Neil Galbreath*, bp. 20 May 1845[^birth-neil]  TBD: Present at mothers death in Dumbarton 1886.
 4. *Agnes Galbreath*, bp. 1 Nov 1847,[^birth-agnes1] died in early childhood.
 6. *Samuel Templeton Galbraith*, b. 17 Nov 1850, Scotland; d. 19 Sep 1931, Montreal, Montreal Region, Quebec, Canada, m. *Mary Ellen Reynolds*
 7. *Margaret Galbraith*, b. 30 Apr 1853, bp. 10 Jul 1853[^birth-margaret]
