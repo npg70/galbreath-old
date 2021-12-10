@@ -23,7 +23,7 @@ Children of Archibald and Margaret (Loynachan) Galbreath:[^oprchildren2]
 4. *Agnes Galbreath*, bp. 1 Nov 1847,[^birth-agnes1] died in early childhood.
 6. *Samuel Templeton Galbraith*, b. 17 Nov 1850, Scotland; d. 19 Sep 1931, Montreal, Montreal Region, Quebec, Canada, m. *Mary Ellen Reynolds*
 7. *Margaret Galbraith*, b. 30 Apr 1853, bp. 10 Jul 1853[^birth-margaret]
-8. *Agnes Galbraith*, b. 9 June 1855[^agnes2]
+8. *Agnes Galbraith*, b. 9 June 1855[^agnes2-birth], d. 4 Jan 1944 College District, Glasgow., m. *James Mitchell*[^agnes2-death]
 9. *John Galbraith*, b. 17 Oct 1857[^john-birth], d. 7 Mar 1864[^john-death]
 
 # Sources
@@ -74,8 +74,10 @@ Children of Archibald and Margaret (Loynachan) Galbreath:[^oprchildren2]
 
 [^birth-margaret]: TODO [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/1876?image=416).  Misindexed mothers name [search](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=fuzzy&forename_so=starts&from_year=1853&to_year=1853&parent_names=arch&parent_names_so=starts&parent_name_two_so=exact&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
 
-[^agnes2]: Birth of *Agnes Galbraith* from Statuatory Records on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/38691865). Contains many details such age ages of parents, year and location of marriage, current location.
+[^agnes2-birth]: Birth of *Agnes Galbraith* from Statuatory Records on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/38691865). Contains many details such age ages of parents, year and location of marriage, current location.
 )
+
+[^agnes2-death]: Civil records of College, Glasgow, 1944 GALBRAITH, AGNES (Statutory registers Deaths 644/7 9), [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/9773817?return_row=4). Lists father as "Archibald Galbreath, butcher", and mother as "Margaret Lang" (likely not remembered or not written correctly).  An unlisted Mitchell-family newphew was present.
 
 [^john-birth]: Birth of *John Galbraith* from Statuatory Records on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/38879864). Contains little additional information.
 
