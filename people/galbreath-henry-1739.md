@@ -39,3 +39,6 @@ Children of Henry and Agnes (Armour) Galbreath, all baptized at Campbeltown:[^ch
 [^birth-alexander]: OPR Campbeltown record of baptism for [Alexander Galbreath](/sources/opr-campbeltown-births.md#1788-10-06-alexander-galbreath)
 
 [^inscription]: From [unpublished manuscript](/sources/kilkerran-graveyard-inscriptions.md#563)
+    > Erected by JAMES GALBREATH baker, in memory of his father HENDRY GALBREATH Shoemaker
+    > in Campbeltown who died 15 July 1789 aged 46 years also FLORANCE and MARY his children
+    > and this is the place designed for AGNES ARMOUR his spouse and family.
