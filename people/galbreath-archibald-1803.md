@@ -6,14 +6,14 @@ familysearch: https://www.familysearch.org/tree/person/details/KC9G-P5D
 
 He married first at Campbeltown 5 Mar 1835[^marriage1] to **Eugina McCallum**.  Since he remarried 2 years later, it likely she died in 1838 or 1839, perhaps to complications of giving birth of her last child, _Eugina_.  It appears the Eugina was taken in by a McCallum family in Gigha, although the exact relationship is unclear.[^census1841-eugina].
 
-He married second at Campbeltown 25 Aug 1840[^marriage2] to **Margaret Loynachan**, born 24 Aug 1821, South End, Argyll, Scotland,  daughter of Neil Loynachan farmer and Margaret Brodie. She died at Dumbarton, 14 Nov 1886.[^loynachan-death]
+He married second at Campbeltown 25 Aug 1840[^marriage2] to **Margaret Loynachan**, born 24 Aug 1821, South End, Argyll, Scotland, daughter of Neil Loynachan farmer and Margaret Brodie. She died at Dumbarton, 14 Nov 1886.[^loynachan-death]
 
 The 1841 and 1851 census listed him as farmer[^census1841][^census1851], however there after until his death he was  _flesher_ or butcher.[^census1861][^census1871][^census1881][^james-death]
 
 Children of Archibald and Eugina (McCallum) Galbreath, both in Campbeltown:[^oprchildren1]
 
 1. *Martha Galbreath*, bp. 30 Nov 1835[^martha-birth], d. 9 Jul 1922 Campbeltown, unmarried.[^martha-death]
-2. *Eugina Galbreath*, bp. 25 Jan 1838,[^eugenia-birth], d. 5 Oct 1920, Burnside Cottages, Cladan, Kintyre, m. *James Wotherspoon*[^euginia-death]
+2. *Eugina Galbreath*, bp. 25 Jan 1838,[^eugenia-birth], d. 5 Oct 1920, Burnside Cottages, Cladan, Kintyre, m. *James Wotherspoon*[^eugenia-death]
 
 Children of Archibald and Margaret (Loynachan) Galbreath:[^oprchildren2]
 
