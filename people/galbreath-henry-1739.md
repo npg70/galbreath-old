@@ -5,7 +5,7 @@ findagrave: https://www.findagrave.com/memorial/167549463/hendry-galbreath
 ---
 ***Henry Galbreath***, son of *[William Galbreath](galbreath-william-1701.md)* and *Margaret Kilpatrick*, baptised in Campbeltown April 1739,[^birth] died  15 July 1789 and burred in Kilchousland Graveyard, Argyll and Bute, Scotland.  He married at Campbeltown 5 Mar 1768[^marriage] to **Agnes Armour**.
 
-Occupation shoemaker according to tombstone
+Occupation shoemaker according to tombstone[^inscription]
 
 Children of Henry and Agnes (Armour) Galbreath, all baptized at Campbeltown:[^children]
 
@@ -37,3 +37,5 @@ Children of Henry and Agnes (Armour) Galbreath, all baptized at Campbeltown:[^ch
 [^birth-john]: OPR Campbeltown record of baptism, [John Galbreath](/sources/opr-campbeltown-births.md#1786-03-14-john-galbreath)
 
 [^birth-alexander]: OPR Campbeltown record of baptism for [Alexander Galbreath](/sources/opr-campbeltown-births.md#1788-10-06-alexander-galbreath)
+
+[^inscription]: From [unpublished manuscript](/sources/kilkerran-graveyard-inscriptions.md#563)
