@@ -9,8 +9,8 @@ Martha Galbreath and their youngest daughter Mary are recorded in the 1841 Censu
 Children of James and Martha Galbreath, all baptized in Campbeltown:[^children]
 
 1. *Janet Galbreath*, bp. 31 Sep 1801[^birth-janet]
-2. [*Archibald Galbreath*](galbreath-archibald-1803.md), bp. 11 Sep 1803,[^birth-archibald], m1. *Eugina McCallum*, m2. *Margaret Loynachan*
-3. [*Orsella Galbreath*](galbreath-orsella-1805.md), bp. 24 Nov 1805[^birth-orsella], m. *James Templeton*
+2. [*Archibald Galbreath*](galbreath-archibald-1803.md), bp. 11 Sep 1803,[^birth-archibald] m1. *Eugina McCallum*, m2. *Margaret Loynachan*
+3. [*Orsella Galbreath*](galbreath-orsella-1805.md), bp. 24 Nov 1805,[^birth-orsella] m. *James Templeton*
 4. *Martha Galbreath*, bp. 16 Dec 1807[^birth-martha]
 4. *Catharine Galbreath*, bp. 25 Apr 1809[^birth-catharine]
 5. *Samuel Galbreath*, bp. 20 Feb 1811[^birth-samuel]
