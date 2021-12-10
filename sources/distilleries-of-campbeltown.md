@@ -21,6 +21,13 @@ isbn: 1-903238-84-6
 > and John Armour, merchant. Then after the death of the later,
 > Hugh Ferguson and James Galbreath joined James Armour in the partnership.
 
+2020-12-09: Unclear who any of these are.
+* "Armour , John , late cooper in Campbeltown 8 Apr. 1790 and 20 Jan.1792" 
+* https://www.scotlandspeople.gov.uk/view-image/nrs_wills_testaments/33862?image=1&return_row=0
+* spouse not listed but...
+* Lists children: Margaret, Florance, Agnes, Alexander, James, Robert, Janet
+
+
 ## Page 16
 
 > Subscribed by a Committee of the Distillers,
