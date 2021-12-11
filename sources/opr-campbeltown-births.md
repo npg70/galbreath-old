@@ -1383,7 +1383,7 @@ TBD: [James Galbreath](/people/galbreath-james-abt-1775.md) / Martha Galbreath
 > John | Lawful Son to [Archibald Galbreath](/people/galbreath-archibald-1760.md) Merchant in Campbeltown and 
 > Jean Corbet, born 3rd, baptised 5th Sept 1809. Named John
 
-## 1809-04-25 Catherine Galbreath -- SPELLING
+## 1809-04-25 Catharine Galbreath
 
 TBD: [James Galbreath](/people/galbreath-james-abt-1775.md) / Martha Galbreath
 
