@@ -1504,6 +1504,13 @@ TBD: NEILL GALBRAITH/MARY MCMILLAN
 > John | Lawful son of [Archd Galbreath](/people/galbreath-archibald-1798.md) Fisherman Dalitober & Mary McMillan
 > born 30th Jan & bapt 2nd Feb 1821. John
 
+## 1821-03-13 Mary Galbreath
+
+[507/60 31 row 11](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358436?image=31)
+
+> Mary | Lawful ~Son~ Dau of [James Galbreath](/people/galbreath-james-abt-1775.md) Farmer Skerbolin and Martha Galbreath
+> Both 12th & Bapts 13th March 1831. Mary.
+
 ## [1825-07-10 Archibald Galbreath](/people/galbraith-archibald-1825.md)
 
 [507/60 108 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357269?image=108)
@@ -1525,13 +1532,6 @@ TBD: [David Galbreath](/people/galbreath-david-1797.md)/Janet Mitchell
 ## 1830-05-06 Janet Galbreath
 
 TBD: [David Galbreath](/people/galbreath-david-1797.md)/Janet Mitchell
-
-## 1831-03-13 Mary Galbreath
-
-[507/60 31 row 11](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358436?image=31)
-
-> Mary | Lawful ~Son~ Dau of [James Galbreath](/people/galbreath-james-abt-1775.md) Farmer Skerbolin and Martha Galbreath
-> Both 12th & Bapts 13th March 1831. Mary.
 
 ## 1832-07-29 David Galbreath
 
