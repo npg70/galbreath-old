@@ -406,7 +406,7 @@ There is another record [507/10 181](https://www.scotlandspeople.gov.uk/view-ima
 
 [507/11 252 row 10](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357835?image=252)
 
-> William | [John Galbreath](/galbreath-john-abt-1710.md) & Isobell Clark had a 
+> William | [John Galbreath](/people/galbreath-john-abt-1710.md) & Isobell Clark had a 
 > son baptized 4th Augt named William
 
 There is another record of "William Calbreath" on [507/10 181](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/5609111?image=181)
