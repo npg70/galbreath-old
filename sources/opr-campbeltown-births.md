@@ -1359,6 +1359,10 @@ John | Lawful Son to [William Galbraith](/people/galbreath-william-1780.md) work
 
 TBD: [Archibald Galbreath](/people/galbreath-archibald-1760.md) / Jean Corbet
 
+## 1807-12-16 Martha Galbreath
+
+TBD: [James Galbreath](/people/galbreath-james-abt-1775.md) / Martha Galbreath
+
 ## 1808-03-22 Samuel Galbreath
 
 [507/40 316 row 14](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357775?image=316)
@@ -1378,6 +1382,10 @@ TBD: [Archibald Galbreath](/people/galbreath-archibald-1760.md) / Jean Corbet
 
 > John | Lawful Son to [Archibald Galbreath](/people/galbreath-archibald-1760.md) Merchant in Campbeltown and 
 > Jean Corbet, born 3rd, baptised 5th Sept 1809. Named John
+
+## 1809-04-25 Catherine Galbreath -- SPELLING
+
+TBD: [James Galbreath](/people/galbreath-james-abt-1775.md) / Martha Galbreath
 
 ## [1809-12-27 James Galbreath](/people/galbreath-james-1809.md)
 
@@ -1415,9 +1423,17 @@ TBD: [Archibald Galbreath](/people/galbreath-archibald-1760.md) / Jean Corbet
 
 > Robert | Lawful son to [Robert Galbreath](/people/galbreath-robert-1778.md) ~~weaver~~ farmer Peninver and Catherine Harvey born 25th, bapt 26th Feb 1812 named Robert
 
+## 1813-01-05 John Galbreath
+
+TBD: [James Galbreath](/people/galbreath-james-abt-1775.md) / Martha Galbreath
+
 ## 1814-01-16 Mary Galbreath
 
 TBD: [Archibald Galbreath](/people/galbreath-archibald-1760.md) / Jean Corbet
+
+## 1814-01-19 James Galbreath
+
+TBD: [James Galbreath](/people/galbreath-james-abt-1775.md) / Martha Galbreath
 
 ## 1814-02-09 Archibald Galbreath
 
@@ -1444,6 +1460,10 @@ TBD: [Archibald Galbreath](/people/galbreath-archibald-1760.md) / Jean Corbet
 
 > William | Lawful son to [William Galbreath](/people/galbreath-william-1780.md) Farmer Laggan and Jean Campbell born 19th. Baptized 21st July 1815.  Named William
 
+## 1816-06-19 Mary Galbreath
+
+TBD: [James Galbreath](/people/galbreath-james-abt-1775.md) / Martha Galbreath
+
 ## 1816-08-18 Niel Galbreath
 
 [507/40 449 row 9](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357713?image=449)
@@ -1455,6 +1475,10 @@ TBD: [Archibald Galbreath](/people/galbreath-archibald-1760.md) / Jean Corbet
 [507/40 460 row 13](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357574?image=460)
 
 > John | Lawful Son to [Robert Galbreath](/people/galbreath-robert-1778.md) Farmer Peninver and Catherine Harvey, born 12th, baptised 16th April 1817. John
+
+## 1817-12-03 Jean Galbreath
+
+TBD: [James Galbreath](/people/galbreath-james-abt-1775.md) / Martha Galbreath
 
 ## 1819-01-19 Archibald Galbreath
 
