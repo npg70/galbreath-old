@@ -17,7 +17,7 @@ Children of James and Martha Galbreath, all baptized in Campbeltown:[^children]
 5. *John Galbreath*, bp. 5 Jan 1813[^birth-john]
 6. *James Galbreath*, bp. 15 Dec 1814[^birth-james]
 7. *Mary Galbreath*, bp. 19 Jun 1816[^birth-mary1], assumed died in infancy
-8. *Jean Galbreath*, bp. 3 Dec 1817[^birth-jean] death @ https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/5311016?return_row=0
+8. *Jean Galbreath*, bp. 3 Dec 1817[^birth-jean], d. 12 Mar 1900 High Street, Campbeltown, m. *Robert Kelly* shipmaster[^jean-death]
 9. *Mary Galbreath*, bp. 13 Mar 1821[^birth-mary2], maybe death @ https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/976261
 
 [^marriage]: OPR for marriage on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/9531021?image=51&return_row=0) indexed as 20 March 1800, but appears to me as the 26th.  The transcription is:
@@ -46,5 +46,7 @@ Children of James and Martha Galbreath, all baptized in Campbeltown:[^children]
 [^birth-mary1]: OPR Campbeltown record of baptism for [Mary Galbreath](/sources/opr-campbeltown-births.md#1816-06-19-mary-galbreath)
 
 [^birth-jean]: OPR Campbeltown record of baptism for [Jane Galbreath](/sources/opr-campbeltown-births.md#1817-12-03-jean-galbreath)
+
+[^jean-death]: Civil Records of Campbeltown Argyll; 1900 GALBRAITH, JEAN (Statutory registers Deaths 507/ 63); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/5311016). "Widow of Robert Kelly shipmaster", 
 
 [^birth-mary2]: OPR Campbeltown record of baptism for [Mary Galbreath](/sources/opr-campbeltown-births.md#1821-03-13-mary-galbreath)
