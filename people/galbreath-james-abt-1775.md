@@ -47,4 +47,4 @@ Children of James and Martha Galbreath, all baptized in Campbeltown:[^children]
 
 [^birth-jean]: OPR Campbeltown record of baptism for [Jane Galbreath](/sources/opr-campbeltown-births.md#1817-12-03-jean-galbreath)
 
-[^birth-mary2]: OPR Campbeltown record of baptism for [Mary Galbreath](/sources/opr-campbeltown-births.md#1831-03-13-mary-galbreath)
+[^birth-mary2]: OPR Campbeltown record of baptism for [Mary Galbreath](/sources/opr-campbeltown-births.md#1821-03-13-mary-galbreath)
