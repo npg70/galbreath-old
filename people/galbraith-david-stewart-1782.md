@@ -71,7 +71,7 @@ Children of David and Elizabeth (Fraser) Galbreath, all baptized at Campbeltown:
 
 [^census1841]: 1841 England, Wales & Scotland Census; Drumore House, Campbeltown, Argyllshire, Scotland; [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1841/0016606518&expand=true)
 
-[^census1851] 1851 England, Wales & Scotland Census; Drumore House, Cantyre, Argyllshire, Scotland; Household of Elizabeth Fraser. [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1851/0019255537&expand=true)
+[^census1851]: 1851 England, Wales & Scotland Census; Drumore House, Cantyre, Argyllshire, Scotland; Household of Elizabeth Fraser. [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1851/0019255537&expand=true)
 
 [^census1851-dsg]: https://www.findmypast.com/transcript?id=GBC/1851/0018848757&expand=true
 
