@@ -37,7 +37,7 @@ Children of David and Janet (Galbreath) Mitchell, all baptised Campbeltown:[^chi
 
 [^agnes-birth]: OPR Campbeltown, baptism of [Agnes Galbreath](/sources/opr-campbeltown-births.md#1828-08-03-agnes-galbreath)
 
-[^janet-birth]:  OPR Campbeltown, baptism of [Janet Galbreath]((/sources/opr-campbeltown-births.md#1830-05-06-janet-galbreath)
+[^janet-birth]:  OPR Campbeltown, baptism of [Janet Galbreath](/sources/opr-campbeltown-births.md#1830-05-06-janet-galbreath)
 
 [^david1-birth]: OPR Campbeltown, baptism of [David Galbreath](/sources/opr-campbeltown-births.md#1832-07-29-david-galbreath)
 
