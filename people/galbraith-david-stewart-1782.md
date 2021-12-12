@@ -16,7 +16,9 @@ Moved to Campbeltown around prior to 1813.  He was a lawyer and frequently prese
 
 https://www.ancestry.com/family-tree/person/tree/17980335/person/617967166/facts
 
-The Census of 1841, lists Elizabeth with 10 children, but David not listed.
+The Census of 1841, lists Elizabeth with 10 children, but David not listed.[^census1841]
+
+The census of 1851, again lists Elizabeth with 3 children, David not lsited[^census1851]
 
 Child of David Steward Galbreath and Margaret McKeigh:
 
@@ -66,3 +68,5 @@ Children of David and Elizabeth (Fraser) Galbreath, all baptized at Campbeltown:
     > of Machrehanish and Dromore, and had a son and heir named Archibald Hew Craufurd (born 1844). 
 
 [^census1841]: 1841 England, Wales & Scotland Census; Drumore House, Campbeltown, Argyllshire, Scotland; [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1841/0016606518&expand=true)
+
+[^census1851] 1851 England, Wales & Scotland Census; Drumore House, Cantyre, Argyllshire, Scotland; Household of Elizabeth Fraser. [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1851/0019255537&expand=true)
