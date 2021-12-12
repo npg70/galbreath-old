@@ -4,7 +4,11 @@ familysearch: https://www.familysearch.org/tree/person/details/M1TT-3JN
 ---
 ***Donald Galbreath***, son of Patrick Galbreath and Ann McLellan, baptized at Campbeltown 1 Feb 1782.[^birth].
 
-Moved to Gigha before 1841.[^census1841][^census1851]
+He married **Elizabeth Smith** (sometimes referred to as Betty or Betsy).
+
+7 Children via [ScotlandsPeople], all Gigha
+
+Moved to Gigha before 1811.[^census1841][^census1851]
 
 [^birth]: OPR Campbeltown, baptism of [Donald Galbreath](/sources/opr-campbeltown-births.md#1782-02-01-donald-galbreath)
 
