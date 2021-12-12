@@ -1,6 +1,6 @@
 ---
 title: Donald Galbreath b 1782
-familysearch: XXXTarbert, Gigha, Argyllshire, Scotland; 
+familysearch: https://www.familysearch.org/tree/person/details/M1TT-3JN
 ---
 ***Donald Galbreath***, son of Patrick Galbreath and Ann McLellan, baptized at Campbeltown 1 Feb 1782.[^birth].
 
