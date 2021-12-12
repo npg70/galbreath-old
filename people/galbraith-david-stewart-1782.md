@@ -16,6 +16,8 @@ Moved to Campbeltown around prior to 1813.  He was a lawyer and frequently prese
 
 https://www.ancestry.com/family-tree/person/tree/17980335/person/617967166/facts
 
+The Census of 1841, lists Elizabeth with 10 children, but David not listed.
+
 Child of David Steward Galbreath and Margaret McKeigh:
 
 1. *John Sayers Galbreath*, b. 4 May 1810, bp 14 Mar 1811, Greenock Old or West, Renfrew, Scotland[^jsg-birth1][^jsg-birth2][^jsg-birth3]
@@ -62,3 +64,5 @@ Children of David and Elizabeth (Fraser) Galbreath, all baptized at Campbeltown:
     > Thomas MacMiken Crawfurd, Esq., (born 1814 was of Grange House, Ayrshire and a Justice of the Peace).
     > In 1843, he married Elizabeth Fraser, eldest surviving daughter of David Steuart Galbraith 
     > of Machrehanish and Dromore, and had a son and heir named Archibald Hew Craufurd (born 1844). 
+
+[^census1841]: 1841 England, Wales & Scotland Census; Drumore House, Campbeltown, Argyllshire, Scotland; [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1841/0016606518&expand=true)
