@@ -2,7 +2,7 @@
 title: Agnes Galbreath b 1814 m James Cook
 familysearch: https://www.familysearch.org/tree/person/details/M1T8-ZDB
 ---
-***Agnes Galbreath***, daughter of *[Archibald Galbreath](galbreath-archibald-1798.md)* and *Margaret McMillian*, baptized Campbeltown 7 Apr 1814, died 10 Dec 1869. She married at Campbeltown 21 Aug 1838[^marriage] to **James Cook**, son of *Archibald Cook* b. 1782 and *Mary Taylor* b 1790.
+***Agnes Galbreath***, daughter of *[Archibald Galbreath](galbreath-archibald-1798.md)* and *Margaret McMillian*, baptized Campbeltown 7 Apr 1814, died 10 Dec 1869.[^death] She married at Campbeltown 21 Aug 1838[^marriage] to **James Cook**, son of *Archibald Cook* b. 1782 and *Mary Taylor* b 1790.
 
 James died 27 Sep 1885 in Campbeltown.[^jamescook-death]
 
