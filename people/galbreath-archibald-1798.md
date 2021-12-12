@@ -4,7 +4,7 @@ familysearch: https://www.familysearch.org/tree/person/details/9M9D-6TZ
 ---
 **Archibald Galbreath**, of unknown origin, married at Campbeltown, Arygll, Scottland 16 Feb 1813 to **Margaret McMillian**, baptised at Campbeltown 25 Oct 1791,[^margaret] daughter of *Neil McMillian*, b. 1750 and *Margaret Mceachine*, born at Campbeltown 9 Jan 1769.
 
-Archibald was a sailor[^anne-birth] and fisherman[^archibald-birth][^niel-birth][^john-birth].
+Archibald was a sailor[^anne-birth] and fisherman[^1841][^archibald-birth][^niel-birth][^john-birth].
 
 The interweb gives various accounts of the Archibald Galbreath who married Margaret McMillian:
 
