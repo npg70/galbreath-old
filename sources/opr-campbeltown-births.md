@@ -904,7 +904,7 @@ TBD: [Peter Galbreath](/people/galbreath-peter-1749.md) / Agnes McMurchy
 
 TBD: Lachland Galbreath / Mary McNeill
 
-## 1782-02-01 Donald Galbreath
+## [1782-02-01 Donald Galbreath](/people/galbreath-donald-1782.md)
 
 TBD: Patrick Galbreath / Ann McLellan
 
