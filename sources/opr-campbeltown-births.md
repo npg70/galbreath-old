@@ -1800,11 +1800,31 @@ TBD: ARCHIBALD GALBREATH/BARBRA WILKINSON
 
 TBD: DAVID GALBREATH/MARY GREENLEES 
 
+## 1833-08-09 John Campbell Galbreath
+
+TBD: DAVID STEWART/GALBREATH ELIZABETH FRASER 
+
 ## [1833-10-02 William Galbreath](/people/galbreath-william-1833.md)
 
 [507/70 32 row 4](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357872?image=32)
 
 > William | Lawful son of [David Galbreath](/people/galbreath-david-1797.md), sawyer, & Janet Mitchell, was born 29 Sept & Bapt 2 Oct 1833. William
+
+## 1833-11-28 Neill Galbreath
+
+TBD: ARCHIBALD GALBREATH/ANN HENDERSON
+
+## 1834-11-13 Eliza Galbreath
+
+TBD: DONALD GALBREATH/ANN MCMILLAN
+
+## 1835-02-14 Angus Galbreath
+
+TBD: ARCHIBALD GALBREATH/BARBRA WILKINSON
+
+## 1835-03-25 James Galbreath
+
+TBD: DAVID GALBREATH/MARY GREENLEES 
 
 ## 1835-08-30 David Galbreath
 
@@ -1814,6 +1834,14 @@ TBD: [David Galbreath](/people/galbreath-david-1797.md)/Janet Mitchell
 
 > Martha | Lawful daughter of [Archd Galbreath](/people/galbreath-archibald-1803.md) farmer Skerbolin and Eugina McCallum 
 > was born 21st (27th ?) & bapt 30 Nov 1835
+
+## 1836-11-15 Archibald Galbreath
+
+TBD: DAVID GALBREATH/MARY GREENLEES 
+
+## 1836-12-27 Malcom Galbreath
+
+TBD: Donald Galbreath / Flora Smith
 
 ## 1838-01-25 Ugenia Galbreath
 
