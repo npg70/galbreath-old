@@ -22,12 +22,12 @@ Examples that are in no way correct:
 
 Children of Archibald and Margaret (McMillian) Galbreath.  Note that two children married into the same *Cook* family.
 
-1. *[Anne Galbreath](galbreath-agnes-1814.md)*, b. 7 Apr 1814;[^anne-birth] m. *James Cook*
+1. *[Anne/Agnes Galbreath](galbreath-agnes-1814.md)*, b. 7 Apr 1814;[^anne-birth] m. *James Cook*
 2. *Neil Galbreath*, b. 18 Aug 1816[^niel-birth]
 3. *[Archibald Galbreath](galbreath-archibald-1819.md)*, b. 19 Jan 1819[^archibald-birth], m. *Sarah McNeil*
 4. *[John Galbreath](galbreath-john-1821.md)*, b. 2 Feb 1821;[^john-birth] m. *Margaret Cook*
 
-[^anne-birth]: [OPR baptism record](/sources/opr-campbeltown-births.md#1814-04-07-anne-galbreath) for Anne lists Archibald as a sailor.
+[^anne-birth]: OPR Campbeltown, baptism of [Anne Galbreath](/sources/opr-campbeltown-births.md#1814-04-07-anne-galbreath).  It seems likely this was misrecorded as "Anne" appears to be "Agnes" going forward.  Also lists the father, Archibald, as a sailor.
 
 [^niel-birth]: OPR Campbeltown, baptism of [Niel Galbreath](/sources/opr-campbeltown-births.md#1816-08-18-niel-galbreath), lists father as fisher in Dalintober.
 
