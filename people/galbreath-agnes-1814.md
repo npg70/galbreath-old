@@ -10,8 +10,9 @@ Children of James and Agnes (Galbreath) Cook:
 2. *Archibald Cook*, bp. 23 May 1840
 3. *William Cook*, bp. 28 Apr 1847
 4. *Elizabeth Cook*, bp. 17 Jun 1851; m. *Robert Lyle*
-5. *James Cook*, bp. 30 Aug 1852
+5. *James Cook*, bp. 30 Aug 1852, d. 21 Jan 1860[^james-death]
 
 [^marriage]: OPR Campbeltown, marriage of James Cook and Agnes Galbreath, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/8987954?image=345)
     > James Cook Fisherman and Agnes Galbreath Daughter of Arch Galbreath fisherman both of this Parish were married 21st of August [1838]
     
+[^james-death]: Civil Records of Campbeltown Argyll, 1860 COOK, JAMES (Statutory registers Deaths 531/1 1), [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/346478)
