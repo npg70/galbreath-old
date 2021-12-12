@@ -20,6 +20,8 @@ The Census of 1841, lists Elizabeth with 10 children, but David not listed.[^cen
 
 The census of 1851, again lists Elizabeth with 3 children, David not lsited[^census1851]
 
+Elizabeth perhaps died in 1853.
+
 Child of David Steward Galbreath and Margaret McKeigh:
 
 1. *John Sayers Galbreath*, b. 4 May 1810, bp 14 Mar 1811, Greenock Old or West, Renfrew, Scotland[^jsg-birth1][^jsg-birth2][^jsg-birth3]
@@ -70,3 +72,7 @@ Children of David and Elizabeth (Fraser) Galbreath, all baptized at Campbeltown:
 [^census1841]: 1841 England, Wales & Scotland Census; Drumore House, Campbeltown, Argyllshire, Scotland; [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1841/0016606518&expand=true)
 
 [^census1851] 1851 England, Wales & Scotland Census; Drumore House, Cantyre, Argyllshire, Scotland; Household of Elizabeth Fraser. [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1851/0019255537&expand=true)
+
+[^census1851-dsg]: https://www.findmypast.com/transcript?id=GBC/1851/0018848757&expand=true
+
+[^census1861]: https://www.findmypast.com/transcript?id=GBC/1861/0000649715&expand=true
