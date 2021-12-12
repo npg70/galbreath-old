@@ -6,8 +6,6 @@ familysearch: https://www.familysearch.org/tree/person/details/9M9D-6TZ
 
 Archibald was a sailor[^anne-birth] and fisherman[^archibald-birth][^niel-birth][^john-birth].
 
-There does exist an 1841 Census record of Archibald and Margaret Galbreath[^1841] (and only them, no children are listed) on "Queens Street, Campbeltown, Argyllshire, Scotland."  It gives an estimated birth year of 1781 for both of them, and gives his occupation as "fisher."   The two children we know who got married, did so before 1841, so this seems possible.
-
 The interweb gives various accounts of the Archibald Galbreath who married Margaret McMillian:
 
 Best Canidate:
