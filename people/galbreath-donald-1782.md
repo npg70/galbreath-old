@@ -8,4 +8,4 @@ Moved to Gigha[^census1851].
 
 [^birth]: OPR Campbeltown, baptism of [Donald Galbreath](/sources/opr-campbeltown-births.md#1782-02-01-donald-galbreath)
 
-[^census1851]: 1851 England, Wales & Scotland Census; Tarbert, Gigha, Kintyre, Argyllshire, Scotland; Household of Donald Galbraith. [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1851/0019322035&expand=true)
+[^census1851]: 1851 England, Wales & Scotland Census; Tarbert, Gigha, Kintyre, Argyllshire, Scotland; Household of Donald Galbraith. [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1851/0019322031&expand=true)
