@@ -1254,7 +1254,7 @@ TBD: Neil Galbreath / Mary McViccar
 
 TBD: Neil Galbreath / Fineul ??
 
-## 1800-02-05 Archibald Galbreath
+## [1800-02-05 Archibald Galbreath](/people/galbreath-archibald-1800.md)
 
 TBD: NEIL GALBREATH/MARGARET GALBREATH
 
