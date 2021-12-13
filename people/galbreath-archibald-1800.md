@@ -1,7 +1,7 @@
 ---
 title: Archibald Galbreath b 1800 m Agnes Henderson
 ---
-***Archibald Galbreath***, son of JOHN GALBREATH/MARTHA GALBREATH ???, born around 1810 and 16 May died 1869, all in Campbeltown.
+***Archibald Galbreath***, son of *Neil Galbreath* and *Margaret Galbreath*, baptized 5 Feb 1800 and died 16 May 1869, all in Campbeltown.
 
 He married **Agnes Henderson** (sometimes known as "Ann").
 
@@ -12,6 +12,7 @@ M
 05/02/1800
 507/.  Given the first child is also named Neil, and given Scot-Irish naming convention, this looks likely.
 
+He was a mason according to death certificate and census records.
 
 There are other children according 1851 and 1861 census[^census-1851][^census-1861]
 
