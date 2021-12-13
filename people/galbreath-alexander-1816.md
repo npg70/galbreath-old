@@ -13,7 +13,7 @@ Occupation "Malt man" according to 1851 Census, emmigrated around 1851-1857.
 
 Children of Alexander and Elisabeth (McCualskey) Galbreath:
 
-1. *[Archibald Galbreath](galbreath-archibald-1846.md)*, b. 20 Jan 1846, Southend
+1. *[Archibald Galbraith](galbraith-archibald-1846.md)*, b. 20 Jan 1846, Southend
 2. *Margaret Galbreath*, bp. 15 Oct 1848 Campbeltown[^margaret1], assumed died in infancy as not listed in 1851 Census[^census1851]
 3. *Alexander Galbreath*, b. 14 Nov 1850, Campbeltown area, d. 1 July 1925, Parkersburg, Wood, West Virginia, United States
 4. *Margaret Elizabeth Galbreath*, b. 1858, Veto, Washington, Ohio, United States; d. 12 July 1937, Wood, West Virginia, United States
