@@ -1843,18 +1843,44 @@ TBD: DAVID GALBREATH/MARY GREENLEES
 
 TBD: Donald Galbreath / Flora Smith
 
+## 1837-03-23 Margaret Galbreath
+
+TBD: ARCHIBALD GALBREATH/ANN HENDERSON 
+
+## 1837-06-12 Henry Louis Galbreath
+
+TBD: D. S./GALBREATH ELIZABETH FRAZER
+
+## 1837-07-06 Margaret Galbreath
+
+TBD: ARCHIBALD GALBREATH/BARBRA WILKINSON
+
 ## 1838-01-25 Ugenia Galbreath
 
 > Ugenia | Lawful daughter of [Arch Galbreath](/people/galbreath-archibald-1803.md) and Ugenia McCallum
 > in [Skerbolin?] was born [illegible] and bapt 25 Jan 1838
 
+## 1838-11-28 Margaret Galbreath
+
+TBD: DONALD GALBREATH/FLORA SMITH
+
+## 1839-05-16 John Galbreath
+
+TBD: ARCHIBALD GALBREATH/AGNES HENDERSON
+
 ## 1839-06-02 James Galbreath
 
 TBD: [David Galbreath](/people/galbreath-david-1797.md)/Janet Mitchell
 
+## 1839-08-22 Archibald Galbreath
+
+TBD: ARCHIBALD GALBREATH/BARBRA WILKINSON
+
 ## 1839-12-01 Edward Galbraith
 
 TBD: JOHN GALBRAITH/MARGARET MCKECHNEY 
+
+THREE RECORDS GALBREATH (2) / GALBRAITH (1)
 
 ## 1839-12-22 Jane Galbreath
 
@@ -1865,9 +1891,17 @@ TBD: JOHN GALBRAITH/MARGARET MCKECHNEY
 
 Note: right above on same page is the same day baptism of Jane Patterson, daughter of James Patterson and Isabella Galbreath
 
+## 1840-03-26 John Galbreath
+
+TBD: ARCHIBALD GALBREATH/ELIZABETH MAITLAND
+
 ## 1840-11-29 Annabella Galbreath
 
 TBD: [JOHN GALBREATH](/people/galbreath-john-1815.md)/MARY MCTAGGART
+
+## 1841-04-27 Duncan Galbreath
+
+TBD: DONALD GALBREATH/FLORA SMITH
 
 ## [1841-05-10 Elizabeth Galbreath](/people/galbraith-elizabeth-1841.md)
 
@@ -1880,9 +1914,25 @@ TBD: [John Galbraith](/people/galbraith-john-1809.md) / Mary Coville McEwing
 > James | Lawful son of [Arch Galbreath](/people/galbreath-archibald-1803.md) far[? farmer] Ugadale, and Margaret Loynachan
 > was born twenty thrird September and baptized 7th Nov 1841
 
+## 1841-12-05 Angus Galbreath
+
+TBD: ARCHIBALD GALBREATH/BARBRA WILKINSON
+
+## 1841-12-19 John Galbreath
+
+TBD: DUNCAN GALBREATH/MARY THOMSON
+
 ## 1841-12-30 Neill Galbreath
 
 TBD: [JOHN GALBREATH](/people/galbreath-john-1821.md)/MARGARET COOK 
+
+## 1842-02-16 Isabella Galbreath
+
+TBD: DAVID GALBREATH/MARY GREENLESS
+
+## 1842-04-17 John Galbreath
+
+TBD: JOHN GALBREATH/MARGARET MCKECHNEY 
 
 ## [1842-07-25 John Galbreath](/people/galbreath-john-1842.md)
 
@@ -1902,6 +1952,10 @@ John | Lawful son of [David Galbreath](/people/galbreath-david-1797.md) Sawyer a
 > John | Lawful son of John Galbreath workman and Janet Watson
 > was born third and Baptized twentysixth September 1842
 
+## 1843-05-29 Isabella Galbreath
+
+TBD: NEIL GALBREATH/ELIZABETH BLUE
+
 ## 1843-08-13 Archibald Galbreath
 
 [507/70 244 row 3](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357295?image=244)
@@ -1912,6 +1966,14 @@ John | Lawful son of [David Galbreath](/people/galbreath-david-1797.md) Sawyer a
 ## 1843-11-05 Mary Galbreath
 
 TBD: [JOHN GALBREATH](/people/galbreath-john-1821.md)/MARGARET COOK 
+
+## 1843-11-06 Flora Galbreath
+
+TBD: ARCHIBALD GALBREATH/ELIZABETH MAITLAND
+
+## 1844-06-09 Donald Galbreath
+
+TBD: DUNCAN GALBREATH/MARY THOMSON
 
 ## 1844-07-18 Catharine Greenless
 
@@ -1936,6 +1998,10 @@ Unclear why I recorded this one.
 > William | Lawful son of [Peter Galbreath](/people/galbraith-peter-1811.md), Laborer and Sarah Armour
 > was born 27 July and baptized 25 Augst 1844
 
+## 1844-12-22 Donald Galbreath
+
+TBD: ARCHIBALD GALBREATH/ANN MCFARLANE
+
 ## 1845-05-25 Janet Galbreath
 
 [507/70 284 row 3](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358146?image=284)
@@ -1954,9 +2020,29 @@ Unclear why I recorded this one.
 
 TBD: [JOHN GALBREATH](/people/galbreath-john-1821.md)/MARGARET COOK 
 
+## 1845-07-15 Alexander Galbreath
+
+TBD: DAVID GALBREATH/CATHARINE MCKINNON
+
+## 1845-07-31 Dugald Galbreath
+
+TBD: NEIL GALBREATH/ELIZABETH BLUE
+
+## 1845-09-30 Donald Galbreath
+
+TBD: DONALD GALBREATH/FLORA SMITH
+
 ## 1845-10-06 Archibald Galbreath
 
 TBD: [John Galbraith](/people/galbraith-john-1809.md) /  Mary Coville McEwing
+
+## 1846-03-02 William Galbreath
+
+TBD: WILLIAM GALBREATH/GRACE GLASS
+
+## 1846-07-05 Elizabeth Galbreath
+
+TBD: DUNCAN GALBREATH/MARY THOMSON
 
 ## 1846-07-12 Archibald Galbreath 
 
