@@ -23,15 +23,15 @@ The rumour is that William somehow a descendant of [Archibald Galbreath](/people
 
 The parents of [Archibald Galbreath](/people/galbreath-archibald-1798.md), who married *Margaret McMillian*, is not clear.  There are at least four different stories for who the parents are.
 
-## Samuel Galbreath and Janet Langwill
+## Samuel Galbreath / Janet Langwill
 
 Both common names, and families have intermarried before, but Samuel's parents are unknown.  See [Samuel Galbreath](/people/galbreath-samuel-1765.md) for details.
 
-## Lineage of Alexander Galbreath
+## Alexander Galbreath / Elisabeth McCualskey
 
 [Alexander Galbreath](/people/galbreath-alexander-1816.md), a "malt man" emmigrated from Kintrye in the 1850s to West Virgina and Ohio. However, his parents are a mystery.
 
-## John Galbreath and Mary McTaggart 
+## John Galbreath / Mary McTaggart 
 
 [John Galbreath](/people/galbreath-john-1815.md) was born around 1814 in Clachan / Kilcalmonel and moved to Campbeltown and started a family with Mary McTaggart. However no good records seem to confirm his birth.
 
