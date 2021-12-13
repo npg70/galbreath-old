@@ -5,6 +5,8 @@ title: Archibald Galbreath b 1810 m Agnes Henderson
 
 He married **Agnes Henderson** (sometimes known as "Ann").
 
+There are other children according 1851 and 1861 census[^census-1851][^census-1861]
+
 Children of Archibald and Agnes (Henderson) Galbreath:
 
 1. *Neill Galbreath*, bp. 28 Nov 1833
