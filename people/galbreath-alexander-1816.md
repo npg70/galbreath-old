@@ -22,7 +22,7 @@ Children of Alexander and Elisabeth (McCualskey) Galbreath:
 
 - The entry for [FamilySearch](https://www.familysearch.org/tree/person/details/9NN7-9JW) and other places lists Lochgilphead as possible birth place.  Note that the Parish wasn't built until 1828, see [FamilySearch entry for Lochgilphead](https://www.familysearch.org/wiki/en/Lochgilphead,_Argyllshire,_Scotland_Genealogy).  That's at least [60 miles/100km](https://goo.gl/maps/g6foj1kRxvH4bXz39) from Southend Parish, and would require going through Campbeltown.  So either they wanted a water view, Lochilphead is incorrect, or we have two Alexanders.
 
-[^census1851]: 1851 England, Wales & Scotland Census; Saddel Street, Campbeltown, Cantyre, Argyllshire, Scotland; Household of Alexander Galbreath on  [FindMyPast](https://www.findmypast.com/transcript?id=GBC%2F1851%2F0019255793) 
+[^census1851]: 1851 England, Wales & Scotland Census; Saddel Street, Campbeltown, Cantyre, Argyllshire, Scotland; Household of Alexander Galbraith on  [FindMyPast](https://www.findmypast.com/transcript?id=GBC%2F1851%2F0019255793) 
 
 [^birth]: OPR record of baptism on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357208?image=102) does not mention mother.
 
