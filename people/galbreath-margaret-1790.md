@@ -10,4 +10,4 @@ Children of Neil and Margaret (Galbreath) Hawthorn:
 
 1. *Agnes Hawthorn*, m. *Finlay Kerr*
 
-[^death]: Civil Registers of Campbeltown, Argyll, death of Margaret Hawthorn.  Transcribed on [MyAinFolk](https://www.myainfolk.ca/records/15202)
+[^death]: Civil Registers of Campbeltown, Argyll, death of Margaret Hawthorn.  Transcribed on [MyAinFolk](https://www.myainfolk.ca/records/15202), original on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/1569219)
