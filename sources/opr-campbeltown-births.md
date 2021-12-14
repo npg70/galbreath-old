@@ -1297,7 +1297,7 @@ TBD: NEIL GALBREATH/GRIZELL TAYLOR
 
 ## 1802-03-16 Alexander Galbreath
 
-TBD: DAVID GALBREATH/MARY FLEEMING
+TBD: [DAVID GALBREATH](/people/galbreath-david-1755.md)/MARY FLEEMING 
 
 ## 1802-04-22 John Galbreath
 
@@ -1349,7 +1349,7 @@ John | Lawful Son to [William Galbraith](/people/galbreath-william-1780.md) work
 
 ## 1804-07-26 William Galbreath
 
-TBD: DAVID GALBREATH/MARY FLEEMING 
+TBD: [DAVID GALBREATH](/people/galbreath-david-1755.md)/MARY FLEEMING 
 
 ## 1804-09-30 Margaret Galbreath
 
