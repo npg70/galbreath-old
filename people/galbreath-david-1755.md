@@ -11,10 +11,10 @@ Children of David and Mary (Fleming) Galbreath:[^children]
 1. *Margaret Galbreath*, bp. 1 Nov 1782, bp. 3 Nov 1782[^margaret-birth]
 2. *John Galbraith*, bp. 28 Nov 1785, bp. 29 Nov 1785[^john-birth]
 3. *James Galbriath*, bp. 30 Dec 1786, bp. 31 Dec 1786.[^james-birth]  Listed under "DAVID OR SAMUEL GALBRAITH MARY FLEEMING"
-4. *[Mary Galbreath](galbreath-mary-1788.md)*, bp. 29 Aug 1788,[^birth-mary] m. *Robert Clark*
+4. *[Mary Galbreath](galbreath-mary-1788.md)*, bp. 29 Aug 1788,[^mary-birth] m. *Robert Clark*
 5. *Janet Galbraith*, bp. 23 Dec 1790, bp. 24 Dec 1790[^janet-birth]
 6. *David Galbreath*, bp. 27 Aug 1793, Ardnacross, Campbeltown, Argyll, Scotland[^david-birth]
-7. *Orcilla Galbreath*, bp. 4 Feb 1795, m. *John Wylie*, m. *William Hadden*?[^orcilla-birth]
+7. *Orcilla Galbreath*, bp. 4 Feb 1795,[^orcilla-birth] m. *John Wylie*, m. *William Hadden*?
 8. *[Archibald Galbreath](galbreath-archibald-1798.md)*, bp. 27 Sep 1798,[^archibald-birth] m. *Margaret MacMillan*
 9. *Alexander Galbreath*, bp. 12 Mar 1802, bp. 16 Mar 1802[^alexander-birth]
 10. *William Galbreath*, bp. 23 Jul 1804, bp. 26 Jul 1804[^william-birth]
