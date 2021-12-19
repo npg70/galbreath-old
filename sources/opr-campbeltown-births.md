@@ -1639,7 +1639,7 @@ Archibald | Lawful Son to [Archibald Galbreath](/people/galbreath-archibald-1798
 
 [507/40 489 row 12](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357356?image=489)
 
-> David | Lawful son of David Galbreath Farmer Ugadale & Mary Greenlees
+> David | Lawful son of [David Galbreath](/people/galbreath-david-1793.md) Farmer Ugadale & Mary Greenlees
 > born 28th March & Bapt 1st April 1819. David.
 
 ## 1819-08-06 Catharine Galbreath
@@ -1662,6 +1662,10 @@ TBD: JOHN GALBREATH/JEAN MCINNES
 
 TBD: NEILL GALBRAITH/MARY MCMILLAN
 
+## 1821-01-08 Helen Galbreath
+
+TBD: [DAVID GALBREATH](/people/galbreath-david-1793.md)/MARY GREENLEES
+
 ## [1821-02-02 John Galbreath](/people/galbreath-john-1821.md)
 
 [507/60 30 row 2](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357635?image=30)
@@ -1678,7 +1682,7 @@ TBD: NEILL GALBRAITH/MARY MCMILLAN
 
 ## 1822-03-27 Mary Galbreath
 
-TBD: DAVID GALBREATH/MARY GREENLEES
+TBD: [DAVID GALBREATH](/people/galbreath-david-1793.md)/MARY GREENLEES
 
 ## 1822-05-23 Neill Galbreath
 
@@ -1698,7 +1702,7 @@ TBD: NEILL GALBREATH/MARY MCMILLAN
 
 ## 1823-10-12 Thomas Galbreath
 
-TBD: DAVID GALBREATH/MARY GREENLEES
+TBD: [DAVID GALBREATH](/people/galbreath-david-1793.md)/MARY GREENLEES
 
 ## 1824-08-15 Christian Galbreath
 
@@ -1706,7 +1710,7 @@ TBD: HUGH GALBREATH/CHRISTIAN MCDONALD
 
 ## 1825-03-27 Janet Galbreath
 
-TBD: DAVID GALBREATH/MARY GREENLEES
+TBD: [DAVID GALBREATH](/people/galbreath-david-1793.md)/MARY GREENLEES
 
 ## 1825-07-06 THomas Galbreath
 
@@ -1732,7 +1736,7 @@ TBD: NEILL GALBREATH/MARY MCMILLAN
 
 ## 1827-04-12 John Galbreath
 
-TBD: DAVID GALBREATH/MARY GREENLEES
+TBD: [DAVID GALBREATH](/people/galbreath-david-1793.md)/MARY GREENLEES
 
 ## 1827-08-22 David Stewart Galbreath
 
@@ -1754,7 +1758,7 @@ TBD: NIELL GALBREATH/MARY MCMILLAN
 
 ## 1829-03-05 Hugh Galbreath
 
-TBD: DAVID GALBREATH/MARY GREENLEES
+TBD: [DAVID GALBREATH](/people/galbreath-david-1793.md)/MARY GREENLEES
 
 ## 1829-06-02 Anne Galbreath
 
@@ -1774,7 +1778,7 @@ TBD: [David Galbreath](/people/galbreath-david-1797.md)/Janet Mitchell
 
 ## 1830-07-06 Jane Galbreath
 
-TBD: DAVID GALBREATH/MARY GREENLEES
+TBD: [DAVID GALBREATH](/people/galbreath-david-1793.md)/MARY GREENLEES
 
 ## 1830-09-14 Alfred Galbreath
 
@@ -1798,7 +1802,7 @@ TBD: ARCHIBALD GALBREATH/BARBRA WILKINSON
 
 ## 1833-03-14 Margaret Galbreath
 
-TBD: DAVID GALBREATH/MARY GREENLEES 
+TBD: [DAVID GALBREATH](/people/galbreath-david-1793.md)/MARY GREENLEES
 
 ## 1833-08-09 John Campbell Galbreath
 
@@ -1824,7 +1828,7 @@ TBD: ARCHIBALD GALBREATH/BARBRA WILKINSON
 
 ## 1835-03-25 James Galbreath
 
-TBD: DAVID GALBREATH/MARY GREENLEES 
+TBD: [DAVID GALBREATH](/people/galbreath-david-1793.md)/MARY GREENLEES
 
 ## 1835-08-30 David Galbreath
 
@@ -1837,7 +1841,7 @@ TBD: [David Galbreath](/people/galbreath-david-1797.md)/Janet Mitchell
 
 ## 1836-11-15 Archibald Galbreath
 
-TBD: DAVID GALBREATH/MARY GREENLEES 
+TBD: [DAVID GALBREATH](/people/galbreath-david-1793.md)/MARY GREENLEES
 
 ## 1836-12-27 Malcom Galbreath
 
@@ -1928,7 +1932,7 @@ TBD: [JOHN GALBREATH](/people/galbreath-john-1821.md)/MARGARET COOK
 
 ## 1842-02-16 Isabella Galbreath
 
-TBD: DAVID GALBREATH/MARY GREENLESS
+TBD: [DAVID GALBREATH](/people/galbreath-david-1793.md)/MARY GREENLEES
 
 ## 1842-04-17 John Galbreath
 
