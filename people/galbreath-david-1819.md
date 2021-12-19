@@ -2,17 +2,15 @@
 title: David Galbreath b ~ 1819
 familysearch: https://www.familysearch.org/tree/person/details/KCRW-WZZ
 ---
-***David Galbreath***, origin TBD, was born say 1819.
+***David Galbreath***, of unknown origin, was born say 1819. Given the lack of statuatory death records, it's possible he died before 1855.  The death record of his son Robert in 1885 indicates he was deceased by then.
 
 He married, as a fisherman, at Campbeltown 3 Sep 1844 to **Catharine McKinnon**, "daughter of late John McKinnon, seaman."[^marriage]
-
-Given the lack of statuatory death records, it's possible he died before 1855.  The death record of his son Robert in 1885 indicates he was deceased by then.
 
 Children of David and Catharine (McKinnon) Galbreath, all baptized at Campbeltown:
 
 1. *Alexander Galbreath*, bp. 15 Jul 1845,[^alexander-birth] d. 4 Dec 1887 at the Campbeltown Poorhouse, unmarried.[^alexander-death]
-2. *Isabella Galbreath*, bp. 15 Nov 1847[^isabella-birth]
-3. *Margaret Galbraith*, bp. 26 Dec 1849[^margaret-birth]
+2. *Isabella Galbreath*, bp. 15 Nov 1847[^isabella-birth], TBD
+3. *Margaret Galbraith*, bp. 26 Dec 1849[^margaret-birth], TBD
 4. *Robert Galbraith*, bp. 20 Jun 1852,[^robert-birth] d. 18 May 1885, unmarried.[^robert-death]
 
 [^marriage]: OPR Campbeltown, marriage of 03/09/1844 GALBREATH, DAVID (Old Parish Registers Marriages 507/ 60 399 Campbeltown) Page 399 of 478, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/9530949?image=399)
