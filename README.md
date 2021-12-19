@@ -67,3 +67,6 @@ TBD [Patrick Galbreath](/people/galbreath-patrick-1712.md) and Jean Watson had s
 
 It's unclear where [Archibald Galbreath](/people/galbreath-archibald-1775.md) came from, but some of his children moved to Campbeltown in the late 1800s
 
+## David Galbreath / Catherine McKinnon
+
+[David Galbreath](/people/galbreath-david-1819.md) of unknown origin,married Catherine McKinnon.  Both sons died early and unmarried.  The two daughters are TBD.
