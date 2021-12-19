@@ -17,8 +17,8 @@ Children of David and Catharine (McKinnon) Galbreath, all baptized at Campbeltow
 
 [^marriage]: OPR Campbeltown, marriage of 03/09/1844 GALBREATH, DAVID (Old Parish Registers Marriages 507/ 60 399 Campbeltown) Page 399 of 478, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/9530949?image=399)
     > David Galbreath, Fisherman, and Cath. McKinnon
-    > daughter of the late John McKinnon, seaman
-    > both of this parish were married 3 Sep 1844
+    > daughter of the late John McKinnon, seaman,
+    > both of this parish, were married 3 Sep 1844
     
     
 [^alexander-birth]: OPR Campbeltown, baptism of [Alexander Galbreath](/sources/opr-campbeltown-births.md#1845-07-15-alexander-galbreath)
