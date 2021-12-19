@@ -11,7 +11,7 @@ Very likely some or all of the family moved to Canada.
 Children of David and Mary (Greenlees) Galbreath:
 
 1. *David Galbreath*, bp. 1 Apr 1819[^david-birth]
-2. *Helen Galbreath*
+2. *Helen Galbreath*, bp. 8 Jan 1821[^helen-birth]
 3. *Mary Galbreath*, bp. 27 Mar 1822[^mary-birth]
 4. *Thomas Galbreath*, bp. 12 Oct 1823[^thomas-birth]
 5. *Janet Galbreath*, bp. 27 Mar 1825[^janet-birth]
@@ -28,6 +28,8 @@ Children of David and Mary (Greenlees) Galbreath:
     > married 9 July 1818
 
 [^david-birth]: OPR Campbeltown, baptism of [David Galbreath](/sources/opr-campbeltown-births.md#1819-04-01-david-galbreath)
+
+[^helen-birth]: OPR Campbeltown, baptism of [Helen Galbreath](/sources/opr-campbeltown-births.md#1821-01-08-helen-galbreath)
 
 [^mary-birth]: OPR Campbeltown, baptism of [Mary Galbreath](/sources/opr-campbeltown-births.md#1822-03-27-mary-galbreath)
 
