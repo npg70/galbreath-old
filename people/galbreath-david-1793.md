@@ -23,7 +23,9 @@ Children of David and Mary (Greenlees) Galbreath:
 11. *Archibald Galbreath*, bp. 15 Nov 1836[^archibald-birth]
 12. *Isabella Galbreath*, bp. 16 Feb 1842[^isabella-birth]
 
-[^marriage]: XXX TBD
+[^marriage]: OPR Campbeltown, 09/07/1818 GALBREATH, DAVID (Old Parish Registers Marriages 507/ 50 124 Campbeltown) Page 124 of 131; [ScotlandsPeoples](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/9530951?image=124)
+    > David Galbreath Farmer Ugadale and Mary Greenlees daughter of Thomas Greenless Maltster Campbeltown (both of this parish
+    > married 9 July 1818
 
 [^david-birth]: OPR Campbeltown, baptism of [David Galbreath](/sources/opr-campbeltown-births.md#1819-04-01-david-galbreath)
 
