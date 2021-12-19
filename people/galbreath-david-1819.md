@@ -4,7 +4,7 @@ familysearch: https://www.familysearch.org/tree/person/details/KCRW-WZZ
 ---
 ***David Galbreath***, origin TBD, was born say 1819.
 
-He married, as a fisherman, at Campbeltown 3 Sep 1844 to Catharine McKinnon, "daughter of late John McKinnon, seaman."[^marriage]
+He married, as a fisherman, at Campbeltown 3 Sep 1844 to **Catharine McKinnon**, "daughter of late John McKinnon, seaman."[^marriage]
 
 Given the lack of statuatory death records, it's possible he died before 1855.  The death record of his son Robert in 1885 indicates he was deceased by then.
 
