@@ -1087,7 +1087,7 @@ TBD: James Galbreath / Janet Langwill
 
 ## 1792-01-04 John Galbreath
 
-TBD: Peter Galbreath / Margaret Galbreath
+TBD: [Peter Galbreath](/people/galbreath-peter-1766.md) / Margaret Galbreath
 
 ## 1792-03-19 Martha Galbreath
 
@@ -1143,7 +1143,7 @@ TBD: [David Galbreath](/people/galbreath-david-1755.md) / Mary Fleeming
 
 ## 1794-07-02 Jean Galbreath
 
-TBD: Peter Galbreath / Margaret Galbreath
+TBD: [Peter Galbreath](/people/galbreath-peter-1766.md) / Margaret Galbreath
 
 ## 1794-11-09 William Galbreath
 
@@ -1199,7 +1199,7 @@ TBD: James Galbreath / Jean Harvey
 
 ## 1796-12-30 Katherin Galbreath
 
-TBD: Peter Galbreath / Margaret Galbreath
+TBD: [Peter Galbreath](/people/galbreath-peter-1766.md) / Margaret Galbreath
 
 ## 1797-02-04 Agnes Galbreath
 
@@ -1237,7 +1237,7 @@ TBD: [David Galbreath](/people/galbreath-david-1755.md) / Mary Fleemin
 
 ## 1798-10-20 Martha Galbreath
 
-TBD: Peter Galbreath / Margaret Galbreath
+TBD: [Peter Galbreath](/people/galbreath-peter-1766.md) / Margaret Galbreath
 
 ## 1798-10-20 John Galbreath
 
@@ -1353,9 +1353,9 @@ TBD: [DAVID GALBREATH](/people/galbreath-david-1755.md)/MARY FLEEMING
 
 ## 1804-09-30 Margaret Galbreath
 
-TBD: PETER GALBREATH/MARGARET GALBREATH
+TBD: [PETER GALBREATH](/people/galbreath-peter-1766.md)/MARGARET GALBREATH
 
-## 1805-03-06 FLorence Galbreath
+## 1805-03-06 Florence Galbreath
 
 TBD: JAMES GALBREATH/JEAN HARVIE
 
