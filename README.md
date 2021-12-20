@@ -52,6 +52,10 @@ The parents of [John Galbreath](/people/galbreath-john-abt-1710.md) who married 
 
 [David Galbreath](/people/galbreath-david-abt-1720.md), b. say 1720, who married *Martha Baird*.  His parents are unclear, and all children seem to have no additional records.
 
+## Peter Galbreath b. ~1766 / Margaret Galbreath
+
+[Peter Galbreath](/people/galbreath-peter-1766.md) b. ~ 1766.
+
 ## James Galbreath b. ~1775 / Martha Galbreath
 
 See [James Galbreath](/people/galbreath-james-abt-1775.md), b. say 1775,  marries *Martha Galbreath*. All marriage and children records reference both having the name Galbreath. So...
