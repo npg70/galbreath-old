@@ -10,6 +10,11 @@ The descendants of [James Galbreath](/people/galbreath-james-1659.md) b. 1659 an
 * [Robert Galbreath](/people/galbreath-robert-1778.md) b. 1778 immigrated to Clermont County, Ohio, USA in 1818
 * [Margaret Galbreath](/people/galbreath-margaret-1771.md), b. 1771 immigrated to New Brunswick, Canada in 1821
 
+## David Galbreath / Mary Greenlees
+
+[David Galbreath](/people/galbreath-david-1793.md) and Mary Greenless.  Under investigation.  Appears some? all? moved to Ontario, Canada.  May or may not son of 
+[David Galbreath](/people/galbreath-david-1755.md) and Mary Flemming which would make then descendants of James Galbreath / Mary Nielson above.
+
 ## Descendants of William Galbreath and Margaret Dunlop of Campbeltown
 
 The children and grandchildren of [William Galbreath](/people/galbreath-william-1736.md) and Margaret Dunlop were influential in government and industry in Campbeltown and Glasgow.  
@@ -30,6 +35,8 @@ Both common names, and families have intermarried before, but Samuel's parents a
 ## Alexander Galbreath / Elisabeth McCualskey
 
 [Alexander Galbreath](/people/galbreath-alexander-1816.md), a "malt man" emmigrated from Kintrye in the 1850s to West Virgina and Ohio. However, his parents are a mystery.
+
+
 
 ## John Galbreath / Mary McTaggart 
 
