@@ -14,7 +14,7 @@ Children of Patrick and Mary (Watson) Galbreath, all baptized at Campbeltown:
 5. *William Galbreath*, bp. 25 May 1750[^birth-william]
 6. *Archibald Galbreath*, bp. 03 Feb 1753[^birth-archibald]
 
-[^marriage]: OPR Campbeltown, marriage TBD
+[^marriage]: OPR Campbeltown, marriage of Patrick Calbraith, 2 records on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=M&record_type%5B0%5D=opr_marriages&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-banns-marriages&surname=calbraith&surname_so=fuzzy&forename=patrick&forename_so=starts&sex=M&spouse_name_so=exact&from_year=1720&to_year=1740&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
 
 [^birth-john]: OPR Campbeltown, baptism of [John Galbreath](/sources/opr-campbeltown-births.md#1740-04-13-john-galbreath)
 
