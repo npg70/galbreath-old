@@ -14,7 +14,7 @@ Children of James and Martha Galbreath, all baptized in Campbeltown:[^children]
 2. [*Archibald Galbreath*](galbreath-archibald-1803.md), bp. 11 Sep 1803,[^birth-archibald] m1. *Eugina McCallum*, m2. *Margaret Loynachan*
 3. [*Orsella Galbreath*](galbreath-orsella-1805.md), bp. 24 Nov 1805,[^birth-orsella] m. *James Templeton*
 4. *Martha Galbreath*, bp. 16 Dec 1807[^birth-martha]
-4. *Catharine Galbreath*, bp. 25 Apr 1809[^birth-catharine]
+4. *Catharine Galbreath*, bp. 25 Apr 1809[^birth-catharine], m. *Hugh Templeton*[^catharine-marriage]
 5. *Samuel Galbreath*, bp. 20 Feb 1811[^birth-samuel]
 5. *John Galbreath*, bp. 5 Jan 1813[^birth-john]
 6. *James Galbreath*, bp. 15 Dec 1814[^birth-james]
@@ -38,6 +38,8 @@ Children of James and Martha Galbreath, all baptized in Campbeltown:[^children]
 [^birth-martha]: OPR Campbeltown, baptism of [Martha Galbreath](/sources/opr-campbeltown-births.md#1807-12-16-martha-galbreath)
 
 [^birth-catharine]: OPR Campbeltown, baptism of [Catharine Galbreath](/sources/opr-campbeltown-births.md#1809-04-25-catharine-galbreath)
+
+[^catharine-marriage]: 23/02/1837 GALBREATH, CATHARINE (Old Parish Registers Marriages 507/ 60 335 Campbeltown) Page 335 of 478; [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/9531406?image=335)
 
 [^birth-samuel]: OPR Campbeltown record of baptism for [Samuel Galbreath](/sources/opr-campbeltown-births.md#1811-02-20-samuel-galbreath)
 
