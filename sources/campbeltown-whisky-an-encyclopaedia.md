@@ -36,6 +36,8 @@ Regarding the Drumore Distillery:
 
 > the 1841 census was taken... there was Hugh Templeton,
 > described as a maltster, and his wife Catharine Galbreath.
+
+Catharine Galbreath, bp. 25 Apr 1809, daughter of [James Galbreath](/people/galbreath-james-abt-1775.md) and Martha Galbreath.
    
 ## Pages 76-77
 
