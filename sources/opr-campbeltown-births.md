@@ -928,7 +928,10 @@ TBD: [Henry Galbreath](/people/galbreath-henry-1739.md) / Agnes Armour
 
 ## 1782-11-03 Margaret Galbreath
 
-TBD: [David Galbreath](/people/galbreath-david-1755.md) / Mary Fleeming
+[507/20 62 row 7](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358334?image=62)
+
+> Margaret | Lawful daugt to [David Galbreath](/people/galbreath-david-1755.md) Farmer in Arndacrosh and  Mary Fleeming
+> born 1st and bapt 3rd Nov.
 
 ## 1783-06-10 Archibald Galbreath
 
@@ -1115,7 +1118,9 @@ TBD: Neil Galbreath / Florance Paterson
 
 ## 1793-08-28 David Galbreath
 
-TBD: [David Galbreath](/people/galbreath-david-1755.md) / Mary Fleeming
+[507/40 109 row 17](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357343?image=109)
+
+> David | Lawful son to [David Galbreath](/people/galbreath-david-1755.md) & Mary Fleeming in [unreadable] 27th bapt 28th.
 
 ## 1793-11-25 Archibald Galbreath 
 
