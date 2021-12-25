@@ -6,6 +6,8 @@ familysearch: https://www.familysearch.org/tree/person/details/KC9M-5ZQ
 
 Family is listed as living in Laggan in the Parish of Kilchousland according to the 1792 Census[^1792]
 
+He died before 1811.[^jean-marriage]
+
 He was a farmer.[^jean-death]
 
 Children of Peter and Agnes (McMurchy) Galbreath, all baptized at Campbeltown:[^children1]
@@ -20,7 +22,7 @@ Children of Peter and Agnes (McMurchy) Galbreath, all baptized at Campbeltown:[^
 8. *[Margaret Galbreath](galbreath-margaret-1790.md)*, bp. 9 Jun 1790,[^children3] m. *Neil Hawthorn*
 9. *Orslay (Ursula) Galbreath*, bp. 23 Jun 1792, m. *William Hatton*[^ursula-marriage]
 10. *Martha Galbreath*, bp. 23 Jun 1792
-11. *Jean Galbreath*, bp. 04 Jun 1796,[^jean-birth] d. 23 Aug 1867, Girvan, Ayr, Scotland; m. *Anthony Campbell*[^jean-death]
+11. *Jean Galbreath*, bp. 04 Jun 1796,[^jean-birth] d. 23 Aug 1867, Girvan, Ayr, Scotland; m. 17/12/1811 *Anthony Campbell*[^jean-death]
 12. *[Agnes Galbreath](galbreath-agnes-1798.md)*, bp. 21 May 1798, m. *Alexander Muir*
 
 
@@ -33,6 +35,8 @@ Children of Peter and Agnes (McMurchy) Galbreath, all baptized at Campbeltown:[^
 [^children3]: OPR Campbeltown record of baptism of Martha Galbreath, daughter of Patrick Galbreath and Agnes MacFarlane (incorrectly recorded) on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=fuzzy&forename_so=starts&from_year=1790&to_year=1790&parent_names_so=exact&parent_name_two=mac&parent_name_two_so=starts&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&rd_real_name%5B0%5D=CAMPBELTOWN%20%28LANDWARD%29%20OR%20CAMPBELTOWN%20%28BURGH%29%20OR%20CAMPBELTOWN&rd_display_name%5B0%5D=CAMPBELTOWN%20%28LANDWARD%29%7CCAMPBELTOWN%20%28BURGH%29%7CCAMPBELTOWN_CAMPBELTOWN&rd_label%5B0%5D=CAMPBELTOWN&rd_name%5B0%5D=CAMPBELTOWN%20%2ALANDWARD%2A%20OR%20CAMPBELTOWN%20%2ABURGH%2A%20OR%20CAMPBELTOWN)
 
 [^jean-birth]: OPR Campbeltown, baptism of [Jean Galbreath](/sources/opr-campbeltown-births.md#1796-06-04-jean-galbreath)
+
+[^jean-marriage]: https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/9531618?image=97&return_row=17
 
 [^jean-death]: Girvan, Ayr: 1867 GALBRAITH, JEAN (Statutory registers Deaths 594/ 106)(https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/1074768)
 
