@@ -14,7 +14,7 @@ Children of David and Mary (Fleming) Galbreath, all baptized at Campbeltown:[^ch
 4. *[Mary Galbreath](galbreath-mary-1788.md)*, bp. 29 Aug 1788,[^mary-birth] m. *Robert Clark*
 5. *Janet Galbraith*, b. 23 Dec 1790, bp. 24 Dec 1790[^janet-birth]
 6. *David Galbreath*, bp. 27 Aug 1793[^david-birth]
-7. *Orcilla (Ursula) Galbreath*, bp. 4 Feb 1795,[^orcilla-birth] m. *John Wylie*,[^ursula-marriage1] m. *William Hadden*?
+7. *Orcilla (Ursula) Galbreath*, bp. 4 Feb 1795,[^orcilla-birth] m. *John Wylie*,[^ursula-marriage1]
 8. *[Archibald Galbreath](galbreath-archibald-1798.md)*, bp. 27 Sep 1798,[^archibald-birth] m. *Margaret MacMillan*
 9. *Alexander Galbreath*, b. 12 Mar 1802, bp. 16 Mar 1802[^alexander-birth]
 10. *William Galbreath*, b. 23 Jul 1804, bp. 26 Jul 1804[^william-birth]
