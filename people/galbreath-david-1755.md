@@ -2,7 +2,7 @@
 title: David Galbreath b 1755 m. Mary Fleming
 familysearch: https://www.familysearch.org/tree/person/details/K898-WXH
 ---
-**David Galbreath**, son of [*James Galbreath*](galbreath-james-1713.md) and *Margaret Adams*, baptized at Campbeltown, Argyll, Scotland 12 Feb 1755. His death is unrecorded. He married **Mary Fleming**.
+**David Galbreath**, son of [*James Galbreath*](galbreath-james-1713.md) and *Margaret Adams*, baptized at Campbeltown, Argyll, Scotland 12 Feb 1755. His death is unrecorded. He married at Campbeltown 01 Dec 1781[^marriage] to **Mary Fleming**.
 
 He was a farmer in Ardnacross (from baptism records of children, and his daughter Mary's death record).
 
@@ -18,6 +18,8 @@ Children of David and Mary (Fleming) Galbreath, all baptized at Campbeltown:[^ch
 8. *[Archibald Galbreath](galbreath-archibald-1798.md)*, bp. 27 Sep 1798,[^archibald-birth] m. *Margaret MacMillan*
 9. *Alexander Galbreath*, b. 12 Mar 1802, bp. 16 Mar 1802[^alexander-birth]
 10. *William Galbreath*, b. 23 Jul 1804, bp. 26 Jul 1804[^william-birth]
+
+[^marriage]: OPR Campbeltown, marriage of David Galbreath and Mary Fleeming "both of this parish" on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/9530953?image=163)
 
 [^children]: OPR records for children on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbr&surname_so=starts&forename_so=starts&from_year=1782&to_year=1805&parent_names=galbr&parent_names_so=starts&parent_name_two=mary%20fleeming&parent_name_two_so=fuzzy&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&rd_real_name%5B0%5D=CAMPBELTOWN%20%28LANDWARD%29%20OR%20CAMPBELTOWN%20%28BURGH%29%20OR%20CAMPBELTOWN&rd_display_name%5B0%5D=CAMPBELTOWN%20%28LANDWARD%29%7CCAMPBELTOWN%20%28BURGH%29%7CCAMPBELTOWN_CAMPBELTOWN&rd_label%5B0%5D=CAMPBELTOWN&rd_name%5B0%5D=CAMPBELTOWN%20%2ALANDWARD%2A%20OR%20CAMPBELTOWN%20%2ABURGH%2A%20OR%20CAMPBELTOWN&sort=asc&order=Date&field=year)
 
