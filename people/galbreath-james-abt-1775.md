@@ -6,6 +6,8 @@ familysearch: https://www.familysearch.org/tree/person/details/KZ84-RRK
 
 Martha Galbreath and their youngest daughter Mary are recorded in the 1841 Census as being in Long Row, Campbeltown.[^census-1841]  This implies James died before 1841.
 
+For baptism records of children, he was a farmer in Skebolin.
+
 Children of James and Martha Galbreath, all baptized in Campbeltown:[^children]
 
 1. *Janet Galbreath*, bp. 31 Sep 1801[^birth-janet]
