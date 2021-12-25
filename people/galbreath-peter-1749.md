@@ -15,7 +15,7 @@ Children of Peter and Agnes (McMurchy) Galbreath, all baptized at Campbeltown:[^
 3. *John Galbreath*, bp. 6 Dec 1780 -- TBD, cross out in 1792.. maybe died?
 4. *Robert Galbreath*, bp. 16 Sep 1781
 5. *Archibald Galbreath*, bp. 2 Nov 1783
-6. *Mary Galbreath*, bp. 21 Sep 1785
+6. *Mary Galbreath*, bp. 21 Sep 1785, m. *Andrew Ferguson*[^mary-marriage]
 7. *James Galbreath*, bp. 27 Oct 1787[^children2]
 8. *[Margaret Galbreath](galbreath-margaret-1790.md)*, bp. 9 Jun 1790,[^children3] m. *Neil Hawthorn*
 9. *Orslay Galbreath*, bp. 23 Jun 1792
@@ -35,3 +35,5 @@ Children of Peter and Agnes (McMurchy) Galbreath, all baptized at Campbeltown:[^
 [^jean-birth]: OPR Campbeltown, baptism of [Jean Galbreath](/sources/opr-campbeltown-births.md#1796-06-04-jean-galbreath)
 
 [^jean-death]: Girvan, Ayr: 1867 GALBRAITH, JEAN (Statutory registers Deaths 594/ 106)(https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/1074768)
+
+[^mary-marriage]: married in 1810, and Peter was listed as deceased.  https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/9531732?image=90&return_row=7
