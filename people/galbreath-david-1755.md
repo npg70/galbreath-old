@@ -4,7 +4,7 @@ familysearch: https://www.familysearch.org/tree/person/details/K898-WXH
 ---
 **David Galbreath**, son of [*James Galbreath*](galbreath-james-1713.md) and *Margaret Adams*, baptized at Campbeltown, Argyll, Scotland 12 Feb 1755. His death is unrecorded. He married **Mary Fleming**.
 
-Listed as a farmer (see his daughter Mary's burial record).
+He was a farmer in Ardnacross (from baptism records of children, and his daughter Mary's death record).
 
 Children of David and Mary (Fleming) Galbreath:[^children]
 
