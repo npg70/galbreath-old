@@ -11,7 +11,7 @@ Children of Henry and Agnes (Armour) Galbreath, all baptized at Campbeltown:[^ch
 
 1. *James Galbreath*, bp. 23 Dec 1768[^james-birth]
 2. *[Margaret Galbreath](galbreath-margaret-1771.md)*, bp. 1 Nov 1771,[^margaret-birth] m. *Nathaniel McNair Sr*.  Immigrant to Canada.
-3. *Florance Galbreath*, bp. 14 Sep 1777[^florance-birth], likely died young or unmarried.[^inscription]
+3. *Florance Galbreath*, bp. 14 Sep 1777[^florance-birth], m. 17/04/1804 *John Maitland*[^florance-marriage], miller
 4. *[William Galbreath](galbreath-william-1780.md)*, bp. 16 Jan 1780,[^birth-william] m. *Jean Campbell*
 5. *Mary Galbreath*, bp. 09 Oct 1782[^birth-mary], likely died young or unmarried.[^inscription]
 6. *John Galbreath*, bp. 14 Mar 1786[^birth-john]
@@ -30,6 +30,7 @@ Children of Henry and Agnes (Armour) Galbreath, all baptized at Campbeltown:[^ch
 
 [^florance-birth]: OPR Campbeltown, baptism of [Florance Galbreath](/sources/opr-campbeltown-births.md#1777-09-14-florance-galbreath)
 
+[^florance-marriage]: https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/9531480?image=64&return_row=6
 [^birth-william]: OPR Campbeltown, baptism of [William Galbreath](/sources/opr-campbeltown-births.md#1780-01-16-william-galbreath)
 
 [^birth-mary]: OPR Campbeltown, baptism of [Mary Galbreath](/sources/opr-campbeltown-births.md#1782-10-09-mary-galbreath)
