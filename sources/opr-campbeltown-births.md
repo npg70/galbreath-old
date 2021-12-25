@@ -1057,7 +1057,10 @@ TBD: Peter Galbreath / Agnes MacFarlane
 
 ## 1790-12-24 Janet Galbreath
 
-TBD: [David Galbreath](/people/galbreath-david-1755.md) / Mary Fleeming
+[507/20 126 row 13](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358138?image=126)
+
+> Janet | Lawful daut. to [David Galbreath](/people/galbreath-david-1755.md) Farmer in Ardnacrosh & 
+>  Mary Fleeming was born 23rd bapt 24th Dec.
 
 ## 1791-01-03 John Galbreath
 
@@ -1238,7 +1241,10 @@ TBD: James Galbreath / Jean Harvey
 
 ## [1798-09-30 Archibald Galbreath](/people/galbreath-archibald-1798.md)
 
-TBD: [David Galbreath](/people/galbreath-david-1755.md) / Mary Fleemin
+[507/40 172 row 7](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357297?image=172)
+
+> Archibald | [David Galbreath](/people/galbreath-david-1755.md) & Mary Fleemin in Ardencross had
+> a lawful son born 27th baptized 30th. The childs name is Archibald.
 
 ## 1798-10-20 Martha Galbreath
 
@@ -1302,7 +1308,10 @@ TBD: NEIL GALBREATH/GRIZELL TAYLOR
 
 ## 1802-03-16 Alexander Galbreath
 
-TBD: [DAVID GALBREATH](/people/galbreath-david-1755.md)/MARY FLEEMING 
+[507/40 225 row 20 ](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357219?image=225)
+
+> Alexander | [DAVID GALBREATH](/people/galbreath-david-1755.md) & Mary Fleeming [??? Arndacross] had a 
+> son born 12th baptized 16th named Alexander 
 
 ## 1802-04-22 John Galbreath
 
@@ -1354,7 +1363,10 @@ John | Lawful Son to [William Galbraith](/people/galbreath-william-1780.md) work
 
 ## 1804-07-26 William Galbreath
 
-TBD: [DAVID GALBREATH](/people/galbreath-david-1755.md)/MARY FLEEMING 
+[507/40 265  row 21](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357855?image=265)
+
+> William | Lawful ~daughter~ son to [David Galbreath](/people/galbreath-david-1755.md) Farmer in [unreadable] 
+> Mary Fleeming born 23 bapt 26th July.
 
 ## 1804-09-30 Margaret Galbreath
 
