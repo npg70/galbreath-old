@@ -1159,7 +1159,9 @@ TBD: [Archibald Galbreath](/people/galbreath-archibald-1760.md) / Jean Corbett
 
 ## 1795-02-04 Orslay Galbreath
 
-TBD: [David Galbreath](/people/galbreath-david-1755.md) / Mary Fleeming
+[507/40 123 row 14](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357167?image=123)
+
+Orslay | Lawful daut to [David Galbreath](/people/galbreath-david-1755.md) & Mary Fleeming in August 4
 
 ## 1795-02-08 Elizabeth Galbreath
 
