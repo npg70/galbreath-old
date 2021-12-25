@@ -26,7 +26,9 @@ Children of Alexander and Elisabeth (McCualskey) Galbreath:
 
 [^birth]: OPR record of baptism on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357208?image=102) does not mention mother.
 
-[^marriage]: OPR Marriage on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=People&surname=MCCUALSKEY&forename=ELISABETH&forename_so=starts&from_year=&to_year=&surname_so=exact&church_type=Old%20Parish%20Registers&event=M&record_type[0]=opr_marriages)
+[^marriage]: OPR Marriage on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=People&surname=MCCUALSKEY&forename=ELISABETH&forename_so=starts&from_year=&to_year=&surname_so=exact&church_type=Old%20Parish%20Registers&event=M&record_type[0]=opr_marriages), [direct image](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/9530860?image=405)
+    > Alexander Galbreath, Workman of Southend Parish and Elzabeth McCualskey daughter of
+    > Alexr McCualskey Weaver Campbeltown were married 2nd June 1845
 
 [^1792]: Census of 1792, page 78
 
