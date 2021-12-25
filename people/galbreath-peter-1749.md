@@ -18,7 +18,7 @@ Children of Peter and Agnes (McMurchy) Galbreath, all baptized at Campbeltown:[^
 6. *Mary Galbreath*, bp. 21 Sep 1785, m. *Andrew Ferguson*[^mary-marriage]
 7. *James Galbreath*, bp. 27 Oct 1787[^children2]
 8. *[Margaret Galbreath](galbreath-margaret-1790.md)*, bp. 9 Jun 1790,[^children3] m. *Neil Hawthorn*
-9. *Orslay Galbreath*, bp. 23 Jun 1792
+9. *Orslay (Ursula) Galbreath*, bp. 23 Jun 1792, m. *William Hatton*[^ursula-marriage]
 10. *Martha Galbreath*, bp. 23 Jun 1792
 11. *Jean Galbreath*, bp. 04 Jun 1796,[^jean-birth] d. 23 Aug 1867, Girvan, Ayr, Scotland; m. *Anthony Campbell*[^jean-death]
 12. *[Agnes Galbreath](galbreath-agnes-1798.md)*, bp. 21 May 1798, m. *Alexander Muir*
@@ -37,3 +37,5 @@ Children of Peter and Agnes (McMurchy) Galbreath, all baptized at Campbeltown:[^
 [^jean-death]: Girvan, Ayr: 1867 GALBRAITH, JEAN (Statutory registers Deaths 594/ 106)(https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/1074768)
 
 [^mary-marriage]: married in 1810, and Peter was listed as deceased.  https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/9531732?image=90&return_row=7
+
+[^ursula-marriage]: https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/9531839?image=121&return_row=20
