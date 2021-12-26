@@ -2,7 +2,7 @@
 title: William Galbraith b. 1870 m. Margaret McMillan
 familysearch: https://www.familysearch.org/tree/person/details/M1YM-JW4
 ---
-***William Galbraith**, son of *[Archibald Galbreath](/people/galbreath-archibald-1842.md)* and *Agnes O'May*, born Campbeltown at 5 April 1870[^birth]
+***William Galbraith***, son of *[Archibald Galbreath](/people/galbreath-archibald-1842.md)* and *Agnes O'May*, born Campbeltown at 5 April 1870[^birth]
 
 Placeholders for another day:
 
