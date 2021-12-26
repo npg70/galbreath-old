@@ -11,7 +11,7 @@ His occupation was in the distilling industry.[^census1871][^census1881][^census
 Children of Archibald and Agnes (O'May) Galbraith:
 
 1. *[William Galbraith](galbraith-william-1870.md)*, b. 5 Apr 1870[^william-birth]
-2. *John Galbraith*, b. 4 Dec 1871
+2. *John Galbraith*, b. 4 Dec 1871[^john-birth]
 3. *Mary Galbraith*, b. 16 Jan 1874
 4. *Archibald Galbreath*, b. 1 Apr 1881
 5. *Agnes Leoran Galbraith*, b. 10 Jan 1883[^agnesleoran]
@@ -20,7 +20,7 @@ Children of Archibald and Agnes (O'May) Galbraith:
 
 [^death]: Campbeltown Statuatory records, deapth of Archibald Galbraith, from [ScotlandsPeoples](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/4840492)
 
-[^marriage]: Campbeltown Statuatory records, Marriage of Archibald Galbraith and Agnes O'May, from [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/4746913). Archibald listed a "distillery worker", age 27 and Agnes listed as domestic servant, age 18.  Another transcription is available on [MyAinFolk](https://www.myainfolk.ca/records/5672)
+[^marriage]: Campbeltown Statuatory records, Marriage of Archibald Galbraith and Agnes O'May, from [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/4746913). Archibald listed a "distillery worker", age 27 and Agnes listed as domestic servant, age 18.  Another transcription is available on [MyAinFolk](https://www.myainfolk.ca/records/5672); 
 
 [^census1871]: Household of Archibald Galbraith, UK Census 1871 from [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1871/0023441482).
 
@@ -31,3 +31,5 @@ Children of Archibald and Agnes (O'May) Galbraith:
 [^agnesleoran]: Civil Registers of Campbeltown, Argyll, birth of Agnes Leoran Galbraith from [MyAinFolk](https://www.myainfolk.ca/records/19457).  Lists father as a "distillery workman"
 
 [^william-birth]: Civil Records of Campbeltown; 1870 GALBRAITH, WILLIAM (Statutory registers Births 507/ 77);  [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/40423938)
+
+[^john-birth]: Civil Records of Campbeltown; 1871 GALBRAITH, JOHN (Statutory registers Births 507/ 280); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/40584916)
