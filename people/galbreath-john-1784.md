@@ -2,10 +2,9 @@
 title: John Galbreath b. 1784 m. Hannah Morrison
 familysearch: https://www.familysearch.org/tree/person/details/LKDM-F9Y
 ---
-***John Galbreath***, son of *[Alexander Galbreath](galbreath-alexander-1753.md)* and *Janet Langwell*.
+***John Galbreath***, son of *[Alexander Galbreath](galbreath-alexander-1753.md)* and *Janet Langwell*, baptized at Campbeltown 8 Jan 1784.[^birth]
 
 Children of John and Hannah (Morrison) Galbreath:
-
 
 1. *James Wilson Galbreath*, 1810–1877
 2. *Reverand William Morrison Galbreath*, 1813–1891
