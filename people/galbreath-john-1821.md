@@ -8,7 +8,7 @@ He was a fisherman.[^death][^alexander-birth][^archibald-birth][^census1851]
 
 Children of John and Margaret (Cook) Galbreath:[^oprchildren]
 
-1. *Neil Galbreath*, b. 18 Aug 1841, Campbeltown[^neill-birth]
+1. *Neil Galbreath*, b. 18 Aug 1841, Campbeltown[^neill-birth], likley drown in 1873[^neil-death]
 2. *Mary Galbreath*, b. 5 Oct 1843, Campbeltown[^mary-birth]
 3. *Margaret Galbreath*, b. 29 Jan 1845, Campbeltown[^margaret-birth]
 4. *John Galbreath*, b. Apr 1848, bp 18 Oct 1848 Campbeltown[^john-birth]; m. *Helen Allison Carnis*
@@ -28,6 +28,8 @@ Children of John and Margaret (Cook) Galbreath:[^oprchildren]
 [^oprchildren]: OPR for first six children on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbr&surname_so=starts&forename_so=starts&from_year=1840&to_year=1863&parent_names=galbr&parent_names_so=starts&parent_name_two=cook&parent_name_two_so=exact&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&sort=asc&order=Date&field=year). Children born after 1855 are in staturatory records and unconfirmed.
 
 [^neill-birth]: OPR Campbeltown, baptism of [Neill Galbreath](/sources/opr-campbeltown-births.md#1841-12-30-neill-galbreath)
+
+[^neil-death]: https://www.britishnewspaperarchive.co.uk/viewer/bl/0000697/18730426/064/0004 and http://www.kintyreforum.com/viewtopic.php?f=60&t=16256, death records https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/1623575?return_row=0
 
 [^mary-birth]: OPR Campbeltown, baptism of [Mary Galbreath](/sources/opr-campbeltown-births.md#1843-11-05-mary-galbreath)
 
