@@ -73,7 +73,10 @@ some children of William Blue and Susan Galbreath: https://www.scotlandspeople.g
 > in infancy MARY who died 4 Mar 1827 aged 24 years, FLORA who died
 > 23 Aug 1828 aged 23 years and DAVID who died 9 Nov 1831 aged 24 years.
 
-2021: Helen Galbreath on [FamilySearch](https://www.familysearch.org/tree/person/details/KZVS-VZ8) is a mess, but this should be solvable.
+2021: 
+* Helen Galbreath on [FamilySearch](https://www.familysearch.org/tree/person/details/KZVS-VZ8) is a mess
+* death record (last one on page) https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/2889871?return_row=4 
+* Malcom Galbreath and Margaret Stewart
 
 ## 310
 
