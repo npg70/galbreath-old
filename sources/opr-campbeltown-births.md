@@ -1947,9 +1947,12 @@ TBD: ARCHIBALD GALBREATH/BARBRA WILKINSON
 
 TBD: DUNCAN GALBREATH/MARY THOMSON
 
-## 1841-12-30 Neill Galbreath
+## [1841-12-30 Neill Galbreath](/people/galbraith-neil-1841.md)
 
-TBD: [JOHN GALBREATH](/people/galbreath-john-1821.md)/MARGARET COOK 
+[507/70 210 row 7](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357705?image=210)
+
+> Neill | Lawful son of [John Galbreath]/people/galbreath-john-1821.md) fisherman
+> and Margaret Cook was born eighteenth and bapt 30 Dec 1841
 
 ## 1842-02-16 Isabella Galbreath
 
