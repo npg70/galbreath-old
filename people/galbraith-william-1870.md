@@ -12,7 +12,11 @@ Placeholders for another day:
 
 Children of William and Margaret (McMillan) Galbraith:
 
-TBD -- we know they exist.
+
+1. Others
+2. *Malcom McMillan Galbraith*, b. 23 Jan 1897[^malcom-birth]
 
 
-[^birth]: Civil Records of Campbeltown, 1870 GALBRAITH, WILLIAM (Statutory registers Births 507/ 77); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/40423938)
+[^birth]: Civil Records of Campbeltown; 1870 GALBRAITH, WILLIAM (Statutory registers Births 507/ 77); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/40423938)
+
+[^malcom-birth]: Civil Records of Campbeltown; 1897 GALBRAITH, MALCOLM MCMILLA (Statutory registers Births 507/ 33); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/44163623)
