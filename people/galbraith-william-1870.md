@@ -14,9 +14,12 @@ Children of William and Margaret (McMillan) Galbraith:
 
 
 1. Others
-2. *Malcom McMillan Galbraith*, b. 23 Jan 1897[^malcom-birth]
+2. *Archibald Galbraith*, b. 9 June 1895[^archibald-birth]
+3. *Malcom McMillan Galbraith*, b. 23 Jan 1897[^malcom-birth]
 
 
 [^birth]: Civil Records of Campbeltown; 1870 GALBRAITH, WILLIAM (Statutory registers Births 507/ 77); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/40423938)
+
+[^archibald-birth]: Civil Records of Campbeltown; 1895 GALBRAITH, ARCHIBALD (Statutory registers Births 507/ 166); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/43790826)
 
 [^malcom-birth]: Civil Records of Campbeltown; 1897 GALBRAITH, MALCOLM MCMILLA (Statutory registers Births 507/ 33); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/44163623)
