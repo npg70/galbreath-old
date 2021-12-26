@@ -6,7 +6,7 @@ familysearch: https://www.familysearch.org/tree/person/details/M1Y6-GJN
 
 Children of Robert and Mary (Galbreath) Clark, all baptised in Campbeltown:[^children]
 
-1. *John Clark*, bp 10 Apr 1914
+1. *John Clark*, bp 10 Apr 1814
 2. *Mary Clark*, bp. 5 Apr 1816, Campbeltown, Argyll, Scotland, d. 6 Oct 1906, Michigan, United States, Immigration to Boston in 1881.
 3. *David Clark*, bp. 6 Nov 1818
 4. *James Clark*, bp. 10 Jul 1821
