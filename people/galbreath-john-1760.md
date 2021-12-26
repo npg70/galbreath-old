@@ -6,7 +6,7 @@ familysearch: https://www.familysearch.org/tree/person/details/L8MT-MMN
 
 Children of John and Marion (McLean) Galbreath, all baptized at Campbeltown:[^oprchildren]
 
-1. *Mary Galbreath*, bp. 03 Sep 1783
+1. *Mary Galbreath*, bp. 3 Sep 1783[^mary-birth]
 2. *[Janet Galbraith](galbraith-janet-1786.md)*, bp. 10 Jan 1786, d. 1859
 3. *Neill Galbraith*, bp. 18 Dec 1788, d. 1863
 4. *Margaret Galbreath*, bp. 31 Jan 1791
@@ -16,3 +16,15 @@ Children of John and Marion (McLean) Galbreath, all baptized at Campbeltown:[^op
 [^birth]: OPR Campbeltown record of birth for [John Galbreath](/sources/opr-campbeltown-births.md#1760-05-02-john-galbreath)
 
 [^oprchildren]: OPR Campbeltown record of baptisms by parents John Galbreath and Marion McLean, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=exact&forename_so=starts&from_year=1783&to_year=1800&parent_names=mclean&parent_names_so=fuzzy&parent_name_two_so=exact&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&rd_real_name%5B0%5D=CAMPBELTOWN%20%28LANDWARD%29%20OR%20CAMPBELTOWN%20%28BURGH%29%20OR%20CAMPBELTOWN&rd_display_name%5B0%5D=CAMPBELTOWN%20%28LANDWARD%29%7CCAMPBELTOWN%20%28BURGH%29%7CCAMPBELTOWN_CAMPBELTOWN&rd_label%5B0%5D=CAMPBELTOWN&rd_name%5B0%5D=CAMPBELTOWN%20%2ALANDWARD%2A%20OR%20CAMPBELTOWN%20%2ABURGH%2A%20OR%20CAMPBELTOWN&sort=asc&order=Date&field=year)
+
+[^mary-birth]: OPR Campbeltown, baptism of [Mary Galbreath](/sources/opr-campbeltown-births.md#1783-09-03-mary-galbreath)
+
+[^janet-birth]: OPR Campbeltown, baptism of [Janet Galbreath](/sources/opr-campbeltown-births.md#1786-01-10-janet-galbreath)
+
+[^neil-birth]: OPR Campbeltown, baptism of [Neil Galbreath](/sources/opr-campbeltown-births.md#1788-12-18-neill-galbreath)
+
+[^margaret-birth]: OPR Campbeltown, baptism of [Margaret Galbreath](/sources/opr-campbeltown-births.md#1791-01-31-margaret-galbreath)
+
+[^john-birth]: OPR Campbeltown, baptism of [John Galbreath]
+
+[^ann-birth]: OPR Campbeltown, baptism of [Ann Galbreath]
