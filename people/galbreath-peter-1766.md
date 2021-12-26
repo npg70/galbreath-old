@@ -6,7 +6,7 @@ familysearch: XXX
 
 He married 5 Mar 1791 Campbeltown to Margaret Galbreath[^marriage]
 
-Sometimes claimed that both died a month apart in 1837 in Gigha - [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/6828955?image=36), with Peter age 82 (~1755) and Martha at age 77 (~ 1760).
+Sometimes claimed that both died a month apart in 1837 in Gigha - [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/6828955?image=36), with Peter age 82 (abt 1755) and Martha at age 77 (abt 1760).
 
 Children of Peter and Margaret (Galbreath) Galbreath:
 
