@@ -15,3 +15,5 @@ Children of John and Hannah (Morrison) Galbreath:
 6. *Nancy Jane Galbreath*, 1824–1889
 7. *Hannah Jane Galbreath*, 1828–1913
 8. *Mary Galbreath*, 1833–1899
+
+[^birth]: OPR Campbeltown, baptism of [John Galbreath](/sources/opr-campbeltown-births.md#1784-01-08-john-galbreath)
