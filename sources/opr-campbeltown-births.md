@@ -1113,7 +1113,9 @@ TBD: John Galbreath / Agnes Galbreath
 
 ## 1793-04-12 John Galbreath
 
-TBD:  [John Galbreath](/people/galbreath-john-1760.md) / Marion McLean
+[507/40 106 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357660?image=106)
+
+> John | Lawful son to  [John Galbreath](/people/galbreath-john-1760.md) & Marion McLean in [Tolelach???] [???] 12
 
 ## 1793-05-14 Lachlan Galbreath
 
@@ -1147,7 +1149,7 @@ TBD: Neil Galbreath / Florance Paterson
 
 [507/40 114 row 22](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357933?image=114)
 
-> Ann | Lawful Dau to [John Galbreath](/people/galbreath-john-1760.md) & More McLean Toleclach (??) borth 16 bapt 18
+> Ann | Lawful Dau to [John Galbreath](/people/galbreath-john-1760.md) & More McLean Toleclach (??) born 16 bapt 18
 
 ## 1794-07-02 Jean Galbreath
 
