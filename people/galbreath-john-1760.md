@@ -25,6 +25,6 @@ Children of John and Marion (McLean) Galbreath, all baptized at Campbeltown:[^op
 
 [^margaret-birth]: OPR Campbeltown, baptism of [Margaret Galbreath](/sources/opr-campbeltown-births.md#1791-01-31-margaret-galbreath)
 
-[^john-birth]: OPR Campbeltown, baptism of [John Galbreath]
+[^john-birth]: OPR Campbeltown, baptism of [John Galbreath](/sources/opr-campbeltown-births.md#1793-04-12-john-galbreath)
 
-[^ann-birth]: OPR Campbeltown, baptism of [Ann Galbreath]
+[^ann-birth]: OPR Campbeltown, baptism of [Ann Galbreath](/sources/opr-campbeltown-births.md#1794-03-18-ann-galbreath)
