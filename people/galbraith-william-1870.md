@@ -2,7 +2,9 @@
 title: William Galbraith b. 1870 m. Margaret McMillan
 familysearch: https://www.familysearch.org/tree/person/details/M1YM-JW4
 ---
-***William Galbraith***, son of *[Archibald Galbreath](/people/galbreath-archibald-1842.md)* and *Agnes O'May*, born Campbeltown at 5 April 1870[^birth]
+***William Galbraith***, son of *[Archibald Galbreath](/people/galbreath-archibald-1842.md)* and *Agnes O'May*, born Campbeltown at 5 April 1870[^birth].  
+
+He married at Campbeltown 5 DEc 1892[^marriage] to *Margaret McMillan*, daughter of Malcolm McMilland and Agnes(?) McGreachy.
 
 Placeholders for another day:
 
@@ -19,6 +21,8 @@ Children of William and Margaret (McMillan) Galbraith:
 
 
 [^birth]: Civil Records of Campbeltown; 1870 GALBRAITH, WILLIAM (Statutory registers Births 507/ 77); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/40423938)
+
+[^marriage]: Civil Records of Campbeltown; 1892 GALBRAITH, WILLIAM (Statutory registers Marriages 507/ 48); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/2435236).  Note it's record 48.  Record 47 is a different Galbraith marriage.
 
 [^archibald-birth]: Civil Records of Campbeltown; 1895 GALBRAITH, ARCHIBALD (Statutory registers Births 507/ 166); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/43790826)
 
