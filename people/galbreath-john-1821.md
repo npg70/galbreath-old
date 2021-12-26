@@ -8,7 +8,7 @@ He was a fisherman.[^death][^alexander-birth][^archibald-birth][^census1851]
 
 Children of John and Margaret (Cook) Galbreath:[^oprchildren]
 
-1. *Neil Galbreath*, b. 18 Aug 1841, Campbeltown[^neill-birth], likley drown in 1873[^neil-death]
+1. *[Neil Galbreath](galbraith-neil-1841.md)*, b. 18 Aug 1841, Campbeltown[^neill-birth], likley drown in 1873[^neil-death]
 2. *Mary Galbreath*, b. 5 Oct 1843, Campbeltown[^mary-birth]
 3. *Margaret Galbreath*, b. 29 Jan 1845, Campbeltown[^margaret-birth]
 4. *John Galbreath*, b. Apr 1848, bp 18 Oct 1848 Campbeltown[^john-birth]; m. *Helen Allison Carnis*
