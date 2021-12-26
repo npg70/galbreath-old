@@ -36,3 +36,7 @@ Agnes Galbraith is mentioned:
 There are some other minor details in the book, but her parents are unknown.
 
 https://www.findagrave.com/memorial/157161848/agnes-mcneilage
+
+Death record: https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/2889871?return_row=4
+
+Parents are Neil Galbreath and Martha Stewart
