@@ -13,7 +13,7 @@ Other theories of who Janet married are:
 Children of David and Janet (Galbreath):[^children]
 
 1. *Jean Ryburn*, b. 7 Nov 1736
-2. *John Ryburn*, b. 15 Oct 1738, m. Agnes Langwill
+2. *John Ryburn*, b. 15 Oct 1738, m. *Agnes Langwill*
 3. _____ Ryburn, b. 1740
 4. *Arthur Ryburn*, b. 4 Jun 1743
 5. *Mary Ryburn*, b. 3 Jan 1746
