@@ -1,5 +1,5 @@
 ---
-title: Janet Galbreath b. 1711 m. David Ryburn
+title: Janet Galbreath b. 1711 m. David Ryburn or Robert Campbell
 familysearch: https://www.familysearch.org/tree/person/details/GSSD-1LD
 ---
 
