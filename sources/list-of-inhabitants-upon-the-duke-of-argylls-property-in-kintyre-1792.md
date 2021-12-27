@@ -48,9 +48,9 @@ In same area was the Ryburn family of Edward Ryburn and Isobell Corder, and thei
 | 37  | 1755 | [John Galbreath](/people/galbreath-john-1760.md) | | |
 | 36  | 1756 |     | More McLean |  |
 |  9  | 1783 |     |       | Mary Galbreath |
-| 7   | 1784 |     |       | Janet Galbreath |
-| 4   | 1788 |     |       | Neil Galbreath |
-| 1   | 1791 |     |       | Margaret Galbreath |
+|  7  | 1785 |     |       | Janet Galbreath |
+|  4  | 1788 |     |       | Neil Galbreath |
+|  1  | 1791 |     |       | Margaret Galbreath |
 
 ## Page 60
 
