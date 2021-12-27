@@ -1,5 +1,6 @@
 ---
 title: Margaret Galbreath b 1743 m. Alexander Dunlop
+familysearch: https://www.familysearch.org/tree/person/details/9M96-2SR
 ---
 ***Margaret Galbreath***, daughter of [Archibald Galbreath](galbreath-archibald-1708.md) and *Margaret White* baptised Campbeltown on 27 Oct 1743.  Married at Campbeltown on 3 May 1768[^marriage] to **Alexander Dunlop** born 13 Sep 1841 of Archibald Dunlop b. 29 Jul 1714 and Margaret Fulton b. 15 Jan 1712.
 
