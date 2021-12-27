@@ -7,7 +7,7 @@ familysearch: https://www.familysearch.org/tree/person/details/L8MT-MMN
 Children of John and Marion (McLean) Galbreath, all baptized at Campbeltown:[^oprchildren]
 
 1. *Mary Galbreath*, bp. 3 Sep 1783[^mary-birth]
-2. *[Janet Galbraith](galbraith-janet-1786.md)*, bp. 10 Jan 1786,[^janet-birth] d. 1859
+2. *[Janet Galbraith](galbraith-janet-1786.md)*, bp. 10 Jan 1786,[^janet-birth]
 3. *Neill Galbraith*, bp. 18 Dec 1788,[^neil-birth] d. 1863
 4. *Margaret Galbreath*, bp. 31 Jan 1791[^margaret-birth]
 5. *John Galbreath*, bp. 12 Apr 1793[^john-birth]
