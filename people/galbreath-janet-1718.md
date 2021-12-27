@@ -3,7 +3,7 @@ title: Janet Galbreath b. ~1718 m. Robert McNair
 familysearch: https://www.familysearch.org/tree/person/details/2MT3-K3W
 wikitree: https://www.wikitree.com/wiki/Galbraith-1784
 ---
-***Janet Galbreath***, of unknown parents, was born about 1718.  She married Campbeltown 1 Jul 1744 to **Robert McNair**, bp. 5 Jan 1718 of *James McNair* and *Mary Picken*.
+***Janet Galbreath***, of unknown parents, was born about 1718.  She married Campbeltown 1 Jul 1744[^marriage] to **Robert McNair**, bp. 5 Jan 1718 of *James McNair* and *Mary Picken*.
 
 THere is some confusion on Janet's origins.  Some claim she is [*Janet Galbreath*](galbreath-janet-1711.md), born 1711 daugher of X and Y. While certainly not impossible, this would mean Robert married someone 7 years older than him, and that Janet had her first child when she was 35 and the last at age 47. In addition, there is a good match for Janet b. 1711 to be married in 1735 to David Ryburn, born 1702.  Here she would have have first child at 25 and last at age 36.
 
