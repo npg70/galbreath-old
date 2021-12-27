@@ -8,7 +8,7 @@ Children of John and Marion (McLean) Galbreath, all baptized at Campbeltown:[^op
 
 1. *Mary Galbreath*, bp. 3 Sep 1783[^mary-birth]
 2. *[Janet Galbraith](galbraith-janet-1786.md)*, bp. 10 Jan 1786,[^janet-birth]
-3. *Neill Galbraith*, bp. 18 Dec 1788,[^neil-birth] d. 1863
+3. *Neill Galbraith*, bp. 18 Dec 1788,[^neil-birth] d. 9 Jun 1863[^neil-death]
 4. *Margaret Galbreath*, bp. 31 Jan 1791[^margaret-birth]
 5. *John Galbreath*, bp. 12 Apr 1793[^john-birth]
 6. *Ann Galbreath*, bp. 18 Mar 1794[^ann-birth]
@@ -22,6 +22,8 @@ Children of John and Marion (McLean) Galbreath, all baptized at Campbeltown:[^op
 [^janet-birth]: OPR Campbeltown, baptism of [Janet Galbreath](/sources/opr-campbeltown-births.md#1786-01-10-janet-galbreath)
 
 [^neil-birth]: OPR Campbeltown, baptism of [Neil Galbreath](/sources/opr-campbeltown-births.md#1788-12-18-neill-galbreath)
+
+[^neil-death]: Civil Records of Campbeltown; 1863 GALBRAITH, NEIL (Statutory registers Deaths 507/ 83); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/624420).  Very hard to read.
 
 [^margaret-birth]: OPR Campbeltown, baptism of [Margaret Galbreath](/sources/opr-campbeltown-births.md#1791-01-31-margaret-galbreath)
 
