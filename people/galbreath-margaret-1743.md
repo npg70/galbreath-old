@@ -2,7 +2,7 @@
 title: Margaret Galbreath b 1743 m. Alexander Dunlop
 familysearch: https://www.familysearch.org/tree/person/details/9M96-2SR
 ---
-***Margaret Galbreath***, daughter of [Archibald Galbreath](galbreath-archibald-1708.md) and *Margaret White* baptised Campbeltown on 27 Oct 1743.  Married at Campbeltown on 3 May 1768[^marriage] to **Alexander Dunlop** born 13 Sep 1841 of Archibald Dunlop b. 29 Jul 1714 and Margaret Fulton b. 15 Jan 1712.
+***Margaret Galbreath***, daughter of [Archibald Galbreath](galbreath-archibald-1708.md) and *Margaret White* baptised Campbeltown on 27 Oct 1743.[^birth]  Married at Campbeltown on 3 May 1768[^marriage] to **Alexander Dunlop** born 13 Sep 1841 of Archibald Dunlop b. 29 Jul 1714 and Margaret Fulton b. 15 Jan 1712.
 
 Children of Alexander and Margaret (Galbreath) Dunlop, all baptised in Campbeltown, unless otherwise noted:[^children]
 
@@ -17,6 +17,8 @@ Children of Alexander and Margaret (Galbreath) Dunlop, all baptised in Campbelto
 9. *Archibald Dunlop*, b. 9 Mar 1785, Killean and Kilchenzie; under "Mary Galbreath"
 10. *Ann Dunlop*, b. 3 May 1786; under "Margaret Galbraith"
 11. *Robert Dunlop*, b. Jun 1787, Killean and Kilchenzie;  Under "Mary Galbreath"
+
+[^birth]: OPR Campbeltown, baptism of [Margaret Galbreath](/sources/opr-campbeltown-births.md#1743-10-27-margaret-galbreath)
 
 [^marriage]: OPR Campbeltown, marriage of Alexander Dunlop and Margaret Galbraith, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=M&record_type%5B0%5D=opr_marriages&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-banns-marriages&surname=dunlop&surname_so=fuzzy&forename=alexander&forename_so=starts&sex=M&spouse_name=galbreath&spouse_name_so=fuzzy&from_year=1768&to_year=1768&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
 
