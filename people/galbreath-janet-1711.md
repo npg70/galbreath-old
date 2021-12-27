@@ -18,7 +18,7 @@ Children of David and Janet (Galbreath) Ryburn:[^ryburn-children]
 5. *Mary Ryburn*, bp. 3 Jan 1746
 6. *Isobell Ryburn*, bp. 6 Jul 1747
 
-Janet 2 married 15 Mar 1731[^campbell-marriage] to Robert Campbell bp 29 July 1711, son of **Robert Campbell** and Janet Templeton.  Here Janet would be 20 when she married, and first child at 21.  A bit young but not unreasonable.
+Janet 2 married 15 Mar 1731[^campbell-marriage] to **Robert Campbell** bp 29 July 1711, son of Robert Campbell and Janet Templeton.  Here Janet would be 20 when she married, and first child at 21.  A bit young but not unreasonable.
 
 [^ryburn-david]: David Ryburn birth [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=ryeburn&surname_so=fuzzy&forename=david&forename_so=starts&from_year=1701&to_year=1702&parent_names_so=exact&parent_name_two_so=exact&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches).
 
