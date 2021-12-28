@@ -19,8 +19,9 @@ Galbreath side looks good.
 
 ## Line 2
 
-1. **[John Galbreath](/people/galbreath-john-abt-1710.md)**, b. 1738 Campbeltown, m. Isobell Clark
-2. **[John Galbreath](/people/galbreath-john-1760.md)**, b. 1760 Campbeltown, m. Marion/More McLean
+1. **[John Galbreath](/people/galbreath-john-1680.md)**, b. 1680 Campbeltown; m. Mary Mitchell
+1. ~John Galbreath, b. 1738 Campbeltown, m. Isobell Clark~ **[Archibald Galbreath](/people/galbreath-archibald-1708.md)**, b. 1708 Campbeltown; m. Martha White
+2. ~John Galbreath, b. 1760 Campbeltown, m. Marion/More McLean~ [Samuel Galbreath](/people/galbreath-samuel-1736.md), b. 1736; m. Janet McNair.
 3. **[Janet Galbreath](/people/galbraith-janet-1786.md)**, b. 1786 TBD, m. William Mitchell
 4. **James Mitchell**, b. 1815 TBD; m. Katharine Dunlop, b. 1 Nov 1821 Killean and Kilchenzie
 5. **Catherine Mitchell**, b. 1853, Killean and Kilchenzie; m. Andrew McDonald, b. 1841, South End
@@ -30,8 +31,8 @@ Galbreath side looks good.
 
 Galbreath side looks good.
 
-1. **[John Galbreath](/people/galbreath-john-1680.md)**, b. 1680 Campbeltown; m. Mary Mitchell
-2. **[Archibald Galbreath](/people/galbreath-archibald-1708.md)**, b. 1708 Campbeltown; m. Martha White
+1. **[John Galbreath](/people/galbreath-john-1680.md)**, b. 1680 Campbeltown; m. *Mary Mitchell*
+2. **[Archibald Galbreath](/people/galbreath-archibald-1708.md)**, b. 1708 Campbeltown; m. *Martha White*
 3. **[Margaret Galbreath](/people/galbreath-margaret-1743.md)**, b. 1743 Campbeltown; m. Alexander Dunlop, b. 1741, Campbeltown
 4. **Archibald Dunlop**, b. 9 Mar 1785 Killean and Kilchenzie; m. Mary Smith
 5. **Katharine Dunlop**, b. 1 Nov 1821 Killean and Kilchenzie; m. James Mitchell, b. 1815
