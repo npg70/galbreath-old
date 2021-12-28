@@ -8,6 +8,7 @@ title: Four lines of Galbraith to Isabella MacDonald
 
 Galbreath side looks good.
 
+1. ***[James Galbreath](/people/galbreath-james-1659.md)***, b. 1659; m. *Mary Neilson*
 1. ***[James Galbreath](/people/galbreath-james-1672.md)*** b. 1672 Campbeltown; m. *Mary Fleming*
 2. ***[Janet Galbreath](/people/galbreath-janet-1698.md)*** b. 1698 Campbeltown; m. *Peter Langwill*
 3. ***Isabella Langwill*** b. 1725 Campbeltown; m. *Edward Orr*
@@ -19,7 +20,8 @@ Galbreath side looks good.
 
 ## Line 2
 
-1. **[John Galbreath](/people/galbreath-john-1680.md)**, b. 1680 Campbeltown; m. Mary Mitchell
+1. ***[James Galbreath](/people/galbreath-james-1659.md)***, b. 1659; m. *Mary Neilson*
+1. ***[John Galbreath](/people/galbreath-john-1680.md)***, b. 1680 Campbeltown; m. Mary Mitchell
 1. ~John Galbreath, b. 1738 Campbeltown, m. Isobell Clark~ **[Archibald Galbreath](/people/galbreath-archibald-1708.md)**, b. 1708 Campbeltown; m. Martha White
 2. ~John Galbreath, b. 1760 Campbeltown, m. Marion/More McLean~ [Samuel Galbreath](/people/galbreath-samuel-1736.md), b. 1736; m. Janet McNair.
 3. **[Janet Galbreath](/people/galbraith-janet-1786.md)**, b. 1786 TBD, m. William Mitchell
@@ -31,6 +33,7 @@ Galbreath side looks good.
 
 Galbreath side looks good.
 
+1. ***[James Galbreath](/people/galbreath-james-1659.md)***, b. 1659; m. *Mary Neilson*
 1. **[John Galbreath](/people/galbreath-john-1680.md)**, b. 1680 Campbeltown; m. *Mary Mitchell*
 2. **[Archibald Galbreath](/people/galbreath-archibald-1708.md)**, b. 1708 Campbeltown; m. *Martha White*
 3. **[Margaret Galbreath](/people/galbreath-margaret-1743.md)**, b. 1743 Campbeltown; m. Alexander Dunlop, b. 1741, Campbeltown
