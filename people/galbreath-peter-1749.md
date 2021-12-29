@@ -4,6 +4,8 @@ familysearch: https://www.familysearch.org/tree/person/details/KC9M-5ZQ
 ---
 ***Peter Galbreath***, son of *[David Galbreath](galbreath-david-1718.md)* and *Isabella Watson*, baptized at Campbeltown 5 Apr 1749.[^birth]
 
+He married **Agnes McMurchy** about 1776.  The marriage does not appear in the OPR.
+
 Family is listed as living in Laggan in the Parish of Kilchousland according to the 1792 Census[^1792]
 
 He died before 1811.[^jean-marriage]
