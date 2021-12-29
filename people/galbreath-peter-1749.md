@@ -62,5 +62,5 @@ Children of Peter and Agnes (McMurchy) Galbreath, all baptized at Campbeltown:[^
 
 [^jean-death]: Girvan, Ayr: 1867 GALBRAITH, JEAN (Statutory registers Deaths 594/ 106)(https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/1074768)
 
-[^agnes-birth]: OPR Campbeltown, baptism of 
+[^agnes-birth]: OPR Campbeltown, baptism of [Agnes Galbreath](/sources/opr-campbeltown-births.md#1798-05-21-agnes-galbreath)
 
