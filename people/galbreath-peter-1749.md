@@ -2,7 +2,7 @@
 title: "Peter Galbreath b 1749 m. Agnes McMurchy"
 familysearch: https://www.familysearch.org/tree/person/details/KC9M-5ZQ
 ---
-***Peter Galbreath***, son of *[David Galbreath](galbreath-david-1718.md)* and *Isabella Watson*, baptized at Campbeltown 5 Apr 1749.
+***Peter Galbreath***, son of *[David Galbreath](galbreath-david-1718.md)* and *Isabella Watson*, baptized at Campbeltown 5 Apr 1749.[^birth]
 
 Family is listed as living in Laggan in the Parish of Kilchousland according to the 1792 Census[^1792]
 
@@ -24,6 +24,8 @@ Children of Peter and Agnes (McMurchy) Galbreath, all baptized at Campbeltown:[^
 10. *Jean Galbreath*, bp. 04 Jun 1796,[^jean-birth] d. 23 Aug 1867, Girvan, Ayr, Scotland; m. 17/12/1811 *Anthony Campbell*[^jean-death]
 11. *[Agnes Galbreath](galbreath-agnes-1798.md)*, bp. 21 May 1798,[^agnes-birth] m. *Alexander Muir*
 
+
+[^birth]: OPR Campbeltown, baptism of [Peter Galbreath](/sources/opr-campbeltown-births.md#1749-04-05-peter-galbreath)
 
 [^1792]: [Duke of Argyle's 1792 Census](/sources/list-of-inhabitants-upon-the-duke-of-argylls-property-in-kintyre-1792.md#page-178)
 
