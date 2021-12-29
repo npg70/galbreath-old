@@ -557,15 +557,21 @@ Janet |  [Archibald Galbreath](/people/galbreath-archibald-1708.md) and Martha W
 
 ## 1753-02-03 John Galbreath
 
-Tbd: David Galbreath / Jean Langwill
+> John | **David Galbreath** & **Jean Langwill** had a son bapt. 3 Feb. named John
 
 ## 1753-04-00 Daniel Galbreath
 
-tbd: [John Galbreath](/people/galbreath-john-abt-1710.md) / Isobell Clark
+[507/ 11 285 row 13](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357335?image=285)
+
+> Daneil | **[John Galbreath](/people/galbreath-john-abt-1710.md)** and **Isobell Clark** had a son baptized April named Daneil
 
 ## 1753-04-14 James Galbreath
 
-tbd: [David Galbreath](/people/galbreath-david-abt-1720.md) / Martha Baird
+TBD: Link needs updating.
+
+[507/ 11 285 row 14](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357335?image=285)
+
+> James | **[David Galbreath](/people/galbreath-david-abt-1720.md)** and  Martha Baird has a son baptized 14th April named James
 
 ## [1753-06-25 Alexander Galbreath](/people/galbreath-alexander-1753.md)
 
