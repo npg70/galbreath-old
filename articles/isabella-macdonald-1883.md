@@ -12,7 +12,7 @@ Galbreath side looks good.
 1. ***[James Galbreath](/people/galbreath-james-1672.md)*** b. 1672 Campbeltown; m. *Mary Fleming*
 2. ***[Janet Galbreath](/people/galbreath-janet-1698.md)*** b. 1698 Campbeltown; m. *Peter Langwill*
 3. ***Isabella Langwill*** b. 1725 Campbeltown; m. *Edward Orr*
-4. ***Ann Orr***, b. 1762 Campbeltown, m. *Andrew Robert Ralston*
+4. ***Ann Orr***, b. 1762 Campbeltown, m. *Andrew ~Robert~ Ralston*
 5. Isabella Ralston b. 1784 TBD, m. *John Reid*
 6. Elizabeth Reid b. 1820 TBD, m. *John MacDonald*
 7. Andrew McDonald b. b. 1841, South End; m. *Catherine Mitchell*, b. 1853, Killean and Kilchenzie
