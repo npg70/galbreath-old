@@ -48,7 +48,7 @@ Children of Peter and Agnes (McMurchy) Galbreath, all baptized at Campbeltown:[^
 
 [^james-birth]: OPR Campbeltown, baptism of [James Galbreath](/sources/opr-campbeltown-births.md#1787-10-27-james-galbreath)
 
-[^margaret-birth]: OPR Campbeltown, baptism of ???
+[^margaret-birth]: OPR Campbeltown, baptism of [Margaret Galbreath](/sources/opr-campbeltown-births.md#1790-06-09-margaret-galbreath), appears to be misrecorded under Peter Galbreath / Agnes MacFarlane.
 
 [^ursula-birth]: OPR Campbeltown, baptism of [Orslay Galbreath](/sources/opr-campbeltown-births.md#1792-06-23-orslay-galbreath)
 
