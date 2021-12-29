@@ -10,20 +10,20 @@ He died before 1811.[^jean-marriage]
 
 He was a farmer.[^jean-death]
 
-Children of Peter and Agnes (McMurchy) Galbreath, all baptized at Campbeltown:[^children1]
+Children of Peter and Agnes (McMurchy) Galbreath, all baptized at Campbeltown:[^children1][^children2][^children3]
 
 1. *Janet Galbreath*, 1776  Can't find - OPR record loss?
-2. *William Galbreath*, bp. 20 Jan 1778
-3. *John Galbreath*, bp. 6 Dec 1780 -- TBD, cross out in 1792.. maybe died?
-4. *Robert Galbreath*, bp. 16 Sep 1781
-5. *Archibald Galbreath*, bp. 2 Nov 1783
-6. *Mary Galbreath*, bp. 21 Sep 1785, m. *Andrew Ferguson*[^mary-marriage]
-7. *James Galbreath*, bp. 27 Oct 1787[^children2]
-8. *[Margaret Galbreath](galbreath-margaret-1790.md)*, bp. 9 Jun 1790,[^children3] m. *Neil Hawthorn*
-9. *Orslay (Ursula) Galbreath*, bp. 23 Jun 1792, m. *William Hatton*[^ursula-marriage]
-10. *Martha Galbreath*, bp. 23 Jun 1792
+2. *William Galbreath*, bp. 20 Jan 1778[^william-birth]
+3. *John Galbreath*, bp. 6 Dec 1780[^john-birth] -- TBD, crossed-out in 1792.. maybe died?
+4. *Robert Galbreath*, bp. 16 Sep 1781[^robert-birth]
+5. *Archibald Galbreath*, bp. 2 Nov 1783[^archibald-birth]
+6. *Mary Galbreath*, bp. 21 Sep 1785,[^mary-birth] m. *Andrew Ferguson*[^mary-marriage]
+7. *James Galbreath*, bp. 27 Oct 1787[^james-birth]
+8. *[Margaret Galbreath](galbreath-margaret-1790.md)*, bp. 9 Jun 1790,[^margaret-birth] m. *Neil Hawthorn*
+9. *Orslay (Ursula) Galbreath*, bp. 23 Jun 1792,[^ursula-birth] m. *William Hatton*[^ursula-marriage]
+10. *Martha Galbreath*, bp. 23 Jun 1792[^martha-birth]
 11. *Jean Galbreath*, bp. 04 Jun 1796,[^jean-birth] d. 23 Aug 1867, Girvan, Ayr, Scotland; m. 17/12/1811 *Anthony Campbell*[^jean-death]
-12. *[Agnes Galbreath](galbreath-agnes-1798.md)*, bp. 21 May 1798, m. *Alexander Muir*
+12. *[Agnes Galbreath](galbreath-agnes-1798.md)*, bp. 21 May 1798,[^agnes-birth] m. *Alexander Muir*
 
 
 [^1792]: [Duke of Argyle's 1792 Census](/sources/list-of-inhabitants-upon-the-duke-of-argylls-property-in-kintyre-1792.md#page-178)
@@ -34,12 +34,33 @@ Children of Peter and Agnes (McMurchy) Galbreath, all baptized at Campbeltown:[^
 
 [^children3]: OPR Campbeltown record of baptism of Martha Galbreath, daughter of Patrick Galbreath and Agnes MacFarlane (incorrectly recorded) on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=fuzzy&forename_so=starts&from_year=1790&to_year=1790&parent_names_so=exact&parent_name_two=mac&parent_name_two_so=starts&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&rd_real_name%5B0%5D=CAMPBELTOWN%20%28LANDWARD%29%20OR%20CAMPBELTOWN%20%28BURGH%29%20OR%20CAMPBELTOWN&rd_display_name%5B0%5D=CAMPBELTOWN%20%28LANDWARD%29%7CCAMPBELTOWN%20%28BURGH%29%7CCAMPBELTOWN_CAMPBELTOWN&rd_label%5B0%5D=CAMPBELTOWN&rd_name%5B0%5D=CAMPBELTOWN%20%2ALANDWARD%2A%20OR%20CAMPBELTOWN%20%2ABURGH%2A%20OR%20CAMPBELTOWN)
 
+[^william-birth]: OPR Campbeltown, baptism of [William Gilbreath](/sources/opr-campbeltown-births.md#1778-01-20-william-gilbreath)
+
+[^john-birth]: OPR Campbeltown, baptism of [John Galbreath](/sources/opr-campbeltown-births.md#1780-12-06-john-galbreath)
+
+[^robert-birth]: OPR Campbeltown, baptism of [Robert Galbreath](/sources/opr-campbeltown-births.md#1781-09-16-robert-galbreath)
+
+[^archibald-birth]: OPR Campbeltown, baptism of [Archibald Galbreath](/sources/opr-campbeltown-births.md#1783-11-02-archibald-galbreath)
+
+[^mary-birth]: OPR Campbeltown, baptism of [Mary Galbraith](/sources/opr-campbeltown-births.md#1785-09-21-mary-galbraith)
+
+[^mary-marriage]: married in 1810, and Peter was listed as deceased.  https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/9531732?image=90&return_row=7
+
+[^james-birth]: OPR Campbeltown, baptism of [James Galbreath](/sources/opr-campbeltown-births.md#1787-10-27-james-galbreath)
+
+[^margaret-birth]: OPR Campbeltown, baptism of ???
+
+[^ursula-birth]: OPR Campbeltown, baptism of [Orslay Galbreath](/sources/opr-campbeltown-births.md#1792-06-23-orslay-galbreath)
+
+[^ursula-marriage]: https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/9531839?image=121
+
+[^martha-birth]: OPR Campbeltown, baptism of [Martha Galbreathth](/sources/opr-campbeltown-births.md#1792-06-23-martha-galbreath)
+
 [^jean-birth]: OPR Campbeltown, baptism of [Jean Galbreath](/sources/opr-campbeltown-births.md#1796-06-04-jean-galbreath)
 
 [^jean-marriage]: https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/9531618?image=97&return_row=17
 
 [^jean-death]: Girvan, Ayr: 1867 GALBRAITH, JEAN (Statutory registers Deaths 594/ 106)(https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/1074768)
 
-[^mary-marriage]: married in 1810, and Peter was listed as deceased.  https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/9531732?image=90&return_row=7
+[^agnes-birth]: OPR Campbeltown, baptism of 
 
-[^ursula-marriage]: https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/9531839?image=121&return_row=20
