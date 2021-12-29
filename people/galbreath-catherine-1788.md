@@ -2,7 +2,7 @@
 title: Catharine Galbreath b. 1788 m. James Greenlees
 familysearch: https://www.familysearch.org/tree/person/details/KJZW-RSR
 ---
-**Catharine Galbreath**, daughter of [*Samuel Galbreath*](galbreath-samuel-1736.md) and *Janet McNair*, born Peninver, Argyll, Scotland 16 May 1788, baptized Campbeltown 18 May 1788, and died Moys, Campbeltown, Argyll, Scotland 21 Apr 1878. She married 5 Apr 1810 **James Greenlees**,[^james] born 26 Main St, Campbeltown, Argyll, Scotland 6 Jan 1782, and died Peninver, Campbeltown, Argyll, Scotland, 6 Mar 1848.  James was the son of *James Greenless* b. 1754 and 
+**Catharine Galbreath**, daughter of [*Samuel Galbreath*](galbreath-samuel-1736.md) and *Janet McNair*, born Peninver, Argyll, Scotland 16 May 1788, baptized Campbeltown 18 May 1788, and died Moys, Campbeltown, Argyll, Scotland 21 Apr 1878. She married 5 Apr 1810 **James Greenlees**,[^james] born 26 Main St, Campbeltown, Argyll, Scotland 6 Jan 1782, and died Peninver, Campbeltown, Argyll, Scotland, 6 Mar 1848.  James was the son of *James Greenless* b. 1754 and Janet Watson.
 
 Catherine and James, along with some children, are mentioned in 1841 Census, as farmers in Peninver.[^1841]  TODO: check 1851 census.
 
