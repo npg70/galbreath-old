@@ -12,17 +12,17 @@ He was a farmer.[^jean-death]
 
 Children of Peter and Agnes (McMurchy) Galbreath, all baptized at Campbeltown:[^children1][^children2][^children3]
 
-2. *William Galbreath*, bp. 20 Jan 1778[^william-birth]
-3. *John Galbreath*, bp. 6 Dec 1780[^john-birth] -- TBD, crossed-out in 1792.. maybe died?
-4. *Robert Galbreath*, bp. 16 Sep 1781[^robert-birth]
-5. *Archibald Galbreath*, bp. 2 Nov 1783[^archibald-birth]
-6. *Mary Galbreath*, bp. 21 Sep 1785,[^mary-birth] m. *Andrew Ferguson*[^mary-marriage]
-7. *James Galbreath*, bp. 27 Oct 1787[^james-birth]
-8. *[Margaret Galbreath](galbreath-margaret-1790.md)*, bp. 9 Jun 1790,[^margaret-birth] m. *Neil Hawthorn*
-9. *Orslay (Ursula) Galbreath*, bp. 23 Jun 1792,[^ursula-birth] m. *William Hatton*[^ursula-marriage]
-10. *Martha Galbreath*, bp. 23 Jun 1792[^martha-birth]
-11. *Jean Galbreath*, bp. 04 Jun 1796,[^jean-birth] d. 23 Aug 1867, Girvan, Ayr, Scotland; m. 17/12/1811 *Anthony Campbell*[^jean-death]
-12. *[Agnes Galbreath](galbreath-agnes-1798.md)*, bp. 21 May 1798,[^agnes-birth] m. *Alexander Muir*
+1. *William Galbreath*, bp. 20 Jan 1778[^william-birth]
+2. *John Galbreath*, bp. 6 Dec 1780[^john-birth] -- TBD, crossed-out in 1792.. maybe died?
+3. *Robert Galbreath*, bp. 16 Sep 1781[^robert-birth]
+4. *Archibald Galbreath*, bp. 2 Nov 1783[^archibald-birth]
+5. *Mary Galbreath*, bp. 21 Sep 1785,[^mary-birth] m. *Andrew Ferguson*[^mary-marriage]
+6. *James Galbreath*, bp. 27 Oct 1787[^james-birth]
+7. *[Margaret Galbreath](galbreath-margaret-1790.md)*, bp. 9 Jun 1790,[^margaret-birth] m. *Neil Hawthorn*
+8. *Orslay (Ursula) Galbreath*, bp. 23 Jun 1792,[^ursula-birth] m. *William Hatton*[^ursula-marriage]
+9. *Martha Galbreath*, bp. 23 Jun 1792[^martha-birth]
+10. *Jean Galbreath*, bp. 04 Jun 1796,[^jean-birth] d. 23 Aug 1867, Girvan, Ayr, Scotland; m. 17/12/1811 *Anthony Campbell*[^jean-death]
+11. *[Agnes Galbreath](galbreath-agnes-1798.md)*, bp. 21 May 1798,[^agnes-birth] m. *Alexander Muir*
 
 
 [^1792]: [Duke of Argyle's 1792 Census](/sources/list-of-inhabitants-upon-the-duke-of-argylls-property-in-kintyre-1792.md#page-178)
