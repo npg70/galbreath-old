@@ -2,7 +2,7 @@
 title: John Galbreath b. 1815 m. Mary McTaggart
 familysearch: https://www.familysearch.org/tree/person/details/LZ62-VM4
 ---
-***John Galbreath***, of unknown origin, was born around 1815 in Clachan, Argyll, Scotland[^census1851][^census1871][^census1881], died Campbeltown 15 Feb 1890.[^death] He married **Mary McTaggart**, daughter of *Alexander McTaggart* and *Annabella Beith*.
+***John Galbreath***, of unknown origin, was born around 1815 in Clachan, Argyll, Scotland[^census1851][^census1871][^census1881], died Campbeltown 15 Feb 1890.[^death] He married Campbeltown 27 Nov 1839[^marriage] to **Mary McTaggart**, daughter of *Alexander McTaggart* and *Annabella Beith*.
 
 His occupation was in the distilling industry according to various census and baptism records.[^census1851][^census1861][^census1881]
 
@@ -29,6 +29,8 @@ Lists occupations as "Ag Lab" (farm laborer), along with his wife and first chil
 [^census1871]: Household of John Galbraith, UK Census 1871 from [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1871/0023441340). Only John and Mary are listed.  His occupation listed as "laborer", birthdate of 1814, birthplace of Clachan.
 
 [^census1881]: House of Archibald Galbraith, UK Census 1881 from [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1881/0029344266&expand=true). Living with his son Archibald, as a widower, occupation "distillery workman", birth year of 1814, birthplace of Kilcalmonell (parish), which is next to Clachan.
+
+[^marriage]: OPR Campbeltown, marriage of John Galbreath and Mary McTaggart, in [ScotlandPeoples](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=M&record_type%5B0%5D=opr_marriages&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-banns-marriages&surname=galbreath&surname_so=exact&forename_so=starts&sex=M&spouse_name=mctaggart&spouse_name_so=exact&from_year=1839&to_year=1839&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
 
 [^death]: Civil Records, Campbeltown, Death of John Galbraith from [ScotlandPeoples](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/4272947). Listed as a "distillery workman" and "widower of Mary McTaggart." Parents are listed as John Galbreath, farm servant, and Mary McGregor.  Signed by Archibald Galbreath his son.1916 GALBRAITH, JOHN (Statutory registers Deaths 564/2 350)
 
