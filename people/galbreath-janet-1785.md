@@ -4,7 +4,7 @@ title: Janet Galbreath b. 1785 m. William Mitchell
 ***Janet Galbreath***, daughter of [Samuel Galbreath](/people/galbreath-samuel-1736.md) and *Jean McNair*, was born about 1785[^birth]. 
 She died at Kirk Close, Campbeltown on 23 Oct 1859.[^death]  She married at Campbeltown 21 Jun 1803[^marriage] to **William Mitchell**.
 
-Children of Janet (Galbreath) Mitchell, all baptized at Campbeltown:
+Children of Janet (Galbreath) Mitchell, all baptized at Campbeltown:[^children]
 
 1. *Archibald Mitchell*, bp. 28 Mar 1805
 2. *Samuel Margaret Mitchell*, bp. 14 May 1807
