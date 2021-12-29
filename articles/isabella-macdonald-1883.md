@@ -8,26 +8,26 @@ title: Four lines of Galbraith to Isabella MacDonald
 
 Galbreath side looks good.
 
-1. ***[James Galbreath](/people/galbreath-james-1659.md)***, b. 1659; m. *Mary Neilson*
-1. ***[James Galbreath](/people/galbreath-james-1672.md)*** b. 1672 Campbeltown; m. *Mary Fleming*
-2. ***[Janet Galbreath](/people/galbreath-janet-1698.md)*** b. 1698 Campbeltown; m. *Peter Langwill*
-3. ***Isabella Langwill*** b. 1725 Campbeltown; m. *Edward Orr*
-4. ***Ann Orr***, b. 1762 Campbeltown, m. *Andrew ~Robert~ Ralston*
-5. Isabella Ralston b. 1784 TBD, m. *John Reid*
-6. Elizabeth Reid b. 1820 TBD, m. *John MacDonald*
-7. Andrew McDonald b. b. 1841, South End; m. *Catherine Mitchell*, b. 1853, Killean and Kilchenzie
-8. Isabella Macdonald, b. 1883, Glasgow
+1. ***[James Galbreath](/people/galbreath-james-1659.md)***, b. 1659; m. **Mary Neilson**
+1. ***[James Galbreath](/people/galbreath-james-1672.md)*** b. 1672 Campbeltown; m. **Mary Fleming**
+2. ***[Janet Galbreath](/people/galbreath-janet-1698.md)*** b. 1698 Campbeltown; m. **Peter Langwill**
+3. ***Isabella Langwill*** b. 1725 Campbeltown; m. **Edward Orr**
+4. ***Ann Orr***, b. 1762 Campbeltown, m. **Andrew ~Robert~ Ralston**
+5. ***Isabella Ralston***, b. 1784 TBD, m. **John Reid**
+6. **Elizabeth Reid***, b. 1820 TBD, m. **John MacDonald**
+7. ***Andrew McDonald***, b. 1841, South End; m. **Catherine Mitchell**, b. 1853, Killean and Kilchenzie
+8. ***Isabella Macdonald***, b. 1883, Glasgow
 
 ## Line 2
 
-1. ***[James Galbreath](/people/galbreath-james-1659.md)***, b. 1659; m. *Mary Neilson*
-1. ***[John Galbreath](/people/galbreath-john-1680.md)***, b. 1680 Campbeltown; m. Mary Mitchell
-1. ~John Galbreath, b. 1738 Campbeltown, m. Isobell Clark~ **[Archibald Galbreath](/people/galbreath-archibald-1708.md)**, b. 1708 Campbeltown; m. Martha White
-2. ~John Galbreath, b. 1760 Campbeltown, m. Marion/More McLean~ [Samuel Galbreath](/people/galbreath-samuel-1736.md), b. 1736; m. Janet McNair.
-3. **[Janet Galbreath](/people/galbraith-janet-1786.md)**, b. 1786 Campbeltown, m. *William Mitchell**
-4. **James Mitchell**, b. 1815 TBD; m. *Katharine Dunlop*, b. 1 Nov 1821 Killean and Kilchenzie
-5. **Catherine Mitchell**, b. 1853, Killean and Kilchenzie; m. *Andrew McDonald*, b. 1841, South End
-6. **Isabella Macdonald**, b. 1883, Glasgow
+1. ***[James Galbreath](/people/galbreath-james-1659.md)***, b. 1659; m. **Mary Neilson**
+1. ***[John Galbreath](/people/galbreath-john-1680.md)***, b. 1680 Campbeltown; m. **Mary Mitchell**
+1. ~John Galbreath, b. 1738 Campbeltown, m. Isobell Clark~ **[Archibald Galbreath](/people/galbreath-archibald-1708.md)**, b. 1708 Campbeltown; m. **Martha White**
+2. ~John Galbreath, b. 1760 Campbeltown, m. Marion/More McLean~ [Samuel Galbreath](/people/galbreath-samuel-1736.md), b. 1736; m. **Janet McNair**
+3. ***[Janet Galbreath](/people/galbraith-janet-1786.md)***, b. 1786 Campbeltown, m. **William Mitchell**
+4. ***James Mitchell***, b. 1815 TBD; m. **Katharine Dunlop**, b. 1 Nov 1821 Killean and Kilchenzie
+5. ***Catherine Mitchell***, b. 1853, Killean and Kilchenzie; m. **Andrew McDonald**, b. 1841, South End
+6. ***Isabella Macdonald***, b. 1883, Glasgow
 
 ## Line 3
 
