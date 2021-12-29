@@ -12,7 +12,6 @@ He was a farmer.[^jean-death]
 
 Children of Peter and Agnes (McMurchy) Galbreath, all baptized at Campbeltown:[^children1][^children2][^children3]
 
-1. *Janet Galbreath*, 1776  Can't find - OPR record loss?
 2. *William Galbreath*, bp. 20 Jan 1778[^william-birth]
 3. *John Galbreath*, bp. 6 Dec 1780[^john-birth] -- TBD, crossed-out in 1792.. maybe died?
 4. *Robert Galbreath*, bp. 16 Sep 1781[^robert-birth]
