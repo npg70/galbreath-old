@@ -817,7 +817,9 @@ TBD: Neill Galbreath / Ann Campbell
 
 ## 1774-11-22 Archibald Galbreath
 
-TBD: John Galbreath / Jean Clark
+[507/ 20 15 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357284?image=15)
+
+> Arch | Son to **John Galbreath** and Jean Clark born 21st bapt 22nd
 
 ## 1775-07-10 James Galbreath
 
