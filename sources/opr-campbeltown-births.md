@@ -1081,7 +1081,10 @@ TBD: Neill Galbreath / Katherine Mclarty
 
 ## 1790-01-25 Martha Galbreath
 
-TBD: John Galbreath / Agnes Galbreath
+[507/ 20 117 row 4](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358383?image=117)
+
+> Martha | Lawful daugt to **John Galbreath** Sheriff Officer in Town & Agnes Galbreath
+> was born 24th & bapt 25th
 
 ## 1790-06-09 Margaret Galbreath
 
