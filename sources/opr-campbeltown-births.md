@@ -916,11 +916,16 @@ TBD: Patrick Galbreath / Ann McLellan
 
 ## 1782-03-19 James Galbreath
 
-TBD: [Alexander Galbreath](/people/galbreath-alexander-1753.md) / Agnes Flemming
+[507/ 20 57 row 14](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357506?image=57)
+
+> James | Lawful son to  [Alexr Galbreath](/people/galbreath-alexander-1753.md) & Agnes Flemming
+> born 18th, bapt 19th March 1782
 
 ## 1782-05-12 Mary Galbreath
 
-TBD: John Galbreath / Agnes Galbreath
+
+> Mary | Lawful daut to **John Galbreath** & Agnes Galbreath
+> born & bapt 12 May
 
 ## 1782-10-03 Sarrah Galbreath
 
@@ -964,11 +969,17 @@ TBD: [Peter Galbreath](/people/galbreath-peter-1749.md) / Agnes McMurchy
 
 ## 1784-01-08 John Galbreath
 
-TBD: [Alexander Galbreath](/people/galbreath-alexander-1753.md) / Agnes Flemming
+[507/ 20 71 row 12](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357565?image=71)
+
+> John | Lawful son to [Alexr Galbreath](/people/galbreath-alexander-1753.md) Mercht [merchant] in Campbeltown
+> Agnes Flemming was born 7th & bapt 8th Feb
 
 ## 1784-02-03 David Galbreath
 
-TBD: John Galbreath / Agnes Galbreath
+[507/ 20 71 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357565?image=72)  TBD: link needs fixing
+
+> David | Lawful son to *John Galbreath* Town Officer & Agnes Galbreath
+> was born 2nd & bapt 3rd Feb
 
 ## 1784-11-04 Neill Galbreath
 
