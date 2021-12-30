@@ -1002,7 +1002,10 @@ TBD: Neill Galbriath / Isalbell McKinlay
 
 ## 1785-11-29 John Galbraith
 
-TBD: [David Galbraith](/people/galbreath-david-1755.md) / Mary Fleeming
+[507/ 20 86 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/988?image=86)
+
+> John | Lawful son to [David Galbraith](/people/galbreath-david-1755.md) in Ardnacross & Mary Fleeming
+> was born 30th & bapt 31th Dec.
 
 ## 1786-01-04 Janet Galbraith
 
@@ -1020,7 +1023,10 @@ TBD: [Henry Galbreath](/people/galbreath-henry-1739.md) / Agnes Armour
 
 ## 1786-12-31 James Galbraith
 
-TBD: [David](/people/galbreath-david-1755.md) or Samuel Galbraith / Mary Fleeming
+[507/ 20 94 row 8](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/913?image=94), Father indexed as "David or Samuel Galbraith"
+
+> James | Lawful son to ~Samuel~ [David Galbraith](/people/galbreath-david-1755.md) in Ardnacross & Mary Fleeming
+> was born 30th & bapt 31th Dec.
 
 ## 1787-10-27 James Galbreath
 
@@ -1035,7 +1041,10 @@ TBD: [Peter Galbreath](/people/galbreath-peter-1749.md) / Agnes MacMurchy
 
 ## [1788-08-29 Mary Galbreath](/people/galbreath-mary-1788.md)
 
-Tbd: [David Galbreath](/people/galbreath-david-1755.md) / Mary Fleeming
+[507/ 20 107 row 9](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358483?image=107)
+
+> Mary | Lawdful dau to [David Galbreath](/people/galbreath-david-1755.md) in Ardnacross & Mary Fleeming
+> was born 28th & Bapt 29th Aug
 
 ## 1788-10-06 Alexander Galbreath
 
@@ -1326,7 +1335,7 @@ TBD: NEIL GALBREATH/GRIZELL TAYLOR
 
 [507/40 225 row 20 ](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357219?image=225)
 
-> Alexander | [DAVID GALBREATH](/people/galbreath-david-1755.md) & Mary Fleeming [??? Arndacross] had a 
+> Alexander | [David Galbreath](/people/galbreath-david-1755.md) & Mary Fleeming [??? Arndacross] had a 
 > son born 12th baptized 16th named Alexander 
 
 ## 1802-04-22 John Galbreath
