@@ -4,7 +4,7 @@ familysearch: https://www.familysearch.org/tree/person/details/9MFS-951
 ---
 ***William Galbraith***, son of *[William Galbreath](galbreath-william-1780.md)* and *Jean Campbell*, was baptized at Campbeltown 21 July 1815.[^birth]  He died 11 Feb 1888[^death].
 
-Maybe married twice, **Janet McGill** and **??nc Glass**.
+Maybe married twice, **Janet McGill** and **Grace Glass**.
 
 He was a mason / journeyman.[^death].
 
