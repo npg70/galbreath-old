@@ -980,11 +980,17 @@ TBD: John Galbreath / Katharine Hegon
 
 ## 1785-09-21 Mary Galbraith
 
-TBD: [Peter Galbraith](/people/galbreath-peter-1749.md) / Agnes McMurchy
+[507/ 20 85 row 2](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2040?image=85)
+
+> Mary | Lawful Daugh to [Peter Galbraith](/people/galbreath-peter-1749.md) Farmer in Laggan & Agnes McMurchy
+> was born 19th & bapt 21 Sept.
 
 ## 1785-10-23 Jean Galbreath
 
-TBD: John Galbraith / Agnes Galbraith
+[507/ 20 85 row 7](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2040?image=85) TBD: link needs fixing.
+
+> Jean | Lawful Dau to **John Galbraith** Town Officier & Agnes Galbraith
+> was born 23rd & bapt 25th Oct.
 
 ## 1785-11-20 Daniel Galbraith
 
