@@ -8,7 +8,7 @@ He married at Campbeltown 14 Nov 1844[^marriage-glass] to **Grace Glass**.
 
 Maybe married twice, **Janet McGill** and **Grace Glass**.
 
-He was a mason / journeyman.[^death].
+He was a mason / journeyman.[^marriage-glass][^death].
 
 Children of William and Grace (Glass) Galbraith:
 
