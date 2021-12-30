@@ -17,6 +17,9 @@ Children of William and Grace (Glass) Galbraith, all born or baptized in Campbel
 3. *Jean Cameron Galbraith*, bp. 6 Dec 1852[^jean-birth]
 4. *Alexander Galbraith*, b. 21 Dec 1855[^alexander-birth]
 
+may be other children.
+also https://www.familysearch.org/tree/person/details/K81G-HWV?completedMergeDuplicateId=KZ7S-CGZ
+
 [^birth]: OPR Campbeltown, baptism of [William Galbreath](/sources/opr-campbeltown-births.md#1815-07-21-william-galbreath)
 
 [^death]:  1888 GALBRAITH, WILLIAM (Statutory registers Deaths 507/ 27) on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/2986875).
