@@ -149,6 +149,8 @@ Canidates of Janet on [ScotlandPeoples](https://www.scotlandspeople.gov.uk/recor
 
 (surrounded by other Armour graves)
 
+[Henry Galbreath](/main/people/galbreath-henry-1739.md), son of *[William Galbreath](galbreath-william-1701.md)* and *Margaret Kilpatrick*, baptised in Campbeltown April 1739,
+
 ## 608
 
 > 608.	Erected by the family in memory of their father DUNCAN McCALLUM who died 2 January 1853 and their mother SARAH GALBRAITH died 9 July 1882 also their brothers MALCOM died in 1851, HUGH died 19 August 1885 (their sister BARBARA died 7 February 1877 and her husband ALEXR DURROCH died 8 July 1877) also two children of NEIL McCALLUM who died in infancy, HELEN KELLY, wife of DUNCAN McCALLUM, Witchburn, who died 19 February 1898 aged 52 years and their daughter SARAH died at Glasgow 4 February 1893 aged 23 years, interred in Sighthill, also their son HUGH who was drowned at Westport 10 July 1899 aged 22 years, the said DUNCAN McCALLUM, died at Witchburn in his 88th year.
