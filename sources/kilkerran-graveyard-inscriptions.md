@@ -197,6 +197,8 @@ Same Archibald as above.
 
 > 1823	Erected by JAMES RYBURN, shipmaster in Campbeltown, to the memory of WILLIAM RYBURN his father who died 15 June 1819 aged 81 and JANET GALBRAITH his mother who died 17 August 1793 aged 52.
 
+[Janet Galbreath](/people/galbreath-janet-1735.md), daughter of [*William Galbreath*](galbreath-william-1701.md) and *Margaret Kilpatrick*, baptised at Campbeltown 27 Apr 1735.
+
 ## 1009
 
 > 1009	Nunqua non paratus
