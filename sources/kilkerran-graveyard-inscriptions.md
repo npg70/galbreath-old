@@ -199,6 +199,8 @@ Same Archibald as above.
 
 [Janet Galbreath](/people/galbreath-janet-1735.md), daughter of [*William Galbreath*](galbreath-william-1701.md) and *Margaret Kilpatrick*, baptised at Campbeltown 27 Apr 1735.
 
+Oddly can find no record of James Ryburn.
+
 ## 1009
 
 > 1009	Nunqua non paratus
@@ -235,7 +237,7 @@ Can't find a baptism or marriage record for Daniel.
 > The above MARGARET TURNER died 9 June 1880 aged 90 years, SARA their daughter,
 > relict of PETER GALBRAITH died 25 October 1899 aged 76 years interred here.
 
-Attributed to [Peter Galbraith](/people/galbraith-peter-1811.md) born 1811, son of *[William Galbraith](/people/galbreath-william-1780.md)* and *Jean Campbell*.
+[Peter Galbraith](/people/galbraith-peter-1811.md) born 1811, son of *[William Galbraith](/people/galbreath-william-1780.md)* and *Jean Campbell*.
 
 
 ## 1127
