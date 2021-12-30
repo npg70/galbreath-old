@@ -134,7 +134,7 @@ Canidates of Janet on [ScotlandPeoples](https://www.scotlandspeople.gov.uk/recor
 >
 > By MALCOM McMILLAN ship carpenter in Campbeltown and MARTHA GALBRAITH his wife in memory of their children MALCOM MONTGOMERY McMILLAN who died 2 September 1838 aged 6 months, NEIL died 2 March 1840 aged 6 years, MARGARET died 1 May 1853 aged 11 years and 11 months, MARTHA GALBRAITH died 20 March 1871 aged 71 years and the above MALCOM McMILLAN died 7 June 1873 aged 76 years.
 
-[Martha Galbreath](/people/galbreath-matha-1800.md)
+[Martha Galbreath](/people/galbreath-martha-1800.md)
 
 2021-11-28: Martha McMillian death records: https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/1382101?return_row=1
 * Married to Malcom McMillan, Innkeeper
