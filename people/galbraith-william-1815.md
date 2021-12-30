@@ -10,11 +10,12 @@ Maybe married twice, **Janet McGill** and **Grace Glass**.
 
 He was a mason / journeyman.[^marriage-glass][^death].
 
-Children of William and Grace (Glass) Galbraith:
+Children of William and Grace (Glass) Galbraith, all born or baptized in Campbeltown:
 
-1. *William Galbraith*, bp. 2 Mar 1846, Campbeltown[^william-birth]
-2. *Agnes Galbraith*, bp. 28 Aug 1848, Campbeltown[^agnes-birth]
-3. *Jean Cameron Galbraith*, bp. 6 Dec 1852, Campbeltown[^jean-birth]
+1. *William Galbraith*, bp. 2 Mar 1846[^william-birth]
+2. *Agnes Galbraith*, bp. 28 Aug 1848[^agnes-birth]
+3. *Jean Cameron Galbraith*, bp. 6 Dec 1852[^jean-birth]
+4. *Alexander Galbraith*, b. 21 Dec 1855[^alexander-birth]
 
 [^birth]: OPR Campbeltown, baptism of [William Galbreath](/sources/opr-campbeltown-births.md#1815-07-21-william-galbreath)
 
@@ -31,3 +32,4 @@ Children of William and Grace (Glass) Galbraith:
 
 [^jean-birth]: OPR Campbeltown, baptism of [Jean Cameron Galbraith](/sources/opr-campbeltown-births.md#1852-12-06-jean-cameron-galbraith)
 
+[^alexander-birth]: Statuatory records of Campbeltown, Argyll; 1855 GALBRAITH, ALEXANDER (Statutory registers Births 507/1 179); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/38701597)
