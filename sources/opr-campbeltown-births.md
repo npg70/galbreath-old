@@ -2103,7 +2103,7 @@ TBD: [John Galbraith](/people/galbraith-john-1809.md) /  Mary Coville McEwing
 
 ## 1846-03-02 William Galbreath
 
-TBD: WILLIAM GALBREATH/GRACE GLASS
+TBD: [WILLIAM GALBREATH](/people/galbraith-william-1815.md)/GRACE GLASS
 
 ## 1846-07-05 Elizabeth Galbreath
 
@@ -2159,7 +2159,7 @@ TBD: DUNCAN GALBREATH/CATHARINE MCFATER
 
 ## 1848-08-28 Agnes Galbreath
 
-TBD: WILLIAM GALBREATH/GRACE GLASS
+TBD: [WILLIAM GALBREATH](/people/galbraith-william-1815.md)/GRACE GLASS
 
 ## 1848-10-15 Margaret Galbreath
 
@@ -2241,7 +2241,7 @@ TBD: [DAVID GALBRAITH](/people/galbreath-david-1819.md)/CATHERINE MCKINNON
 
 ## 1852-12-06 Jean Cameron Galbraith
 
-TBD: WILLIAM GALBRAITH/GRACE GLASS
+TBD: [WILLIAM GALBRAITH](/people/galbraith-william-1815.md)/GRACE GLASS
 
 ## 1853-04-05 Catharine Galbraith
 
