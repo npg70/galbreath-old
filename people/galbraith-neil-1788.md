@@ -10,7 +10,7 @@ Children of Neil and Mary (McMillian) Galbraith:
 2. *John Galbreath*, b. 27 Jul 1813[^john-birth]
 3. *Sarah Galbreath*, b. 8 Apr 1817[^sarah-birth]
 4. *Mary Galbreath*, b. 19 Apr 1821[^mary-birth]
-5. *Hugh Galbreath*, b. 13 May 1823[^hugh-birth]
+5. *Hugh Galbreath*, b. 13 May 1823[^hugh-birth], 30 Sep 1901, m. *Catherine McNair*[^hugh-death]
 6. *Janet Galbreath*, b. 22 Dec 1825[^janet-birth]
 7. *Neil Galbreath*, b. 19 Feb 1829[^neil-birth]
 
@@ -28,6 +28,8 @@ Children of Neil and Mary (McMillian) Galbraith:
 [^mary-birth]: OPR Campbeltown, baptism of [Mary Galbreath] XXX
 
 [^hugh-birth]: OPR Campbeltown, baptism of [Hugh Galbreath](/sources/opr-campbeltown-births.md#1823-05-13-hugh-galbreath)
+
+[^hugh-death]: 1901 GALBRAITH, HUGH (Statutory registers Deaths 507/ 121); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/5355310)
 
 [^janet-birth]: OPR Campbeltown, baptism of [Janet Galbreath](/sources/opr-campbeltown-births.md#1825-12-22-janet-galbreath)
 
