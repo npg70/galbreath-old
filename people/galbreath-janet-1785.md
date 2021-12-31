@@ -9,7 +9,7 @@ There has been confusion with different Janet Galbreath, daughter of [John Galbr
 Children of Janet (Galbreath) Mitchell, all baptized at Campbeltown:[^children]
 
 1. *Archibald Mitchell*, bp. 28 Mar 1805
-2. *Samuel Margaret Mitchell*, bp. 14 May 1807
+2. *Samuel Mitchell*, bp. 14 May 1807[^samuel-birth]
 3. *Hugh Mitchell*, bp. 13 Jun 1809
 4. *Mary Mitchell*, bp. 29 Sep 1811
 5. *James Mitchell*, bp. 8 Jan 1815
@@ -28,3 +28,5 @@ Children of Janet (Galbreath) Mitchell, all baptized at Campbeltown:[^children]
 [^children]: OPR Campbeltown, Children of William Mitchell and Janet Galbreath, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=mitchell&surname_so=fuzzy&forename_so=starts&parent_names=William%20MItchel&parent_names_so=exact&parent_name_two=galbreath&parent_name_two_so=fuzzy&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&rd_real_name%5B0%5D=CAMPBELTOWN%20%28LANDWARD%29%20OR%20CAMPBELTOWN%20%28BURGH%29%20OR%20CAMPBELTOWN&rd_display_name%5B0%5D=CAMPBELTOWN%20%28LANDWARD%29%7CCAMPBELTOWN%20%28BURGH%29%7CCAMPBELTOWN_CAMPBELTOWN&rd_label%5B0%5D=CAMPBELTOWN&rd_name%5B0%5D=CAMPBELTOWN%20%2ALANDWARD%2A%20OR%20CAMPBELTOWN%20%2ABURGH%2A%20OR%20CAMPBELTOWN&sort=asc&order=Date&field=year)
 
 [^death]: Civil Records of Campbeltown. Argyll; 1859 GALBRAITH, JANET (Statutory registers Deaths 507/ 115); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/327148).  Also partially transcribed on [MyAinFolk.ca](https://www.myainfolk.ca/records/5765)
+
+[^samuel-birth]: OPR Campletown; 
