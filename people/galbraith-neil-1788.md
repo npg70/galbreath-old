@@ -4,6 +4,8 @@ familysearch: https://www.familysearch.org/tree/person/details/M1TB-RY9
 ---
 ***Neil Galbraith***, son of *[John Galbreath](/people/galbreath-john-1760.md)* and Marion McLean, was baptized at Campbeltown 18 Dec 1788[^birth].  He died 9 Jun 1863.[^death]
 
+He married **Mary McMillian**.
+
 Children of Neil and Mary (McMillian) Galbraith:
 
 1. *Anne Galbreath*, bp. 30 Mar 1811[^anne-birth]
