@@ -1551,7 +1551,7 @@ TWO RECORDS (same names, maybe just copied over on to next page)
 
 ## 1811-03-30 Anne Galbreath
 
-TBD: Neill Galbreath / Mary MacMillan
+TBD: [Neill Galbreath](/people/galbraith-neil-1788.md) / Mary MacMillan
 
 ## [1811-05-31 Peter Galbreath](/people/galbraith-peter-1811.md)
 
@@ -1594,7 +1594,7 @@ TBD: [James Galbreath](/people/galbreath-james-abt-1775.md) / Martha Galbreath
 
 ## 1813-07-27 John Galbreath
 
-TBD: NEILL GALBREATH/MARY MACMILLAN
+TBD: [NEILL GALBREATH](/people/galbraith-neil-1788.md)/MARY MACMILLAN
 
 ## 1813-08-13 James Fraser Galbreath
 
@@ -1607,8 +1607,6 @@ TBD: HUGH GALBREATH/CHRISTIAN MACDONALD
 ## 1814-01-16 Mary Galbreath
 
 TBD: [Archibald Galbreath](/people/galbreath-archibald-1760.md) / Jean Corbet
-
-
 
 ## 1814-02-09 Archibald Galbreath
 
@@ -1671,7 +1669,7 @@ TBD: JOHN GALBREATH/SARAH MCINNES
 
 ## 1817-04-08 Sarah Galbreath
 
-TBD: NEIL GALBREATH/MARY MACMILLAN
+TBD: [NEIL GALBREATH](/people/galbraith-neil-1788.md)/MARY MACMILLAN
 
 ## [1817-04-16 John Galbreath](/people/galbreath-john-1817.md)
 
@@ -1718,7 +1716,7 @@ TBD: JOHN GALBREATH/JEAN MCINNES
 
 ## 1819-12-22 Neill Galbraith
 
-TBD: NEILL GALBRAITH/MARY MCMILLAN
+TBD: [NEILL GALBRAITH](/people/galbraith-neil-1788.md)/MARY MCMILLAN
 
 ## 1821-01-08 Helen Galbreath
 
@@ -1738,6 +1736,10 @@ TBD: [DAVID GALBREATH](/people/galbreath-david-1793.md)/MARY GREENLEES
 > Mary | Lawful ~Son~ Dau of [James Galbreath](/people/galbreath-james-abt-1775.md) Farmer Skerbolin and Martha Galbreath
 > Both 12th & Bapts 13th March 1831. Mary.
 
+## 1821-04-19 Mary Galbreath
+
+TBD: [NEILL GALBREATH](/people/galbraith-neil-1788.md)/MARY MCMILLAN
+
 ## 1822-03-27 Mary Galbreath
 
 TBD: [DAVID GALBREATH](/people/galbreath-david-1793.md)/MARY GREENLEES
@@ -1756,7 +1758,7 @@ TBD: HUGH GALBREATH/KIRSTY MCDONALD
 
 ## 1823-05-13 Hugh Galbreath
 
-TBD: NEILL GALBREATH/MARY MCMILLAN
+TBD: [NEILL GALBREATH](/people/galbraith-neil-1788.md)/MARY MCMILLAN
 
 ## 1823-10-12 Thomas Galbreath
 
@@ -1783,7 +1785,7 @@ TBD: JOHN GALBREATH/JEAN MCINNES
 
 ## 1825-12-22 Janet Galbreath
 
-TBD: NEILL GALBREATH/MARY MCMILLAN
+TBD: [NEILL GALBREATH](/people/galbraith-neil-1788.md)/MARY MCMILLAN
 
 ## 1827-01-14 Samuel Galbreath
 
@@ -1812,7 +1814,7 @@ TBD: [David Galbreath](/people/galbreath-david-1797.md)/Janet Mitchell
 
 ## 1829-02-19 Neill Galbreath
 
-TBD: NIELL GALBREATH/MARY MCMILLAN
+TBD: [NIELL GALBREATH](/people/galbraith-neil-1788.md)/MARY MCMILLAN
 
 ## 1829-03-05 Hugh Galbreath
 
