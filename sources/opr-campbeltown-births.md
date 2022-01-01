@@ -1598,7 +1598,7 @@ TBD: [NEILL GALBREATH](/people/galbraith-neil-1788.md)/MARY MACMILLAN
 
 ## 1813-08-13 James Fraser Galbreath
 
-TBD: DAVID STEWART/GALBREATH ELIZABETH FRASER
+TBD: [DAVID STEWART GALBREATH](/people/galbraith-david-stewart-1782.md) / ELIZABETH FRASER
 
 ## 1813-09-22 Jean Galbreath
 
@@ -1683,7 +1683,7 @@ TBD: [James Galbreath](/people/galbreath-james-abt-1775.md) / Martha Galbreath
 
 ## 1818-06-30 Elizabeth Galbreath
 
-TBD: DAVID STEWART/GALBREATH ELIZABETH FRAZER
+TBD: [DAVID STEWART GALBREATH](/people/galbraith-david-stewart-1782.md)/ELIZABETH FRAZER
 
 ## 1819-01-19 Archibald Galbreath
 
@@ -1708,7 +1708,7 @@ TBD: HUGH GALBREATH/CHRISTIAN MCDONALD
 
 ## 1819-09-16 Alexander Macdonald Galbreath
 
-TBD: DAVID STEWART/GALBREATH ELIZABETH FRAZER 
+TBD: [DAVID STEWART GALBREATH](/people/galbraith-david-stewart-1782.md)/ELIZABETH FRAZER 
 
 ## 1819-11-01 John McLeod Galbreath
 
@@ -1800,7 +1800,7 @@ TBD: [DAVID GALBREATH](/people/galbreath-david-1793.md)/MARY GREENLEES
 
 ## 1827-08-22 David Stewart Galbreath
 
-TBD: DAVID STEWART/GALBREATH ELIZABETH FRAZER
+TBD: [DAVID STEWART GALBREATH](/people/galbraith-david-stewart-1782.md)/ELIZABETH FRAZER
 
 TWO records, same date
 
@@ -1826,7 +1826,7 @@ TBD: DONALD GALBREATH/ANNE BELL
 
 ## 1829-08-28 Octavia Galbreath
 
-TBD: DAVID STEWART/GALBREATH ELIZABETH FRAZER
+TBD: [DAVID STEWART GALBREATH](/people/galbraith-david-stewart-1782.md)/ELIZABETH FRAZER
 
 ## 1830-04-29 Archibald Galbreath
 
@@ -1842,11 +1842,11 @@ TBD: [DAVID GALBREATH](/people/galbreath-david-1793.md)/MARY GREENLEES
 
 ## 1830-09-14 Alfred Galbreath
 
-TBD: DAVID STEWART/GALBREATH ELIZABETH FRASER
+TBD: [DAVID STEWART GALBREATH](/people/galbraith-david-stewart-1782.md)/ELIZABETH FRASER
 
 ## 1831-09-23 Adelaide Galbreath
 
-TBD: D. S./GALBREATH ELIZABETH FRASER
+TBD: [David Stewart Galbreath](/people/galbraith-david-stewart-1782.md)/ELIZABETH FRASER
 
 ## 1832-07-05 Mary Galbreath
 
@@ -1866,7 +1866,7 @@ TBD: [DAVID GALBREATH](/people/galbreath-david-1793.md)/MARY GREENLEES
 
 ## 1833-08-09 John Campbell Galbreath
 
-TBD: DAVID STEWART/GALBREATH ELIZABETH FRASER 
+TBD: [DAVID STEWART GALBREATH](/people/galbraith-david-stewart-1782.md) / ELIZABETH FRASER 
 
 ## [1833-10-02 William Galbreath](/people/galbreath-william-1833.md)
 
@@ -1913,7 +1913,7 @@ TBD: ARCHIBALD GALBREATH/ANN HENDERSON
 
 ## 1837-06-12 Henry Louis Galbreath
 
-TBD: D. S./GALBREATH ELIZABETH FRAZER
+TBD: [DAVID STEWART GALBREATH](/people/galbraith-david-stewart-1782.md)/ ELIZABETH FRAZER
 
 ## 1837-07-06 Margaret Galbreath
 
