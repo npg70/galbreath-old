@@ -6,7 +6,7 @@ familysearch: https://www.familysearch.org/tree/person/details/KC9G-P5D
 
 He married first at Campbeltown 5 Mar 1835[^marriage1] to **Eugina McCallum**.  Since he remarried 2 years later, it likely she died in 1838 or 1839, perhaps to complications of giving birth of her last child, _Eugina_.  It appears the Eugina was taken in by a McCallum family in Gigha, although the exact relationship is unclear.[^census1841-eugina].
 
-He married second at Southend 25 Aug 1839[^marriage2a], and a second ceremony at Campbeltown 25 Aug 1840[^marriage2b], and then a second ceremony at to **Margaret Loynachan**, born 24 Aug 1821, South End, Argyll, Scotland, daughter of Neil Loynachan farmer and Margaret Brodie. She died at Dumbarton, 14 Nov 1886.[^loynachan-death]
+He married second at Southend 25 Aug 1839[^marriage2a] (with a second ceremony a year later at Campbeltown 25 Aug 1840[^marriage2b]) to **Margaret Loynachan**, born 24 Aug 1821, South End, Argyll, Scotland, daughter of Neil Loynachan farmer and Margaret Brodie. She died at Dumbarton, 14 Nov 1886.[^loynachan-death]
 
 The 1841 and 1851 census listed him as farmer[^census1841][^census1851], however there after until his death he was  _flesher_ or butcher.[^census1861][^census1871][^census1881][^james-death]
 
