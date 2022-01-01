@@ -4,7 +4,7 @@ familysearch: https://www.familysearch.org/tree/person/details/M1TB-RY9
 ---
 ***Neil Galbraith***, son of *[John Galbreath](/people/galbreath-john-1760.md)* and *Marion McLean*, was baptized at Campbeltown 18 Dec 1788[^birth].  He died 9 Jun 1863.[^death]
 
-He married **Mary McMillian**.
+He married **Mary McMillian**, daughter of John and Agnes McMillian, born about 1785. She died Campbeltown 24 Jan 1866.[^mcmillian-death]
 
 Children of Neil and Mary (McMillian) Galbraith, all baptized in Campbeltown:[^children]
 
@@ -21,6 +21,8 @@ Children of Neil and Mary (McMillian) Galbraith, all baptized in Campbeltown:[^c
 
 [^death]: Civil Records of Campbeltown; 1863 GALBRAITH, NEIL (Statutory registers Deaths 507/ 83); 
   [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/624420).  Very hard to read.
+
+[^mcmillian-death]: Civil Records of Campbeltown; 1866 GALBRAITH, MARY (Statutory registers Deaths 507/ 9); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/956289)
 
 [^children]: OPR Campbeltown, child of Neil Galbreath and Mary McMillan, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=fuzzy&forename_so=starts&from_year=1811&to_year=1829&parent_names_so=exact&parent_name_two=mary%20mcmillan&parent_name_two_so=fuzzy&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&rd_real_name%5B0%5D=CAMPBELTOWN%20%28LANDWARD%29%20OR%20CAMPBELTOWN%20%28BURGH%29%20OR%20CAMPBELTOWN&rd_display_name%5B0%5D=CAMPBELTOWN%20%28LANDWARD%29%7CCAMPBELTOWN%20%28BURGH%29%7CCAMPBELTOWN_CAMPBELTOWN&rd_label%5B0%5D=CAMPBELTOWN&rd_name%5B0%5D=CAMPBELTOWN%20%2ALANDWARD%2A%20OR%20CAMPBELTOWN%20%2ABURGH%2A%20OR%20CAMPBELTOWN&sort=asc&order=Date&field=year)
 
