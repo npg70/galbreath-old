@@ -2,7 +2,9 @@
 title: Census 1841 Campbeltown
 ---
 
-## Census 507/7/15
+
+
+## 507-7-15
 
 (Census 507/ 7/ 15) Page 15 of 23; [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_census/403?image=15)
 
@@ -17,7 +19,7 @@ Bank Street
 | Mary                | 25 |          |
 
 
-## Census 507/8/1
+## 507-8-1
 
  (Census 507/ 8/ 1) Page 1 of 19; [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_census/421?image=1)
  
@@ -25,7 +27,7 @@ Bank Street
 |------|-----|------------|
 | Martha Galbraith | 40 | Lodger |
 
-## Census 507/8/11
+## 507-8-11
 
 (Census 507/ 8/ 11) Page 11 of 19; [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_census/422?image=11)
  
@@ -35,17 +37,34 @@ Bank Street
 | Mirran      | 20 | Lodger |
 | James Galbraith | 2 |     |
 
-## Census 507-28-7
+## 507-10-5
 
-(Census 507/ 28/ 7) Page 7 of 17; [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_census/476?image=7)
-
-Ugadale
+Burnside
 
 | name | age | occupation |
 |------|-----|------------|
-| Archd Galbraith | 30 | Farmer |
-| Margt      | 20 |  |
-| James Galbraith | 5 |     |
+| John Galbraith | 55 |   |
+| Mary           | 25 |   |
+| Elizabeth      | 2m |   |
+
+## 507-11-7
+
+Longrow; [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_census/1030?image=7)
+
+| name | age | occupation |
+|------|-----|------------|
+| Martha Galbraith | 60 | Ind |
+| Mary             | 20 |     |
+
+## 507-13-7
+
+Lochend, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_census/1034?image=7)
+
+| name | age | occupation |
+|------|-----|------------|
+| Jean Galbraith | 55 |   |
+| Peter          | 25 |   |
+| William        | 20 |   |
 
 ## Census 507-16-25
 
@@ -67,12 +86,18 @@ Drumore House
 | Abert   |  6 |  |
 | Henry   |  4 |  |
 
-## 507-13-7
+## Census 507-28-7
 
-Lochend, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_census/1034?image=7)
+(Census 507/ 28/ 7) Page 7 of 17; [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_census/476?image=7)
+
+Ugadale
 
 | name | age | occupation |
 |------|-----|------------|
-| Jean Galbraith | 55 |   |
-| Peter          | 25 |   |
-| William        | 20 |   |
+| Archd Galbraith | 30 | Farmer |
+| Margt      | 20 |  |
+| James Galbraith | 5 |     |
+
+
+
+
