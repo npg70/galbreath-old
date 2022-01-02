@@ -35,3 +35,44 @@ Bank Street
 | Mirran      | 20 | Lodger |
 | James Galbraith | 2 |     |
 
+## Census 507-28-7
+
+(Census 507/ 28/ 7) Page 7 of 17; [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_census/476?image=7)
+
+Ugadale
+
+| name | age | occupation |
+|------|-----|------------|
+| Archd Galbraith | 30 | Farmer |
+| Margt      | 20 |  |
+| James Galbraith | 5 |     |
+
+## Census 507-16-25
+
+(Census 507/ 16/ 25) Page 25 of 31; [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_census/531?image=25)
+
+Drumore House
+
+| name | age | occupation |
+|------|-----|------------|
+| Elizabeth Galbraith | 50 | Wife to D. Galbraith of Mal... |
+| Alex.   | 20 |  |
+| Julia   | 15 |  |
+| Emma    | 14 |  |
+| David   | 12 |  |
+| Octavia | 11 |  |
+| Alfred  | 10 |  |
+| Adelaid |  9 |  |
+| John    |  7 |  |
+| Abert   |  6 |  |
+| Henry   |  4 |  |
+
+## 507-13-7
+
+Lochend, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_census/1034?image=7)
+
+| name | age | occupation |
+|------|-----|------------|
+| Jean Galbraith | 55 |   |
+| Peter          | 25 |   |
+| William        | 20 |   |
