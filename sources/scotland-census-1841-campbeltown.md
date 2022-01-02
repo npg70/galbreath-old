@@ -60,6 +60,8 @@ Longrow; [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_cen
 
 Lochend, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_census/1034?image=7)
 
+Jean Campbell Galbraith is the widow of [William Galbreath](/people/galbreath-william-1780.md).
+
 | name | age | occupation |
 |------|-----|------------|
 | Jean Galbraith | 55 |   |
