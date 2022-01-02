@@ -70,7 +70,7 @@ Children of Archibald and Margaret (Loynachan) Galbreath:[^oprchildren2]
 
 [^eugenia-death]: Civil records of Kilcalmonel, Argyll, Scotland, 1920 WOTHERSPOON, EUGENIA (Statutory registers Deaths 516/ 6), [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/7510900).  List father as a Archibald Galbreath, butcher, deceased and mother as Eugeina Galbraith, M.S. Wynne(?) McCallum.  Unclear if that's two maiden names or what.
 
-[^birth-james]: OPR Campbeltown, record of baptism of [James Galbreath](/opr-campbeltown-births.md#1841-11-07-james-galbreath)
+[^birth-james]: OPR Campbeltown, record of baptism of [James Galbreath](/sources/opr-campbeltown-births.md#1841-11-07-james-galbreath)
 
 [^birth-archibald]: OPR Campbeltown, record of baptism of [Archibald Galbreath](/opr-campbeltown-births.md#1843-08-13-archibald-galbreath)
 
