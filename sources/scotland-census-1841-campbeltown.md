@@ -94,9 +94,9 @@ Ugadale
 
 | name | age | occupation |
 |------|-----|------------|
-| Archd Galbraith | 30 | Farmer |
+| [Archd Galbraith](/people/galbreath-archibald-1803.md) | 30 | Farmer |
 | Margt      | 20 |  |
-| James Galbraith | 5 |     |
+| Martha     | 5 |     |
 
 
 
