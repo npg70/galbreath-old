@@ -12,7 +12,7 @@ Bank Street
 
 | name | age | occupation |
 |------|-----|------------|
-| Archibald Galbraith | 80 | Grazier |
+| [Archibald Galbraith](/people/galbreath-archibald-1760.md) | 80 | Grazier |
 | Jean                | 70 |         |
 | Martha              | 45 |         |
 | William             | 40 | Merchant |
