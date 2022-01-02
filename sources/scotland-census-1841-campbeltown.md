@@ -41,7 +41,7 @@ Bank Street
 
 Burnside
 
-Founder Scotia Distillery, son of Archibald and Jean Corbet, listed [above](5#07-7-15)
+Founder Scotia Distillery, son of Archibald and Jean Corbet, listed [above](#507-7-15)
 
 | name | age | occupation |
 |------|-----|------------|
