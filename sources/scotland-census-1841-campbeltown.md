@@ -41,11 +41,13 @@ Bank Street
 
 Burnside
 
+Founder Scotia Distillery, son of Archibald and Jean Corbet, listed [above](5#07-7-15)
+
 | name | age | occupation |
 |------|-----|------------|
-| John Galbraith | 55 |   |
+| [John Galbraith](/people/galbraith-john-1809.md) | 55 |   |
 | Mary           | 25 |   |
-| Elizabeth      | 2m |   |
+| [Elizabeth](/people/galbraith-elizabeth-1841.md)  | 2m |   |
 
 ## 507-11-7
 
