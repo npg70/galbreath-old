@@ -617,7 +617,7 @@ tbd: Peter Galbraith / Jean Watson, two records
 
 [507/11 299 row 1](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358392?image=299)
 
-> Martha | [Archibald Galbreath](/people/galbreath-archibald-1708.md) and Martha White had a daugt baptized 22nd Febry named Matha
+> Martha | [Archibald Galbreath](/people/galbreath-archibald-1708.md) and Martha White had a daugt baptized 22nd Febry named Martha
 
 ## 1756-03-13 Ann Galbreath
 
