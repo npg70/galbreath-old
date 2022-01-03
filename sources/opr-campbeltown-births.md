@@ -252,7 +252,13 @@ TBD: of [William Galbreath](/people/galbreath-william-1701.md) / Margarte Kilpat
 
 ## 1729-07-00 Archibald Galbreath
 
-TBD: [John Galbreath](/people/galbreath-john-1680.md) / Katharine McCallum, 2 record
+[507/10 135 row 12](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357274?image=135)
+
+> Archibald | [John Galbreath](/people/galbreath-john-1680.md) & Katharine McCallum had a natural [illegible]
+
+[507/11 181 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357285?image=181)
+
+> Archibald | [John Galbreath](/people/galbreath-john-1680.md) & Katharine McCallum had a son baptized July named Archibald.
 
 ## [1729-10-19 Mary Galbreath](/people/galbreath-mary-1729.md)
 
