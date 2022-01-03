@@ -4,6 +4,9 @@ familysearch: https://www.familysearch.org/tree/person/details/LZZ8-6K7
 ---
 **Archibald Galbreath**, son of [*John Galbreath*](galbreath-john-1680.md) and *Mary Mitchell*, born Campeltown, Argyll, Scotland 30 May 1708[^birth] and passed in Campbeltown Sep 1789, buried in Kilchousland Graveyard, Campbeltown.[^death] He married in Campbeltown 1 Apr 1733, **Martha White**,[^marriage] born say 1712.[^martha]
 
+The bpatism records, the marriage records for Archibald and all of his children do not contain any extra biographical or geographic information.  The tombstone as Ardnacross and given he was the eldest son, he likely was in the Kilkeddan area.  The tombstone matches this saying he was from Ardnacross.
+
+
 Children of Archibald and Martha (White) Galbreath, all baptized in Campbeltown:[^children]
 
 1. *John Galbreath*, bp. 3 Mar 1734,[^john1-birth], assumed died in infancy.
