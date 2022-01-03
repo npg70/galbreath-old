@@ -2,7 +2,9 @@
 title: John Galbreath b. 1680 m1 Mary Mitchell
 familysearch: https://www.familysearch.org/tree/person/details/L2PT-L1B
 ---
-**John Galbreath**, son of [*James Galbreath*](galbreath-james-1659.md) and *Mary Nielson*, was born at Kilkeddan, Argyll, Scotland 29 May 1680 and baptized at Campbeltown 30 May 1680.[^birth] His death is not recorded. He married, at first, Campbeltown 16 Mar 1707, **Mary Mitchell**;[^marriage1] and second, at Campbeltown abt. 1728 to **Katherine McCallum**.[^marriage2]
+**John Galbreath**, son of [*James Galbreath*](galbreath-james-1659.md) and *Mary Nielson*, was born at Kilkeddan, Argyll, Scotland 29 May 1680 and baptized at Campbeltown 30 May 1680.[^birth] His death is not recorded. He married, at first, Campbeltown 16 Mar 1707, **Mary Mitchell**;[^marriage1].
+
+After Mary's assumed death, he had a (natural, illegitimate) child with **Katherine McCallum**.[^archibald2-birth]  Any marriage between them is unrecorded.[^marriage2]
 
 The origins of *Mary Mitchell* are not clear.
 
@@ -71,4 +73,4 @@ Child of John and Katharine (McCallum) Galbreath:[^children2]
 
 [^samuel-birth]: OPR Campbeltown, baptism of [Samuel Galbreath](/sources/opr-campbeltown-births.md#1725-08-08-samuel-galbreath)
 
-[^archibald2-birth]: OPR Campbeltown, baptism of [Archibald Galbreath](/sources/opr-campbeltown-births.md#1729-07-00-archibald-galbreath)
+[^archibald2-birth]: OPR Campbeltown, baptism of [Archibald Galbreath](/sources/opr-campbeltown-births.md#1729-07-00-archibald-galbreath).  Two records, but the older one states the child is "natural" (not legitimate).
