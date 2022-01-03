@@ -5,7 +5,7 @@ wikitree: https://www.wikitree.com/wiki/Galbraith-1880
 ---
 **Janet Galbreath**, daughter of [*Archibald Galbreath*](galbreath-archibald-1708.md) and *Margaret White*,[^janet] baptized at Campbeltown, Argyll, Scotland  26 Nov 1752.  She married[^marriage] to **James Armour**, born 28 April 1751, died 1849, son of *William Armour* and [*Mary Galbreath*](galbreath-mary-1729.md).[^james]
 
-Children of James and Janet (Galbreath) Armour, all baptized at Campbeltown:
+Children of James and Janet (Galbreath) Armour, all baptized at Campbeltown:[^children]
 
 1. *Andrew Armour*, bp. 15 Mar 1774
 2. *Martha Armour*, bp. 10 Sep 1775
