@@ -8,10 +8,11 @@ Married 4 Apr 1851 Islandmagee/Larne, Ireland[^marriage] to **Maria McMurtry**.
 
 Children of William and Maria (McMurtry) Galbreath:[^children]
 
-1. *William Galbraith*, b. 20 Aug 1866[^william-birth]
-2. *Thomas McMurchy Galbraith*, b. 23 Apr 1869[^thomas-birth]
-3. *David Galbraith*, b. 18 Aug 1871
-4. *Maria Galbraith*, b. 11 Apr 1874 [^m2]
+1. *Helen Wallace Galbraith*, b. 9 April 1864 
+2. *William Galbraith*, b. 20 Aug 1866[^william-birth]
+3. *Thomas McMurchy Galbraith*, b. 23 Apr 1869[^thomas-birth]
+4. *David Galbraith*, b. 18 Aug 1871
+5. *Maria Galbraith*, b. 11 Apr 1874 [^m2]
 
 [^birth]: OPR Campbeltown, baptsim of [William Galbreath](/sources/opr-campbeltown-births.md#1833-10-02-william-galbreath)
 
