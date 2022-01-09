@@ -11,7 +11,6 @@ Children of William and Maria (McMurtry) Galbreath:[^children]
 1. *William Galbraith*, b. 20 Aug 1866[^william-birth]
 2. *Thomas McMurchy Galbraith*, b. 23 Apr 1869[^thomas-birth]
 3. *Maria Galbraith*, b. 11 Apr 1874 [^m2]
-4. *Thomas Galbraith*, TBD (listed in death of william)
 
 [^birth]: OPR Campbeltown, baptsim of [William Galbreath](/sources/opr-campbeltown-births.md#1833-10-02-william-galbreath)
 
