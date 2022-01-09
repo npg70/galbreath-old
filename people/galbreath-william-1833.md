@@ -8,8 +8,9 @@ Married 4 Apr 1851 Larne, Ireland[^marriage] to **Maria McMurtry**.
 
 Children of William and Maria (McMurtry) Galbreath:[^children]
 
-1. *Maria Galbraith*, b. 11 Apr 1874 [^m2]
-2. *Thomas Galbraith*, TBD (listed in death of william)
+1. *William Galbraith*, [^william-birth]
+3. *Maria Galbraith*, b. 11 Apr 1874 [^m2]
+4. *Thomas Galbraith*, TBD (listed in death of william)
 
 [^birth]: OPR Campbeltown, baptsim of [William Galbreath](/sources/opr-campbeltown-births.md#1833-10-02-william-galbreath)
 
@@ -21,5 +22,7 @@ https://www.familysearch.org/ark:/61903/1:1:FGX1-QBP?from=lynx1UIV8&treeref=K84P
 Larne, Ireland is almost exactly straight south from Campbeltown across the sea. (Google Maps: https://goo.gl/maps/7TCf3CzZ54MxdBq17)
 
 [^children]: TBD. These are now civil records.
+
+[^william-birth]: Statuatory Records of Campbeltown, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/39963936)
 
 [^m2]: Birth of Maria Galbraith in Civil Registers of Campbeltown, Argyll as trasnscribed at [MyAinsFolk](https://www.myainfolk.ca/records/5060)
