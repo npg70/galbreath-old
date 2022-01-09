@@ -8,7 +8,7 @@ Married 4 Apr 1851 Larne, Ireland[^marriage] to **Maria McMurtry**.
 
 Children of William and Maria (McMurtry) Galbreath:[^children]
 
-1. *William Galbraith*, [^william-birth]
+1. *William Galbraith*, b. 20 Aug 1866[^william-birth]
 3. *Maria Galbraith*, b. 11 Apr 1874 [^m2]
 4. *Thomas Galbraith*, TBD (listed in death of william)
 
