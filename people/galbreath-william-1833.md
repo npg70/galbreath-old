@@ -13,6 +13,7 @@ Children of William and Maria (McMurtry) Galbreath:[^children]
 3. *Thomas McMurchy Galbraith*, b. 23 Apr 1869[^thomas-birth]
 4. *David Galbraith*, b. 18 Aug 1871
 5. *Maria Galbraith*, b. 11 Apr 1874 [^m2]
+6. *Janet McMurchy Galbraith*, b. 21 Nov 1879[^janet-birth]
 
 [^birth]: OPR Campbeltown, baptsim of [William Galbreath](/sources/opr-campbeltown-births.md#1833-10-02-william-galbreath)
 
@@ -30,3 +31,5 @@ Larne, Ireland is almost exactly straight south from Campbeltown across the sea.
 [^thomas-birth]: Statuatory Records of Campbeltown; 1869 GALBRAITH, THOMAS MCMURCHY (Statutory registers Births 507/ 78); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/40319428)
 
 [^m2]: Birth of Maria Galbraith in Civil Registers of Campbeltown, Argyll as trasnscribed at [MyAinsFolk](https://www.myainfolk.ca/records/5060)
+
+[^janet-birth]: Statuatory records of Campbeltown; 1879 GALBRAITH, JANET MCMURCHY (Statutory registers Births 507/ 320); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/41761022)
