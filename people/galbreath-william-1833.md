@@ -23,6 +23,6 @@ Larne, Ireland is almost exactly straight south from Campbeltown across the sea.
 
 [^children]: TBD. These are now civil records.
 
-[^william-birth]: Statuatory Records of Campbeltown, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/39963936)
+[^william-birth]: Statuatory Records of Campbeltown; 1866 GALBRAITH, WILLIAM (Statutory registers Births 507/ 166); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/39963936)
 
 [^m2]: Birth of Maria Galbraith in Civil Registers of Campbeltown, Argyll as trasnscribed at [MyAinsFolk](https://www.myainfolk.ca/records/5060)
