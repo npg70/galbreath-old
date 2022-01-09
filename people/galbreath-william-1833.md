@@ -13,7 +13,7 @@ Children of William and Maria (McMurtry) Galbreath:[^children]
 3. *Thomas McMurchy Galbraith*, b. 23 Apr 1869[^thomas-birth]
 4. *David Galbraith*, b. 18 Aug 1871
 5. *Maria Galbraith*, b. 11 Apr 1874 [^m2]
-6. *Janet McMurchy Galbraith*, b. 21 Nov 1879[^janet-birth]
+6. *Janet McMurchy Galbraith*, b. 21 Nov 1879[^janet-birth], m. *John Alexander Bryce*
 
 [^birth]: OPR Campbeltown, baptsim of [William Galbreath](/sources/opr-campbeltown-births.md#1833-10-02-william-galbreath)
 
