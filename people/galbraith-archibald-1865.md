@@ -8,11 +8,11 @@ and died 29 Nov 1949, and buried at Kilkerran Graveyard.[^burial]
 He married at Greenock on 15 Jul 1809[^marriage] to **Margaret Robertson**, died 22 Apr 1950.[^burial]
 
 
-Notes on parents: Married 1858 in Campbeltown: https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/1855646?return_row=0, "donald" age 25,"seaman",  isabella age 19. parents are hard to read but "Archd Galbraith" and "Mary McNeill" (deceased)
+Notes on parents: Married 1858 in Campbeltown: https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/1855646?return_row=0, "donald" age 25 ~1833,"seaman",   parents are hard to read but "Archd Galbraith" and "Mary McNeill" (deceased).  isabella age 19 ~ 1839/1840
 
 Isabella listed in 1861 with children and sister (without Daniel "master marnier").  https://www.findmypast.com/transcript?id=GBC%2F1861%2F0022164831
 
-1871 with whole family: https://www.findmypast.com/transcript?id=GBC/1871/0023444161&expand=true  as "Daniel", 1833
+1871 with whole family: https://www.findmypast.com/transcript?id=GBC/1871/0023444161&expand=true  as "Daniel", 1833.  Isabella in campbelotwn born about 1840
 
 
 [^birth]: Statuatory Records of Campbeltown, Argyll; 1865 GALBRAITH, ARCHIBALD (Statutory registers Births 507/ 143); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/39836164).
