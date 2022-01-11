@@ -12,6 +12,7 @@ Notes on parents: Married 1858 in Campbeltown: https://www.scotlandspeople.gov.u
 
 Maybe Donald's siblings on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbr&surname_so=starts&forename_so=starts&from_year=1820&to_year=1840&parent_names=archibald%20galbr&parent_names_so=starts&parent_name_two=mclean&parent_name_two_so=fuzzy&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches), and Donald on [FamilySearch](https://www.familysearch.org/tree/person/details/M1YG-MVW)
 
+Daneil's death 19 Aug 1901... age 70 (~1831). seaman, merchant service, widower of Isabella McDermid.  parents Archibald G and Annie McLean.  Son peter present.  https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/5352804?return_row=0
 
 
 Isabella listed in 1861 with children and sister (without Daniel "master marnier").  https://www.findmypast.com/transcript?id=GBC%2F1861%2F0022164831
