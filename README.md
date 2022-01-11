@@ -79,3 +79,7 @@ It's unclear where [Archibald Galbreath](/people/galbreath-archibald-1775.md) ca
 ## David Galbreath b. 1819 / Catherine McKinnon
 
 [David Galbreath](/people/galbreath-david-1819.md) of unknown origin,married Catherine McKinnon.  Both sons died early and unmarried.  The two daughters are TBD.
+
+## Archibald Galbraith b. 1865 / Margaret Robertson
+
+Found this by accident, [Archibald Galbraith](/people/galbraith-archibald-1865.md) buried at Kilkerran graveyard.
