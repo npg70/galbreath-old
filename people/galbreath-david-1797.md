@@ -9,7 +9,7 @@ As a "laborer", he married 5 Oct 1824 to **Janet Mitchell**.[^marriage]  Later i
 Children of David and Janet (Galbreath) Mitchell, all baptised Campbeltown:[^children]
 
 1. *[Archibald Galbraith](galbraith-archibald-1825.md)*, bp 10 Jul 1825,[^birth-archibald] m1. *Mary Paterson*, m2. *Margaret Galbreath*
-2. *Samuel Galbreath*, bp. 14 Jan 1827[^samuel-birth], d. 17 Oct 1860[^samuel-death]
+2. *[Samuel Galbreath](galbraith-samuel-1827.md)*, bp. 14 Jan 1827[^samuel-birth], d. 17 Oct 1860[^samuel-death]
 3. *Agnes Galbreath*, bp. 3 Aug 1828[^agnes-birth], m. 24/04/1849 *John Carmichael*[^agnes-marriage]
 4. *Janet Galbreath*, bp. 6 May 1830[^janet-birth]
 5. *David Galbreath*, bp. 29 Jul 1832,[^david1-birth] assumed died in early childhood
