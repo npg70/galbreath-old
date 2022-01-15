@@ -94,7 +94,9 @@ Janet "Jessie" Coville is the daughter of John Coville Jr and [Jean Galbraith](/
 
 > In 1867... Miss Minnie Galbraith, daughter of Andrew Galbraith...
 
-"Minnie" is likely Willamina, b. 7 Jun 1838, daughter of [Andrew Galbraith](/people/galbraith-andrew-1799.md), b. 1799, Lord Provost of Glasgow.
+"Minnie" is  Willamina, b. 7 Jun 1838, daughter of [Andrew Galbraith](/people/galbraith-andrew-1799.md), b. 1799, Lord Provost of Glasgow.
+
+See https://www.newspapers.com/image/393172765/?terms=galbraith%20campbeltown&match=1
    
 ## Page 125
 
