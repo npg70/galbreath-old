@@ -116,7 +116,16 @@ TBD -- widow of McVicar, age 65, not from Campbeltown
 | [William Galbraith](/people/galbraith-william-1815.md) | Head    | 32   | Mason      | Campbeltown |
 | Grace Galbraith   | Wife    | 29   |            | Campbeltown |
 | William Galbraith | Son     |  5   |            | Campbeltown |
-| Agnes Galbraith   | Dau     |  3   |            | Campbeltown |
+| Agnes Galbraith   | Dau](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3016133?image=2)|  3   |            | Campbeltown |
+
+
+[1851 GALBRAITH, JEAN (Census 507/ 9/ 2) Page 2 of 30](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3016133?image=2)
+
+| Name             | Relation | Age  | Occupation | Birthplace |
+|------------------|----------|------|------------|------------|
+| Jean Galbraith   | Head     | 50   | Washerwoman | Campbeltown |
+| Ann Galbraith    | Sister   | 47   | Daymaker?   | Campbeltown |
+
 
 [1851 GILBRAITH, JANET (Census 507/ 9/ 15) Page 15 of 30](https://www.scotlandspeople.gov.uk/view-image/nrs_census/6976185?image=15)
 
