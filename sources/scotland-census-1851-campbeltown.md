@@ -59,4 +59,21 @@ title: Scotland Census 1851 Campbeltown
 | William Galbraith | Son     |  5   |            | Campbeltown |
 | Agnes Galbraith   | Dau     |  3   |            | Campbeltown |
 
+[1851 GILBRAITH, JANET (Census 507/ 9/ 15) Page 15 of 30](https://www.scotlandspeople.gov.uk/view-image/nrs_census/6976185?image=15)
 
+| Name             | Relation | Age  | Occupation | Birthplace |
+|------------------|----------|------|------------|------------|
+| Janet Galbraith  | Head     | 75   | Housekeeper   |  Campbeltown |
+
+Others, can't figure out, janet is un married.
+
+[1851 GALBRAITH, JANE (Census 507/ 9/ 15) Page 15 of 30](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3016140?image=15)
+
+| Name             | Relation | Age  | Occupation | Birthplace |
+|------------------|----------|------|------------|------------|
+| Jane Galbraith   | Head     | 80   | Annuitant  | Campbeltown |
+| Martha           | Dau      | 59   | Annuitant  | Campbeltown |
+| ?                | Son      | 50   | Merchant   | Campbeltown |
+| Mary Galbraith   | Dau      | 37   | Annuitant  | Campbeltown |
+
+May be others on next page
