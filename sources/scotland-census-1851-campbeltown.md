@@ -2,6 +2,25 @@
 title: Scotland Census 1851 Campbeltown
 ---
 
+
+[1851 GALBRAITH, NEIL (Census 507/ 2/ 25) Page 25 of 29](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015943?image=25)
+
+| Name             | Relation | Age | Occupation | Birthplace |
+|------------------|----------|------|------------|--------------|
+| Neil Galbraith   | Head     | 40   | Weaver     | Gigha        |
+| Betsy Blue       | Wife     | 38   |            | Campbeltown  |
+| Dugald Galbraith | Son      | 6    |            | Campbeltown  |
+| Isabella Galbraith | Dau    | 8    |            | Campbeltown  |
+
+[1851 GALBRAITH, ISABELLA (Census 507/ 2/ 25) Page 25 of 29](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015929?image=25)
+
+| Name             | Relation | Age | Occupation | Birthplace |
+|------------------|----------|------|------------|------------|
+| Isabella Galbraith | Head  | 73 |  |            | Gigha      |
+| Mary Smith         | Dau   | 54    |            | Gigha      |
+
+Other children and grandchildren listed.
+
 [1851 GALBRAITH, MARGRET (Census 507/ 3/ 18) Page 18 of 31](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015085?image=18)
 
 | Name             | Relation | Age | Occupation | Birthplace |
