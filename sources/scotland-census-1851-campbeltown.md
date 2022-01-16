@@ -2,6 +2,18 @@
 title: Scotland Census 1851 Campbeltown
 ---
 
+[1851 GALBRAITH, MARGRET (Census 507/ 3/ 18) Page 18 of 31](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015085?image=18)
+
+| Name             | Relation | Age | Occupation | Birthplace |
+|------------------|----------|------|------------|------------|
+| Archibald        | Head     | 46   | Flesher?   | Campbeltown |
+| Margaret         | Wife     | 30   |            | Campbeltown |
+| Martha           | Dau      | 14   |            | Campbeltown |
+| James            | Son      |  9   | Scholar    | Campbeltown |
+| Archibald        | Son      |  7   | Scholar    | Campbeltown |
+| Neil             | Son      |  5   | Scholar    | Campbeltown |
+| Samuel           | Son      | 5m   |            | Campbeltown |
+
 
 [1851 CALBRAITH, DUNCAN (Census 507/ 7/ 29) Page 29 of 32](https://www.scotlandspeople.gov.uk/view-image/nrs_census/7175574?image=29)
 
