@@ -2,6 +2,30 @@
 title: Scotland Census 1851 Campbeltown
 ---
 
+[1851 GALBRAITH, DONALD (Census 507/ 2/ 19) Page 19 of 29](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015930?image=19)
+
+
+| Name             | Relation | Age | Occupation | Birthplace |
+|------------------|----------|------|------------|--------------|
+| Donald Galbraith | Head     | 59   | Carter     | Killean      |
+| Agnes Galbraith  | Head     | 57   |            | Killean      |
+| Christina Galbraith | Dau   | 26   |            | Killean      |
+| Alexander Galbraith | Son   | 22   | Sailor     | Killean      |
+| Eliza Galbraith     | Dau   | 14   |            | Killean      |
+| Christina Galbraith | Niece |  7   |            | Campbeltown  |
+
+
+[1851 GALBRAITH, ARCHIBALD (Census 507/ 2/ 19) Page 19 of 29](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015947?image=19)
+continues on next page
+
+| Name             | Relation | Age | Occupation | Birthplace |
+|------------------|----------|------|------------|--------------|
+| Archibald Galbraith | Head     | 40   | Mason     | Campbeltown      |
+| Ann Henderson       | Wife     | 35[?] |          | Campbeltown      |
+| Neil Galbraith      | Son      | 15 |          | Campbeltown      |
+| Catherine Galbraith | Dau      | 7  |          | Campbeltown      |
+| Archibald Galbraith | Son      | 5  |           | Campbeltown      |
+| Alexander Galbraith | Son      | 3  |           | Campbeltown      |
 
 [1851 GALBRAITH, NEIL (Census 507/ 2/ 25) Page 25 of 29](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015943?image=25)
 
