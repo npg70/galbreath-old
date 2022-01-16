@@ -6,7 +6,7 @@ title: Scotland Census 1851 Campbeltown
 
 | Name             | Relation | Age | Occupation | Birthplace |
 |------------------|----------|------|------------|------------|
-| Archibald        | Head     | 46   | Flesher?   | Campbeltown |
+| [Archibald Galbraith](/people/galbreath-archibald-1803.md)       | Head     | 46   | Flesher?   | Campbeltown |
 | Margaret         | Wife     | 30   |            | Campbeltown |
 | Martha           | Dau      | 14   |            | Campbeltown |
 | James            | Son      |  9   | Scholar    | Campbeltown |
