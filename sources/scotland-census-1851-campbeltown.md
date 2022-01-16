@@ -96,6 +96,20 @@ Other children and grandchildren listed.
 | Archibald          | Son    | 11 |                       | Campbeltown |
 | Angus              | Son    |  9 |                       | Campbeltown |
 
+[1851 GALBRAITH, JOHN (Census 507/ 5/ 2) Page 2 of 46](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015155?image=2)
+
+| Name             | Relation | Age | Occupation | Birthplace |
+|------------------|----------|------|------------|------------|
+
+
+[1851 GALLRAITH, WILLM (Census 507/ 6/ 32) Page 32 of 32](https://www.scotlandspeople.gov.uk/view-image/nrs_census/7219658?image=32)
+
+| Name             | Relation | Age | Occupation | Birthplace |
+|------------------|----------|------|------------|------------|
+| [William Galbraith](/people/galbraith-william-1815.md) | Head    | 32   | Mason      | Campbeltown |
+| Grace Galbraith   | Wife    | 29   |            | Campbeltown |
+| William Galbraith | Son     |  5   |            | Campbeltown |
+| Agnes Galbraith   | Dau     |  3   |            | Campbeltown |
 
 [1851 GALBRAITH, CATHERINE (Census 507/ 15/ 6) Page 6 of 16](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015477?image=6)
 
@@ -125,14 +139,6 @@ TBD -- widow of McVicar, age 65, not from Campbeltown
 | David Galbraith   | Son     | 15   | School Boy | Campbeltown |
 | John Galbraith    | Son     | 8    | School Boy | Campbeltown |
 
-[1851 GALLRAITH, WILLM (Census 507/ 6/ 32) Page 32 of 32](https://www.scotlandspeople.gov.uk/view-image/nrs_census/7219658?image=32)
-
-| Name             | Relation | Age | Occupation | Birthplace |
-|------------------|----------|------|------------|------------|
-| [William Galbraith](/people/galbraith-william-1815.md) | Head    | 32   | Mason      | Campbeltown |
-| Grace Galbraith   | Wife    | 29   |            | Campbeltown |
-| William Galbraith | Son     |  5   |            | Campbeltown |
-| Agnes Galbraith   | Dau](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3016133?image=2)|  3   |            | Campbeltown |
 
 
 [1851 GALBRAITH, JEAN (Census 507/ 9/ 2) Page 2 of 30](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3016133?image=2)
