@@ -15,6 +15,17 @@ title: Scotland Census 1851 Campbeltown
 | Samuel           | Son      | 5m   |            | Campbeltown |
 
 
+[1851 GALBRAITH, ARCHIBALD (Census 507/ 5/ 24) Page 24 of 46](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015141?image=24)
+
+| Name             | Relation | Age | Occupation | Birthplace |
+|------------------|----------|------|------------|------------|
+| Archibald Galbraith | Head  | 47 | Mashman in Distillery | Campbeltown |
+| Barbra Galbraith   | Wife   | 48 |                       | Campbeltown |
+| Alexander          | Son    | 18 |                       | Campbeltown |
+| Margaret           | Son    | 14 |                       | Campbeltown |
+| Archibald          | Son    | 11 |                       | Campbeltown |
+| Angus              | Son    |  9 |                       | Campbeltown |
+
 [1851 CALBRAITH, DUNCAN (Census 507/ 7/ 29) Page 29 of 32](https://www.scotlandspeople.gov.uk/view-image/nrs_census/7175574?image=29)
 
 | Name             | Relation | Age | Occupation | Birthplace |
