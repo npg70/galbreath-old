@@ -45,6 +45,11 @@ Other children and grandchildren listed.
 | Archibald          | Son    | 11 |                       | Campbeltown |
 | Angus              | Son    |  9 |                       | Campbeltown |
 
+
+[1851 GALBRAITH, CATHERINE (Census 507/ 15/ 6) Page 6 of 16](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015477?image=6)
+
+TBD -- widow of McVicar, age 65, not from Campbeltown
+
 [1851 CALBRAITH, DUNCAN (Census 507/ 7/ 29) Page 29 of 32](https://www.scotlandspeople.gov.uk/view-image/nrs_census/7175574?image=29)
 
 | Name             | Relation | Age | Occupation | Birthplace |
