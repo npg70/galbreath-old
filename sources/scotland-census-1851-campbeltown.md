@@ -2,13 +2,20 @@
 title: Scotland Census 1851 Campbeltown
 ---
 
+[1851 GALBRAITH, NEIL (Census 507/ 1/ 6) Page 6 of 37](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3014738?image=6)
+
+| Name             | Relation | Age | Occupation | Birthplace |
+|------------------|----------|------|------------|--------------|
+| Neil Galbraith   | Head     | 50   | Laborer     | Campbeltown      |
+| Mary Galbraith   | Wife     | 45   |            | Derry, Ireland      |
+
 [1851 GALBRAITH, DONALD (Census 507/ 2/ 19) Page 19 of 29](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015930?image=19)
 
 
 | Name             | Relation | Age | Occupation | Birthplace |
 |------------------|----------|------|------------|--------------|
 | Donald Galbraith | Head     | 59   | Carter     | Killean      |
-| Agnes Galbraith  | Head     | 57   |            | Killean      |
+| Agnes Galbraith  | Wife     | 57   |            | Killean      |
 | Christina Galbraith | Dau   | 26   |            | Killean      |
 | Alexander Galbraith | Son   | 22   | Sailor     | Killean      |
 | Eliza Galbraith     | Dau   | 14   |            | Killean      |
