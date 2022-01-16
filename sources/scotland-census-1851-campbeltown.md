@@ -45,6 +45,17 @@ continues on next page
 
 Other children and grandchildren listed.
 
+[1851 GALBRAITH, ROBERT L (Census 507/ 2/ 29) Page 29 of 29](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015945?image=29)
+
+| Name             | Relation | Age | Occupation | Birthplace |
+|------------------|----------|------|------------|------------|
+| Elizabeth Fraser | Head     | 47   | Wife of D. S. Galbraith, landed proprietor | London, England |
+| Alfred S Galbraith | Son    | 19   |            | Campbeltown |
+| Robert L Galbraith | Son    | 15   |  Scholar   | Saddell     |
+| Henry L Galbraith  | Son    | 13   |  Scholar   | Campbeltown |
+| Margaret Russell | Servant  | 30   | Cook |  Edinburgh | 
+| Helen Blue       | Servant  | 17   | House Servant | Campbeltown |
+
 [1851 GALBRAITH, MARGRET (Census 507/ 3/ 18) Page 18 of 31](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015085?image=18)
 
 | Name             | Relation | Age | Occupation | Birthplace |
