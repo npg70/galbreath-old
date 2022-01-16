@@ -27,3 +27,13 @@ title: Scotland Census 1851 Campbeltown
 | David Galbraith   | Son     | 15   | School Boy | Campbeltown |
 | John Galbraith    | Son     | 8    | School Boy | Campbeltown |
 
+[1851 GALLRAITH, WILLM (Census 507/ 6/ 32) Page 32 of 32](https://www.scotlandspeople.gov.uk/view-image/nrs_census/7219658?image=32)
+
+| Name             | Relation | Age | Occupation | Birthplace |
+|------------------|----------|------|------------|------------|
+| [William Galbraith](/people/galbraith-william-1815.md) | Head    | 32   | Mason      | Campbeltown |
+| Grace Galbraith   | Wife    | 29   |            | Campbeltown |
+| William Galbraith | Son     |  5   |            | Campbeltown |
+| Agnes Galbraith   | Dau     |  3   |            | Campbeltown |
+
+
