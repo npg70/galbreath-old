@@ -101,3 +101,20 @@ Others, can't figure out, janet is un married.
 | Mary Galbraith   | Dau      | 37   | Annuitant  | Campbeltown |
 
 May be others on next page
+
+
+[1851 GALBRAITH, MARY (Census 507/ 17/ 13) Page 13 of 17](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015599?image=13)
+
+| Name             | Relation | Age  | Occupation | Birthplace |
+|------------------|----------|------|------------|------------|
+| Neil Galbraith   | Head     | 62   | Farmer, 150 acres, 8 ?, 2 laborers | Maybe Campbeltown, Maybe something else that starts with A |
+| Mary Galbraith   | Wife     | 63   | Farmer's Wife | Campbeltown |
+| Janet Galbraith  | Dau      | 24   | Farmer's daughter (employed at farm) | Campbeltown |
+| Neil Galbraith   | Son      | 22   | Farmer's son (employed at farm)      | Campbeltown |
+| Janet Malloy     | Grandchild | 4  | Farmer's grandchild                  | Campbeltown |
+| Edward Galbraith | Grandchild | 11 | Scholar                              | Campbeltown |
+| Arch. Galbraith  | Grandchild (visitor) |  14 | Clerk at Steamboat (office at Glasgow) | Campbeltown |
+| Arch. Gilchrist  | Servant   | 14  | Cowherd                              | Laurant[?], Glasgow |
+| Elizabeth Boyles | Servant   | 16  | Domestic Servant | Campbeltown |
+
+
