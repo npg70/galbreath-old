@@ -67,8 +67,8 @@ Jean Campbell Galbraith is the widow of [William Galbreath](/people/galbreath-wi
 | name | age | occupation |
 |------|-----|------------|
 | Jean Galbraith | 55 |   |
-| Peter          | 25 |   |
-| William        | 20 |   |
+| [Peter](/people/galbraith-peter-1811.md)            | 25 |   |
+| [William](/people/galbraith-william-1815.md)        | 20 |   |
 
 ## Census 507-16-25
 
