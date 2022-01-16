@@ -75,6 +75,15 @@ Other children and grandchildren listed.
 | Neil             | Son      |  5   | Scholar    | Campbeltown |
 | Samuel           | Son      | 5m   |            | Campbeltown |
 
+[1851 GALBRAITH, PETER (Census 507/ 4/ 11) Page 11 of 32](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015992?image=11)
+
+| Name             | Relation | Age | Occupation | Birthplace |
+|------------------|----------|------|------------|------------|
+| Peter Galbraith     | Head | 38 | Distilery  Malster | Campbeltown |
+| Sarra Galbraith     | Wife | 37 |         | Campbeltown |
+| William Galbraith   | Son  |  6 | Scholar | Campbeltown |
+| Archibald Galbraith | Son  |  4 |         | Campbeltown |
+| Jean Galbraith      | Dau  |  1 |                | Campbeltown |
 
 [1851 GALBRAITH, ARCHIBALD (Census 507/ 5/ 24) Page 24 of 46](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015141?image=24)
 
