@@ -20,10 +20,10 @@ title: Scotland Census 1851 Campbeltown
 
 | Name             | Relation | Age | Occupation | Birthplace |
 |------------------|----------|------|------------|------------|
-| Janet Galbraith  | [Head?]  | 48   | Wife of D. Galbraith, fisherman | Campbeltown |
-| A Galbraith      | Son      | 25   | Fisherman | Campbeltown |
-| Samuel Galbraith | Son      | 23   | Fisherman | Campbeltown |
-| William Galbraith | Son     | 17   | Fisherman | Campbeltown |
+| Janet Galbraith  | [Head?]  | 48   | Wife of [D. Galbraith](/people/galbreath-david-1797.md), fisherman | Campbeltown |
+| [A Galbraith](/people/galbraith-archibald-1825.md)      | Son      | 25   | Fisherman | Campbeltown |
+| [Samuel Galbraith](/people/galbraith-samuel-1827.md) | Son      | 23   | Fisherman | Campbeltown |
+| [William Galbraith](/people/galbreath-william-1833.md) | Son     | 17   | Fisherman | Campbeltown |
 | David Galbraith   | Son     | 15   | School Boy | Campbeltown |
 | John Galbraith    | Son     | 8    | School Boy | Campbeltown |
 
