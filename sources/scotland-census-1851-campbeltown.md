@@ -113,7 +113,7 @@ Next door to Templetons and Colvilles on Long Row St.
 
 | Name             | Relation | Age  | Occupation | Birthplace |
 |------------------|----------|------|------------|------------|
-| John Galbraith   | Head     | 41   | Merchant / Distiller | Campbeltown |
+| [John Galbraith](people/galbraith-john-1809.md)   | Head     | 41   | Merchant / Distiller | Campbeltown |
 | Mary Galbraith   | Wife     | 32    | Merchant's Wife      | Campbeltown |
 | Elizabeth Galbraith | Dau   | 9     | Merchant's Daughter  | Campbeltown |
 | Archibald            | Son  | 5     | Merchant's Son       | Campbeltown |
