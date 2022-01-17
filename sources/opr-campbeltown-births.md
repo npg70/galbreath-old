@@ -1388,10 +1388,6 @@ TBD: [Archibald Galbreath](/people/galbreath-archibald-1760.md) / Jean Corbet
 > Archibald | Lawful Son to [James Galbreath](/people/galbreath-james-abt-1775.md) Tenant in Skerbolin and 
 > Martha Galbreath Born 8th Baptized 11th September 1803 Named Archibald
 
-## 1803-09-11 Archibald Galbreath
-
-TBD: JAMES GALBREATH/MARTHA GALBREATH
-
 ## 1804-02-02 Donald Galbreath
 
 TBD: NEILL GALBREATH/FLORY PATTERSON 
