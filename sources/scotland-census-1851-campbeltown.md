@@ -77,20 +77,30 @@ Other children and grandchildren listed.
 
 [1851 GALBRAITH, PETER (Census 507/ 4/ 11) Page 11 of 32](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015992?image=11)
 
-| Name             | Relation | Age | Occupation | Birthplace |
+| Name             | Relation | Age  | Occupation | Birthplace |
 |------------------|----------|------|------------|------------|
 | Peter Galbraith     | Head | 38 | Distilery  Malster | Campbeltown |
-| Sarra Galbraith     | Wife | 37 |         | Campbeltown |
-| William Galbraith   | Son  |  6 | Scholar | Campbeltown |
-| Archibald Galbraith | Son  |  4 |         | Campbeltown |
-| Jean Galbraith      | Dau  |  1 |                | Campbeltown |
+| Sarra Galbraith     | Wife | 37 |                    | Campbeltown |
+| William Galbraith   | Son  |  6 | Scholar            | Campbeltown |
+| Archibald Galbraith | Son  |  4 |                    | Campbeltown |
+| Jean Galbraith      | Dau  |  1 |                    | Campbeltown |
 
+[1851 GALBRAITH, JOHN (Census 507/ 4/ 14) Page 14 of 32](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015990?image=14)
+
+| Name             | Relation | Age  | Occupation | Birthplace |
+|------------------|----------|------|------------|------------|
+| John Galbraith   | Head     | 40   | Stillman   | Campbeltown |
+| Jannet Galbraith | Wife     | 31   |            | Campbeltown |
+| Jane Galbraith   | Dau      | 11   | Scholar    | Campbeltown |
+| John Galbraith   | Son      | 8    | Scholar    | Campbeltown |
+| Janet Galbraith  | Dau      | 4    |            | Campbeltown |
+| Isabella Galbraith | Dau    | 1    |            | Campbeltown |
 
 [1851 GALBRAITH, JOHN (Census 507/ 5/ 2) Page 2 of 46](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015155?image=2)
 
 Next door to Templetons and Colvilles on Long Row St.
 
-| Name             | Relation | Age | Occupation | Birthplace |
+| Name             | Relation | Age  | Occupation | Birthplace |
 |------------------|----------|------|------------|------------|
 | John Galbraith   | Head     | 41   | Merchant / Distiller | Campbeltown |
 | Mary Galbraith   | Wife     | 32    | Merchant's Wife      | Campbeltown |
@@ -102,7 +112,7 @@ Next door to Templetons and Colvilles on Long Row St.
 
 [1851 GALBRAITH, ARCHIBALD (Census 507/ 5/ 24) Page 24 of 46](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015141?image=24)
 
-| Name             | Relation | Age | Occupation | Birthplace |
+| Name             | Relation | Age  | Occupation | Birthplace |
 |------------------|----------|------|------------|------------|
 | Archibald Galbraith | Head  | 47 | Mashman in Distillery | Campbeltown |
 | Barbra Galbraith   | Wife   | 48 |                       | Campbeltown |
@@ -114,7 +124,7 @@ Next door to Templetons and Colvilles on Long Row St.
 
 [1851 GALBRAITH, MARY (Census 507/ 5/ 32) Page 32 of 46](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015156?image=32)
 
-| Name             | Relation | Age | Occupation | Birthplace |
+| Name             | Relation | Age  | Occupation | Birthplace |
 |------------------|----------|------|------------|------------|
 | Mary Galbraith   | Head     | 48   | Laundry    | Kilconel?   |
 | David Galbraith   | Son     | 19   | Apprentice Painter | same |
