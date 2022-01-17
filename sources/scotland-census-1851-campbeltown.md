@@ -125,7 +125,7 @@ Next door to Templetons and Colvilles on Long Row St.
 
 | Name             | Relation | Age  | Occupation | Birthplace |
 |------------------|----------|------|------------|------------|
-| Archibald Galbraith | Head  | 47 | Mashman in Distillery | Campbeltown |
+| [Archibald Galbraith](/people/galbraith-archibald-1800.md) | Head  | 47 | Mashman in Distillery | Campbeltown |
 | Barbra Galbraith   | Wife   | 48 |                       | Campbeltown |
 | Alexander          | Son    | 18 |                       | Campbeltown |
 | Margaret           | Son    | 14 |                       | Campbeltown |
