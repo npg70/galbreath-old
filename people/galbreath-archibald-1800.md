@@ -21,6 +21,9 @@ Children of Archibald and Agnes (Henderson) Galbreath:
 1. *Neill Galbreath*, bp. 28 Nov 1833
 2. *Margaret Galbreath*, bp 23 Mar 1837
 3. *John Galbreath*, bp. 16 May 1839
+4. *Catherine Galbraith*, b. 1844
+5. *Archibald Galbraith*, b. 1846
+6. *Alexander Galbraith*, b. 1848
 
 [^birth]: OPR Campbeltown, baptism of [Archibald Galbreath](/sources/opr-campbeltown-births.md#1803-09-11-archibald-galbreath-1)  TBD CHECK DATE
 
