@@ -79,7 +79,7 @@ Other children and grandchildren listed.
 
 | Name             | Relation | Age  | Occupation | Birthplace |
 |------------------|----------|------|------------|------------|
-| John Galbraith   | Head     | 36   | Malster    | Clachan    |
+| [John Galbraith](/people/galbreath-john-1815.md)   | Head     | 36   | Malster    | Clachan    |
 | Mary McTaggart   | Wife     | 35   |            | Campsie? or Campbeltown? |
 | Archibald Galbraith | Son   | 8    | Scholar    | same       |
 | Alexander Galbraith | Son   | 6    | Scholar    | same       |
