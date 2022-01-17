@@ -90,7 +90,7 @@ Other children and grandchildren listed.
 
 | Name             | Relation | Age  | Occupation | Birthplace |
 |------------------|----------|------|------------|------------|
-| Peter Galbraith     | Head | 38 | Distilery  Malster | Campbeltown |
+| [Peter Galbraith](/people/galbraith-peter-1811.md)     | Head | 38 | Distilery  Malster | Campbeltown |
 | Sarra Galbraith     | Wife | 37 |                    | Campbeltown |
 | William Galbraith   | Son  |  6 | Scholar            | Campbeltown |
 | Archibald Galbraith | Son  |  4 |                    | Campbeltown |
