@@ -219,11 +219,13 @@ Others, can't figure out, janet is un married.
 
 [1851 GALBRAITH, JANE (Census 507/ 9/ 15) Page 15 of 30](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3016140?image=15)
 
+Misindexed or transcribed.  "Jane" is actually Jean Corbett, wife of [Archibald Galbreath](/people/galbreath-archibald-1760.md)
+
 | Name             | Relation | Age  | Occupation | Birthplace |
 |------------------|----------|------|------------|------------|
-| Jane Galbraith   | Head     | 80   | Annuitant  | Campbeltown |
-| Martha           | Dau      | 59   | Annuitant  | Campbeltown |
-| ?                | Son      | 50   | Merchant   | Campbeltown |
+| Jean Galbraith   | Head     | 80   | Annuitant  | Campbeltown |
+| Martha Galbraith | Dau      | 59   | Annuitant  | Campbeltown |
+| William Galbraith | Son     | 50   | Merchant   | Campbeltown |
 | Mary Galbraith   | Dau      | 37   | Annuitant  | Campbeltown |
 
 May be others on next page
