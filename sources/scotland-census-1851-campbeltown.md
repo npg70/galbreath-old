@@ -27,7 +27,7 @@ continues on next page
 
 | Name             | Relation | Age | Occupation | Birthplace |
 |------------------|----------|------|------------|--------------|
-| Archibald Galbraith | Head     | 40   | Mason     | Campbeltown      |
+| [Archibald Galbraith](/people/galbreath-archibald-1800.md) | Head     | 40   | Mason     | Campbeltown      |
 | Ann Henderson       | Wife     | 35[?] |          | Campbeltown      |
 | Neil Galbraith      | Son      | 15 |          | Campbeltown      |
 | Catherine Galbraith | Dau      | 7  |          | Campbeltown      |
