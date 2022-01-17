@@ -130,9 +130,27 @@ Next door to Templetons and Colvilles on Long Row St.
 | William Galbraith | Son     |  5   |            | Campbeltown |
 | Agnes Galbraith   | Dau     |  3   |            | Campbeltown |
 
-[1851 GALBRAITH, CATHERINE (Census 507/ 15/ 6) Page 6 of 16](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015477?image=6)
 
-TBD -- widow of McVicar, age 65, not from Campbeltown
+[1851 GALBRATH, JANET (Census 507/ 7/ 7) Page 7 of 32](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3902815?image=7)
+
+| Name             | Relation | Age | Occupation | Birthplace |
+|------------------|----------|------|------------|------------|
+| Janet Galbraith  | [Head?]  | 48   | Wife of [D. Galbraith](/people/galbreath-david-1797.md), fisherman | Campbeltown |
+| [A Galbraith](/people/galbraith-archibald-1825.md)      | Son      | 25   | Fisherman | Campbeltown |
+| [Samuel Galbraith](/people/galbraith-samuel-1827.md) | Son      | 23   | Fisherman | Campbeltown |
+| [William Galbraith](/people/galbreath-william-1833.md) | Son     | 17   | Fisherman | Campbeltown |
+| David Galbraith   | Son     | 15   | School Boy | Campbeltown |
+| John Galbraith    | Son     | 8    | School Boy | Campbeltown |
+
+[1851 GALBRAITH, DAVID (Census 507/ 7/ 21) Page 21 of 32](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015271?image=21)
+
+| Name             | Relation | Age  | Occupation | Birthplace |
+|------------------|----------|------|------------|------------|
+| David Galbraith  | Head     | 40   | Fisher[?]  | Gigha      |
+| Katie Galbraith  | Wife     | 42   |            | Campbeltown |
+| Alexander Galbraith | Son   |  6   |            | Campbeltown |
+
+May be others on next page
 
 [1851 GALBRAITH, NEILL (Census 507/ 7/ 26) Page 26 of 32](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015272?image=26)
 
@@ -159,16 +177,6 @@ TBD -- widow of McVicar, age 65, not from Campbeltown
 | Archibald        | Son      | 3    | Child      | Argyllshire, Gigha |
 
 
-[1851 GALBRATH, JANET (Census 507/ 7/ 7) Page 7 of 32](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3902815?image=7)
-
-| Name             | Relation | Age | Occupation | Birthplace |
-|------------------|----------|------|------------|------------|
-| Janet Galbraith  | [Head?]  | 48   | Wife of [D. Galbraith](/people/galbreath-david-1797.md), fisherman | Campbeltown |
-| [A Galbraith](/people/galbraith-archibald-1825.md)      | Son      | 25   | Fisherman | Campbeltown |
-| [Samuel Galbraith](/people/galbraith-samuel-1827.md) | Son      | 23   | Fisherman | Campbeltown |
-| [William Galbraith](/people/galbreath-william-1833.md) | Son     | 17   | Fisherman | Campbeltown |
-| David Galbraith   | Son     | 15   | School Boy | Campbeltown |
-| John Galbraith    | Son     | 8    | School Boy | Campbeltown |
 
 
 
@@ -199,6 +207,9 @@ Others, can't figure out, janet is un married.
 
 May be others on next page
 
+[1851 GALBRAITH, CATHERINE (Census 507/ 15/ 6) Page 6 of 16](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015477?image=6)
+
+TBD -- widow of McVicar, age 65, not from Campbeltown
 
 [1851 GALBRAITH, MARY (Census 507/ 17/ 13) Page 13 of 17](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015599?image=13)
 
