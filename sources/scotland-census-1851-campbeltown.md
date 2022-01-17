@@ -85,6 +85,21 @@ Other children and grandchildren listed.
 | Archibald Galbraith | Son  |  4 |         | Campbeltown |
 | Jean Galbraith      | Dau  |  1 |                | Campbeltown |
 
+
+[1851 GALBRAITH, JOHN (Census 507/ 5/ 2) Page 2 of 46](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015155?image=2)
+
+Next door to Templetons and Colvilles on Long Row St.
+
+| Name             | Relation | Age | Occupation | Birthplace |
+|------------------|----------|------|------------|------------|
+| John Galbraith   | Head     | 41   | Merchant / Distiller | Campbeltown |
+| Mary Galbraith   | Wife     | 32    | Merchant's Wife      | Campbeltown |
+| Elizabeth Galbraith | Dau   | 9     | Merchant's Daughter  | Campbeltown |
+| Archibald            | Son  | 5     | Merchant's Son       | Campbeltown |
+| Mary [??]        | Servant  | 22    | House Servant        | [illegible] |
+| Mary McEachine   | Servant  | 16    | House Servant        | Campbeltown |
+
+
 [1851 GALBRAITH, ARCHIBALD (Census 507/ 5/ 24) Page 24 of 46](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015141?image=24)
 
 | Name             | Relation | Age | Occupation | Birthplace |
@@ -96,11 +111,15 @@ Other children and grandchildren listed.
 | Archibald          | Son    | 11 |                       | Campbeltown |
 | Angus              | Son    |  9 |                       | Campbeltown |
 
-[1851 GALBRAITH, JOHN (Census 507/ 5/ 2) Page 2 of 46](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015155?image=2)
+
+[1851 GALBRAITH, MARY (Census 507/ 5/ 32) Page 32 of 46](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015156?image=32)
 
 | Name             | Relation | Age | Occupation | Birthplace |
 |------------------|----------|------|------------|------------|
-
+| Mary Galbraith   | Head     | 48   | Laundry    | Kilconel?   |
+| David Galbraith   | Son     | 19   | Apprentice Painter | same |
+| Willian Galbraith | Son     | 17   | Apprentice Watch & Clock Maker | Same |
+| John Galbraith    | Son     | 15   | Apprentice [???] | Same |
 
 [1851 GALLRAITH, WILLM (Census 507/ 6/ 32) Page 32 of 32](https://www.scotlandspeople.gov.uk/view-image/nrs_census/7219658?image=32)
 
@@ -114,6 +133,18 @@ Other children and grandchildren listed.
 [1851 GALBRAITH, CATHERINE (Census 507/ 15/ 6) Page 6 of 16](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015477?image=6)
 
 TBD -- widow of McVicar, age 65, not from Campbeltown
+
+[1851 GALBRAITH, NEILL (Census 507/ 7/ 26) Page 26 of 32](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015272?image=26)
+
+| Name             | Relation | Age | Occupation | Birthplace |
+|------------------|----------|------|------------|------------|
+| Neill Galbraith  | Head     | 44   | Fisherman  |  Gigha |
+| Flora Galbraith  | Wife     | 44   | Wife of    | Gigha |
+| Mary Galbraith   | Dau      | 12   | Scholar    | Gigha |
+| Malcolm Galbraith | Son     | 10   | Scholar    | Gigha |
+| John Galbraith   |  Son     |  7   | Scholar    | Gigha |
+| Neill Galbraith  |  Son     |  5   | Child      | Gigha |
+| Duncan Galbraith |  Son     |  2   | Young Child | Campbeltown |
 
 [1851 CALBRAITH, DUNCAN (Census 507/ 7/ 29) Page 29 of 32](https://www.scotlandspeople.gov.uk/view-image/nrs_census/7175574?image=29)
 
