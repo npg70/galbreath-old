@@ -65,7 +65,7 @@ Other children and grandchildren listed.
 
 [1851 GALBRAITH, MARGRET (Census 507/ 3/ 18) Page 18 of 31](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015085?image=18)
 
-| Name             | Relation | Age | Occupation | Birthplace |
+| Name             | Relation | Age  | Occupation | Birthplace |
 |------------------|----------|------|------------|------------|
 | [Archibald Galbraith](/people/galbreath-archibald-1803.md)       | Head     | 46   | Farmer? Flesher?   | Campbeltown |
 | Margaret         | Wife     | 30   |            | Campbeltown |
@@ -74,6 +74,17 @@ Other children and grandchildren listed.
 | Archibald        | Son      |  7   | Scholar    | Campbeltown |
 | Neil             | Son      |  5   | Scholar    | Campbeltown |
 | Samuel           | Son      | 5m   |            | Campbeltown |
+
+[1851 GALBRAITH, JOHN (Census 507/ 3/ 23) Page 23 of 31](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015090?image=23)
+
+| Name             | Relation | Age  | Occupation | Birthplace |
+|------------------|----------|------|------------|------------|
+| John Galbraith   | Head     | 36   | Malster    | Clachan    |
+| Mary McTaggart   | Wife     | 35   |            | Campsie? or Campbeltown? |
+| Archibald Galbraith | Son   | 8    | Scholar    | same       |
+| Alexander Galbraith | Son   | 6    | Scholar    | same       |
+| John Galbraith      | Son   | 4    |            | same       |
+| Duncan Galbraith    | Son   | 1    |            | same       |
 
 [1851 GALBRAITH, PETER (Census 507/ 4/ 11) Page 11 of 32](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015992?image=11)
 
