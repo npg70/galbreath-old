@@ -100,7 +100,7 @@ Other children and grandchildren listed.
 
 | Name             | Relation | Age  | Occupation | Birthplace |
 |------------------|----------|------|------------|------------|
-| John Galbraith   | Head     | 40   | Stillman   | Campbeltown |
+| [John Galbraith](/people/galbreath-john-abt-1811.md)   | Head     | 40   | Stillman   | Campbeltown |
 | Jannet Galbraith | Wife     | 31   |            | Campbeltown |
 | Jane Galbraith   | Dau      | 11   | Scholar    | Campbeltown |
 | John Galbraith   | Son      | 8    | Scholar    | Campbeltown |
