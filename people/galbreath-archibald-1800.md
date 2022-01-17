@@ -19,7 +19,7 @@ There are other children according 1851 and 1861 census[^census-1851][^census-18
 Children of Archibald and Agnes (Henderson) Galbreath:[^children]
 
 1. *Neill Galbreath*, bp. 28 Nov 1833[^neil-birth]
-2. *Margaret Galbreath*, bp 23 Mar 1837[^margaret-brith]
+2. *Margaret Galbreath*, bp 23 Mar 1837[^margaret-birth]
 3. *John Galbreath*, bp. 16 May 1839[^john-birth]
 4. *Catherine Galbraith*, b. 1844
 5. *Archibald Galbraith*, b. 1846
