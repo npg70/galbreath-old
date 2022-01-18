@@ -98,9 +98,11 @@ Other children and grandchildren listed.
 
 [1851 GALBRAITH, JOHN (Census 507/ 4/ 14) Page 14 of 32](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015990?image=14)
 
+Note: brother of Peter, above.
+
 | Name             | Relation | Age  | Occupation | Birthplace |
 |------------------|----------|------|------------|------------|
-| [John Galbraith](/people/galbreath-john-abt-1811.md)   | Head     | 40   | Stillman   | Campbeltown |
+| [John Galbraith](/people/galbreath-john-1804.md)   | Head     | 40   | Stillman   | Campbeltown |
 | Jannet Galbraith | Wife     | 31   |            | Campbeltown |
 | Jane Galbraith   | Dau      | 11   | Scholar    | Campbeltown |
 | John Galbraith   | Son      | 8    | Scholar    | Campbeltown |
