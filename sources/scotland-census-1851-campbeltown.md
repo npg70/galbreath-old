@@ -238,9 +238,11 @@ TBD -- widow of McVicar, age 65, not from Campbeltown
 
 [1851 GALBRAITH, MARY (Census 507/ 17/ 13) Page 13 of 17](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015599?image=13)
 
+Household of Neil Galbraith and Mary McMillian
+
 | Name             | Relation | Age  | Occupation | Birthplace |
 |------------------|----------|------|------------|------------|
-| Neil Galbraith   | Head     | 62   | Farmer, 150 acres, 8 ?, 2 laborers | Maybe Campbeltown, Maybe something else that starts with A |
+| [Neil Galbraith](people/galbraith-neil-1788.md)   | Head     | 62   | Farmer, 150 acres, 8 ?, 2 laborers | Maybe Campbeltown, Maybe something else that starts with A |
 | Mary Galbraith   | Wife     | 63   | Farmer's Wife | Campbeltown |
 | Janet Galbraith  | Dau      | 24   | Farmer's daughter (employed at farm) | Campbeltown |
 | Neil Galbraith   | Son      | 22   | Farmer's son (employed at farm)      | Campbeltown |
