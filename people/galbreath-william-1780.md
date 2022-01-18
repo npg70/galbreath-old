@@ -6,7 +6,7 @@ familysearch: https://www.familysearch.org/tree/person/details/KFJY-V29
 
 Children of William and Jean (Campbell) Galbreath, all baptized in Campbeltown:[^children]
 
-1. *[John Galbraith](/people/galbreath-john-1804.md)*, bp. 13 May 1804[^john-birth]
+1. *[John Galbraith](/people/galbraith-john-1804.md)*, bp. 13 May 1804[^john-birth]
 2. *[Isobell Galbraith](galbraith-isabella-1808.md)*, bp. 12 Dec 1808,[^isobell-birth] m. *James Patterson*
 3. *[Peter Galbraith](galbraith-peter-1811.md)*, bp. 31 May 1811,[^peter-birth] m. *Sarah Armour*
 4. *Robert Galbraith*, bp. 31 May 1811[^robert-birth]
