@@ -1392,7 +1392,7 @@ TBD: [Archibald Galbreath](/people/galbreath-archibald-1760.md) / Jean Corbet
 
 TBD: NEILL GALBREATH/FLORY PATTERSON 
 
-## 1804-05-13 John Galbraith
+## [1804-05-13 John Galbraith](/people/galbraith-john-1804.md)
 
 [507/40 262](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358471?image=262)
 
@@ -1952,7 +1952,7 @@ THREE RECORDS GALBREATH (2) / GALBRAITH (1)
 
 [507/70 163 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358117?image=163)
 
-> Jane | Lawful daughter of John Galbreath workman and Janet Watson
+> Jane | Lawful daughter of [John Galbreath](/people/galbraith-john-1804.md) workman and Janet Watson
 > was born the sixth and Baptized 22 Dec 1839
 
 Note: right above on same page is the same day baptism of Jane Patterson, daughter of James Patterson and Isabella Galbreath
@@ -2018,7 +2018,7 @@ John | Lawful son of [David Galbreath](/people/galbreath-david-1797.md) Sawyer a
 
 [507/70 226 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357656?image=226)
 
-> John | Lawful son of John Galbreath workman and Janet Watson
+> John | Lawful son of [John Galbreath](/people/galbraith-john-1804.md) workman and Janet Watson
 > was born third and Baptized twentysixth September 1842
 
 ## 1843-05-29 Isabella Galbreath
@@ -2075,7 +2075,7 @@ TBD: ARCHIBALD GALBREATH/ANN MCFARLANE
 
 [507/70 284 row 3](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358146?image=284)
 
-> Janet | Lawful daughter of John Galbreath workman and Janet Watson
+> Janet | Lawful daughter of [John Galbreath](/people/galbraith-john-1804.md) workman and Janet Watson
 > was born 26th April and Baptized 25th May 1845
 
 ## 1845-06-15 Neill Galbreath
@@ -2139,7 +2139,7 @@ TBD: [JOHN GALBREATH](/people/galbreath-john-1815.md)/MARY MCTAGGART
 
 [507/70 329 row 4](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358145?image=329)
 
-> Janet | Lawful daughter of John Galbreath workman and Janet Watson
+> Janet | Lawful daughter of [John Galbreath](/people/galbraith-john-1804.md) workman and Janet Watson
 > born 13th ??? Baptized 19th December 1847
 
 ## 1847-12-20 Archibald Galbraith
@@ -2217,7 +2217,7 @@ TBD: DONALD GALBRAITH/ISABELLA MCLEAN
 
 [507/70 374 row 9](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358092?image=374)
 
-> Isabella | Lawful daughter of John Galbreath distillery workman and Janet Watson
+> Isabella | Lawful daughter of [John Galbreath](/people/galbraith-john-1804.md) distillery workman and Janet Watson
 > born 1th May and Baptized 8th Sept 1850
 
 ## 1851-02-12 Duncan Galbraith
@@ -2263,7 +2263,7 @@ TBD: DONALD GALBRAITH/ISABELLA MCLEAN
 
 [507/70 520 row 13](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/1353?image=420)
 
-> William | Lawful Son of John Galbraith Distilleryman and Janet Wilson[should be Watson]
+> William | Lawful Son of [John Galbraith](/people/galbraith-john-1804.md) Distilleryman and Janet Wilson[should be Watson]
 > was born 10th October and baptized 7 November 1853
 
 ## [1854-05-25 Alexander Galbraith](/people/galbraith-alexander-1854.md)
