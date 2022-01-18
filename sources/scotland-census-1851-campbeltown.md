@@ -67,6 +67,8 @@ Other children and grandchildren listed.
 
 Marriage on "31/05/1847 MCCALLUM, PETER (Old Parish Registers Marriages 507/ 60 420 Campbeltown) Page 420 of 478";  [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/10803242?image=420)
 
+Isabella is likely daughter of Lauchlan below.
+
 | Name             | Relation | Age  | Occupation | Birthplace |
 |------------------|----------|------|------------|------------|
 | Peter McCallum   | Head     | 27   | Distillery Laborer | Saddell |
