@@ -2,7 +2,7 @@
 title: John Galbreath b. 1804  m. Janet Watson
 familysearch: https://www.familysearch.org/tree/person/details/9M9H-VCZ
 ---
-***John Galbreath***, of unknown parents, was born in Campbeltown 13 May 1804.[^birth]
+***John Galbreath***, son of *[William Galbreath](galbreath-william-1780.md) and *Jean Campbell*, was born in Campbeltown 13 May 1804.[^birth]
 He married at Campbeltown 11 Dec 1848[^marriage] to **Janet Watson**
 
 His occupation was in the distilling industry[^census1841][^census1851][^census1861][^census1871]
