@@ -1,5 +1,5 @@
 ---
-title: John Galbreath b ~1811 m. Janet Watson
+title: John Galbreath b. 1804  m. Janet Watson
 familysearch: https://www.familysearch.org/tree/person/details/9M9H-VCZ
 ---
 ***John Galbreath***, of unknown parents, was born in Campbeltown around 1811[^census1851].
