@@ -54,7 +54,7 @@ Other children and grandchildren listed.
 
 [1851 GALBRAITH, ROBERT L (Census 507/ 2/ 29) Page 29 of 29](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015945?image=29)
 
-| Name             | Relation | Age | Occupation | Birthplace |
+| Name             | Relation | Age  | Occupation | Birthplace |
 |------------------|----------|------|------------|------------|
 | Elizabeth Fraser | Head     | 47   | Wife of D. S. Galbraith, landed proprietor | London, England |
 | Alfred S Galbraith | Son    | 19   |            | Campbeltown |
@@ -62,6 +62,27 @@ Other children and grandchildren listed.
 | Henry L Galbraith  | Son    | 13   |  Scholar   | Campbeltown |
 | Margaret Russell | Servant  | 30   | Cook |  Edinburgh | 
 | Helen Blue       | Servant  | 17   | House Servant | Campbeltown |
+
+[1851 GLBRAITH, BELLA (Census 507/ 3/ 7) Page 7 of 31](https://www.scotlandspeople.gov.uk/view-image/nrs_census/7259710?image=7)
+
+Marriage on "31/05/1847 MCCALLUM, PETER (Old Parish Registers Marriages 507/ 60 420 Campbeltown) Page 420 of 478";  [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/10803242?image=420)
+
+| Name             | Relation | Age  | Occupation | Birthplace |
+|------------------|----------|------|------------|------------|
+| Peter McCallum   | Head     | 27   | Distillery Laborer | Saddell |
+| Bella Galbraith  | Wife     | 31   |            | Kilean |
+| Archibald McCallum | Son    | 2    |            | Campbeltown |
+
+[1851 GALBRAITH, LAUCHLAN (Census 507/ 3/ 7) Page 7 of 31](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015081?image=7)
+
+| Name             | Relation | Age  | Occupation | Birthplace |
+|------------------|----------|------|------------|------------|
+| Lauchlan Galbraith | head   | 82   | Farm laborer | Campbeltown |
+| Flora Galbraith    | Dau    | 50   | Farm Servant | Campbeltown |
+| Catherine Galbraith | Dau   | 46   | Farm Servant | Campbeltown |
+| Uphemia Galbraith | Dau     | 36   | Farm Servant | Campbeltown |
+| Dugald McGill     | Grandson | 19  | Baker       | Campbeltown |
+| Isabella Galbraith| Granddau | 7   | Scholar     | Campbeltown |
 
 [1851 GALBRAITH, MARGRET (Census 507/ 3/ 18) Page 18 of 31](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015085?image=18)
 
