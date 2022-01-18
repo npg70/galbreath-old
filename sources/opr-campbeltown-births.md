@@ -1860,7 +1860,7 @@ TBD: [David Galbreath](/people/galbreath-david-1797.md)/Janet Mitchell
 
 ## 1832-11-11 Alexander Galbreath
 
-TBD: ARCHIBALD GALBREATH/BARBRA WILKINSON
+TBD: [ARCHIBALD GALBREATH](/people/galbraith-archibald-1800.md)/BARBRA WILKINSON
 
 ## 1833-03-14 Margaret Galbreath
 
@@ -1886,7 +1886,7 @@ TBD: DONALD GALBREATH/ANN MCMILLAN
 
 ## 1835-02-14 Angus Galbreath
 
-TBD: ARCHIBALD GALBREATH/BARBRA WILKINSON
+TBD: [ARCHIBALD GALBREATH](/people/galbraith-archibald-1800.md)/BARBRA WILKINSON
 
 ## 1835-03-25 James Galbreath
 
@@ -1919,7 +1919,7 @@ TBD: [DAVID STEWART GALBREATH](/people/galbraith-david-stewart-1782.md)/ ELIZABE
 
 ## 1837-07-06 Margaret Galbreath
 
-TBD: ARCHIBALD GALBREATH/BARBRA WILKINSON
+TBD: [ARCHIBALD GALBREATH](/people/galbraith-archibald-1800.md)/BARBRA WILKINSON
 
 ## 1838-01-25 Ugenia Galbreath
 
@@ -1940,7 +1940,7 @@ TBD: [David Galbreath](/people/galbreath-david-1797.md)/Janet Mitchell
 
 ## 1839-08-22 Archibald Galbreath
 
-TBD: ARCHIBALD GALBREATH/BARBRA WILKINSON
+TBD: [ARCHIBALD GALBREATH](/people/galbraith-archibald-1800.md)/BARBRA WILKINSON
 
 ## 1839-12-01 Edward Galbraith
 
@@ -1982,7 +1982,7 @@ TBD: [John Galbraith](/people/galbraith-john-1809.md) / Mary Coville McEwing
 
 ## 1841-12-05 Angus Galbreath
 
-TBD: ARCHIBALD GALBREATH/BARBRA WILKINSON
+TBD: [ARCHIBALD GALBREATH](/people/galbraith-archibald-1800.md)/BARBRA WILKINSON
 
 ## 1841-12-19 John Galbreath
 
