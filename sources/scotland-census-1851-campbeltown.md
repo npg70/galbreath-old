@@ -90,6 +90,20 @@ Isabella may 1843-05-29 Isabella Galbreath, daughter of Neil and Elizabeth Blue
 | Dugald McGill     | Grandson | 19  | Baker       | Campbeltown |
 | Isabella Galbraith| Granddau | 7   | Scholar     | Campbeltown |
 
+
+[1851 GALBRAITH, ARCHIBALD (Census 507/ 3/ 12) Page 12 of 31](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015077?image=12)
+
+| Name             | Relation | Age  | Occupation | Birthplace |
+|------------------|----------|------|------------|------------|
+| [Alexander Galbraith](/people/galbreath-alexander-1816.md) | Head  | 35   | Malt Man   | Southend   |
+| Elizabeth McCulasky | Wife  | 36   |            | Campbeltown |
+| Archibald Galbraith | Son   | 6    |            | Campbeltown |
+| Alexander Galbraith | Son   | 4m   |            | Campbeltown |
+| Margaret Reside     | Mother-in-law | Formerly a weaver's wife | Campbeltown |
+| Edward McCulasky    | Brother-in-law | 34 | Joiner | Campbeltown |
+| Agnes Hall          | Sister-in-law | 33  |        | Glasgow     |
+| Dugald McCuly       | [missing] | [missing] |      | Campbeltown |
+
 [1851 GALBRAITH, MARGRET (Census 507/ 3/ 18) Page 18 of 31](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015085?image=18)
 
 | Name             | Relation | Age  | Occupation | Birthplace |
@@ -112,6 +126,14 @@ Isabella may 1843-05-29 Isabella Galbreath, daughter of Neil and Elizabeth Blue
 | Alexander Galbraith | Son   | 6    | Scholar    | same       |
 | John Galbraith      | Son   | 4    |            | same       |
 | Duncan Galbraith    | Son   | 1    |            | same       |
+
+[1851 GALBRAITH, JOHN (Census 507/ 3/ 26) Page 26 of 31](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015084?image=26&return_row=21)
+
+| Name             | Relation | Age  | Occupation | Birthplace |
+|------------------|----------|------|------------|------------|
+| Janet Banatine[?] | Head    | 40   | Spinster   | Kilean      |
+| John Galbraith    | Son     | 11   | Scholar    | Campbeltown |
+
 
 [1851 GALBRAITH, PETER (Census 507/ 4/ 11) Page 11 of 32](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015992?image=11)
 
