@@ -273,9 +273,12 @@ May be others on next page
 | Daniel           | Son      | 5    | Child      | Argyllshire, Gigha |
 | Archibald        | Son      | 3    | Child      | Argyllshire, Gigha |
 
+[1851 GALBRAITH, JOHN (Census 507/ 8/ 1) Page 1 of 27](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015283?image=1)
 
-
-
+| Name               | Relation | Age  | Occupation       | Birthplace      |
+|--------------------|----------|------|------------------|-----------------|
+| John Galbraith     | Head     | 20   | Shoemaker        | Island of [Barran]      |
+| Isabella Galbraith | Wife     | 25   | Shoemaker's Wife | Argyle, [Lynee?] |
 
 [1851 GALBRAITH, JEAN (Census 507/ 9/ 2) Page 2 of 30](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3016133?image=2)
 
