@@ -352,3 +352,11 @@ Household of Neil Galbraith and Mary McMillian
 | Elizabeth Boyles | Servant   | 16  | Domestic Servant | Campbeltown |
 
 
+[1851 GALBRAITH, ISSABELLA (Census 507/ 19/ 9) Page 9 of 14](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015602?image=9)
+
+| Name             | Relation | Age  | Occupation | Birthplace |
+|------------------|----------|------|------------|------------|
+| Donald Galbraith | Head     | 30   | Wright[?]  | Killean    |
+| Isabella Galbraith | Wife   | 30   |            | Campbeltown |
+| Angus Galbraith  |  Dau [?] | 6    | At home    | Campbeltown |
+| Isabella Galbraith | Dau    | 1    | At home    | Campbeltown |
