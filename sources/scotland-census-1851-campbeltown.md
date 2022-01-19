@@ -250,11 +250,16 @@ John maybe listed as son of Angus and (unknown) mother on [ScotlandsPeople](http
 
 [1851 GALBRAITH, DAVID (Census 507/ 7/ 21) Page 21 of 32](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015271?image=21)
 
+continues on page 22
+
 | Name             | Relation | Age  | Occupation | Birthplace |
 |------------------|----------|------|------------|------------|
 | David Galbraith  | Head     | 40   | Fisher[?]  | Gigha      |
 | Katie Galbraith  | Wife     | 42   |            | Campbeltown |
 | Alexander Galbraith | Son   |  6   |            | Campbeltown |
+| Bella Galbraith  | Dau      |  3   | Fisher's Dau | Campbeltown |
+| Margaret Galbraith | Dau    |  2   | Fisher's Dau | Campbeltown |
+| Duglad ???        | Visitor | 50   | Gardner      | Fife        | 
 
 May be others on next page
 
