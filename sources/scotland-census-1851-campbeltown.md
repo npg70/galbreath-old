@@ -4,15 +4,25 @@ title: Scotland Census 1851 Campbeltown
 
 [1851 GALBRAITH, NEIL (Census 507/ 1/ 6) Page 6 of 37](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3014738?image=6)
 
-| Name             | Relation | Age | Occupation | Birthplace |
-|------------------|----------|------|------------|--------------|
-| Neil Galbraith   | Head     | 50   | Laborer     | Campbeltown      |
-| Mary Galbraith   | Wife     | 45   |            | Derry, Ireland      |
+| Name             | Relation | Age  | Occupation | Birthplace     |
+|------------------|----------|------|------------|----------------|
+| Neil Galbraith   | Head     | 50   | Laborer    | Campbeltown    |
+| Mary Galbraith   | Wife     | 45   |            | Derry, Ireland |
+
+[1851 GALBRAITH, JOHN (Census 507/ 1/ 25) Page 25 of 37](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3014739?image=25&return_row=11)
+
+| Name               | Relation | Age  | Occupation | Birthplace     |
+|--------------------|----------|------|------------|----------------|
+| John Galbraith     | Head     | 29   | Fisher     | Campbeltown    |
+| Margaret Galbraith | Wife     | 27   |            | Ayr            |
+| Niel Galbraith     | Son      | 9    | Scholar    | Campbeltown    |
+| Margaret Galbraith | Dau      | 6    |            | Campbeltown    |
+| John Galbraith     | Son      | 3    |            | Campbeltown    |
+| Agnes Galbraith    | Dau      | 0?   |            | Campbeltown    |
 
 [1851 GALBRAITH, DONALD (Census 507/ 2/ 19) Page 19 of 29](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015930?image=19)
 
-
-| Name             | Relation | Age | Occupation | Birthplace |
+| Name             | Relation | Age  | Occupation | Birthplace   |
 |------------------|----------|------|------------|--------------|
 | Donald Galbraith | Head     | 59   | Carter     | Killean      |
 | Agnes Galbraith  | Wife     | 57   |            | Killean      |
@@ -33,6 +43,19 @@ continues on next page
 | Catherine Galbraith | Dau      | 7  |          | Campbeltown      |
 | Archibald Galbraith | Son      | 5  |           | Campbeltown      |
 | Alexander Galbraith | Son      | 3  |           | Campbeltown      |
+
+[1851 GALBRAITH, JOHN (Census 507/ 2/ 23) Page 23 of 29](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015927?image=23)
+
+Starts on 2/20.. has multiple blank pages, then continues on 23.
+
+| Name             | Relation | Age  | Occupation | Birthplace   |
+|------------------|----------|------|------------|--------------|
+| Duncan Galbraith | Head     | 31   | Farm Laborer | Killean    |
+| Catherine Galbraith | Wife  | 29   |            |  Killean     |
+| Peggt McFalter    | Visitor   | 37  |           | Killean      |
+| Archibald Galbraith | Son   | 5    |            | Killean      |
+| Agnus Galbraith     | Son   | 3    |            | Campbeltown  |
+| John Galbraith      | Son   | 4m   |            | Campbeltown  |
 
 [1851 GALBRAITH, NEIL (Census 507/ 2/ 25) Page 25 of 29](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015943?image=25)
 
