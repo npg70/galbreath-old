@@ -9,7 +9,7 @@ title: Scotland Census 1851 Campbeltown
 | Neil Galbraith   | Head     | 50   | Laborer    | Campbeltown    |
 | Mary Galbraith   | Wife     | 45   |            | Derry, Ireland |
 
-[1851 GALBRAITH, JOHN (Census 507/ 1/ 25) Page 25 of 37](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3014739?image=25&return_row=11)
+[1851 GALBRAITH, JOHN (Census 507/ 1/ 25) Page 25 of 37](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3014739?image=25)
 
 | Name               | Relation | Age  | Occupation | Birthplace     |
 |--------------------|----------|------|------------|----------------|
@@ -19,6 +19,15 @@ title: Scotland Census 1851 Campbeltown
 | Margaret Galbraith | Dau      | 6    |            | Campbeltown    |
 | John Galbraith     | Son      | 3    |            | Campbeltown    |
 | Agnes Galbraith    | Dau      | 0?   |            | Campbeltown    |
+
+[1851 GALBRAITH, DANIEL (Census 507/ 2/ 12) Page 12 of 29](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015935?image=12)
+
+| Name               | Relation | Age  | Occupation | Birthplace     |
+|--------------------|----------|------|------------|----------------| 
+| Mary Galbraith     | Head     | 35   |            | Killean        |
+| Betsy Galbraith    | Dau      | 4    |            | Campbeltown    |
+| Daniel Galbraith   | Son      | 2    |            | Campbeltown    |
+| Betsy McCallum     | Aunt     | 56   | Formally Farm Servant | Saddell |
 
 [1851 GALBRAITH, DONALD (Census 507/ 2/ 19) Page 19 of 29](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015930?image=19)
 
@@ -312,6 +321,14 @@ May be others on next page
 [1851 GALBRAITH, CATHERINE (Census 507/ 15/ 6) Page 6 of 16](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015477?image=6)
 
 TBD -- widow of McVicar, age 65, not from Campbeltown
+
+[1851 GALBRAITH, CATHARINE (Census 507/ 16/ 7) Page 7 of 16](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015480?image=7)
+
+| Name             | Relation | Age  | Occupation | Birthplace |
+|------------------|----------|------|------------|------------|
+| Hugh Galbraith   | Head     | 28   | Farm Servant   | Campbeltown |
+| Catharine Galbraith | Wife  | 29   | Servant's Wife | Killean     |
+
 
 [1851 GALBRAITH, MARY (Census 507/ 17/ 13) Page 13 of 17](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015599?image=13)
 
