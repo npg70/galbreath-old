@@ -315,6 +315,14 @@ May be others on next page
 | Jean Galbraith   | Head     | 50   | Washerwoman | Campbeltown |
 | Ann Galbraith    | Sister   | 47   | Daymaker?   | Campbeltown |
 
+[1851 GALBRAITH, MARGARET (Census 507/ 9/ 8) Page 8 of 30](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3016137?image=8)
+
+| Name             | Relation | Age  | Occupation | Birthplace |
+|------------------|----------|------|------------|------------|
+| Neil? ???        | Head     | 69   | Rope Maker | Campbeltown |
+| Mary Galbraith   | Wife     | 55   |            | Campbeltown |
+| Hugh? Anderson   | Grandchild | 9  | Scholar    | Campbeltown |
+| Mary Anderson    | Grandchild | 7  | Scholar    |  ???        |
 
 [1851 GILBRAITH, JANET (Census 507/ 9/ 15) Page 15 of 30](https://www.scotlandspeople.gov.uk/view-image/nrs_census/6976185?image=15)
 
