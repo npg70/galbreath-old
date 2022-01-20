@@ -167,6 +167,14 @@ Isabella may 1843-05-29 Isabella Galbreath, daughter of Neil and Elizabeth Blue
 | John Galbraith    | Son     | 11   | Scholar    | Campbeltown |
 
 
+[1851 GALBRAITH, CATHRINE (Census 507/ 3/ 27) Page 27 of 31](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015075?image=27)
+
+| Name             | Relation | Age  | Occupation | Birthplace |
+|------------------|----------|------|------------|------------|
+| Catherine Shaw   | Head     | 32   | Farm Servant | Campbeltown |
+| Barbra Shaw      | Dau      | 3    |              | Campbeltown |
+| Catherine Galbraith | Dau   | 7    | Scholar      | Campbeltown |
+
 [1851 GALBRAITH, PETER (Census 507/ 4/ 11) Page 11 of 32](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015992?image=11)
 
 | Name             | Relation | Age  | Occupation | Birthplace |
