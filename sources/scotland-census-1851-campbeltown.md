@@ -9,6 +9,14 @@ title: Scotland Census 1851 Campbeltown
 | Neil Galbraith   | Head     | 50   | Laborer    | Campbeltown    |
 | Mary Galbraith   | Wife     | 45   |            | Derry, Ireland |
 
+[1851 GALBRAITH, CATHRINE (Census 507/ 1/ 22) Page 22 of 37](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3014731?image=22)
+
+married but spouse missing
+
+| Name                  | Relation | Age  | Occupation | Birthplace     |
+|-----------------------|----------|------|------------|----------------|
+| Catherine Galbraith   | Head     | 27   |            | Campbeltown    |
+
 [1851 GALBRAITH, JOHN (Census 507/ 1/ 25) Page 25 of 37](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3014739?image=25)
 
 | Name               | Relation | Age  | Occupation | Birthplace     |
