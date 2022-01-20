@@ -331,6 +331,13 @@ Misindexed or transcribed.  "Jane" is actually Jean Corbett, wife of [Archibald 
 
 May be others on next page
 
+[1851 GALBRAITH, AGNESS (Census 507/ 11/ 18) Page 18 of 35](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3016145?image=18)
+
+| Name             | Relation | Age  | Occupation | Birthplace  |
+|------------------|----------|------|------------|-------------|
+| Allan Galbraith  | Head     | 25   | Sea Man    | Kilberry    |
+| Agness Galbraith | Wife     | 26   |            | Campbeltown |
+
 [1851 GALBRAITH, CATHERINE (Census 507/ 15/ 6) Page 6 of 16](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015477?image=6)
 
 TBD -- widow of McVicar, age 65, not from Campbeltown
