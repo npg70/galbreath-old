@@ -446,3 +446,9 @@ Household of Neil Galbraith and Mary McMillian
 | Isabella Galbraith | Wife   | 30   |            | Campbeltown |
 | Angus Galbraith  |  Dau [?] | 6    | At home    | Campbeltown |
 | Isabella Galbraith | Dau    | 1    | At home    | Campbeltown |
+
+[1851 GALBRAIH, MARY (Census 507/ 22/ 1) Page 1 of 7](https://www.scotlandspeople.gov.uk/view-image/nrs_census/7263777?image=1)
+
+| Name             | Relation | Age  | Occupation | Birthplace |
+|------------------|----------|------|------------|------------|
+| Mary Galbraith   | Servant | 15   | House Servant  | Campbeltown    |
