@@ -234,6 +234,12 @@ Next door to Templetons and Colvilles on Long Row St.
 | Mary [??]        | Servant  | 22    | House Servant        | [illegible] |
 | Mary McEachine   | Servant  | 16    | House Servant        | Campbeltown |
 
+[1851 GALBRAITH, JANET (Census 507/ 5/ 3) Page 3 of 46](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015150?image=3)
+
+| Name               | Relation | Age  | Occupation | Birthplace  |
+|--------------------|----------|------|------------|-------------|
+| Janet Galbraith    | Servant  | 19   | House Servant  | Campbeltown |
+
 [1851 GALBRAITH, MARGARET (Census 507/ 5/ 16) Page 16 of 46](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015153?image=16&)
 
 | Name               | Relation | Age  | Occupation | Birthplace  |
