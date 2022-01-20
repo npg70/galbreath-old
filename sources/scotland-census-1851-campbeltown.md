@@ -359,6 +359,14 @@ Misindexed or transcribed.  "Jane" is actually Jean Corbett, wife of [Archibald 
 
 May be others on next page
 
+[1851 GALBRAITH, JEAN (Census 507/ 9/ 26) Page 26 of 30](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3016134?image=26&return_row=23)
+
+| Name             | Relation | Age  | Occupation | Birthplace |
+|------------------|----------|------|------------|------------|
+| Donald Galbraith | Head     | 50   | Independant Minister | Islay |
+| Mary Galbraith   | Wife     | 26    | Wife      | Islay    |
+| Jean Galbraith   | Visitor  | 21   | [???]      | Islay    |
+
 [1851 GALBRAITH, AGNESS (Census 507/ 11/ 18) Page 18 of 35](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3016145?image=18)
 
 | Name             | Relation | Age  | Occupation | Birthplace  |
