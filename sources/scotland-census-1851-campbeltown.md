@@ -28,6 +28,15 @@ married but spouse missing
 | John Galbraith     | Son      | 3    |            | Campbeltown    |
 | Agnes Galbraith    | Dau      | 0?   |            | Campbeltown    |
 
+[1851 GALBRAITH, AGNESS (Census 507/ 1/ 29) Page 29 of 37](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3014733?image=29)
+
+| Name               | Relation | Age  | Occupation | Birthplace     |
+|--------------------|----------|------|------------|----------------|
+| John Carmichael    | Head     | 26   | Fisher     | Ayrshrire, [???] |
+| Agness Galbraith   | Wife     | 23   |            | Campbeltown    |
+| John Carmichael    | Son      | 1    |            | Campbeltown    |
+| David Carmichael   | Son      | 1m   |            | Campbeltown    |
+
 [1851 GALBRAITH, DANIEL (Census 507/ 2/ 12) Page 12 of 29](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015935?image=12)
 
 | Name               | Relation | Age  | Occupation | Birthplace     |
@@ -381,6 +390,13 @@ May be others on next page
 |------------------|----------|------|------------|-------------|
 | Allan Galbraith  | Head     | 25   | Sea Man    | Kilberry    |
 | Agness Galbraith | Wife     | 26   |            | Campbeltown |
+
+
+[1851 GALBRAITH, ANGUS (Census 507/ 13/ 5) Page 5 of 12](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015475?image=5)
+
+| Name             | Relation | Age  | Occupation | Birthplace  |
+|------------------|----------|------|------------|-------------|
+| Angus Galbraith  | Servant  | 26   | Farm Servant | Campbeltown    |
 
 [1851 GALBRAITH, CATHERINE (Census 507/ 15/ 6) Page 6 of 16](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015477?image=6)
 
