@@ -95,6 +95,12 @@ Other children and grandchildren listed.
 | Margaret Russell | Servant  | 30   | Cook |  Edinburgh | 
 | Helen Blue       | Servant  | 17   | House Servant | Campbeltown |
 
+[1851 GALBRAITH, MARGARET (Census 507/ 3/ 2) Page 2 of 31](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015092?image=2&return_row=20)
+
+| Name             | Relation | Age  | Occupation | Birthplace |
+|------------------|----------|------|------------|------------|
+| Margaret Galbraith | Servant | 12   | Servant | Campbeltown |
+
 [1851 GLBRAITH, BELLA (Census 507/ 3/ 7) Page 7 of 31](https://www.scotlandspeople.gov.uk/view-image/nrs_census/7259710?image=7)
 
 Marriage on "31/05/1847 MCCALLUM, PETER (Old Parish Registers Marriages 507/ 60 420 Campbeltown) Page 420 of 478";  [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/10803242?image=420)
@@ -308,6 +314,14 @@ May be others on next page
 | John Galbraith     | Head     | 20   | Shoemaker        | Island of [Barran]      |
 | Isabella Galbraith | Wife     | 25   | Shoemaker's Wife | Argyle, [Lynee?] |
 
+[1851 GALBRAITH, CATHRINE (Census 507/ 8/ 22) Page 22 of 27](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015285?image=22)
+
+| Name               | Relation | Age  | Occupation       | Birthplace      |
+|--------------------|----------|------|------------------|-----------------|
+| Donald Galbraith   | Head     | 36   | Farm Laborer     | Gigha           |
+| Catherine Galbraith | Wife    | 30   | Wife             | Ireland         |
+| Margaret Whiteson[?] | Mother-in-law | Mother-in-law    | Ireland         |
+
 [1851 GALBRAITH, JEAN (Census 507/ 9/ 2) Page 2 of 30](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3016133?image=2)
 
 | Name             | Relation | Age  | Occupation | Birthplace |
@@ -380,6 +394,11 @@ Household of Neil Galbraith and Mary McMillian
 | Arch. Gilchrist  | Servant   | 14  | Cowherd                              | Laurant[?], Glasgow |
 | Elizabeth Boyles | Servant   | 16  | Domestic Servant | Campbeltown |
 
+[1851 GALBRAETH, CATHERINE (Census 507/ 18/ 5) Page 5 of 7](https://www.scotlandspeople.gov.uk/view-image/nrs_census/7184728?image=5&return_row=12)
+
+| Name             | Relation | Age  | Occupation | Birthplace |
+|------------------|----------|------|------------|------------|
+| Catherine Galbraith | Servant | 15   | House Servant  | Gigha    |
 
 [1851 GALBRAITH, ISSABELLA (Census 507/ 19/ 9) Page 9 of 14](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015602?image=9)
 
