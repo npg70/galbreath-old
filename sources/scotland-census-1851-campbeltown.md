@@ -404,6 +404,12 @@ May be others on next page
 |------------------|----------|------|------------|-------------|
 | Angus Galbraith  | Servant  | 26   | Farm Servant | Campbeltown    |
 
+[1851 GALBRAITH, NANCY (Census 507/ 14/ 28) Page 28 of 32](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015476?image=28)
+
+| Name             | Relation | Age  | Occupation | Birthplace  |
+|------------------|----------|------|------------|-------------|
+| Nancy Galbraith  | Servant  | 20   | Farm Servant | Campbeltown    |
+
 [1851 GALBRAITH, CATHERINE (Census 507/ 15/ 6) Page 6 of 16](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015477?image=6)
 
 TBD -- widow of McVicar, age 65, not from Campbeltown
