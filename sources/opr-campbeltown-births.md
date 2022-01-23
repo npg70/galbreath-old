@@ -397,7 +397,10 @@ TBD: [John Galbreath](/people/galbreath-john-abt-1710.md) / Isobell Clark
 
 ## 1743-12-00 Archibald Galbreath
 
-TBD: [James Galbreath](/people/galbreath-james-1713.md) / Margaret Adam
+[507/11 24 row 17](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357303?image=244)
+
+> Archd |  [James Galbreath](/people/galbreath-james-1713.md) & Margt Adam
+> had a son baptized [blank] Dec named Archd.
 
 ## 1745-06-25 James Galbreath
 
