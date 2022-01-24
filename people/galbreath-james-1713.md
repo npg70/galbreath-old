@@ -14,7 +14,7 @@ Children of James and Margaret (Adam) Galbreath, all baptized at Campbeltown:[^c
 6. *Margaret Galbreath*, bp. 15 April 1752[^margaret1-birth]
 7. [*David Galbreath*](galbreath-david-1755.md), bp. 12 Feb 1755,[^david-birth] m. *Mary Fleming*.  Recorded under Galbreath and Galbraith
 8. *Janet Galbreath*, bp. 4 Feb 1757[^janet-birth]
-9. *Margaret Galbreath*, bp. 31 May 1761[^margaret2-birth], assumed died in infancy.
+9. *Margaret Galbreath*, bp. 31 May 1761,[^margaret2-birth] assumed died in infancy.
 10. *Margaret Galbreath*, bp. 17 Oct 1762[^margaret3-birth]
 11. *Mary Galbreath*, b. 25 Nov 1765, bp. 28 Nov 1765.[^mary2-birth]
 
