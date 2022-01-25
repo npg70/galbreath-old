@@ -37,6 +37,25 @@ Bank Street
 | Mirran      | 20 | Lodger |
 | James Galbraith | 2 |     |
 
+## 507-9-1
+
+Main Street, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_census/1186884?image=1&return_row=4)
+
+TBD: Two entries, both unclear.
+
+| name | age | occupation |
+|------|-----|------------|
+| Catharine Galbreath |  22 | ~crossed out~ |
+
+
+| name | age | occupation |
+|------|-----|------------|
+| Charles MacIver     | 65 | Pensioner    |
+| Catharine Mciver    | 50 | Public [???] |
+| Margaret Galbreath  | 25 |              | 
+| Catharine Galbreath | 70 |              |
+
+
 ## 507-10-5
 
 Burnside
