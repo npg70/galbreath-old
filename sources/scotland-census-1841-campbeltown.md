@@ -58,6 +58,16 @@ Longrow; [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_cen
 | Martha Galbraith | 60 | Ind |
 | Mary             | 20 |     |
 
+## 507-11-11
+
+TBD: Not clear which household she is associated with.
+
+Longrow; [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_census/1187173?image=11)
+
+| name | age | occupation |
+|------|-----|------------|
+| Mary Galbreath | 71 |   |
+
 ## 507-13-7
 
 Lochend, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_census/1034?image=7)
