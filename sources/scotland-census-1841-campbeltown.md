@@ -70,7 +70,19 @@ Jean Campbell Galbraith is the widow of [William Galbreath](/people/galbreath-wi
 | [Peter](/people/galbraith-peter-1811.md)            | 25 |   |
 | [William](/people/galbraith-william-1815.md)        | 20 |   |
 
-## Census 507-16-25
+## 507-14-21
+
+Burnside St, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_census/1186835?image=21)
+
+| name                | age | occupation |
+|---------------------|----|--------|
+| Archibald Galbreath | 37 | Mason  |
+| Ann Galbreath       | 30 |        |
+| Neill Galbreath     |  7 |        |
+| Margaret Galbreath  |  4 |        |
+| Margaret Galbreath  | 85 |        |
+
+## 507-16-25
 
 (Census 507/ 16/ 25) Page 25 of 31; [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_census/531?image=25)
 
