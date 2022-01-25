@@ -111,6 +111,21 @@ Burnside St, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs
 | Margaret Galbreath  |  4 |        |
 | Margaret Galbreath  | 85 |        |
 
+## 507-15-5
+
+| name                | age | occupation |
+|---------------------|-----|------------|
+| Neil Galbreath      | 43  | Laborer    |
+| Mary Galbreath      | 32  |            |
+
+
+| name                | age | occupation |
+|---------------------|-----|------------|
+| Donald Galbreath    | 48  | Laborer    |
+| Ann Galbreath       | 48  |            |
+
+may be continued on next page
+
 ## 507-16-25
 
 (Census 507/ 16/ 25) Page 25 of 31; [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_census/531?image=25)
