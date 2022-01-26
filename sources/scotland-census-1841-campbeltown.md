@@ -55,6 +55,20 @@ TBD: Two entries, both unclear.
 | Margaret Galbreath  | 25 |              | 
 | Catharine Galbreath | 70 |              |
 
+## 507-9-5
+
+Balgom Street, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_census/1186882?image=5)
+
+| name | age | occupation |
+|------|-----|------------|
+| David Galbreath   | 40 | Sawer |
+| Janet Galbreath   | 40 |       |
+| Samuel Galbreath  | 14 |       |
+| Agnes Galbreath   | 13 |       |
+| Janet Galbreath   | 11 |       |
+| William Galbreath |  8 |       |
+| David Galbreath   |  6 |       |
+| James Galbreath   |  2 |       |
 
 ## 507-10-5
 
@@ -99,6 +113,19 @@ Jean Campbell Galbraith is the widow of [William Galbreath](/people/galbreath-wi
 | [Peter](/people/galbraith-peter-1811.md)            | 25 |   |
 | [William](/people/galbraith-william-1815.md)        | 20 |   |
 
+
+## 507-14-5
+
+Saddell Street, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_census/1186836?image=5)
+
+| name                | age | occupation |
+|---------------------|----|--------|
+| Lachlan Galbreath   | 65 | Ag. Laborer |
+| Flora Galbreath     | 35 |             |
+| Neil Galbreath      | 35 | Flax Weaver |
+| Euphemia Galbreath  | 20 |             |
+| Dugald McGill       | 10 | ~grandchild~ |
+
 ## 507-14-21
 
 Burnside St, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_census/1186835?image=21)
@@ -110,6 +137,28 @@ Burnside St, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs
 | Neill Galbreath     |  7 |        |
 | Margaret Galbreath  |  4 |        |
 | Margaret Galbreath  | 85 |        |
+
+## 507-15-1
+
+Main Street, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_census/1186908?image=1)
+
+Three houses next to each other.  Unclear what the connection is.
+
+| name                | age | occupation |
+|---------------------|----|--------|
+| Christina Galbreath | 55 | Pauper |
+| Donald Galbreath    | 19 |        |
+
+| name                | age | occupation |
+|---------------------|----|--------|
+| Norman Galbreath    | 30 | Fisher |
+| Euphemia Galbreath  | 35 |        |
+| Margaret Galbreath  | 4  |        |
+| Mary Galbreath      | 9m |        |
+
+| name                | age | occupation |
+|---------------------|----|--------|
+| Christina Galbreath | 16 |        |
 
 ## 507-15-5
 
