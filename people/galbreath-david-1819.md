@@ -2,7 +2,7 @@
 title: David Galbreath b ~ 1819
 familysearch: https://www.familysearch.org/tree/person/details/KCRW-WZZ
 ---
-***David Galbreath***, son of Alexander Galbreath and Merran Galbreath, was bapitized in Gigha 3 Feb 1812.  He likely died between 1851 and 1855 since he is present in the 1851 census[^census1851 but there are no statutory records of death which started in 1855.  The death record of his son Robert in 1885 indicates he was deceased by then.
+***David Galbreath***, son of Alexander Galbreath and Merran Galbreath, was bapitized in Gigha 3 Feb 1812.  He likely died between 1851 and 1855 since he is present in the 1851 census[^census1851] but there are no statutory records of death which started in 1855.  The death record of his son Robert in 1885 indicates he was deceased by then.
 
 He married, as a fisherman, at Campbeltown 3 Sep 1844 to **Catharine McKinnon**, "daughter of late John McKinnon, seaman."[^marriage]
 
@@ -19,6 +19,8 @@ Children of David and Catharine (McKinnon) Galbreath, all baptized at Campbeltow
     > both of this parish, were married 3 Sep 1844
     
     
+[^census1851]: Scotland Census of 1851, Shore Street, Campbeltown; Household of David Galbreath; [page 507-7-21](/sources/scotland-census-1851-campbeltown.md#507-7-21)
+
 [^alexander-birth]: OPR Campbeltown, baptism of [Alexander Galbreath](/sources/opr-campbeltown-births.md#1845-07-15-alexander-galbreath)
 
 [^alexander-death]: Civil records of Campbeltown, Argyll; 1887 GALBRAITH, ALEXANDER (Statutory registers Deaths 507/ 158); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/2882348)
