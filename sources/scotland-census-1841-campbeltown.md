@@ -175,6 +175,16 @@ Saddell Street, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/
 | Euphemia Galbreath  | 20 |             |
 | Dugald McGill       | 10 | ~grandchild~ |
 
+## 507-14-7
+
+Saddel Street, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_census/1186838?image=7)
+
+| name                | age | occupation         |
+|---------------------|-----|--------------------|
+| John Galbreath      | 30  | Distillery Laborer |
+| Janet Galbreath     | 25  |                    |
+| Jane Galbreath      |  1  |                    |
+
 ## 507-14-21
 
 Burnside St, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_census/1186835?image=21)
@@ -245,6 +255,24 @@ Drumore House
 | John    |  7 |  |
 | Abert   |  6 |  |
 | Henry   |  4 |  |
+
+## 507-25-3
+
+Rannachan, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_census/1186952?image=3)
+
+| name | age | occupation |
+|------|-----|------------|
+| Angus Galbreath | 15 | Ag Laborer |
+
+mixed in with lots of random people.
+
+| name | age | occupation |
+|------|-----|------------|
+| John Galbreath | 27 | Ag Laborer |
+| Mary Galbreath | 25 |            |
+| Annabella Galbreath | 7 |        |
+
+Maybe connected to Mary McGregor, 55
 
 ## 507-26-7
 
