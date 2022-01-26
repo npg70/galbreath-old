@@ -2,6 +2,18 @@
 title: Census 1841 Campbeltown
 ---
 
+## 507-1-5
+
+Church Street, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_census/1186624?image=5)
+
+
+| name | age | occupation |
+|------|-----|------------|
+| Marion McEacheron | 56 | Washerwoman |
+| Lachlan Galbreath  | 15  |            |
+
+Unclear if connected
+
 ## 507-2-1
 
 Stone house near quay head?, [ScotslandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_census/1187048?image=1)
@@ -18,6 +30,15 @@ Stone house near quay head?, [ScotslandsPeople](https://www.scotlandspeople.gov.
 | John Galbreath      | 2  |   |
 
 The last two maybe connected to John Maitland, 45,Millier,  and Catherine McInver 45?
+
+## 507-4-15
+
+Shore Street, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_census/959?image=15)
+
+| name | age | occupation |
+|------|-----|------------|
+| Elisabeth Galbraith | 20 | F.S. [??] |
+
 
 ## 507-6-13
 
@@ -279,6 +300,15 @@ Drumore House
 | Abert   |  6 |  |
 | Henry   |  4 |  |
 
+## 507-24-9
+
+Drumblemle, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_census/1186951?image=9)
+
+| name | age | occupation |
+|------|-----|------------|
+| Sarah Galbreath | 24 | [not clear, but some sort of servant] |
+
+
 ## 507-25-3
 
 Rannachan, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_census/1186952?image=3)
@@ -296,6 +326,16 @@ mixed in with lots of random people.
 | Annabella Galbreath | 7 |        |
 
 Maybe connected to Mary McGregor, 55
+
+## 507-25-5
+
+Kirkmicheal, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_census/1186955?image=5)
+
+| name | age | occupation |
+|------|-----|------------|
+| Alexander Galbreath | 13 | Ag Laborer |
+
+Mixed in with a lot of people
 
 ## 507-26-7
 
@@ -344,7 +384,3 @@ Ugadale
 | [Archd Galbraith](/people/galbreath-archibald-1803.md) | 30 | Farmer |
 | Margt      | 20 |  |
 | Martha     | 5 |     |
-
-
-
-
