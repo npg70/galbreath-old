@@ -1910,7 +1910,7 @@ TBD: [DAVID GALBREATH](/people/galbreath-david-1793.md)/MARY GREENLEES
 
 ## 1836-12-27 Malcom Galbreath
 
-TBD: Donald Galbreath / Flora Smith
+TBD: [Donald Galbreath](/people/galbreath-donald-1804-flora-smith.md) / Flora Smith
 
 ## 1837-03-23 Margaret Galbreath
 
@@ -1931,7 +1931,7 @@ TBD: [ARCHIBALD GALBREATH](/people/galbraith-archibald-1800.md)/BARBRA WILKINSON
 
 ## 1838-11-28 Margaret Galbreath
 
-TBD: DONALD GALBREATH/FLORA SMITH
+TBD: [DONALD GALBREATH](/people/galbreath-donald-1804-flora-smith.md)/FLORA SMITH
 
 ## 1839-05-16 John Galbreath
 
@@ -1970,7 +1970,7 @@ TBD: [JOHN GALBREATH](/people/galbreath-john-1815.md)/MARY MCTAGGART
 
 ## 1841-04-27 Duncan Galbreath
 
-TBD: DONALD GALBREATH/FLORA SMITH
+TBD: [DONALD GALBREATH](/people/galbreath-donald-1804-flora-smith.md)/FLORA SMITH
 
 ## [1841-05-10 Elizabeth Galbreath](/people/galbraith-elizabeth-1841.md)
 
@@ -2102,7 +2102,7 @@ TBD: NEIL GALBREATH/ELIZABETH BLUE
 
 ## 1845-09-30 Donald Galbreath
 
-TBD: DONALD GALBREATH/FLORA SMITH
+TBD: [DONALD GALBREATH](/people/galbreath-donald-1804-flora-smith.md)/FLORA SMITH
 
 ## 1845-10-06 Archibald Galbreath
 
@@ -2149,7 +2149,7 @@ TBD: [JOHN GALBREATH](/people/galbreath-john-1815.md)/MARY MCTAGGART
 
 [507/70 329 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357280?image=329)
 
-> Archibald | Lawful son of Donald Galbreath (Grasier????) and Flora Smith
+> Archibald | Lawful son of [Donald Galbreath](/people/galbreath-donald-1804-flora-smith.md) (Grasier????) and Flora Smith
 > born 8th and Baptized 20th December 1847
 
 ## 1848-01-25 Agnes Galbreath
