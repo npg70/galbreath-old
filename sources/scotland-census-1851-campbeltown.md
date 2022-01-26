@@ -390,6 +390,19 @@ May be others on next page
 | Mary Galbraith   | Wife     | 26    | Wife      | Islay    |
 | Jean Galbraith   | Visitor  | 21   | [???]      | Islay    |
 
+## 507-11-16
+
+More St, east side, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_census/5260583?image=16)
+
+| Name             | Relation | Age  | Occupation | Birthplace |
+|------------------|----------|------|------------|------------|
+| Archibald Galbreath | Head  | 38   | Fisherman  | Gigha      |
+| Elizabeth Galbreath | Wife  | 36   |            | Campbeltown |
+| John Galbreath      | Son   | 12   | Scholar    | Campbeltown |
+| Flora Galbreath     | Dau   |  7   | Schoalr    | Campbeltown |
+
+## 507-11-18
+
 [1851 GALBRAITH, AGNESS (Census 507/ 11/ 18) Page 18 of 35](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3016145?image=18)
 
 | Name             | Relation | Age  | Occupation | Birthplace  |
@@ -397,6 +410,17 @@ May be others on next page
 | Allan Galbraith  | Head     | 25   | Sea Man    | Kilberry    |
 | Agness Galbraith | Wife     | 26   |            | Campbeltown |
 
+## 507-11-29
+
+[ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_census/5260577?image=29)
+
+| Name               | Relation | Age  | Occupation | Birthplace  |
+|--------------------|----------|------|------------|-------------|
+| Norman Galbreath   | Head     | 35   | Fisherman  | Campbeltown |
+| Euphemia Galbreath | Wife     | 43   |            | Campbeltown  |
+| Mary Galbreath     | Dau      |  6   | Errand girl [???] | Campbeltown |
+| Margaret Galbreath | Dau      | 14   |            | Campbeltown |
+| Ann Galbreath      | Dau      |  1   |            | Campbeltown |
 
 [1851 GALBRAITH, ANGUS (Census 507/ 13/ 5) Page 5 of 12](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015475?image=5)
 
