@@ -323,7 +323,7 @@ May be others on next page
 | Name             | Relation | Age | Occupation | Birthplace |
 |------------------|----------|------|------------|------------|
 | Donald Galbraith | Head     | 47   | Fisherman  | Argyllshire, Gigha |
-| Flora            | Wife     | 47   | Wife of    | Argyllshire, Gigha |
+| Flora [Smith]    | Wife     | 47   | Wife of    | Argyllshire, Gigha |
 | Malcolm          | Son      | 14   | Scholar    | Argyllshire, Gigha |
 | Duncan           | Son      | 9    | Scholar    | Argyllshire, Gigha |
 | Catherine        | Dau      | 7    | Scholar    | Argyllshire, Gigha |
