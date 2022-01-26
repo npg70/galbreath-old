@@ -2,12 +2,16 @@
 title: Scotland Census 1851 Campbeltown
 ---
 
+## 507-1-6
+
 [1851 GALBRAITH, NEIL (Census 507/ 1/ 6) Page 6 of 37](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3014738?image=6)
 
 | Name             | Relation | Age  | Occupation | Birthplace     |
 |------------------|----------|------|------------|----------------|
 | Neil Galbraith   | Head     | 50   | Laborer    | Campbeltown    |
 | Mary Galbraith   | Wife     | 45   |            | Derry, Ireland |
+
+## 507-1-22
 
 [1851 GALBRAITH, CATHRINE (Census 507/ 1/ 22) Page 22 of 37](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3014731?image=22)
 
@@ -16,6 +20,8 @@ married but spouse missing
 | Name                  | Relation | Age  | Occupation | Birthplace     |
 |-----------------------|----------|------|------------|----------------|
 | Catherine Galbraith   | Head     | 27   |            | Campbeltown    |
+
+## 507-1-25
 
 [1851 GALBRAITH, JOHN (Census 507/ 1/ 25) Page 25 of 37](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3014739?image=25)
 
@@ -28,6 +34,8 @@ married but spouse missing
 | John Galbraith     | Son      | 3    |            | Campbeltown    |
 | Agnes Galbraith    | Dau      | 0?   |            | Campbeltown    |
 
+## 507-1-29
+
 [1851 GALBRAITH, AGNESS (Census 507/ 1/ 29) Page 29 of 37](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3014733?image=29)
 
 | Name               | Relation | Age  | Occupation | Birthplace     |
@@ -37,6 +45,8 @@ married but spouse missing
 | John Carmichael    | Son      | 1    |            | Campbeltown    |
 | David Carmichael   | Son      | 1m   |            | Campbeltown    |
 
+## 507-2-12
+
 [1851 GALBRAITH, DANIEL (Census 507/ 2/ 12) Page 12 of 29](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015935?image=12)
 
 | Name               | Relation | Age  | Occupation | Birthplace     |
@@ -45,6 +55,8 @@ married but spouse missing
 | Betsy Galbraith    | Dau      | 4    |            | Campbeltown    |
 | Daniel Galbraith   | Son      | 2    |            | Campbeltown    |
 | Betsy McCallum     | Aunt     | 56   | Formally Farm Servant | Saddell |
+
+## 507-2-19
 
 [1851 GALBRAITH, DONALD (Census 507/ 2/ 19) Page 19 of 29](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015930?image=19)
 
@@ -56,7 +68,6 @@ married but spouse missing
 | Alexander Galbraith | Son   | 22   | Sailor     | Killean      |
 | Eliza Galbraith     | Dau   | 14   |            | Killean      |
 | Christina Galbraith | Niece |  7   |            | Campbeltown  |
-
 
 [1851 GALBRAITH, ARCHIBALD (Census 507/ 2/ 19) Page 19 of 29](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015947?image=19)
 continues on next page
@@ -70,6 +81,8 @@ continues on next page
 | Archibald Galbraith | Son      | 5  |           | Campbeltown      |
 | Alexander Galbraith | Son      | 3  |           | Campbeltown      |
 
+## 507-2-23
+
 [1851 GALBRAITH, JOHN (Census 507/ 2/ 23) Page 23 of 29](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015927?image=23)
 
 Starts on 2/20.. has multiple blank pages, then continues on 23.
@@ -82,6 +95,8 @@ Starts on 2/20.. has multiple blank pages, then continues on 23.
 | Archibald Galbraith | Son   | 5    |            | Killean      |
 | Agnus Galbraith     | Son   | 3    |            | Campbeltown  |
 | John Galbraith      | Son   | 4m   |            | Campbeltown  |
+
+## 507-2-25
 
 [1851 GALBRAITH, NEIL (Census 507/ 2/ 25) Page 25 of 29](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015943?image=25)
 
@@ -101,6 +116,8 @@ Starts on 2/20.. has multiple blank pages, then continues on 23.
 
 Other children and grandchildren listed.
 
+## 507-2-29
+
 [1851 GALBRAITH, ROBERT L (Census 507/ 2/ 29) Page 29 of 29](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015945?image=29)
 
 | Name             | Relation | Age  | Occupation | Birthplace |
@@ -112,11 +129,15 @@ Other children and grandchildren listed.
 | Margaret Russell | Servant  | 30   | Cook |  Edinburgh | 
 | Helen Blue       | Servant  | 17   | House Servant | Campbeltown |
 
+## 507-3-2
+
 [1851 GALBRAITH, MARGARET (Census 507/ 3/ 2) Page 2 of 31](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015092?image=2&return_row=20)
 
 | Name             | Relation | Age  | Occupation | Birthplace |
 |------------------|----------|------|------------|------------|
 | Margaret Galbraith | Servant | 12   | Servant | Campbeltown |
+
+## 507-3-7
 
 [1851 GLBRAITH, BELLA (Census 507/ 3/ 7) Page 7 of 31](https://www.scotlandspeople.gov.uk/view-image/nrs_census/7259710?image=7)
 
@@ -145,6 +166,7 @@ Isabella may 1843-05-29 Isabella Galbreath, daughter of Neil and Elizabeth Blue
 | Dugald McGill     | Grandson | 19  | Baker       | Campbeltown |
 | Isabella Galbraith| Granddau | 7   | Scholar     | Campbeltown |
 
+## 507-3-12
 
 [1851 GALBRAITH, ARCHIBALD (Census 507/ 3/ 12) Page 12 of 31](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015077?image=12)
 
@@ -159,6 +181,8 @@ Isabella may 1843-05-29 Isabella Galbreath, daughter of Neil and Elizabeth Blue
 | Agnes Hall          | Sister-in-law | 33  |        | Glasgow     |
 | Dugald McCuly       | [missing] | [missing] |      | Campbeltown |
 
+## 507-3-18
+
 [1851 GALBRAITH, MARGRET (Census 507/ 3/ 18) Page 18 of 31](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015085?image=18)
 
 | Name             | Relation | Age  | Occupation | Birthplace |
@@ -171,6 +195,8 @@ Isabella may 1843-05-29 Isabella Galbreath, daughter of Neil and Elizabeth Blue
 | Neil             | Son      |  5   | Scholar    | Campbeltown |
 | Samuel           | Son      | 5m   |            | Campbeltown |
 
+## 507-3-23
+
 [1851 GALBRAITH, JOHN (Census 507/ 3/ 23) Page 23 of 31](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015090?image=23)
 
 | Name             | Relation | Age  | Occupation | Birthplace |
@@ -182,6 +208,8 @@ Isabella may 1843-05-29 Isabella Galbreath, daughter of Neil and Elizabeth Blue
 | John Galbraith      | Son   | 4    |            | same       |
 | Duncan Galbraith    | Son   | 1    |            | same       |
 
+## 507-3-26
+
 [1851 GALBRAITH, JOHN (Census 507/ 3/ 26) Page 26 of 31](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015084?image=26&return_row=21)
 
 | Name             | Relation | Age  | Occupation | Birthplace |
@@ -189,6 +217,7 @@ Isabella may 1843-05-29 Isabella Galbreath, daughter of Neil and Elizabeth Blue
 | Janet Banatine[?] | Head    | 40   | Spinster   | Kilean      |
 | John Galbraith    | Son     | 11   | Scholar    | Campbeltown |
 
+## 507-3-27
 
 [1851 GALBRAITH, CATHRINE (Census 507/ 3/ 27) Page 27 of 31](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015075?image=27)
 
@@ -197,6 +226,8 @@ Isabella may 1843-05-29 Isabella Galbreath, daughter of Neil and Elizabeth Blue
 | Catherine Shaw   | Head     | 32   | Farm Servant | Campbeltown |
 | Barbra Shaw      | Dau      | 3    |              | Campbeltown |
 | Catherine Galbraith | Dau   | 7    | Scholar      | Campbeltown |
+
+## 507-4-11
 
 [1851 GALBRAITH, PETER (Census 507/ 4/ 11) Page 11 of 32](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015992?image=11)
 
@@ -207,6 +238,8 @@ Isabella may 1843-05-29 Isabella Galbreath, daughter of Neil and Elizabeth Blue
 | William Galbraith   | Son  |  6 | Scholar            | Campbeltown |
 | Archibald Galbraith | Son  |  4 |                    | Campbeltown |
 | Jean Galbraith      | Dau  |  1 |                    | Campbeltown |
+
+## 507-4-14
 
 [1851 GALBRAITH, JOHN (Census 507/ 4/ 14) Page 14 of 32](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015990?image=14)
 
@@ -221,6 +254,8 @@ Note: brother of Peter, above.
 | Janet Galbraith  | Dau      | 4    |            | Campbeltown |
 | Isabella Galbraith | Dau    | 1    |            | Campbeltown |
 
+## 507-5-2
+
 [1851 GALBRAITH, JOHN (Census 507/ 5/ 2) Page 2 of 46](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015155?image=2)
 
 Next door to Templetons and Colvilles on Long Row St.
@@ -234,11 +269,15 @@ Next door to Templetons and Colvilles on Long Row St.
 | Mary [??]        | Servant  | 22    | House Servant        | [illegible] |
 | Mary McEachine   | Servant  | 16    | House Servant        | Campbeltown |
 
+## 507-5-3
+
 [1851 GALBRAITH, JANET (Census 507/ 5/ 3) Page 3 of 46](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015150?image=3)
 
 | Name               | Relation | Age  | Occupation | Birthplace  |
 |--------------------|----------|------|------------|-------------|
 | Janet Galbraith    | Servant  | 19   | House Servant  | Campbeltown |
+
+## 507-5-16
 
 [1851 GALBRAITH, MARGARET (Census 507/ 5/ 16) Page 16 of 46](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015153?image=16&)
 
@@ -246,6 +285,8 @@ Next door to Templetons and Colvilles on Long Row St.
 |--------------------|----------|------|------------|-------------|
 | Neil Galbraith     | Head     | 40   | Laborer    | Campbeltown |
 | Margaret Galbraith | Wife     | 36   | Laborer's Wife | Campbeltown |
+
+## 507-5-24
 
 [1851 GALBRAITH, ARCHIBALD (Census 507/ 5/ 24) Page 24 of 46](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015141?image=24)
 
@@ -258,6 +299,7 @@ Next door to Templetons and Colvilles on Long Row St.
 | Archibald          | Son    | 11 |                       | Campbeltown |
 | Angus              | Son    |  9 |                       | Campbeltown |
 
+## 507-5-32
 
 [1851 GALBRAITH, MARY (Census 507/ 5/ 32) Page 32 of 46](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015156?image=32)
 
@@ -270,6 +312,8 @@ John maybe listed as son of Angus and (unknown) mother on [ScotlandsPeople](http
 | Willian Galbraith | Son     | 17   | Apprentice Watch & Clock Maker | Same |
 | John Galbraith    | Son     | 15   | Apprentice [???] | Same |
 
+## 507-6-32
+
 [1851 GALLRAITH, WILLM (Census 507/ 6/ 32) Page 32 of 32](https://www.scotlandspeople.gov.uk/view-image/nrs_census/7219658?image=32)
 
 | Name             | Relation | Age | Occupation | Birthplace |
@@ -279,6 +323,7 @@ John maybe listed as son of Angus and (unknown) mother on [ScotlandsPeople](http
 | William Galbraith | Son     |  5   |            | Campbeltown |
 | Agnes Galbraith   | Dau     |  3   |            | Campbeltown |
 
+## 507-7-7
 
 [1851 GALBRATH, JANET (Census 507/ 7/ 7) Page 7 of 32](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3902815?image=7)
 
@@ -290,6 +335,8 @@ John maybe listed as son of Angus and (unknown) mother on [ScotlandsPeople](http
 | [William Galbraith](/people/galbreath-william-1833.md) | Son     | 17   | Fisherman | Campbeltown |
 | David Galbraith   | Son     | 15   | School Boy | Campbeltown |
 | John Galbraith    | Son     | 8    | School Boy | Campbeltown |
+
+## 507-7-21
 
 [1851 GALBRAITH, DAVID (Census 507/ 7/ 21) Page 21 of 32](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015271?image=21)
 
@@ -306,6 +353,8 @@ continues on page 22
 
 May be others on next page
 
+## 507-7-26
+
 [1851 GALBRAITH, NEILL (Census 507/ 7/ 26) Page 26 of 32](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015272?image=26)
 
 | Name             | Relation | Age | Occupation | Birthplace |
@@ -317,6 +366,8 @@ May be others on next page
 | John Galbraith   |  Son     |  7   | Scholar    | Gigha |
 | Neill Galbraith  |  Son     |  5   | Child      | Gigha |
 | Duncan Galbraith |  Son     |  2   | Young Child | Campbeltown |
+
+## 507-7-29
 
 [1851 CALBRAITH, DUNCAN (Census 507/ 7/ 29) Page 29 of 32](https://www.scotlandspeople.gov.uk/view-image/nrs_census/7175574?image=29)
 
@@ -330,12 +381,16 @@ May be others on next page
 | Daniel           | Son      | 5    | Child      | Argyllshire, Gigha |
 | Archibald        | Son      | 3    | Child      | Argyllshire, Gigha |
 
+## 507-8-1
+
 [1851 GALBRAITH, JOHN (Census 507/ 8/ 1) Page 1 of 27](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015283?image=1)
 
 | Name               | Relation | Age  | Occupation       | Birthplace      |
 |--------------------|----------|------|------------------|-----------------|
 | John Galbraith     | Head     | 20   | Shoemaker        | Island of [Barran]      |
 | Isabella Galbraith | Wife     | 25   | Shoemaker's Wife | Argyle, [Lynee?] |
+
+## 507-8-22
 
 [1851 GALBRAITH, CATHRINE (Census 507/ 8/ 22) Page 22 of 27](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015285?image=22)
 
@@ -345,12 +400,16 @@ May be others on next page
 | Catherine Galbraith | Wife    | 30   | Wife             | Ireland         |
 | Margaret Whiteson[?] | Mother-in-law | Mother-in-law    | Ireland         |
 
+## 507-9-2
+
 [1851 GALBRAITH, JEAN (Census 507/ 9/ 2) Page 2 of 30](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3016133?image=2)
 
 | Name             | Relation | Age  | Occupation | Birthplace |
 |------------------|----------|------|------------|------------|
 | Jean Galbraith   | Head     | 50   | Washerwoman | Campbeltown |
 | Ann Galbraith    | Sister   | 47   | Daymaker?   | Campbeltown |
+
+## 507-9-8
 
 [1851 GALBRAITH, MARGARET (Census 507/ 9/ 8) Page 8 of 30](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3016137?image=8)
 
@@ -360,6 +419,8 @@ May be others on next page
 | Mary Galbraith   | Wife     | 55   |            | Campbeltown |
 | Hugh? Anderson   | Grandchild | 9  | Scholar    | Campbeltown |
 | Mary Anderson    | Grandchild | 7  | Scholar    |  ???        |
+
+## 507-9-15
 
 [1851 GILBRAITH, JANET (Census 507/ 9/ 15) Page 15 of 30](https://www.scotlandspeople.gov.uk/view-image/nrs_census/6976185?image=15)
 
@@ -381,6 +442,8 @@ Misindexed or transcribed.  "Jane" is actually Jean Corbett, wife of [Archibald 
 | Mary Galbraith   | Dau      | 37   | Annuitant  | Campbeltown |
 
 May be others on next page
+
+## 507-9-26
 
 [1851 GALBRAITH, JEAN (Census 507/ 9/ 26) Page 26 of 30](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3016134?image=26&return_row=23)
 
@@ -454,11 +517,15 @@ Shore St, West side, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-i
 | Margaret Galbreath | Dau      | 14   |            | Campbeltown |
 | Ann Galbreath      | Dau      |  1   |            | Campbeltown |
 
+## 507-13-5
+
 [1851 GALBRAITH, ANGUS (Census 507/ 13/ 5) Page 5 of 12](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015475?image=5)
 
 | Name             | Relation | Age  | Occupation | Birthplace  |
 |------------------|----------|------|------------|-------------|
 | Angus Galbraith  | Servant  | 26   | Farm Servant | Campbeltown    |
+
+## 507-14-28
 
 [1851 GALBRAITH, NANCY (Census 507/ 14/ 28) Page 28 of 32](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015476?image=28)
 
@@ -466,9 +533,13 @@ Shore St, West side, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-i
 |------------------|----------|------|------------|-------------|
 | Nancy Galbraith  | Servant  | 20   | Farm Servant | Campbeltown    |
 
+## 507-15-6
+
 [1851 GALBRAITH, CATHERINE (Census 507/ 15/ 6) Page 6 of 16](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015477?image=6)
 
 TBD -- widow of McVicar, age 65, not from Campbeltown
+
+## 507-16-7
 
 [1851 GALBRAITH, CATHARINE (Census 507/ 16/ 7) Page 7 of 16](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015480?image=7)
 
@@ -497,6 +568,7 @@ Household of Neil Galbraith and Mary McMillian
 
 
 ## 507-18-5
+
 [1851 GALBRAETH, CATHERINE (Census 507/ 18/ 5) Page 5 of 7](https://www.scotlandspeople.gov.uk/view-image/nrs_census/7184728?image=5&return_row=12)
 
 | Name             | Relation | Age  | Occupation | Birthplace |
@@ -504,6 +576,7 @@ Household of Neil Galbraith and Mary McMillian
 | Catherine Galbraith | Servant | 15   | House Servant  | Gigha    |
 
 ## 507-19-9
+
 [1851 GALBRAITH, ISSABELLA (Census 507/ 19/ 9) Page 9 of 14](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015602?image=9)
 
 | Name             | Relation | Age  | Occupation | Birthplace |
