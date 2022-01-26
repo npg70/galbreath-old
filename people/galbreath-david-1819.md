@@ -2,7 +2,7 @@
 title: David Galbreath b ~ 1819
 familysearch: https://www.familysearch.org/tree/person/details/KCRW-WZZ
 ---
-***David Galbreath***, of unknown origin, was born say 1819. Given the lack of statuatory death records, it's possible he died before 1855.  The death record of his son Robert in 1885 indicates he was deceased by then.
+***David Galbreath***, son of Alexander Galbreath and Merran Galbreath, was bapitized in Gigha 3 Feb 1812.  He likely died between 1851 and 1855 since he is present in the 1851 census[^census1851 but there are no statutory records of death which started in 1855.  The death record of his son Robert in 1885 indicates he was deceased by then.
 
 He married, as a fisherman, at Campbeltown 3 Sep 1844 to **Catharine McKinnon**, "daughter of late John McKinnon, seaman."[^marriage]
 
