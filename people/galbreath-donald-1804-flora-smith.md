@@ -5,7 +5,7 @@ familysearch: XXX
 ***Donald Galbreath***, son of *John Galbreath* and *Catharine McTaggart*, was baptized at Gigha 10 Jul 1804. 
 At Gigha 7 Jun 1832, he married **Flora Smith**.[^marriage]
 
-Donald moved to the Campbeltowna area in 1835 or 1836, and is present in the 1841 Census[^census1841] and 1851 Census[^census1851] where he is listed as a fisherman.
+Donald moved to the Campbeltowna area in 1835 or 1836, and is present in the 1841 Census[^census1841] and 1851 Census[^census1851] where he is listed as a fisherman.  He died on Shore Street in Campbeltown, 29 Nov 1859.[^death]
 
 The 1861 Census[^census1861] for Shore Street, Campbeltown lists Flora ("formally a domestic servant"), along with children Duncan and Archibald, and grandchild Donald Ferguson.
 
@@ -20,6 +20,8 @@ Children of Donald and Flora (Smith) Galbreath:[^children]
 7. *Archibald Galbreath*, bp. 20 Dec 1847 Campbeltown[^archibald-birth]
  
 [^marriage]: Orig TBD, but listed on [FamilySearch](https://www.familysearch.org/ark:/61903/1:1:XTKZ-Z9S)
+
+[^death]: Statuatory records of Campbeltown, 1859 GALBRAITH, DONALD (Statutory registers Deaths 507/ 123), [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/292757).  "Donald Galbraith, fisherman, married".  Unfortunately doesn't say who. It lists an age of 55 which would imply a birth year of 1804.  The parents are listed as John Galbraith, Weaver (deceased) and Catherine McTaggart (deceased).  Possibily burried in Kilkerran Graveyard. And finally Duncan Galbraith, son, confirmed the death.
 
 [^children]: OPR records of children of Donald Galbreath and Flora Smith, from [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=fuzzy&forename_so=starts&from_year=1830&to_year=1850&parent_names_so=exact&parent_name_two=flora%20smith&parent_name_two_so=exact&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&sort=asc&order=Date&field=year)
 
