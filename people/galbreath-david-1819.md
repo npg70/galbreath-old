@@ -2,7 +2,7 @@
 title: David Galbreath b ~ 1819
 familysearch: https://www.familysearch.org/tree/person/details/KCRW-WZZ
 ---
-***David Galbreath***, son of Alexander Galbreath and Merran Galbreath, was bapitized in Gigha 3 Feb 1812.  He likely died between 1851 and 1855 since he is present in the 1851 census[^census1851] but there are no statutory records of death which started in 1855.  The death record of his son Robert in 1885 indicates he was deceased by then.
+***David Galbreath***, son of Alexander Galbreath and Merran Galbreath, was bapitized in Gigha 3 Feb 1812.[^birth] He likely died between 1851 and 1855 since he is present in the 1851 census[^census1851] but there are no statutory records of death which started in 1855.  The death record of his son Robert in 1885 indicates he was deceased by then.
 
 He married, as a fisherman, at Campbeltown 3 Sep 1844 to **Catharine McKinnon**, "daughter of late John McKinnon, seaman."[^marriage]
 
@@ -12,6 +12,8 @@ Children of David and Catharine (McKinnon) Galbreath, all baptized at Campbeltow
 2. *Isabella Galbreath*, bp. 15 Nov 1847[^isabella-birth], TBD
 3. *Margaret Galbraith*, bp. 26 Dec 1849[^margaret-birth], TBD
 4. *Robert Galbraith*, bp. 20 Jun 1852,[^robert-birth] d. 18 May 1885, unmarried.[^robert-death]
+
+[^birth]: OPR Gigha, baptism of David Galbreath, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=fuzzy&forename=david&forename_so=starts&sex=M&from_year=1810&to_year=1812&parent_names_so=exact&parent_name_two_so=exact&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
 
 [^marriage]: OPR Campbeltown, marriage of 03/09/1844 GALBREATH, DAVID (Old Parish Registers Marriages 507/ 60 399 Campbeltown) Page 399 of 478, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/9530949?image=399)
     > David Galbreath, Fisherman, and Cath. McKinnon
