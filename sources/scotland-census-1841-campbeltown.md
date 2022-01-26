@@ -21,7 +21,7 @@ Stone house near quay head?, [ScotslandsPeople](https://www.scotlandspeople.gov.
 | name | age | occupation |
 |------|-----|------------|
 | Donald Galbreath | 35 | Seaman & Fisher |
-| Flora Galbreath  | 30 |  |
+| Flora Galbreath [Smith] | 30 |  |
 | John Galbreath   | 8  |  |
 | Malcolm Galbreath | 4 |  |
 | Margaret Galbreath | 2 | |
