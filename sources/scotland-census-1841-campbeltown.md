@@ -197,6 +197,25 @@ Drumore House
 | Abert   |  6 |  |
 | Henry   |  4 |  |
 
+## 507-26-7
+
+Jomack?
+
+| name | age | occupation |
+|------|-----|------------|
+| Archibald McGreachy | 35 | Wright |
+| [many others] | | |
+| Donald Galbreath | 18 | Ap [apprentice?] Wright |
+
+Lagmagarch, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_census/1186964?image=7)
+
+| name | age | occupation |
+|------|-----|------------|
+| Niel Galbreath | 50 | Farmer |
+| Marey Galbreath | 48 |        |
+| Marey Galbreath | 20 |        |
+| Hugh Galbreath | 18 |   |
+| Janet Galbreath | 15 |  |
 ## Census 507-28-7
 
 (Census 507/ 28/ 7) Page 7 of 17; [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_census/476?image=7)
