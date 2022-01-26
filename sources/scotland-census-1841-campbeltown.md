@@ -162,6 +162,15 @@ Longrow; [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_cen
 |------|-----|------------|
 | Mary Galbreath | 71 |   |
 
+## 507-12-13
+
+Long row, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_census/1380987?image=13)
+
+| name | age | occupation |
+|------|-----|------------|
+| Neil Galbreath | 25 | Ag Laborer |
+| Margaret Galbreath | 25 |        |
+
 ## 507-13-7
 
 Lochend, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_census/1034?image=7)
