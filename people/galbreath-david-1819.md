@@ -6,6 +6,11 @@ familysearch: https://www.familysearch.org/tree/person/details/KCRW-WZZ
 
 He married, as a fisherman, at Campbeltown 3 Sep 1844 to **Catharine McKinnon**, "daughter of late John McKinnon, seaman."[^marriage]
 
+Maybe 1841 Census: South Drimcrow, Gigha https://www.findmypast.com/transcript?id=GBC%2F1841%2F0016661129  has the only david in Gigha.  Also has ALexander (father) at age 60 / ~1781, and Marion age 20 / ~ 1821, and some grandchild? Alex age 5 / 1836.   Ages are all rounded to nearest 5 so who knows.
+
+Multiple Merrans died in the 1830, with birth in 1780s so this could be ok.
+
+
 Children of David and Catharine (McKinnon) Galbreath, all baptized at Campbeltown:
 
 1. *Alexander Galbreath*, bp. 15 Jul 1845,[^alexander-birth] d. 4 Dec 1887 at the Campbeltown Poorhouse, unmarried.[^alexander-death]
