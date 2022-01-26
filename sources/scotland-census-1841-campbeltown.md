@@ -216,7 +216,24 @@ Lagmagarch, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_
 | Marey Galbreath | 20 |        |
 | Hugh Galbreath | 18 |   |
 | Janet Galbreath | 15 |  |
-## Census 507-28-7
+
+## 507-26-9
+
+Drumore, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_census/1186965?image=9)
+
+| name | age | occupation |
+|------|-----|------------|
+| David Galbreath | 40 | Farmer |
+| Mary Galbreath  | 40 |   |
+| David Galbreath | 20 |   |
+| Mary Galbreath  | 15 |   |
+| Janet Galbreath | 14 |   |
+| John Galbreath  | 12 |    |
+| Jean Galbreath  | 9  |    |
+| Margaret Galbreath | 7 |  |
+| Archibald Galbreath | 4 | |
+
+## 507-28-7
 
 (Census 507/ 28/ 7) Page 7 of 17; [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_census/476?image=7)
 
