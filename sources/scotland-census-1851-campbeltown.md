@@ -392,7 +392,7 @@ May be others on next page
 
 ## 507-11-16
 
-More St, east side, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_census/5260583?image=16)
+Shore St, east side, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_census/5260583?image=16)
 
 | Name             | Relation | Age  | Occupation | Birthplace |
 |------------------|----------|------|------------|------------|
@@ -409,6 +409,19 @@ More St, east side, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-im
 |------------------|----------|------|------------|-------------|
 | Allan Galbraith  | Head     | 25   | Sea Man    | Kilberry    |
 | Agness Galbraith | Wife     | 26   |            | Campbeltown |
+
+## 507-11-20
+
+Shore St, West side, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_census/5260575?image=20)
+
+| Name             | Relation | Age  | Occupation | Birthplace  |
+|------------------|----------|------|------------|-------------|
+| Marion Galbreath | Head  (widowed)    | 35   | Washerwoman | Killean    |
+| James Galbreath  | Son      | 10   | Scholar     | Killean    |
+| Margaret Galbreath | Dau    | 9    | Scholar     | Campbeltown |
+| William Orr  | Second Cousin | 23  | Fisherman   | Gigha       |
+| John Bean/Barr | Second Cousin | 21 | Fisherman  | Gigha       |
+| Duncan Barr    | Second Cousin | 19 | Fisherman  | Gigha       |
 
 ## 507-11-29
 
