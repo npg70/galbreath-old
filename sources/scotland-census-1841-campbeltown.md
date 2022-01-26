@@ -19,6 +19,18 @@ Stone house near quay head?, [ScotslandsPeople](https://www.scotlandspeople.gov.
 
 The last two maybe connected to John Maitland, 45,Millier,  and Catherine McInver 45?
 
+## 507-6-13
+
+Flemming's Land, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_census/1187070?image=13)
+
+| name | age | occupation |
+|------|-----|------------|
+| John Galbreath | 27 | Seaman | 
+| Margaret Galbreath | 25 |    |
+| Archibald Galbreath | 5 |    |
+| Neil Galbreath      | 3 |    |
+| Edward Galbreath    | 1 |    |
+
 ## 507-7-13
 
 Watson ??, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_census/1186873?image=13)
@@ -228,13 +240,15 @@ Main Street, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs
 | Neil Galbreath      | 43  | Laborer    |
 | Mary Galbreath      | 32  |            |
 
+Continues on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_census/1186910?image=7)
 
 | name                | age | occupation |
 |---------------------|-----|------------|
 | Donald Galbreath    | 48  | Laborer    |
 | Ann Galbreath       | 48  |            |
-
-may be continued on next page
+| Ann Galbreath       | 10  |            |
+| Margaret Galbreath  |  8  |            |
+| Elizabeth Galbreath |  6  |            |
 
 ## 507-16-25
 
