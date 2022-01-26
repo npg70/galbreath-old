@@ -390,6 +390,25 @@ May be others on next page
 | Mary Galbraith   | Wife     | 26    | Wife      | Islay    |
 | Jean Galbraith   | Visitor  | 21   | [???]      | Islay    |
 
+## 507-10-21
+
+[ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_census/5260473?image=21)
+
+| Name             | Relation | Age  | Occupation | Birthplace |
+|------------------|----------|------|------------|------------|
+| Marion Galbreath (widowed)| Lodger   | 68   | Pauper     | Gigha      |
+
+## 507-11-11
+
+Shore Street, West Side; [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_census/5260586?image=11)
+
+| Name             | Relation | Age  | Occupation | Birthplace  |
+|------------------|----------|------|------------|-------------|
+| John McFarlane   | Head     | 73   | Penniver exec revenue[???]          | Kilcalmonel |
+| Sarah Galbreath  | Wife     | 36   |            | Gigha       |
+| Alexander McIssac | Step-son | 15  | Scholar    | Gigha       |
+| Sarah McFarlane  | dau       | 5   | Scholar    | Campbeltown |
+
 ## 507-11-16
 
 Shore St, east side, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_census/5260583?image=16)
@@ -458,6 +477,7 @@ TBD -- widow of McVicar, age 65, not from Campbeltown
 | Hugh Galbraith   | Head     | 28   | Farm Servant   | Campbeltown |
 | Catharine Galbraith | Wife  | 29   | Servant's Wife | Killean     |
 
+## 507-17-13
 
 [1851 GALBRAITH, MARY (Census 507/ 17/ 13) Page 13 of 17](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015599?image=13)
 
@@ -475,12 +495,15 @@ Household of Neil Galbraith and Mary McMillian
 | Arch. Gilchrist  | Servant   | 14  | Cowherd                              | Laurant[?], Glasgow |
 | Elizabeth Boyles | Servant   | 16  | Domestic Servant | Campbeltown |
 
+
+## 507-18-5
 [1851 GALBRAETH, CATHERINE (Census 507/ 18/ 5) Page 5 of 7](https://www.scotlandspeople.gov.uk/view-image/nrs_census/7184728?image=5&return_row=12)
 
 | Name             | Relation | Age  | Occupation | Birthplace |
 |------------------|----------|------|------------|------------|
 | Catherine Galbraith | Servant | 15   | House Servant  | Gigha    |
 
+## 507-19-9
 [1851 GALBRAITH, ISSABELLA (Census 507/ 19/ 9) Page 9 of 14](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015602?image=9)
 
 | Name             | Relation | Age  | Occupation | Birthplace |
@@ -489,6 +512,19 @@ Household of Neil Galbraith and Mary McMillian
 | Isabella Galbraith | Wife   | 30   |            | Campbeltown |
 | Angus Galbraith  |  Dau [?] | 6    | At home    | Campbeltown |
 | Isabella Galbraith | Dau    | 1    | At home    | Campbeltown |
+
+## 507-19-12
+
+[ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_census/7270835?image=12)
+
+| Name             | Relation | Age  | Occupation | Birthplace |
+|------------------|----------|------|------------|------------|
+| Neil Galbreath   | visitor  | 24   | Farm Laborer | Saddell  |
+
+very hard to read what farm he was on
+
+
+## 507-22-1
 
 [1851 GALBRAIH, MARY (Census 507/ 22/ 1) Page 1 of 7](https://www.scotlandspeople.gov.uk/view-image/nrs_census/7263777?image=1)
 
