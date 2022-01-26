@@ -84,6 +84,6 @@ It's unclear where [Archibald Galbreath](/people/galbreath-archibald-1775.md) ca
 
 Found this by accident, [Archibald Galbraith](/people/galbraith-archibald-1865.md) buried at Kilkerran graveyard.
 
-## Duncan Galbreath b. 1804 / Flora Smith
+## Donald Galbreath b. 1804 / Flora Smith
 
-[Duncan Galbreath](/people/galbreath-donald-1804-flora-smith.md) and Flora Smith, both from Gigha, got married, had a few children, then moved to Campbeltown.
+[Donald Galbreath](/people/galbreath-donald-1804-flora-smith.md) and Flora Smith, both from Gigha, got married, had a few children, then moved to Campbeltown.
