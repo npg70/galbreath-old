@@ -2,6 +2,42 @@
 title: Census 1841 Campbeltown
 ---
 
+## 507-2-1
+
+Stone house near quay head?, [ScotslandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_census/1187048?image=1)
+
+| name | age | occupation |
+|------|-----|------------|
+| Donald Galbreath | 35 | Seaman & Fisher |
+| Flora Galbreath  | 30 |  |
+| John Galbreath   | 8  |  |
+| Malcolm Galbreath | 4 |  |
+| Margaret Galbreath | 2 | |
+| Duncan Galbreath  | 2m | |
+| Archibald Galbreath | 25 | Seaman & Fisher |
+| John Galbreath      | 2  |   |
+
+The last two maybe connected to John Maitland, 45,Millier,  and Catherine McInver 45?
+
+## 507-7-13
+
+Watson ??, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_census/1186873?image=13)
+
+| name | age | occupation |
+|------|-----|------------|
+| Donald Galbreath | 35 | Seaman & Fisher |
+| Flora Galbreath  | 30 |  |
+| John Galbreath   | 8  |  |
+| Malcolm Galbreath | 4 |  |
+| Margaret Galbreath | 2 | |
+| Duncan Galbreath  | 2m | |
+| Archibald Galbreath | 25 | Seaman & Fisher |
+| John Galbreath      | 2  |   |
+
+
+The last two maybe connected to John Maitland 45, and Catherine McInver 45?
+| Jean Galbreath | 35 |   |
+| Ann Galbreath  | 30 |   |
 
 
 ## 507-7-15
@@ -81,6 +117,19 @@ Founder Scotia Distillery, son of Archibald and Jean Corbet, listed [above](#507
 | [John Galbraith](/people/galbraith-john-1809.md) | 55 |   |
 | Mary           | 25 |   |
 | [Elizabeth](/people/galbraith-elizabeth-1841.md)  | 2m |   |
+
+## 507-11-3
+
+Longrow, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_census/1187177?image=3), continues on 507-11-4
+
+| name | age | occupation |
+|------|-----|------------|
+| Archibald Galbreath | 35 | [bower?] |
+| Barbra Galbreath    | 35 |  |
+| Duncan Galbreath    | 10 |  |
+| Alexander Galbreath | 5  |  |
+| Margaret Galbreath  | 3  |  |
+| Archibald Galbreath | 1  |  |
 
 ## 507-11-7
 
