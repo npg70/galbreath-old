@@ -1,6 +1,6 @@
 ---
 title: Donald Galbreath b. 1804 m. Flora Smith
-familysearch: XXX
+familysearch: https://www.familysearch.org/tree/person/details/KHMS-7WX
 ---
 ***Donald Galbreath***, son of *John Galbreath* and *Catharine McTaggart*, was baptized at Gigha 10 Jul 1804. 
 At Gigha 7 Jun 1832, he married **Flora Smith**.[^marriage]
