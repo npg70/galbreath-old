@@ -344,8 +344,8 @@ continues on page 22
 
 | Name             | Relation | Age  | Occupation | Birthplace |
 |------------------|----------|------|------------|------------|
-| David Galbraith  | Head     | 40   | Fisher[?]  | Gigha      |
-| Katie Galbraith  | Wife     | 42   |            | Campbeltown |
+| [David Galbraith](/people/galbreath-david-1819.md)  | Head     | 40   | Fisher[?]  | Gigha      |
+| Katie Galbraith [McKinnon] | Wife     | 42   |            | Campbeltown |
 | Alexander Galbraith | Son   |  6   |            | Campbeltown |
 | Bella Galbraith  | Dau      |  3   | Fisher's Dau | Campbeltown |
 | Margaret Galbraith | Dau    |  2   | Fisher's Dau | Campbeltown |
@@ -582,7 +582,7 @@ Household of Neil Galbraith and Mary McMillian
 | Name             | Relation | Age  | Occupation | Birthplace |
 |------------------|----------|------|------------|------------|
 | Donald Galbraith | Head     | 30   | Wright[?]  | Killean    |
-| Isabella Galbraith | Wife   | 30   |            | Campbeltown |
+| Isabella Galbraith [McLean]| Wife   | 30   |            | Campbeltown |
 | Angus Galbraith  |  Dau [?] | 6    | At home    | Campbeltown |
 | Isabella Galbraith | Dau    | 1    | At home    | Campbeltown |
 
