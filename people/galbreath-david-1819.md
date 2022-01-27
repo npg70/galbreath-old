@@ -1,5 +1,5 @@
 ---
-title: David Galbreath b ~ 1819
+title: David Galbreath b. 1812 m. Catharine McKinnon
 familysearch: https://www.familysearch.org/tree/person/details/KCRW-WZZ
 ---
 ***David Galbreath***, son of Alexander Galbreath and Merran Galbreath, was bapitized in Gigha 3 Feb 1812.[^birth] He likely died between 1851 and 1855 since he is present in the 1851 census[^census1851] but there are no statutory records of death which started in 1855.  The death record of his son Robert in 1885 indicates he was deceased by then.
