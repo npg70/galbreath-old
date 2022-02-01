@@ -51,9 +51,11 @@ Agnes Galbraith, daugher of [David Galbreath](/people/galbreath-david-1797.md) a
 
 [1851 GALBRAITH, DANIEL (Census 507/ 2/ 12) Page 12 of 29](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015935?image=12)
 
+TBD: Duncan Galbreath x Mary Thomson
+
 | Name               | Relation | Age  | Occupation | Birthplace     |
 |--------------------|----------|------|------------|----------------| 
-| Mary Galbraith     | Head     | 35   |            | Killean        |
+| Mary Galbraith [Thomson]    | Head     | 35   |            | Killean        |
 | Betsy Galbraith    | Dau      | 4    |            | Campbeltown    |
 | Daniel Galbraith   | Son      | 2    |            | Campbeltown    |
 | Betsy McCallum     | Aunt     | 56   | Formally Farm Servant | Saddell |
@@ -89,10 +91,12 @@ continues on next page
 
 Starts on 2/20.. has multiple blank pages, then continues on 23.
 
+TBD: DUNCAN GALBRAITH/CATHARINE MCFAYTER
+
 | Name             | Relation | Age  | Occupation | Birthplace   |
 |------------------|----------|------|------------|--------------|
 | Duncan Galbraith | Head     | 31   | Farm Laborer | Killean    |
-| Catherine Galbraith | Wife  | 29   |            |  Killean     |
+| Catherine Galbraith [McFayter] | Wife  | 29   |            |  Killean     |
 | Peggt McFalter    | Visitor   | 37  |           | Killean      |
 | Archibald Galbraith | Son   | 5    |            | Killean      |
 | Agnus Galbraith     | Son   | 3    |            | Campbeltown  |
@@ -124,7 +128,7 @@ Other children and grandchildren listed.
 
 | Name             | Relation | Age  | Occupation | Birthplace |
 |------------------|----------|------|------------|------------|
-| Elizabeth Fraser | Head     | 47   | Wife of D. S. Galbraith, landed proprietor | London, England |
+| Elizabeth Fraser | Head     | 47   | Wife of [D. S. Galbraith](/people/galbraith-david-stewart-1782.md), landed proprietor | London, England |
 | Alfred S Galbraith | Son    | 19   |            | Campbeltown |
 | Robert L Galbraith | Son    | 15   |  Scholar   | Saddell     |
 | Henry L Galbraith  | Son    | 13   |  Scholar   | Campbeltown |
@@ -308,11 +312,11 @@ Next door to Templetons and Colvilles on Long Row St.
 John maybe listed as son of Angus and (unknown) mother on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbraith&surname_so=fuzzy&forename=john&forename_so=starts&sex=M&from_year=1834&to_year=1840&parent_names_so=exact&parent_name_two_so=exact&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
 
 | Name             | Relation | Age  | Occupation | Birthplace |
-|------------------|----------|------|------------|------------|
-| Mary Galbraith   | Head     | 48   | Laundry    | Kilconel?   |
-| David Galbraith   | Son     | 19   | Apprentice Painter | same |
-| Willian Galbraith | Son     | 17   | Apprentice Watch & Clock Maker | Same |
-| John Galbraith    | Son     | 15   | Apprentice [???] | Same |
+|------------------|----------|------|--------------------------------|------------|
+| Mary Galbraith    | Head    | 48   | Laundry                        | Kilconel?  |
+| David Galbraith   | Son     | 19   | Apprentice Painter             | same       |
+| Willian Galbraith | Son     | 17   | Apprentice Watch & Clock Maker | Same       |
+| John Galbraith    | Son     | 15   | Apprentice [???]               | Same       |
 
 ## 507-6-32
 
@@ -359,10 +363,11 @@ May be others on next page
 
 [1851 GALBRAITH, NEILL (Census 507/ 7/ 26) Page 26 of 32](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015272?image=26)
 
+TBD: NEIL GALBRAITH/FLORA MCNEAL
 | Name             | Relation | Age | Occupation | Birthplace |
 |------------------|----------|------|------------|------------|
 | Neill Galbraith  | Head     | 44   | Fisherman  |  Gigha |
-| Flora Galbraith  | Wife     | 44   | Wife of    | Gigha |
+| Flora Galbraith [McNeal]  | Wife     | 44   | Wife of    | Gigha |
 | Mary Galbraith   | Dau      | 12   | Scholar    | Gigha |
 | Malcolm Galbraith | Son     | 10   | Scholar    | Gigha |
 | John Galbraith   |  Son     |  7   | Scholar    | Gigha |
@@ -375,13 +380,13 @@ May be others on next page
 
 | Name             | Relation | Age | Occupation | Birthplace |
 |------------------|----------|------|------------|------------|
-| [Donald Galbraith](/people/galbreath-donald-1804-flora-smith.md) | Head     | 47   | Fisherman  | Argyllshire, Gigha |
-| Flora [Smith]    | Wife     | 47   | Wife of    | Argyllshire, Gigha |
-| Malcolm          | Son      | 14   | Scholar    | Argyllshire, Gigha |
-| Duncan           | Son      | 9    | Scholar    | Argyllshire, Gigha |
-| Catherine        | Dau      | 7    | Scholar    | Argyllshire, Gigha |
-| Daniel           | Son      | 5    | Child      | Argyllshire, Gigha |
-| Archibald        | Son      | 3    | Child      | Argyllshire, Gigha |
+| [Donald Galbraith](/people/galbreath-donald-1804-flora-smith.md) | Head     | 47   | Fisherman  | Gigha |
+| Flora [Smith]    | Wife     | 47   | Wife of    | Gigha |
+| Malcolm          | Son      | 14   | Scholar    | Gigha |
+| Duncan           | Son      | 9    | Scholar    | Gigha |
+| Catherine        | Dau      | 7    | Scholar    | Gigha |
+| Daniel           | Son      | 5    | Child      | Gigha |
+| Archibald        | Son      | 3    | Child      | Gigha |
 
 ## 507-8-1
 
@@ -396,11 +401,11 @@ May be others on next page
 
 [1851 GALBRAITH, CATHRINE (Census 507/ 8/ 22) Page 22 of 27](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015285?image=22)
 
-| Name               | Relation | Age  | Occupation       | Birthplace      |
-|--------------------|----------|------|------------------|-----------------|
-| Donald Galbraith   | Head     | 36   | Farm Laborer     | Gigha           |
-| Catherine Galbraith | Wife    | 30   | Wife             | Ireland         |
-| Margaret Whiteson[?] | Mother-in-law | Mother-in-law    | Ireland         |
+| Name                 | Relation | Age  | Occupation       | Birthplace      |
+|----------------------|----------|------|------------------|-----------------|
+| Donald Galbraith     | Head     | 36   | Farm Laborer     | Gigha           |
+| Catherine Galbraith  | Wife     | 30   | Wife             | Ireland         |
+| Margaret Whiteson[?] | Mother-in-law | [?] | Mother-in-law    | Ireland         |
 
 ## 507-9-2
 
@@ -426,9 +431,9 @@ May be others on next page
 
 [1851 GILBRAITH, JANET (Census 507/ 9/ 15) Page 15 of 30](https://www.scotlandspeople.gov.uk/view-image/nrs_census/6976185?image=15)
 
-| Name             | Relation | Age  | Occupation | Birthplace |
-|------------------|----------|------|------------|------------|
-| Janet Galbraith  | Head     | 75   | Housekeeper   |  Campbeltown |
+| Name             | Relation | Age  | Occupation    | Birthplace  |
+|------------------|----------|------|---------------|-------------|
+| Janet Galbraith  | Head     | 75   | Housekeeper   | Campbeltown |
 
 Others, can't figure out, janet is un married.
 
@@ -438,7 +443,7 @@ Misindexed or transcribed.  "Jane" is actually Jean Corbett, wife of [Archibald 
 
 | Name             | Relation | Age  | Occupation | Birthplace |
 |------------------|----------|------|------------|------------|
-| Jean Galbraith   | Head     | 80   | Annuitant  | Campbeltown |
+| Jean Galbraith[Jane Corbett]   | Head     | 80   | Annuitant  | Campbeltown |
 | Martha Galbraith | Dau      | 59   | Annuitant  | Campbeltown |
 | William Galbraith | Son     | 50   | Merchant   | Campbeltown |
 | Mary Galbraith   | Dau      | 37   | Annuitant  | Campbeltown |
@@ -452,7 +457,7 @@ May be others on next page
 | Name             | Relation | Age  | Occupation | Birthplace |
 |------------------|----------|------|------------|------------|
 | Donald Galbraith | Head     | 50   | Independant Minister | Islay |
-| Mary Galbraith   | Wife     | 26    | Wife      | Islay    |
+| Mary Galbraith   | Wife     | 26   | Wife       | Islay    |
 | Jean Galbraith   | Visitor  | 21   | [???]      | Islay    |
 
 ## 507-10-21
@@ -467,23 +472,25 @@ May be others on next page
 
 Shore Street, West Side; [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_census/5260586?image=11)
 
-| Name             | Relation | Age  | Occupation | Birthplace  |
-|------------------|----------|------|------------|-------------|
-| John McFarlane   | Head     | 73   | Penniver exec revenue[???]          | Kilcalmonel |
-| Sarah Galbreath  | Wife     | 36   |            | Gigha       |
-| Alexander McIssac | Step-son | 15  | Scholar    | Gigha       |
-| Sarah McFarlane  | dau       | 5   | Scholar    | Campbeltown |
+| Name              | Relation | Age  | Occupation | Birthplace  |
+|-------------------|----------|------|------------|-------------|
+| John McFarlane    | Head     | 73   | Penniver exec revenue[???]          | Kilcalmonel |
+| Sarah Galbreath   | Wife     | 36   |            | Gigha       |
+| Alexander McIssac | Step-son | 15   | Scholar    | Gigha       |
+| Sarah McFarlane   | dau      | 5    | Scholar    | Campbeltown |
 
 ## 507-11-16
 
 Shore St, east side, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_census/5260583?image=16)
 
-| Name             | Relation | Age  | Occupation | Birthplace |
-|------------------|----------|------|------------|------------|
-| Archibald Galbreath | Head  | 38   | Fisherman  | Gigha      |
-| Elizabeth Galbreath | Wife  | 36   |            | Campbeltown |
+TBD: ARCHIBALD GALBREATH/ELIZABETH MAITLAND
+
+| Name             | Relation | Age  | Occupation | Birthplace  |
+|---------------------|-------|------|------------|-------------|
+| Archibald Galbreath | Head  | 38   | Fisherman  | Gigha       |
+| Elizabeth Galbreath[Maitland] | Wife  | 36   |            | Campbeltown |
 | John Galbreath      | Son   | 12   | Scholar    | Campbeltown |
-| Flora Galbreath     | Dau   |  7   | Schoalr    | Campbeltown |
+| Flora Galbreath     | Dau   |  7   | Scholar    | Campbeltown |
 
 ## 507-11-18
 
@@ -499,11 +506,11 @@ Shore St, east side, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-i
 Shore St, West side, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_census/5260575?image=20)
 
 | Name             | Relation | Age  | Occupation | Birthplace  |
-|------------------|----------|------|------------|-------------|
-| Marion Galbreath | Head  (widowed)    | 35   | Washerwoman | Killean    |
-| James Galbreath  | Son      | 10   | Scholar     | Killean    |
+|--------------------|----------|------|------------|-------------|
+| Marion Galbreath   | Head  (widowed)    | 35   | Washerwoman | Killean    |
+| James Galbreath    | Son    | 10   | Scholar     | Killean    |
 | Margaret Galbreath | Dau    | 9    | Scholar     | Campbeltown |
-| William Orr  | Second Cousin | 23  | Fisherman   | Gigha       |
+| William Orr    | Second Cousin | 23 | Fisherman  | Gigha       |
 | John Bean/Barr | Second Cousin | 21 | Fisherman  | Gigha       |
 | Duncan Barr    | Second Cousin | 19 | Fisherman  | Gigha       |
 
