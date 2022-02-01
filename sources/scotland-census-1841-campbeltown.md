@@ -292,7 +292,7 @@ Drumore House
 
 | name | age | occupation |
 |------|-----|------------|
-| Elizabeth Galbraith | 50 | Wife to D. Galbraith of Mal... |
+| Elizabeth Galbraith[Fraser] | 50 | Wife to [D. Galbraith](/people/galbraith-david-stewart-1782.md) of Mal... |
 | Alex.   | 20 |  |
 | Julia   | 15 |  |
 | Emma    | 14 |  |
