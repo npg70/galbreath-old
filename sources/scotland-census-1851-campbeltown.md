@@ -27,8 +27,8 @@ married but spouse missing
 
 | Name               | Relation | Age  | Occupation | Birthplace     |
 |--------------------|----------|------|------------|----------------|
-| John Galbraith     | Head     | 29   | Fisher     | Campbeltown    |
-| Margaret Galbraith | Wife     | 27   |            | Ayr            |
+| [John Galbraith](/people/galbreath-john-1821.md)     | Head     | 29   | Fisher     | Campbeltown    |
+| Margaret Galbraith[Cook] | Wife     | 27   |            | Ayr            |
 | Niel Galbraith     | Son      | 9    | Scholar    | Campbeltown    |
 | Margaret Galbraith | Dau      | 6    |            | Campbeltown    |
 | John Galbraith     | Son      | 3    |            | Campbeltown    |
