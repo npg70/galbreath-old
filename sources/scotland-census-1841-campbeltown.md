@@ -44,6 +44,10 @@ Shore Street, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nr
 
 Flemming's Land, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_census/1187070?image=13)
 
+Maybe JOHN GALBREATH/MARGARET MCKECHNIE
+
+Only Neil seems to have a birth record if correct: [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=fuzzy&forename_so=starts&from_year=1830&to_year=1842&parent_names_so=exact&parent_name_two=MCKECHNIE&parent_name_two_so=fuzzy&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
+
 | name | age | occupation |
 |------|-----|------------|
 | John Galbreath | 27 | Seaman | 
@@ -157,7 +161,7 @@ Longrow, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_cen
 
 | name | age | occupation |
 |------|-----|------------|
-| Archibald Galbreath | 35 | [bower?] |
+| [Archibald Galbreath](/people/galbraith-archibald-1800.md) | 35 | [bower?] |
 | Barbra Galbreath    | 35 |  |
 | Duncan Galbreath    | 10 |  |
 | Alexander Galbreath | 5  |  |
@@ -223,7 +227,7 @@ Saddel Street, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/n
 
 | name                | age | occupation         |
 |---------------------|-----|--------------------|
-| John Galbreath      | 30  | Distillery Laborer |
+| [John Galbreath](/people/galbraith-john-1804.md)      | 30  | Distillery Laborer |
 | Janet Galbreath     | 25  |                    |
 | Jane Galbreath      |  1  |                    |
 
@@ -233,8 +237,8 @@ Burnside St, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs
 
 | name                | age | occupation |
 |---------------------|----|--------|
-| Archibald Galbreath | 37 | Mason  |
-| Ann Galbreath       | 30 |        |
+| [Archibald Galbreath](/people/galbreath-archibald-1800.md) | 37 | Mason  |
+| Ann Galbreath[Henderson]  | 30 |        |
 | Neill Galbreath     |  7 |        |
 | Margaret Galbreath  |  4 |        |
 | Margaret Galbreath  | 85 |        |
