@@ -38,6 +38,8 @@ married but spouse missing
 
 [1851 GALBRAITH, AGNESS (Census 507/ 1/ 29) Page 29 of 37](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3014733?image=29)
 
+Agnes Galbraith, daugher of [David Galbreath](/people/galbreath-david-1797.md) and Janet Mitchell.
+
 | Name               | Relation | Age  | Occupation | Birthplace     |
 |--------------------|----------|------|------------|----------------|
 | John Carmichael    | Head     | 26   | Fisher     | Ayrshrire, [???] |
