@@ -367,8 +367,8 @@ Drumore, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_cen
 
 | name | age | occupation |
 |------|-----|------------|
-| David Galbreath | 40 | Farmer |
-| Mary Galbreath  | 40 |   |
+| [David Galbreath](/people/galbreath-david-1793.md) | 40 | Farmer |
+| Mary Galbreath[Greenlees]  | 40 |   |
 | David Galbreath | 20 |   |
 | Mary Galbreath  | 15 |   |
 | Janet Galbreath | 14 |   |
