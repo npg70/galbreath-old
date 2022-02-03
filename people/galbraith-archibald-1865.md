@@ -2,7 +2,8 @@
 title: Archibald Galbraith b. 1865 m. Margaret Robertson
 findagrave: https://www.findagrave.com/memorial/179781210/alexander-galbraith
 ---
-***Archibald Galbraith***, son of Daniel/Donald Galbraith and Isabella McDermid, was born Campbeltown 1 July 1865[^birth],
+***Archibald Galbraith***, son of [Daniel/Donald Galbraith](galbraith-donald-1831-isabella-mcdermid.md) and Isabella McDermid,
+was born Campbeltown 1 July 1865[^birth],
 and died 29 Nov 1949, and buried at Kilkerran Graveyard.[^burial]
 
 He married at Greenock on 15 Jul 1809[^marriage] to **Margaret Robertson**, died 22 Apr 1950.[^burial]
