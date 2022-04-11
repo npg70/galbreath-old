@@ -165,6 +165,12 @@ Canidates of Janet on [ScotlandPeoples](https://www.scotlandspeople.gov.uk/recor
 
 > 816	Erected by LACH. McNEIL your. Of Kilchrist in memory of CATHARIN CLARK his spouse who died 10 November 1732 her age 17.  By CATHERINE McNEILL in memory of her husband JAMES GALBRAITH, Mariner, who died 6 February 1817 aged 37 years and of her mother CATHERINE McNEILL who died 26 May 1845 aged 74 years, MARGARET GALBRAITH daughter of the above JAMES GALBRAITH and CATHERINE McNEILL and spouse of the late EDWARD REATON, Mariner, who died 10 May 1890 aged 79 years.
 
+1811-01-05 Margaret Galbreath
+
+https://www.findagrave.com/memorial/167549470/james-galbreath
+
+https://www.familysearch.org/tree/person/details/KC3N-971
+
 ## 833.2
 
 > 833.2	Here lie the remains of JOHN COLVILL Junr, Merchant, Campbeltown, who departed this life 5 December 1851 in the 56 year of his age and of his children JOHN died 7 March 1836 aged 3 years, ARCHIBALD died 6 April 1836 aged 9 years, MARY died 23 September 1848 aged 20 years, JEAN GALBRAITH his wife died 3 June 1864 in her 59th year, ANDREW GALBRAITH her son died at Bournemouth 19 April 1881 aged 34 years, ARCHIBALD her son died 16 May 1905 aged 65 years.
