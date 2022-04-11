@@ -126,7 +126,7 @@ Canidates of Janet on [ScotlandPeoples](https://www.scotlandspeople.gov.uk/recor
 > 
 > In memory of DONALD CAMPBELL of Clachan late provost of Campbeltown  obt March 1727 aged 83.  MARGARET McFARLAN his spouse died August 1706 aged 46 and MARY CLARK their grand daughter obt 17 ….  By permission of CHARLES ROWATT, Surgeon, grandson of DONALD CAMPBELL, MARGARET PHILIPS HILL and AGNES GALBRAITH, wives of the Rev. Jas PINKERTON, lie here with ROBERT, CHARLES and WILLIAM his sons also the Rev JAMES PINKERTON first minister of the relief congregation in Campbeltown the duties of his office he discharged with fidelity he lived respected and died lamented 22 May 1805 in the 62 year of his age and 37 of his marriage remarried Jan 1843 
 
-2021-11-28: FamilySearch as not much, but given the details here this should be solveable.
+[James Pinkerton](people/pinkerton-james-1740.md)'s second wife Agnes, was the daughter of Archibald Galbreath, shipmaster, and Janet Robison/Robertson, of the Glasgow/Greenock area.
 
 ## 541
 
