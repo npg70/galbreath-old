@@ -9,11 +9,15 @@ He maried first at Glasgow 6 Oct 1767[^margaret-philipshill-marriage] to **Marga
 
 He married second at Greenock on 27 Nov 11 1773 to **Agnes Galbreath**[^agnes-galbreath-marriage]. bp 1 Mar 1749, Greenock.[^agnes-galbreath-birth]
 
+James, his wifes, and three children are all bured at Kilkerran Graveyard[^burial]
+
 Children of James and Margaret (Philipshill) Pinkerton, all baptized at Campbeltown:[^children]
 
 1. *Charles Pinkerton*, bp. 28 Sep 1769
 2. *Robert Pinkerton*, bp. 4 Apr 1774
 3. *William Pinkerton*, bp. 4 Apr 1773
+
+[^burial]: See https://github.com/npg70/galbreath/blob/main/sources/kilkerran-graveyard-inscriptions.md#531
 
 [^margaret-philipshill-birth]: OPR Glasgow, baptism of Margaret Philipshill on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=People&surname=Philipshill&forename=Margaret&forename_so=starts&from_year=1740&to_year=1740&surname_so=exact&church_type=Old%20Parish%20Registers&event=(B%20OR%20C%20OR%20S)&record_type[0]=opr_births)
 
