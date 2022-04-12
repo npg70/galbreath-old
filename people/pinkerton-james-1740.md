@@ -9,9 +9,9 @@ He maried first at Glasgow 6 Oct 1767[^margaret-philipshill-marriage] to **Marga
 
 He married second at Greenock on 27 Nov 11 1773 to **Agnes Galbreath**[^agnes-galbreath-marriage]. bp 1 Mar 1749, Greenock.[^agnes-galbreath-birth]
 
-His third marriage at Edin
+His third marriage at Edinburgh 14 Dec 1796 to **Jean Gardner**[^jean-gardner-marriage] 
 
-James, his wifes, and three children are all buried at Kilkerran Graveyard[^burial]
+James, the first two wives, and three children are all buried at Kilkerran Graveyard[^burial]
 
 Children of James and Margaret (Philipshill) Pinkerton, all baptized at Campbeltown:[^children]
 
@@ -31,6 +31,10 @@ Children of James and Jean (Gardner) Pinkerton,[^jean-gardner-children]
 [^margaret-philipshill-birth]: OPR Glasgow, baptism of Margaret Philipshill on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=People&surname=Philipshill&forename=Margaret&forename_so=starts&from_year=1740&to_year=1740&surname_so=exact&church_type=Old%20Parish%20Registers&event=(B%20OR%20C%20OR%20S)&record_type[0]=opr_births)
 
 [^children]: OPR Campbeltown, Baptism records for children of James Pinkerton and Margaret Philipshill/Phillipshill, on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=pinkerton&surname_so=exact&forename_so=starts&from_year=1768&to_year=1773&parent_names=james&parent_names_so=exact&parent_name_two=MARGARET%20PHIL&parent_name_two_so=exact&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&sort=asc&order=Date&field=year)
+
+[^jean-gardner-marriage]: OPR Edinburgh, Marriage of James Pinkerton and Jean Gardner, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/9669524?image=226).  Transcription:
+    > The Rev M James Pinkerton of Campbeltown and Ms[?] Jean Gardner
+    > New gray[???] parish Daughter of Ebednezer Gardner, Manufacturer Edin
 
 [^jean-gardner-children]: OPR Campbeltown, Baptism records for children of James Pinkerton and Jean Gardner, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=pinkerton&surname_so=exact&forename_so=starts&from_year=1774&to_year=1800&parent_names=james&parent_names_so=exact&parent_name_two_so=exact&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&rd_real_name%5B0%5D=CAMPBELTOWN%20%28LANDWARD%29%20OR%20CAMPBELTOWN%20%28BURGH%29%20OR%20CAMPBELTOWN&rd_display_name%5B0%5D=CAMPBELTOWN%20%28LANDWARD%29%7CCAMPBELTOWN%20%28BURGH%29%7CCAMPBELTOWN_CAMPBELTOWN&rd_label%5B0%5D=CAMPBELTOWN&rd_name%5B0%5D=CAMPBELTOWN%20%2ALANDWARD%2A%20OR%20CAMPBELTOWN%20%2ABURGH%2A%20OR%20CAMPBELTOWN)
 
