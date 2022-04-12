@@ -3,7 +3,7 @@ title: James Pinkerton
 familysearch: https://www.familysearch.org/tree/person/details/LLSK-W4W
 findagrave: https://www.findagrave.com/memorial/166574300/james-a-pinkerton
 ---
-***James Pinkerton***, son of X and Y, was born 24 Dec 1740 and baptized 4 Jan 1741 at Barony, Lanarkshire, Scotland.  He died around 1805.
+***James Pinkerton***, son of X and Y, was born 24 Dec 1740 and baptized 4 Jan 1741 at Barony, Lanarkshire, Scotland.  He died in 1804 (perhaps 22 May 1804).[^james-pinkerton-death-notice]
 
 He maried first at Glasgow 6 Oct 1767[^margaret-philipshill-marriage] to **Margaret Philipshill** bp. 1 Apr 1740, Glasgow.[^margaret-philipshill-birth]
 
@@ -26,6 +26,13 @@ Children of James and Jean (Gardner) Pinkerton,[^jean-gardner-children]
 1. *Ebednezer Pinkerton*, bp. 30 Dec 1798
 2. *Margaret Pinkerton*, bp. 21 Apr 1802
 
+
+[^james-pinkerton-death-notice]:  From The Scots Magazine - Friday 01 June 1804 - Page 80 of 81, [British Newspaper Archive](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000546/18040601/039/0080)
+    > At Campbeltown, in Argyllshire, after a few days illness, the Rev. Mr. James Pinkerton, 
+    > minister of the Relief congregation there, in the 62d year of his age, and 39th of
+    > his ministry. He was the first pastor of the Relief congregation in Campbeltown,
+    > to which he was called in the year 1767; the duties of which he performed
+    > in the most indefatigable, diligent, and faithful manner.
 
 [^burial]: See https://github.com/npg70/galbreath/blob/main/sources/kilkerran-graveyard-inscriptions.md#531
 
