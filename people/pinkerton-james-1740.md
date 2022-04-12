@@ -9,7 +9,7 @@ He maried first at Glasgow 6 Oct 1767[^margaret-philipshill-marriage] to **Marga
 
 He married second at Greenock on 27 Nov 11 1773 to **Agnes Galbreath**[^agnes-galbreath-marriage]. bp 1 Mar 1749, Greenock.[^agnes-galbreath-birth]
 
-His third marriage at Edinburgh 14 Dec 1796 to **Jean Gardner**[^jean-gardner-marriage] 
+His third marriage at Edinburgh 14 Dec 1796 to **Jean Gardner**[^jean-gardner-marriage], bp. 1 May 1765 Edinburgh[^jean-gardner-birth]
 
 James, the first two wives, and three children are all buried at Kilkerran Graveyard[^burial]
 
@@ -32,6 +32,8 @@ Children of James and Jean (Gardner) Pinkerton,[^jean-gardner-children]
 [^margaret-philipshill-birth]: OPR Glasgow, baptism of Margaret Philipshill on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=People&surname=Philipshill&forename=Margaret&forename_so=starts&from_year=1740&to_year=1740&surname_so=exact&church_type=Old%20Parish%20Registers&event=(B%20OR%20C%20OR%20S)&record_type[0]=opr_births)
 
 [^children]: OPR Campbeltown, Baptism records for children of James Pinkerton and Margaret Philipshill/Phillipshill, on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=pinkerton&surname_so=exact&forename_so=starts&from_year=1768&to_year=1773&parent_names=james&parent_names_so=exact&parent_name_two=MARGARET%20PHIL&parent_name_two_so=exact&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&sort=asc&order=Date&field=year)
+
+[^jean-gardner-birth]: OPR Edinburgh, baptism of Jean Gardner, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=gardner&surname_so=exact&forename=jean&forename_so=starts&sex=F&parent_names=eb&parent_names_so=starts&parent_name_two_so=exact&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
 
 [^jean-gardner-marriage]: OPR Edinburgh, Marriage of James Pinkerton and Jean Gardner, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/9669524?image=226).  Transcription:
     > The Rev M James Pinkerton of Campbeltown and Ms[?] Jean Gardner
