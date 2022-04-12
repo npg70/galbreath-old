@@ -27,6 +27,10 @@ Children of James and Jean (Gardner) Pinkerton, all baptized at Campbeltown:[^je
 2. *Margaret Pinkerton*, bp. 21 Apr 1802
 
 
+Other stuff:
+* Something on Principles of the Relief Church: https://www.google.com/books/edition/An_Exposition_of_the_principles_of_the_R/feeBlGpFzNgC?hl=en&gbpv=1&bsq=Pinkerton
+* 
+
 [^james-pinkerton-death-notice]:  From The Scots Magazine - Friday 01 June 1804 - Page 80 of 81, [British Newspaper Archive](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000546/18040601/039/0080)
     > At Campbeltown, in Argyllshire, after a few days illness, the Rev. Mr. James Pinkerton, 
     > minister of the Relief congregation there, in the 62d year of his age, and 39th of
