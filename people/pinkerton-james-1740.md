@@ -29,7 +29,7 @@ Children of James and Jean (Gardner) Pinkerton, all baptized at Campbeltown:[^je
 
 Other stuff:
 * Something on Principles of the Relief Church: https://www.google.com/books/edition/An_Exposition_of_the_principles_of_the_R/feeBlGpFzNgC?hl=en&gbpv=1&bsq=Pinkerton
-* 
+* a Court case brought against the Church by an Archibald Galbreath that mentioned Pinkerton, https://www.google.com/books/edition/Scots_Revised_Reports/3B1HAQAAMAAJ?hl=en&gbpv=1&bsq=James%20Pinkerton
 
 [^james-pinkerton-death-notice]:  From The Scots Magazine - Friday 01 June 1804 - Page 80 of 81, [British Newspaper Archive](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000546/18040601/039/0080)
     > At Campbeltown, in Argyllshire, after a few days illness, the Rev. Mr. James Pinkerton, 
