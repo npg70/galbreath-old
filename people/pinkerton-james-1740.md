@@ -21,7 +21,7 @@ Children of James and Margaret (Philipshill) Pinkerton, all baptized at Campbelt
 4. *Robert Pinkerton*, bp. 4 Apr 1773
 5. *William Pinkerton*, bp. 4 Apr 1773
 
-Children of James and Jean (Gardner) Pinkerton,[^jean-gardner-children]
+Children of James and Jean (Gardner) Pinkerton, all baptized at Campbeltown:[^jean-gardner-children]
 
 1. *Ebednezer Pinkerton*, bp. 30 Dec 1798
 2. *Margaret Pinkerton*, bp. 21 Apr 1802
