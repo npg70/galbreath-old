@@ -5,7 +5,7 @@ findagrave: https://www.findagrave.com/memorial/166574300/james-a-pinkerton
 ---
 ***James Pinkerton***, son of X and Y, was born 24 Dec 1740 and baptized 4 Jan 1741 at Barony, Lanarkshire, Scotland.  He died around 1805.
 
-He maried first at Glasgow 6 Oct 1767[^margaret-philipshill-marriage] to **Margaret Phillipshill** bp. 1 Apr 1740, Glasgow.[^margaret-philipshill-birth]
+He maried first at Glasgow 6 Oct 1767[^margaret-philipshill-marriage] to **Margaret Philipshill** bp. 1 Apr 1740, Glasgow.[^margaret-philipshill-birth]
 
 He married second at Greenock on 27 Nov 11 1773 to **Agnes Galbreath**[^agnes-galbreath-marriage]. bp 1 Mar 1749, Greenock.[^agnes-galbreath-birth]
 
