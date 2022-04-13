@@ -29,7 +29,7 @@ Child of David Steward Galbreath and Margaret McKeigh:
 Children of David and Elizabeth (Fraser) Galbreath, all baptized at Campbeltown:[^oprchildren]
 
 1. *James Frazer Galbraith*, bp. 3 Aug 1813
-2. *Margaret Fraser Galbreath*, bp. TBD, died before 1843.
+2. *Margaret Fraser Galbreath*, bp. TBD, died before 1843. marriage https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/8089227?image=83
 3. *Elizabeth Galbreath*, bp. 30 Jun 1818, m. 10 Jun 1843 *Thomas McKiken Crawfuird* Maybole Parish, Ayr.[^eg]
 4. *Alexander Macdonald Galbreath*, bp. 16 Sep 1819, m. *Anna Maria Scott*
 5. *[Flora Galbraith](galbraith-flora-1821.md)*, bp. ~1821, m. *Charles Campbell Hook*
