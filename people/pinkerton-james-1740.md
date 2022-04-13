@@ -9,7 +9,7 @@ He maried first at Glasgow 6 Oct 1767[^margaret-philipshill-marriage] to **Marga
 
 He married second at Greenock on 27 Nov 11 1773 to **Agnes Galbreath**[^agnes-galbreath-marriage]. bp 1 Mar 1749, Greenock.[^agnes-galbreath-birth].  Her death is not recorded, and there is no record of children.
 
-There appears to be a third marriage to **Jean Philipshill** but it is not recorded.  She may be the sister of Margaret above.  They had one child.
+There appears to be a third marriage to **Jean Philipshill** but it is not recorded.  She may be the sister of Margaret above.  They had one child in 1777.
 
 His fourth marriage at Edinburgh 14 Dec 1796 to **Jean Gardner**[^jean-gardner-marriage], bp. 1 May 1765 Edinburgh[^jean-gardner-birth]
 
