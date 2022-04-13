@@ -7,9 +7,11 @@ findagrave: https://www.findagrave.com/memorial/166574300/james-a-pinkerton
 
 He maried first at Glasgow 6 Oct 1767[^margaret-philipshill-marriage] to **Margaret Philipshill** bp. 1 Apr 1740, Glasgow.[^margaret-philipshill-birth]
 
-He married second at Greenock on 27 Nov 11 1773 to **Agnes Galbreath**[^agnes-galbreath-marriage]. bp 1 Mar 1749, Greenock.[^agnes-galbreath-birth]
+He married second at Greenock on 27 Nov 11 1773 to **Agnes Galbreath**[^agnes-galbreath-marriage]. bp 1 Mar 1749, Greenock.[^agnes-galbreath-birth].  Her death is not recorded, and there is no record of children.
 
-His third marriage at Edinburgh 14 Dec 1796 to **Jean Gardner**[^jean-gardner-marriage], bp. 1 May 1765 Edinburgh[^jean-gardner-birth]
+There appears to be a third marriage to **Jean Philipshill** but it is not recorded.  She may be the sister of Margaret above.  They had one child.
+
+His fourth marriage at Edinburgh 14 Dec 1796 to **Jean Gardner**[^jean-gardner-marriage], bp. 1 May 1765 Edinburgh[^jean-gardner-birth]
 
 James, the first two wives, and three children are all buried at Kilkerran Graveyard[^burial]
 
@@ -21,6 +23,10 @@ Children of James and Margaret (Philipshill) Pinkerton, all baptized at Campbelt
 4. *Robert Pinkerton*, bp. 4 Apr 1773
 5. *William Pinkerton*, bp. 4 Apr 1773
 
+Children of James and Jean (Philipshill) Pinkterton
+
+1. *Robert Pinkerton*, bp. 1 Apr 1777[^robert3]
+
 Children of James and Jean (Gardner) Pinkerton, all baptized at Campbeltown:[^jean-gardner-children]
 
 1. *Ebednezer Pinkerton*, bp. 30 Dec 1798
@@ -31,6 +37,10 @@ Other stuff:
 * Something on Principles of the Relief Church: https://www.google.com/books/edition/An_Exposition_of_the_principles_of_the_R/feeBlGpFzNgC?hl=en&gbpv=1&bsq=Pinkerton
 * a Court case brought against the Church by an Archibald Galbreath that mentioned Pinkerton, https://www.google.com/books/edition/Scots_Revised_Reports/3B1HAQAAMAAJ?hl=en&gbpv=1&bsq=James%20Pinkerton
 
+[^robert3]: OPR Campbeltown, Baptism of Robert Pinkerton, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/5851463?image=32&return_row=2) (last entry on page).  Transcript:
+    > Robert Lawful on to the Rev Mr James Pinkerton and 
+    > Jean PhilipsHill born 20th March & baptized 1st April
+   
 [^james-pinkerton-death-notice]:  From The Scots Magazine - Friday 01 June 1804 - Page 80 of 81, [British Newspaper Archive](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000546/18040601/039/0080)
     > At Campbeltown, in Argyllshire, after a few days illness, the Rev. Mr. James Pinkerton, 
     > minister of the Relief congregation there, in the 62d year of his age, and 39th of
