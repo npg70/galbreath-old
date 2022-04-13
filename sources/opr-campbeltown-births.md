@@ -584,7 +584,14 @@ TBD: Link needs updating.
 
 ## [1753-06-25 Alexander Galbreath](/people/galbreath-alexander-1753.md)
 
-tbd: [John Galbreath](/people/galbreath-john-1721.md) / Agnes Langwill, two records Galbreath/Galbraith
+[507/ 11 286 row 12](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357221?image=286)
+
+> Alexander | [John Galbreath](/people/galbreath-john-1721.md) & Agnes Langwill had
+> a son baptized 25th June named Alexander.
+
+[507/ 10 213 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/672?image=213)
+
+> [John Galbraith](/people/galbreath-john-1721.md) & Agnes Languil had a [??] bapt Alex [June] 25th
 
 ## 1754-00-00 Isobel Galbreath
 
