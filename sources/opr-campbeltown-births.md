@@ -591,7 +591,7 @@ TBD: Link needs updating.
 
 [507/ 10 213 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/672?image=213)
 
-> [John Galbraith](/people/galbreath-john-1721.md) & Agnes Languil had a [??] bapt Alex [June] 25th
+> [John Galbraith](/people/galbreath-john-1721.md) & Agnes Languill had a [??] bapt Alex [June] 25th
 
 ## 1754-00-00 Isobel Galbreath
 
