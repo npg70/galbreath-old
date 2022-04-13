@@ -74,7 +74,7 @@ The Memorial of the Lowland Congregation of Campbeltown 22 Sept 1749
 * James Galbreath
 * Samuel Galbreath
 
-Appendix 9 "Subscribers to te Relief Congregation of Campbeltown 1767"
+Appendix 9 "Subscribers to the Relief Congregation of Campbeltown 1767"
 
 * William Galbreath, maltster there
 * John Galbreath, maltster there
@@ -91,7 +91,7 @@ Page 354:
 Nice summaries of Campbeltown families involved at the time. 
 
 > Galbreath or Galbraith: 
-> John and David, maltmen, signde the Maltster Declaration, 1743
+> John and David, maltmen, signed the Maltster Declaration, 1743
 > They were members of the Lowland congregation and later the Relief congregation, 1767.
 >
 > Samuel, maltman, traded extensively in malt and bear to Belfast;
