@@ -7,7 +7,7 @@ An 18th Century Letter from Campbeltown to America
 > a number of family letters sent to Mr. Alexr. Galbreath, 3 miles west from 
 > Slateridge Meeting House, near Peachbottom Ferry, York County, Merryland
 
-That's Alexander Galbreath of York County, _Pennslyvania_.
+That's [Alexander Galbreath](/people/galbreath-alexander-1753.md) of York County, _Pennslyvania_.
 
 > The writer of the letter William Ker was the Overseer or Manager of the Coal Mine....
 >
@@ -16,15 +16,15 @@ That's Alexander Galbreath of York County, _Pennslyvania_.
 
 Note: spelling changed from Galbreath to Galbraith.
 
-This would be a sister of Alexander who married a William Ker/Kerr.  There is a sister Mary, but found
+This would be a sister of Alexander who married a William Ker/Kerr. There is a sister Mary, but found
 no marriage. 
 
-Given that Alexander's family was part of hte Long Row Relief Church, it's possible records are held there.
+Given that Alexander's family was part of the Long Row Relief Church, it's possible records are held there.
 
 > The small pox... My young ones which consists of 2 boys by my last marriage has both had 
 > it the youngest who is now 54 weeks old is just recovering.
 
-The sentence is a bit confused, but one was born in 1790, by perhaps another mother.  Boom:
+The sentence is a bit confused, but one was born in 1790, by perhaps another mother. Boom:
 
     KERR
     CHARLES
@@ -49,6 +49,6 @@ So if "my last marriage" may mean not "previous" but "most recent".  Still no ev
 
 > I seed [saw] your father and stepmother a day or two ago...
 
-A stepmother... that's new.  There is some confusion over his mother Agnes who signed her name as Janet in another set of letters.
+A stepmother... that's new. There is some confusion over his mother Agnes who signed her name as Janet in another set of letters.
 
 
