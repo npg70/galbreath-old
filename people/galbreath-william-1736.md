@@ -3,7 +3,7 @@ title: William Galbreath b abt 1736 m. Margaret Dunlop
 familysearch: https://www.familysearch.org/tree/person/details/L6FC-1XM
 wikitree: https://www.wikitree.com/wiki/Galbraith-2401
 ---
-***William Galbreath***, of unknown origin, was born say 1736. He died April 1799, and burried XXX[^death]
+***William Galbreath***, of unknown origin, was born say 1736. He died April 1799, and burried at Kilkerran.[^burial]
 
 He married at Campbeltown 12 Jan 1760[^marriage1] to **Margaret Dunlop**, born abt. 1728. and died in Campbeltown 26 Sept 1773.
 
@@ -25,6 +25,8 @@ Children of Willian and Maraget (Dunlop) Galbreath:[^children1][^children2]
 5. *William Galbreath*, b. 16 Nov 1766. Two records Galbreath vs. Galbraith.
 6. *James Galbreath*, b. 10 Feb 1768. Two records Galbreath vs. Galbraith.
 7. *Andrew Galbreath*, b. 7 May 1769
+
+[^burial]: Shared markers for many of the family, at [Kilkerran Graveyard](/kilkerran-graveyard-inscriptions.md#970)
 
 [^children1]: OPR Children [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=syn&forename_so=soundex&from_year=1720&to_year=1780&parent_names=GALBREATH&parent_names_so=soundex&parent_name_two=DUNLOP&parent_name_two_so=exact&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&rd_real_name%5B0%5D=CAMPBELTOWN%20%28LANDWARD%29%20OR%20CAMPBELTOWN%20%28BURGH%29%20OR%20CAMPBELTOWN&rd_display_name%5B0%5D=CAMPBELTOWN%20%28LANDWARD%29%7CCAMPBELTOWN%20%28BURGH%29%7CCAMPBELTOWN_CAMPBELTOWN&rd_label%5B0%5D=CAMPBELTOWN&rd_name%5B0%5D=CAMPBELTOWN%20%2ALANDWARD%2A%20OR%20CAMPBELTOWN%20%2ABURGH%2A%20OR%20CAMPBELTOWN&sort=asc&order=Date&field=year)
 
