@@ -23,7 +23,9 @@ Children of Willian and Maraget (Dunlop) Galbreath:[^children1][^children2]
 4. *[Rachel Galbreath](galbreath-rachel-1765.md)*, b. 29 Aug 1765, m. *Robert Johnson*
 5. *William Galbreath*, b. 16 Nov 1766. Two records Galbreath vs. Galbraith.
 6. *James Galbreath*, b. 10 Feb 1768. Two records Galbreath vs. Galbraith.
-7. *Andrew Galbreath*, b. 7 May 1769
+7. *Andrew Galbreath*, bp. 7 May 1769[^andrew-baptism], likely unm.[^burial]
+
+[^andrew-baptism]: OPR Campbeltown, baptism of (Andrew Galbreath](/sources/opr-campbeltown-births.md#1769-05-07-andrew-galbreath)
 
 [^burial]: Shared markers for many of the family, at [Kilkerran Graveyard](/kilkerran-graveyard-inscriptions.md#970)
 
