@@ -189,13 +189,16 @@ https://www.familysearch.org/tree/person/details/KC3N-971
 >
 > 970.1	Here lie the remains of MARY DUNLOP who died 26 September 1773 aged 45, spouse of WM. GALBRAITH, Maltster, Campbeltown.   Here lie MARY, JAS and ANN GALBRAITH their children.  This is the place designed for the family.  WM GALBRAITH died April 1799 aged 63
 
-[William Galbraith](/people/galbreath-william-1736.md), born 1736.
+* [William Galbraith](/people/galbreath-william-1736.md), born 1736.
+* Mary Galbraith
+* James Galbraith
+* "ANN" is likely "Andrew", the last child, Andrew Galbreath, bp. 7 May 1769
 
 > 970.2	Sacred to the memory of ARCHIBALD GALBRAITH of Campbeltown died 28 April 1816 aged 85 years and his wife JEAN CORBET died 2 August 1861 aged 90 years, also their children MARY died 4 May 1851 aged 37 years, MARTHA died 13 July 1858 aged 65 years, WILLIAM died 2 November 1863 aged 62 years, NANCY died 8 August 1884 aged 87 years.
 
 [Archibald Galbreath](/people/galbreath-archibald-1760.md), born 1760, son of the above William.
 
->970.3	Erected by ARCHIBALD GALBRAITH, Merchant, in memory of his spouse MARTHA LANGWILL who died 3 April 1789 aged 20 years, and WM their son who died in infancy, two of the children of ARCHD GALBRAITH  and JEAN CORBET are also buried here.  WM died in infancy and RACHEL aged 6 yearswho died in 1817 in infancy.
+>970.3	Erected by ARCHIBALD GALBRAITH, Merchant, in memory of his spouse MARTHA LANGWILL who died 3 April 1789 aged 20 years, and WM their son who died in infancy, two of the children of ARCHD GALBRAITH  and JEAN CORBET are also buried here.  WM died in infancy and RACHEL aged 6 years who died in 1817 in infancy.
 
 Same Archibald as above.
 
