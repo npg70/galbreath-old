@@ -21,11 +21,15 @@ Children of Willian and Maraget (Dunlop) Galbreath:[^children1][^children2]
 2. *[Margaret Galbreath](galbreath-margaret-1762.md)*, b. 8 Dec 1762, m. *William Johnson*.
 3. *Mary Galbreath*, bp. 23 Aug 1764,[^mary-baptism], umn.[^burial]
 4. *[Rachel Galbreath](galbreath-rachel-1765.md)*, b. 29 Aug 1765, m. *Robert Johnson*
-5. *William Galbreath*, b. 16 Nov 1766. Two records Galbreath vs. Galbraith.
-6. *James Galbreath*, b. 10 Feb 1768. Two records Galbreath vs. Galbraith.
-7. *Andrew Galbreath*, bp. 7 May 1769[^andrew-baptism],  unm.[^burial]
+5. *William Galbreath*, b. 16 Nov 1766.[^william-baptism] Two records Galbreath vs. Galbraith.
+6. *James Galbreath*, bp. 10 Feb 1768,[^james-baptism], umn.[^burial]
+7. *Andrew Galbreath*, bp. 7 May 1769[^andrew-baptism], unm.[^burial]
 
 [^mary-baptism]: OPR Campbeltown, baptism of [Mary Galbreath](sources/opr-campbeltown-births.md#1764-08-23-mary-galbreath)
+
+[^william-baptism]: OPR Campbeltown, baptism of [William Galbreath](/sources/opr-campbeltown-births.md#1766-11-16-william-galbreath)
+
+[^james-baptism]: OPR Campbeltown, baptism of [James Galbreath](/sources/opr-campbeltown-births.md#1768-02-10-james-galbreath)
 
 [^andrew-baptism]: OPR Campbeltown, baptism of [Andrew Galbreath](/sources/opr-campbeltown-births.md#1769-05-07-andrew-galbreath)
 
