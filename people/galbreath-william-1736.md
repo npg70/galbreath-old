@@ -19,15 +19,17 @@ Children of Willian and Maraget (Dunlop) Galbreath:[^children1][^children2]
 
 1. *[Archibald Galbreath](galbreath-archibald-1760.md)*, b. 12 Oct 1760, m. *Jean Corbet*.
 2. *[Margaret Galbreath](galbreath-margaret-1762.md)*, b. 8 Dec 1762, m. *William Johnson*.
-3. *Mary Galbreath*, b. 23 Aug 1764. Two records, Galbreath vs. Galbraith
+3. *Mary Galbreath*, bp. 23 Aug 1764,[^mary-baptism], umn.[^burial]
 4. *[Rachel Galbreath](galbreath-rachel-1765.md)*, b. 29 Aug 1765, m. *Robert Johnson*
 5. *William Galbreath*, b. 16 Nov 1766. Two records Galbreath vs. Galbraith.
 6. *James Galbreath*, b. 10 Feb 1768. Two records Galbreath vs. Galbraith.
-7. *Andrew Galbreath*, bp. 7 May 1769[^andrew-baptism], likely unm.[^burial]
+7. *Andrew Galbreath*, bp. 7 May 1769[^andrew-baptism],  unm.[^burial]
 
-[^andrew-baptism]: OPR Campbeltown, baptism of (Andrew Galbreath](/sources/opr-campbeltown-births.md#1769-05-07-andrew-galbreath)
+[^mary-baptism]: OPR Campbeltown, baptism of [Mary Galbreath](sources/opr-campbeltown-births.md#1764-08-23-mary-galbreath)
 
-[^burial]: Shared markers for many of the family, at [Kilkerran Graveyard](/kilkerran-graveyard-inscriptions.md#970)
+[^andrew-baptism]: OPR Campbeltown, baptism of [Andrew Galbreath](/sources/opr-campbeltown-births.md#1769-05-07-andrew-galbreath)
+
+[^burial]: Shared markers for many of the family, at [Kilkerran Graveyard](/sources/kilkerran-graveyard-inscriptions.md#970)
 
 [^children1]: OPR Children [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=syn&forename_so=soundex&from_year=1720&to_year=1780&parent_names=GALBREATH&parent_names_so=soundex&parent_name_two=DUNLOP&parent_name_two_so=exact&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&rd_real_name%5B0%5D=CAMPBELTOWN%20%28LANDWARD%29%20OR%20CAMPBELTOWN%20%28BURGH%29%20OR%20CAMPBELTOWN&rd_display_name%5B0%5D=CAMPBELTOWN%20%28LANDWARD%29%7CCAMPBELTOWN%20%28BURGH%29%7CCAMPBELTOWN_CAMPBELTOWN&rd_label%5B0%5D=CAMPBELTOWN&rd_name%5B0%5D=CAMPBELTOWN%20%2ALANDWARD%2A%20OR%20CAMPBELTOWN%20%2ABURGH%2A%20OR%20CAMPBELTOWN&sort=asc&order=Date&field=year)
 
