@@ -17,13 +17,15 @@ Theory 3: Another without citation lists  William b 1736 d. 1799, and [Margaret 
 
 Children of Willian and Maraget (Dunlop) Galbreath:[^children1][^children2]
 
-1. *[Archibald Galbreath](galbreath-archibald-1760.md)*, b. 12 Oct 1760, m. *Jean Corbet*.
+1. *[Archibald Galbreath](galbreath-archibald-1760.md)*, b[. 12 Oct 1760,[^archibald-baptism] m. *Jean Corbet*.
 2. *[Margaret Galbreath](galbreath-margaret-1762.md)*, b. 8 Dec 1762, m. *William Johnson*.
 3. *Mary Galbreath*, bp. 23 Aug 1764,[^mary-baptism], umn.[^burial]
 4. *[Rachel Galbreath](galbreath-rachel-1765.md)*, b. 29 Aug 1765, m. *Robert Johnson*
 5. *William Galbreath*, b. 16 Nov 1766.[^william-baptism] Two records Galbreath vs. Galbraith.
 6. *James Galbreath*, bp. 10 Feb 1768,[^james-baptism], umn.[^burial]
 7. *Andrew Galbreath*, bp. 7 May 1769[^andrew-baptism], unm.[^burial]
+
+[^archibald-baptism]: OPR Campbeltown, baptism of [Archibald Galbreath](/sources/opr-campbeltown-births.md#1760-10-12-archibald-galbreath)
 
 [^mary-baptism]: OPR Campbeltown, baptism of [Mary Galbreath](sources/opr-campbeltown-births.md#1764-08-23-mary-galbreath)
 
