@@ -18,16 +18,20 @@ Theory 3: Another without citation lists  William b 1736 d. 1799, and [Margaret 
 Children of Willian and Maraget (Dunlop) Galbreath:[^children1][^children2]
 
 1. *[Archibald Galbreath](galbreath-archibald-1760.md)*, bp. 12 Oct 1760,[^archibald-baptism] m. *Jean Corbet*.
-2. *[Margaret Galbreath](galbreath-margaret-1762.md)*, b. 8 Dec 1762, m. *William Johnson*.
+2. *[Margaret Galbreath](galbreath-margaret-1762.md)*, bp. 8 Dec 1762,[^margaret-baptism] m. *William Johnson*.
 3. *Mary Galbreath*, bp. 23 Aug 1764,[^mary-baptism], umn.[^burial]
-4. *[Rachel Galbreath](galbreath-rachel-1765.md)*, b. 29 Aug 1765, m. *Robert Johnson*
-5. *William Galbreath*, b. 16 Nov 1766.[^william-baptism] Two records Galbreath vs. Galbraith.
+4. *[Rachel Galbreath](galbreath-rachel-1765.md)*, bp. 29 Aug 1765,[^rachel-baptism] m. *Robert Johnson*
+5. *William Galbreath*, bp. 16 Nov 1766.[^william-baptism] Two records Galbreath vs. Galbraith.
 6. *James Galbreath*, bp. 10 Feb 1768,[^james-baptism], umn.[^burial]
 7. *Andrew Galbreath*, bp. 7 May 1769[^andrew-baptism], unm.[^burial]
 
 [^archibald-baptism]: OPR Campbeltown, baptism of [Archibald Galbreath](/sources/opr-campbeltown-births.md#1760-10-12-archibald-galbreath)
 
-[^mary-baptism]: OPR Campbeltown, baptism of [Mary Galbreath](sources/opr-campbeltown-births.md#1764-08-23-mary-galbreath)
+[^margaret-baptism]: OPR Campbeltown, baptism of [Margaret Galbreath](/sources/opr-campbeltown-births.md#1762-12-08-margaret-galbreath)
+
+[^mary-baptism]: OPR Campbeltown, baptism of [Mary Galbreath](/sources/opr-campbeltown-births.md#1764-08-23-mary-galbreath)
+
+[^rachel-baptism]: OPR Campbeltown, baptism of [Rachel Galbreath](/sources/opr-campbeltown-births.md#1765-08-29-rachel-galbreath)
 
 [^william-baptism]: OPR Campbeltown, baptism of [William Galbreath](/sources/opr-campbeltown-births.md#1766-11-16-william-galbreath)
 
