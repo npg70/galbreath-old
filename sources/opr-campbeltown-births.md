@@ -694,9 +694,12 @@ tbd: James Galbreath / Mary Anderson
 
 tbd: another record
 
-## 1760-10-12 Archibald Galbreath
+## [1760-10-12 Archibald Galbreath](/people/galbreath-archibald-1760.md)
 
-tbd: [William Galbreath](/people/galbreath-william-1736.md) / Margaret Dunlop
+[507/11 322 row 2](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357287?image=322)
+
+> Archibald | **[William Galbreath](/people/galbreath-william-1736.md)** and **Margt Dunlop** had
+> a son bapt 12th Oct; born 11th named Archibald
 
 ## 1761-05-03 James Galbreath
 
