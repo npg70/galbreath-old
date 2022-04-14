@@ -34,6 +34,6 @@ Children of Willian and Maraget (Dunlop) Galbreath:[^children1][^children2]
 [^marriage1]: OPR Campbeltown, Marriage of William and Margaret Dunlop, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=M&record_type%5B0%5D=opr_marriages&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-banns-marriages&surname=galbreath&surname_so=fuzzy&forename=w&forename_so=starts&spouse_name=dunlop&spouse_name_so=exact&from_year=1760&to_year=1760&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches). Both records contain no additional information other than names and date.
 
 [^marriage2]: OPR Campbeltown, Marriage of William and Mary Campbell, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=M&record_type%5B0%5D=opr_marriages&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-banns-marriages&surname=galbraith&surname_so=syn&forename=william&forename_so=starts&sex=M&spouse_name=campbell&spouse_name_so=exact&from_year=1750&to_year=1800&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches).
-    > June 20  William Galbreath & Mary Campbell.  This parish
+    > June 20th  William Galbreath and Mary Campbell this parish
 
 [^census1792]: [1792 census of Kintyre](/sources/list-of-inhabitants-upon-the-duke-of-argylls-property-in-kintyre-1792.md#pages-92-93)
