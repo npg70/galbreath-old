@@ -3,7 +3,9 @@ title: William Galbreath b abt 1736 m. Margaret Dunlop
 familysearch: https://www.familysearch.org/tree/person/details/L6FC-1XM
 wikitree: https://www.wikitree.com/wiki/Galbraith-2401
 ---
-***William Galbreath***, of unknown origin, was born say 1736.  He married at Campbeltown 12 Jan 1760[^marriage1] to **Margaret Dunlop**.
+***William Galbreath***, of unknown origin, was born say 1736. He died 
+
+He married at Campbeltown 12 Jan 1760[^marriage1] to **Margaret Dunlop**, born abt. XX. and died in Campbeltown XXX.
 
 Based on 1792 Census[^census1792] and the dates, it's likely Margaret Dunlop died and William remarried 20 Jun 1774 to **Mary Campbell**.[^marriage2]
 
@@ -29,8 +31,8 @@ Children of Willian and Maraget (Dunlop) Galbreath:[^children1][^children2]
 
 [^children2]: OPR addition record for Archibald Galbreath under "Colbreath": [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=colbreath&surname_so=exact&forename_so=soundex&sex=M&from_year=1760&to_year=1760&parent_names=colbreath&parent_names_so=soundex&parent_name_two=DUNLOP&parent_name_two_so=soundex&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&rd_real_name%5B0%5D=CAMPBELTOWN%20%28LANDWARD%29%20OR%20CAMPBELTOWN%20%28BURGH%29%20OR%20CAMPBELTOWN&rd_display_name%5B0%5D=CAMPBELTOWN%20%28LANDWARD%29%7CCAMPBELTOWN%20%28BURGH%29%7CCAMPBELTOWN_CAMPBELTOWN&rd_label%5B0%5D=CAMPBELTOWN&rd_name%5B0%5D=CAMPBELTOWN%20%2ALANDWARD%2A%20OR%20CAMPBELTOWN%20%2ABURGH%2A%20OR%20CAMPBELTOWN)
 
-[^marriage1]: Marriage of William and Margaret Dunlop in OPR in [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=M&record_type%5B0%5D=opr_marriages&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-banns-marriages&surname=galbreath&surname_so=fuzzy&forename=w&forename_so=starts&spouse_name=dunlop&spouse_name_so=exact&from_year=1760&to_year=1760&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches). Both records contain no additional information other than names and date.
+[^marriage1]: OPR Campbeltown, Marriage of William and Margaret Dunlop, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=M&record_type%5B0%5D=opr_marriages&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-banns-marriages&surname=galbreath&surname_so=fuzzy&forename=w&forename_so=starts&spouse_name=dunlop&spouse_name_so=exact&from_year=1760&to_year=1760&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches). Both records contain no additional information other than names and date.
 
-[^marriage2]: Marriage of William and Mary Campbell in OPS [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=M&record_type%5B0%5D=opr_marriages&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-banns-marriages&surname=galbraith&surname_so=syn&forename=william&forename_so=starts&sex=M&spouse_name=campbell&spouse_name_so=exact&from_year=1750&to_year=1800&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
+[^marriage2]: OPR Campbeltown, Marriage of William and Mary Campbell, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=M&record_type%5B0%5D=opr_marriages&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-banns-marriages&surname=galbraith&surname_so=syn&forename=william&forename_so=starts&sex=M&spouse_name=campbell&spouse_name_so=exact&from_year=1750&to_year=1800&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
 
 [^census1792]: [1792 census of Kintyre](/sources/list-of-inhabitants-upon-the-duke-of-argylls-property-in-kintyre-1792.md#pages-92-93)
