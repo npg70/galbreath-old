@@ -4,7 +4,7 @@ familysearch: https://www.familysearch.org/tree/person/details/M1YM-NN8
 findagrave: https://www.findagrave.com/memorial/204250177/archibald-galbraith
 wikitree: https://www.wikitree.com/wiki/Galbraith-2402
 ---
-***Archibald Galbreath***, son of *[William Galbreath](galbreath-william-1736.md)* and *Margaret Dunlop*, born Campbeltown 12 Oct 1760, and died in 1846.  Burried at Kilkerran Cemetery, Campbeltown.
+***Archibald Galbreath***, son of *[William Galbreath](galbreath-william-1736.md)* and *Margaret Dunlop*, born Campbeltown 12 Oct 1760.  He died 28 Apr 1846, and burried at Kilkerran Cemetery, Campbeltown.
 
 Married first at Campbeltown 14 Sep 1787 to **Martha Langwill**[^marriage1]
 
@@ -36,7 +36,8 @@ Children of Archibald and Jean (Corbet) Galbreath:[^children2]
 8. *[Archibald Galbraith](galbraith-archibald-1807.md)*, bp. 31 May 1807.[^archibald-birth] Cotton Merchant & Manufacturer A&A Galbraith
 9. *[John Galbraith](galbraith-john-1809.md)*, bp. 5 Sept. 1809,[^john-birth] m. *Mary Colvill McEwing*. Provost of Campbeltown 1860-66
 10. *Rachel Galbreath*, bp. 25 Aug 1811,[^rachel-birth] d. 1817[^rachel-death]
-11. *Mary Galbreath*, bp. 16 Jan 1814[^birth-mary], unmarried.
+11. *Mary Galbreath*, bp. 16 Jan 1814[^birth-mary], d. 4 May 1851. Unmarried.
+
 
 [^1841]: UK Census of 1841 Census, Household of Archibald Galbraith, [FindMyPast](https://www.findmypast.com/transcript?id=GBC%2F1841%2F0016605235) (Grazier: a pastoral farmer, producing livestock rather than crops)
 
