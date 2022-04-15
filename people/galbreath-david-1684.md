@@ -15,7 +15,7 @@ Unconfirmed details for Isabella Watson:
 
 Children of David and Isabella (Watson) Galbreath, all baptized in Campbeltown:[^children]
 
-1. *Mary Galbreath*, bp. 26 Nov 1714,[^birth-mary] d. 1719
+1. *Mary Galbreath*, bp. 26 Nov 1713,[^birth-mary] d. 1719
 2. *Janet Galbreath*, bp. 13 Aug 1715[^birth-janet]
 3. *[David Galbreath](galbreath-david-1718.md)*, bp. 2 Oct 1718,[^birth-david] m. *Mary Langwill*
 
