@@ -1,6 +1,6 @@
 ---
 title: Peter Galbreath b ~ 1766 m. Margaret Galbreath
-familysearch: XXX
+familysearch: https://www.familysearch.org/tree/person/details/K8JY-7CT
 ---
 ***Peter Galbreath/Galbraith*** baptiszed around 1766.
 
