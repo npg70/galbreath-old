@@ -149,7 +149,7 @@ Canidates of Janet on [ScotlandPeoples](https://www.scotlandspeople.gov.uk/recor
 
 (surrounded by other Armour graves)
 
-[Henry Galbreath](/main/people/galbreath-henry-1739.md), son of *[William Galbreath](galbreath-william-1701.md)* and *Margaret Kilpatrick*, baptised in Campbeltown April 1739,
+[Henry Galbreath](/people/galbreath-henry-1739.md), son of *[William Galbreath](/people/galbreath-william-1701.md)* and *Margaret Kilpatrick*, baptised in Campbeltown April 1739,
 
 ## 608
 
