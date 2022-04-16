@@ -9,7 +9,7 @@ Occupation shoemaker according to tombstone[^inscription]
 
 Children of Henry and Agnes (Armour) Galbreath, all baptized at Campbeltown:[^children]
 
-1. *James Galbreath*, bp. 23 Dec 1768[^james-birth], baker[^inscription]
+1. *[James Galbreath](galbreath-james-1768-jean-harvey.md)*, bp. 23 Dec 1768[^james-birth], m. *Jean Harvey*, baker[^inscription]
 2. *[Margaret Galbreath](galbreath-margaret-1771.md)*, bp. 1 Nov 1771,[^margaret-birth] m. *Nathaniel McNair Sr*.  Immigrant to Canada.
 3. *Florance Galbreath*, bp. 14 Sep 1777[^florance-birth], m. 17/04/1804 *John Maitland*[^florance-marriage], miller
 4. *[William Galbreath](galbreath-william-1780.md)*, bp. 16 Jan 1780,[^birth-william] m. *Jean Campbell*
