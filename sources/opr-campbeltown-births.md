@@ -1428,7 +1428,10 @@ John | Lawful Son to [William Galbraith](/people/galbreath-william-1780.md) work
 
 ## 1804-09-30 Margaret Galbreath
 
-TBD: [PETER GALBREATH](/people/galbreath-peter-1766.md)/MARGARET GALBREATH
+[507/40 267 row 16](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358326?image=267)
+
+> Margaret | Lawful daughter to **[Peter Galbreath](/people/galbreath-peter-1766.md)** Sailor in Campbeltown 
+> and Margaret Galbreath born 29 baptized 30 Sept 1804. Margaret
 
 ## 1805-03-06 Florence Galbreath
 
