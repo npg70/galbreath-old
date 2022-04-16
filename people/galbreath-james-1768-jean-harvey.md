@@ -1,7 +1,9 @@
 ---
 title: James Galbreath b. 1768 m. Jean Harvey
 ---
-***James Galbreath***, son of *[Henry Galbreath](galbreath-henry-1739.md)* and *Jean Harvey*, 
+***James Galbreath***, son of *[Henry Galbreath](galbreath-henry-1739.md)* and *Agnes Armour*.
+
+He married at Campbeltown 1794 to **Jean Harvey**. 
 
 
 Children of James and Jean (Harvey) Galbreath:[^children]
