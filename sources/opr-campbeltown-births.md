@@ -1149,7 +1149,9 @@ TBD: James Galbreath / Janet Langwill
 
 ## 1792-01-04 John Galbreath
 
-TBD: [Peter Galbreath](/people/galbreath-peter-1766.md) / Margaret Galbreath
+[507/20 138 row 2](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357581?image=138)
+> John | Lawful son to **[Peter Galbreath](/people/galbreath-peter-1766.md)** Sailor in town & 
+> **Margt Galbreath** was born 2nd & Bapts 4 January 1792
 
 ## 1792-03-19 Martha Galbreath
 
