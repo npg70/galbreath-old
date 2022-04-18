@@ -954,9 +954,12 @@ TBD: John Galbreath / Katherine Hegon
 
 ## 1782-10-09 Mary Galbreath
 
-Maybe 1782-12-28 -- two records
+TBD --Maybe 1782-12-28 -- two records
 
-TBD: [Henry Galbreath](/people/galbreath-henry-1739.md) / Agnes Armour
+[507/ 20 62 row 3](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358423?image=62)
+
+> Mary |  Lawful dau to **[Henry Galbreath](/people/galbreath-henry-1739.md)** Shoemaker in Campbeltown and 
+> **Agnes Armour** born 6th Baptized 9th
 
 ## 1782-11-03 Margaret Galbreath
 
@@ -1051,7 +1054,10 @@ TBD: James Galbraith / Janet McVicar
 
 ## 1786-03-14 John Galbreath
 
-TBD: [Henry Galbreath](/people/galbreath-henry-1739.md) / Agnes Armour
+[507/ 20 88 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/1058?image=88)
+
+> John | Lawful son to **[Hendry Galbraith](/people/galbreath-henry-1739.md)** & **Agnes Armour**
+> was born 13th & Bapt 14th March
 
 ## 1786-12-31 James Galbraith
 
@@ -1080,7 +1086,10 @@ TBD: [Peter Galbreath](/people/galbreath-peter-1749.md) / Agnes MacMurchy
 
 ## 1788-10-06 Alexander Galbreath
 
-TBD: [Henry Galbreath](/people/galbreath-henry-1739.md) / Agnes Armour
+[507/20 108 row 2](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357225?image=108)
+
+> Alexander | Lawful Son to **[Henry Galbreath](/people/galbreath-henry-1739.md)** Shoemaker in town and
+> **Agnes Armour** was born 4th and Bapt 6th Oct.
 
 ## 1788-11-22 Agnes Galbreath
 
