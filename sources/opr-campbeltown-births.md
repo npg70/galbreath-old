@@ -1366,6 +1366,8 @@ TBD: NEIL GALBREATH/MARGARET GALBREATH
 
 TBD: JAMES GALBREATH/JEAN HARVEY 
 
+death: https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/2359939?return_row=13
+
 ## 1800-12-11 Agnes Galbreath
 
 TBD: NEIL GALBREATH/ISABELL MCKINLAY
