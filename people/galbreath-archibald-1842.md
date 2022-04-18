@@ -13,7 +13,7 @@ Children of Archibald and Agnes (O'May) Galbraith:
 1. *[William Galbraith](galbraith-william-1870.md)*, b. 5 Apr 1870[^william-birth]
 2. *John Galbraith*, b. 4 Dec 1871[^john-birth]
 3. *Mary Galbraith*, b. 16 Jan 1874
-4. *Archibald Galbreath*, b. 1 Apr 1881
+4. *Archibald Galbreath*, b. 1 Apr 1881, d. 1881[^archibald-death]
 5. *Agnes Leoran Galbraith*, b. 10 Jan 1883[^agnesleoran]
 
 [^birth]: OPR Campbeltown baptism record for [Archibald Galbreath](/sources/opr-campbeltown-births.md#1842-09-25-archibald-galbreath)
@@ -33,3 +33,6 @@ Children of Archibald and Agnes (O'May) Galbraith:
 [^william-birth]: Civil Records of Campbeltown; 1870 GALBRAITH, WILLIAM (Statutory registers Births 507/ 77);  [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/40423938)
 
 [^john-birth]: Civil Records of Campbeltown; 1871 GALBRAITH, JOHN (Statutory registers Births 507/ 280); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/40584916)
+
+[^archibald-death]: Civil Records of Campbeltown, 1881 GALBRAITH, ARCHIBALD; [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&dl_cat=statutory&dl_rec=statutory-deaths&surname=galbraith&surname_so=soundex&forename_so=starts&other_surname_so=soundex&mmsurname=O%26%23039%3Bmay&mmsurname_so=exact&birth_year_range=10&rd_real_name%5B0%5D=ARGYLL%20AND%20BUTE%20%28CAMPBELTOWN%29%20OR%20CAMPBELTOWN%20%28LANDWARD%29%20OR%20CAMPBELTOWN%20%28BURGH%29%20OR%20CAMPBELTOWN&rd_display_name%5B0%5D=ARGYLL%20AND%20BUTE%20%28CAMPBELTOWN%29%7CCAMPBELTOWN%20%28LANDWARD%29%7CCAMPBELTOWN%20%28BURGH%29%7CCAMPBELTOWN_CAMPBELTOWN&rdno%5B0%5D=ARGYLL%20AND%20BUTE%20%2ACAMPBELTOWN%2A%20OR%20CAMPBELTOWN%20%2ALANDWARD%2A%20OR%20CAMPBELTOWN%20%2ABURGH%2A%20OR%20CAMPBELTOWN&record_type=stat_deaths)
+
