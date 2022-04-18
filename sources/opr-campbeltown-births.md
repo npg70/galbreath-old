@@ -1455,6 +1455,9 @@ John | Lawful Son to [William Galbraith](/people/galbreath-william-1780.md) work
 ## 1805-03-06 Florence Galbreath
 
 TBD: JAMES GALBREATH/JEAN HARVIE
+death: https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/2856442?return_row=11
+
+James listed as a baker.
 
 ## [1805-04-07 Jean Galbreath](/people/galbraith-jean-1805.md)
 
