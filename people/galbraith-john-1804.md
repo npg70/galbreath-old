@@ -3,9 +3,9 @@ title: John Galbraith b. 1804  m. Janet Watson
 familysearch: https://www.familysearch.org/tree/person/details/9M9H-VCZ
 ---
 ***John Galbraith***, son of *[William Galbreath](galbreath-william-1780.md)* and *Jean Campbell*, was born in Campbeltown 13 May 1804.[^birth]
-He died Campbeltown 12 July 1871.[^death] He married at Campbeltown 11 Dec 1848[^marriage] to **Janet Watson**
+He died Campbeltown 12 July 1871.[^death] He married at Campbeltown 11 Dec 1848[^marriage] to **Janet Watson**, daughter of John Watson and Margaret McDonald, born abt. 1816, died 29 Aug 1858, burried in Kilchousland.[^janet-watson-death]
 
-His occupation was in the distilling industry[^census1841][^census1851][^census1861][^census1871]
+His occupation was in the distilling industry[^census1841][^census1851][^census1861][^census1871][^janet-watson-death]
 
 Children of John and Janet (Watson) Galbreath, all baptised in Campbeltown:[^children]
 
@@ -19,6 +19,8 @@ Children of John and Janet (Watson) Galbreath, all baptised in Campbeltown:[^chi
 [^birth]: OPR Campbeltown, baptism of [John Galbraith](/sources/opr-campbeltown-births.md#1804-05-13-john-galbraith
 
 [^death]: Statuatory records of Campbeltown; 1871 GALBRAITH, JOHN (Statutory registers Deaths 507/ 90); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/1349933)
+
+[^janet-watson-death]: Statuatory records of Campbeltown, death of Janet Galbraith, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/251618).  Listed as "wife of a distillery workman."
 
 [^marriage]:  OPR record on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/9531108?image=348) of marriage of John Galbreath 
     > John Galbreath laborer and Janet Watson 
