@@ -247,7 +247,12 @@ two records under Galbreath/Calbreath
 
 ## 1727-01-29 Mary Galbreath
 
-TBD: Patrick Galbreath / Mary Maxwell, under Galbreath/Calbreath
+[507/11 170 row 4](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358410?image=170)
+
+TBD under Galbreath/Calbreath
+
+> Mary | **Patrick Galbreath** and **Mary Maxwell** had a daut.
+> baptized 29th Jan named Mary.
 
 ## 1727-12-23 Ann Galbreath
 
