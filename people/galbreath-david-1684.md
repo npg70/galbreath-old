@@ -7,10 +7,8 @@ familysearch: https://www.familysearch.org/tree/person/details/LLCM-DJB
 - birth: Abt 1684; Campbeltown ??
 - death: 1754; Campbeltown, unconfirmed
 
-Unconfirmed details for Isabella Watson:
+Isabella Watson of "Saddell" 
 
-- birth: 1 Apr 1687, Kilconquhar, Fife, Scotland, United Kingdom
-- death: 2 Feb 1759, Airth, Stirlingshire, Scotland, United Kingdom
 - marriage: 3 Mar 1712, Campbeltown, Argyll, Scotland
 
 Children of David and Isabella (Watson) Galbreath, all baptized in Campbeltown:[^children]
