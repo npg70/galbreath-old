@@ -29,4 +29,4 @@ Children of James and Mary (Nielson) Galbreath, all baptized in Campbeltown:[^ch
 
 [^birth-john]: OPR Campbeltown, baptism of [John Galbreath](/sources/opr-campbeltown-births.md#1680-05-30-john-galbreath)
 
-[^birth-matthew]: OPR Campbeltown, baptism of [Matthew Galbreath](/opr-campbeltown-births.md#1691-03-15-matthew-galbreath)
+[^birth-matthew]: OPR Campbeltown, baptism of [Matthew Galbreath](/sources/opr-campbeltown-births.md#1691-03-15-matthew-galbreath)
