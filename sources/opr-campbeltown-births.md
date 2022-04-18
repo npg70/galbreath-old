@@ -128,7 +128,10 @@ Gaps:
 
 ## 1713-11-26 Mary Galbreath
 
-TBD: Daughter of [David Galbreath](/people/galbreath-david-1684.md) / Isobell Watson
+[507/11 117 row 17](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357127?image=117)
+
+> Mary | Lawful daughter to **[David Galbreath](/people/galbreath-david-1684.md)** and **Isobell Watson**
+> his lawful spouse born 26th Novem & Named Mary.
 
 ## 1714-08-08 Katharine Galbreath
 
