@@ -4,7 +4,9 @@ familysearch: https://www.familysearch.org/tree/person/details/LZVY-GWN
 ---
 ***David Galbreath***, son of *[Samuel Galbreath](galbreath-samuel-1765.md)* and *Janet Langwill*, at Campbeltown was born 16 Sept 1797 and baptised 19 Sep 1797.[^birth] He died 12 Aug 1884.[^death]
 
-As a "laborer", he married 5 Oct 1824 to **Janet Mitchell**.[^marriage]  Later it is indicated he was a fisherman[^archibald-death][^census1851], potato buyer[^david2-death], and a sawyer[^census1841][^william-death].
+He married 5 Oct 1824 to **Janet Mitchell**.[^marriage].  Janet was the daughter of Archibald Mitchell and Agnes Greenless, born around 1801 and died 4 Oct 1874 in Campbeltown.[^janet-mitchell-death] 
+
+He was a laborer[^marrriage], a fisherman[^archibald-death][^census1851], potato buyer[^david2-death], and a sawyer[^census1841][^william-death].
 
 Children of David and Janet (Galbreath) Mitchell, all baptised Campbeltown:[^children]
 
@@ -58,3 +60,5 @@ Children of David and Janet (Galbreath) Mitchell, all baptised Campbeltown:[^chi
 [^james-birth]: OPR Campbeltown, baptism of [James Galbreath](/sources/opr-campbeltown-births.md#1839-06-02-james-galbreath)
 
 [^john-birth]: OPR Campbeltown, baptism of [John Galbreath](/sources/opr-campbeltown-births.md#1842-07-25-john-galbreath)
+
+[^janet-mitchell-death]:  Civil Registers of Campbeltown, Argyll, Death of Janet Galbraith, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/1666334)
