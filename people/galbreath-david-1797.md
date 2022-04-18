@@ -6,7 +6,7 @@ familysearch: https://www.familysearch.org/tree/person/details/LZVY-GWN
 
 He married 5 Oct 1824 to **Janet Mitchell**.[^marriage].  Janet was the daughter of Archibald Mitchell and Agnes Greenless, born around 1801 and died 4 Oct 1874 in Campbeltown.[^janet-mitchell-death] 
 
-He was a laborer[^marrriage], a fisherman[^archibald-death][^census1851], potato buyer[^david2-death], and a sawyer[^census1841][^william-death].
+He was a laborer[^marriage], a fisherman[^archibald-death][^census1851], potato buyer[^david2-death], and a sawyer[^census1841][^william-death].
 
 Children of David and Janet (Galbreath) Mitchell, all baptised Campbeltown:[^children]
 
