@@ -2,7 +2,7 @@
 title: John Galbreath b. 1815 m. Mary McTaggart
 familysearch: https://www.familysearch.org/tree/person/details/LZ62-VM4
 ---
-***John Galbreath***, of unknown origin, was born around 1815 in Clachan, Argyll, Scotland[^census1851][^census1871][^census1881], died Campbeltown 15 Feb 1890.[^death] He married Campbeltown 27 Nov 1839[^marriage] to **Mary McTaggart**, daughter of *Alexander McTaggart* and *Annabella Beith*.
+***John Galbreath***, of unknown origin, was born around 1815 in Clachan, Argyll, Scotland[^census1851][^census1871][^census1881], died Campbeltown 15 Feb 1890.[^death] He married Campbeltown 27 Nov 1839[^marriage] to **Mary McTaggart**, daughter of *Alexander McTaggart* and *Annabella Beith*.  Mary died in 1878[^mary-mctaggart-death]
 
 His occupation was in the distilling industry according to various census and baptism records.[^census1851][^census1861][^census1881]
 
@@ -15,6 +15,8 @@ Children of John and Mary (McTaggart) Galbreath, all baptized at Campbeltown:[^o
 3. *[Alexander Galbreath](galbraith-alexander-1844.md)*, bp. 04 Aug 1844,[^alexander-birth] m1 *Flora Campbell*, m2 *Agnes Matheson*
 4. *John Galbreath*, bp. 08 Dec 1847[^john-birth],d. 5 Jun 1916 Greenock, seaman, unmarried.[^john-death]
 5. *Duncan Galbraith*, bp. 12 Feb 1851[^duncan-birth], d 10 Mar 1885 South End, unmarried[^duncan-death]
+
+[^mary-mctaggart-death]: Statuatory records of Campbeltow, death of Mary Galbraith, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/2132226)
 
 [^oprchildren]: OPR baptism records for the children of John Galbreath/Galbraith and Mary McTaggart/MacTaggart from
 [ScotlandPeoples](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=fuzzy&forename_so=starts&from_year=1830&to_year=1860&parent_names_so=exact&parent_name_two=MCTAGGART&parent_name_two_so=fuzzy&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&sort=asc&order=Date&field=year)
