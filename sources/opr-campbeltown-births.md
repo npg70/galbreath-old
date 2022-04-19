@@ -2299,6 +2299,10 @@ TBD: ARCHIBALD GALBRAITH/MARGARET CORMACHAN
 
 TBD: DONALD GALBRAITH/ISABELLA MCLEAN
 
+death: https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/292715?return_row=3
+
+donald: cartwright
+
 ## 1853-11-07 William Galbraith
 
 [507/70 520 row 13](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/1353?image=420)
