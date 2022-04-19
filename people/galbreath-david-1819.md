@@ -15,7 +15,7 @@ Children of David and Catharine (McKinnon) Galbreath, all baptized at Campbeltow
 
 1. *Alexander Galbreath*, bp. 15 Jul 1845,[^alexander-birth] d. 4 Dec 1887 at the Campbeltown Poorhouse, unmarried.[^alexander-death]
 2. *Isabella Galbreath*, bp. 15 Nov 1847[^isabella-birth], TBD
-3. *Margaret Galbraith*, bp. 26 Dec 1849[^margaret-birth], TBD
+3. *Margaret Galbraith*, bp. 26 Dec 1849[^margaret-birth], d. 26 Jul 1881, unmarried, domestic servant.[^margaret-death]
 4. *Robert Galbraith*, bp. 20 Jun 1852,[^robert-birth] d. 18 May 1885, unmarried.[^robert-death]
 
 [^maybe]: Strong maybe on parents.
@@ -37,6 +37,8 @@ Children of David and Catharine (McKinnon) Galbreath, all baptized at Campbeltow
 [^isabella-birth]: OPR Campbeltown, baptism of [Isabella Galbreath](/sources/opr-campbeltown-births.md#1847-11-15-isabella-galbreath)
 
 [^margaret-birth]: OPR Campbeltown, baptism of [Margaret Galbraith](/sources/opr-campbeltown-births.md#1849-12-26-margaret-galbraith)
+
+[^margaret-death]: Civil Records of Campbeltown, Argyll; 1881 GALBRAITH, MARGARET (Statutory registers Deaths 507/ 111); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/2360572)
 
 [^robert-birth]: OPR Campbeltown, baptism of [Robert Galbraith](/sources/opr-campbeltown-births.md#1852-06-29-robert-galbraith)
 
