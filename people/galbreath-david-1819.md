@@ -14,7 +14,7 @@ Multiple Merrans died in the 1830, with birth in 1780s so this could be ok.
 Children of David and Catharine (McKinnon) Galbreath, all baptized at Campbeltown:
 
 1. *Alexander Galbreath*, bp. 15 Jul 1845,[^alexander-birth] d. 4 Dec 1887 at the Campbeltown Poorhouse, unmarried.[^alexander-death]
-2. *Isabella Galbreath*, bp. 15 Nov 1847[^isabella-birth], TBD
+2. *Isabella Galbreath*, bp. 15 Nov 1847[^isabella-birth], d. 21 Sep 1882, unmarried, some type of factory worker[^isabella-death]
 3. *Margaret Galbraith*, bp. 26 Dec 1849[^margaret-birth], d. 26 Jul 1881, unmarried, domestic servant.[^margaret-death]
 4. *Robert Galbraith*, bp. 20 Jun 1852,[^robert-birth] d. 18 May 1885, unmarried.[^robert-death]
 
@@ -35,6 +35,8 @@ Children of David and Catharine (McKinnon) Galbreath, all baptized at Campbeltow
 [^alexander-death]: Civil records of Campbeltown, Argyll; 1887 GALBRAITH, ALEXANDER (Statutory registers Deaths 507/ 158); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/2882348)
 
 [^isabella-birth]: OPR Campbeltown, baptism of [Isabella Galbreath](/sources/opr-campbeltown-births.md#1847-11-15-isabella-galbreath)
+
+[^isabella-death]: Civil records of Campbeltown, Argyll; 1882 GALBRAITH, ISABELLA (Statutory registers Deaths 507/ 128); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/2514575)
 
 [^margaret-birth]: OPR Campbeltown, baptism of [Margaret Galbraith](/sources/opr-campbeltown-births.md#1849-12-26-margaret-galbraith)
 
