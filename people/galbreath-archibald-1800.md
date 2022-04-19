@@ -21,7 +21,7 @@ Children of Archibald and Agnes (Henderson) Galbreath:[^children]
 1. *Neill Galbreath*, bp. 28 Nov 1833[^neil-birth]
 2. *Margaret Galbreath*, bp 23 Mar 1837[^margaret-birth]
 3. *John Galbreath*, bp. 16 May 1839[^john-birth]
-4. *Catherine Galbraith*, b. 1844
+4. *Catherine Galbraith*, b. 1844, d. 21 Nov 1879; m. *John Muir/Munn*[^catherine-death]
 5. *Archibald Galbraith*, b. 1846
 6. *Alexander Galbraith*, b. 1848
 
@@ -40,3 +40,6 @@ Children of Archibald and Agnes (Henderson) Galbreath:[^children]
 [^census-1851]:  [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1851/0019255388&expand=true), gives birth year of 1811 in Campbeltown.
 
 [^census-1861]:  [FindMyPast](https://www.findmypast.com/transcript?id=GBC%2F1861%2F0022162705), givens birth year of 1808 in Campbeltown.
+
+[^catherine-death]:  Civil records of Campbeltown; 1879 GALBRAITH, CATHERINE (Statutory registers Deaths 507/ 174); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/2199511)
+
