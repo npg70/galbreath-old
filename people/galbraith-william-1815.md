@@ -11,7 +11,7 @@ He was a mason / journeyman.[^marriage-glass][^death].
 Children of William and Grace (Glass) Galbraith, all born or baptized in Campbeltown:
 
 1. *William Galbraith*, bp. 2 Mar 1846[^william-birth]
-2. *Agnes Galbraith*, bp. 28 Aug 1848[^agnes-birth]
+2. *Agnes Galbraith*, bp. 28 Aug 1848[^agnes-birth], m. *John O'Hara*, seaman; d. 23 Oct 1879[^agnes-death]
 3. *Jean Cameron Galbraith*, bp. 6 Dec 1852[^jean-birth]
 4. *Alexander Galbraith*, b. 21 Dec 1855[^alexander-birth]
 
@@ -30,6 +30,8 @@ also https://www.familysearch.org/tree/person/details/K81G-HWV?completedMergeDup
 [^william-birth]: OPR Campbeltown, baptism of [William Galbraith](/sources/opr-campbeltown-births.md#1846-03-02-william-galbreath)
 
 [^agnes-birth]: OPR Campbeltown, baptism of [Agnes Galbraith](/sources/opr-campbeltown-births.md#1848-08-28-agnes-galbreath)
+
+[^agnes-death]: Statuatory records of Campbeltown, Argyll; 1879 GALBRAITH, AGNES (Statutory registers Deaths 507/ 155); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/2170586)
 
 [^jean-birth]: OPR Campbeltown, baptism of [Jean Cameron Galbraith](/sources/opr-campbeltown-births.md#1852-12-06-jean-cameron-galbraith)
 
