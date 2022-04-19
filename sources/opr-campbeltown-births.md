@@ -2248,6 +2248,12 @@ TBD: [DAVID GALBRAITH](/people/galbreath-david-1819.md)/CATHARINE MCKINNON
 
 TBD: DUNCAN GALBRAITH/CATHARINE MCFAYTER
 
+death: https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/5028407?return_row=8
+
+married to Margaret Morrison?, blacksmith;journeyman.
+
+Duncan was a distillery workman.
+
 ## 1850-05-26 Jane Galbraith
 
 [507/70 369 row 7](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/1675?image=369)
