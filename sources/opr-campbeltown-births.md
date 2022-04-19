@@ -1348,6 +1348,8 @@ TBD: Neil Galbreath / Fineul ??
 
 TBD: NEIL GALBREATH/MARGARET GALBREATH
 
+
+
 ## [1800-02-26 Martha Galbreath](/people/galbreath-martha-1800.md)
 
 [507/40 197 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358384?image=197)
@@ -1371,6 +1373,10 @@ death: https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/2359939?ret
 ## 1800-12-11 Agnes Galbreath
 
 TBD: NEIL GALBREATH/ISABELL MCKINLAY
+
+death: https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/1962369?return_row=22
+
+married: Hendry  some other notes in death cert.
 
 ## 1801-02-08 William Galbreath
 
