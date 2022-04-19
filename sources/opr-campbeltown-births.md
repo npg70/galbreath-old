@@ -2246,8 +2246,7 @@ TBD: [DAVID GALBRAITH](/people/galbreath-david-1819.md)/CATHARINE MCKINNON
 
 ## 1850-05-05 John Galbraith
 
-TBD: **[Duncan Galbreath](/poeple/galbreath-duncan-1815-mcfater.md)** / CATHARINE MCFAYTER
-
+TBD: **[Duncan Galbreath](/people/galbreath-duncan-1815-mcfater.md)** / CATHARINE MCFAYTER
 
 ## 1850-05-26 Jane Galbraith
 
