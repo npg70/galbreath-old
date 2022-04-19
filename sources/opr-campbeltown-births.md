@@ -2205,13 +2205,7 @@ TBD: ARCHIBALD GALBREATH/AGNES MCFARLANE
 
 ## 1848-03-19 Angus Galbreath
 
-TBD: DUNCAN GALBREATH/CATHARINE MCFATER
-
-death: https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/6632755?return_row=1
-
-single
-
-duncan: distillary workman
+TBD: **[Duncan Galbreath](/people/galbreath-duncan-1815-mcfater.md)** CATHARINE MCFATER
 
 ## 1848-08-28 Agnes Galbreath
 
@@ -2252,19 +2246,14 @@ TBD: [DAVID GALBRAITH](/people/galbreath-david-1819.md)/CATHARINE MCKINNON
 
 ## 1850-05-05 John Galbraith
 
-TBD: DUNCAN GALBRAITH/CATHARINE MCFAYTER
+TBD: **[Duncan Galbreath](/poeple/galbreath-duncan-1815-mcfater.md)** / CATHARINE MCFAYTER
 
-death: https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/5028407?return_row=8
-
-married to Margaret Morrison?, blacksmith;journeyman.
-
-Duncan was a distillery workman.
 
 ## 1850-05-26 Jane Galbraith
 
 [507/70 369 row 7](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/1675?image=369)
 
-> Jane | Lawful Daughter of [Peter Galbraith](/people/galbraith-peter-1811.md) Laborer & Sarah Armour 
+> Jane | Lawful Daughter of **[Peter Galbraith](/people/galbraith-peter-1811.md)** Laborer & **Sarah Armour**
 > born 30th March & bapts 26 May 1850
 
 ## 1850-08-22 Isabella Galbraith
