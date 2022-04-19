@@ -2207,6 +2207,12 @@ TBD: ARCHIBALD GALBREATH/AGNES MCFARLANE
 
 TBD: DUNCAN GALBREATH/CATHARINE MCFATER
 
+death: https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/6632755?return_row=1
+
+single
+
+duncan: distillary workman
+
 ## 1848-08-28 Agnes Galbreath
 
 TBD: [WILLIAM GALBREATH](/people/galbraith-william-1815.md)/GRACE GLASS
