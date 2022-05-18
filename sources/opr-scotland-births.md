@@ -38,6 +38,7 @@ title: Distribution of Galbraiths in Scotland
 | Roxburgh       | 18         | 1713  | 1852 |  |
 | Selkirk        | 1          | 1854  | 1854 |  |
 | Shetland       | 0          |       |      |  |
-| Sutherland     | 0          |       |      |  |
+| Stirling       | 715        | 1595 | 1854  |  |
+| Sutherland     | 0          |      |      |  |
 | West Lothian   | 39         | 1705  | 1823 |  |
 | Wigtown        | 48         | 1783  | 1853 |  |
