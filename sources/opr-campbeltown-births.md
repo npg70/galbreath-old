@@ -1616,7 +1616,10 @@ TBD: [Neill Galbreath](/people/galbraith-neil-1788.md) / Mary MacMillan
 
 ## 1811-08-25 Rachel Galbreath
 
-TBD: [Archibald Galbreath](/people/galbreath-archibald-1760.md) / Jean Corbet
+[507/ 40 373 row 10](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358494?image=373)
+
+> Rachael | Lawful Daughter to *[Archibald Galbreath](/people/galbreath-archibald-1760.md)* 
+> Merchant in Campbeltown & *Jean Corbet* born 17th. Bapt 25th Aug 1811
 
 ## 1811-10-10 John Galbreath
 
