@@ -18,16 +18,14 @@ title: Distribution of Galbraiths in Scotland
 | Dunbarton      | 197        | 1699  | 1854 |      |
 | Dundee City    | 4          | 1760  | 1853 |      |
 | East Lothian   | 99         | 1605  | 1841 |      |
-| Edinburgh City | 247        | 1575  | 1855 |      |
 | Fife           | 42         | 1666  | 1853 |      |
 | Forfar         | 0          |       |      |      |
-| Glasgow City   | 492        | 1609  | 1854 |      |
 | Inverness      | 4          | 1788  | 1797 |      |
 | Kincardine     | 0          |       |      |      |
 | Kinross        | 0          |       |      |      |
 | Kirkcudbright  | 12         | 1795  | 1851 |      |
-| Lanark         | 543        | 1609  | 1854 |      |
-| Midlothian     | 295        | 1575  | 1855 |      |
+| Lanark/Glasgow | 543        | 1609  | 1854 |      |
+| Midlothian/Edinburgh     | 295        | 1575  | 1855 |      |
 | Moray          | 1          | 1842  | 1842 |      |
 | Nairn          | 0          |       |      |      |
 | Orkney         | 0          |       |      |      |
