@@ -64,7 +64,7 @@ title: Distribution of Galbraiths in Scotland
 | Saddell/Skipness   |    6  | 1800  | 1840 |     |
 | Southend           |   18  | 1804  | 1849 |    |
 
-## Lanark
+## Lanark / Glasgow
 
 | Parish         | Total   | First | Last | Notes |
 |--------------------|-------|-------|------|------|
@@ -83,3 +83,27 @@ title: Distribution of Galbraiths in Scotland
 | Govan              |
 | Shotts             |
 | Symington          |
+
+## Midlothian / Edinburgh
+
+| Parish         | Total   | First | Last | Notes |
+|--------------------|-------|-------|------|------|
+| Canongate |      |      |      |       |
+| Cockpen   | 1    |
+| Colinton (or Hailes) | 
+| Currie    | 1    |
+| Dalkeith   |  5  |
+| Duddingston | 
+| Edinburgh   | 89    | 1596  | 1849 |  |
+| Glencorse   | 2  |
+| Inveresk/Musselburgh | 5 |
+| Lasswade    | 
+| Leith North | 1 |
+| Leith South | 
+| Liberton    |
+| Newington and Grange | 1 |
+| Newton      | 1      |
+| Penicuik     |  
+| St Cuthbert's | 60 | 1575 | 1854 | |
+| Tolbooth Church, Edinb | 1 |
+| WEST CALDER | 
