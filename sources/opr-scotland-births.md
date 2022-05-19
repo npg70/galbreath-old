@@ -2,7 +2,7 @@
 title: Distribution of Galbraiths in Scotland
 ---
 
-| Parish         | Total   | First | Last | Notes |
+| Region         | Total   | First | Last | Notes |
 |----------------|------------|-------|------|------|
 | Aberdeen       | 0          |       |      |      |
 | Aberdeen City  | 0          |       |      |      |
@@ -42,3 +42,24 @@ title: Distribution of Galbraiths in Scotland
 | Sutherland     | 0          |      |      |  |
 | West Lothian   | 39         | 1705  | 1823 |  |
 | Wigtown        | 48         | 1783  | 1853 |  |
+
+
+| Parish         | Total   | First | Last | Notes |
+|--------------------|-------|-------|------|------|
+| Campbeltown        |       | 1659  |    |     |
+| Inveraray/Glenaray |       | 1751  |   |     |
+| Kildalton          |       | 1761  |   |     |
+| Inverchaolain      |       | 1764  |      |    |
+| Glenorchy/Inishail |       | 1773  |      |    |
+| Kilcalmonell/Kilberry |    | 1778  |      |    |
+| South Knapdale     |   54  | 1778  | 1849 |    |
+| Killean/Kilchenzie |       | 1778  |      |     |
+| North Knapdale     |  25   | 1782  | 1838 |     |
+| Glassary           |       | 1791  |      |     |
+| Gigha and Cara     |       | 1794  |      |     |
+| Colonsay           |   36  | 1797  | 1853 |    |
+| Jura               |    6  | 1819  | 1847 |    |
+| Kilmeny            |       |       |      |     |
+| Lochgoilhead       |       |       |      |     |
+| Saddell/Skipness   |       |       |     |     |
+| Southend           |   18  | 1804  | 1849 |    |
