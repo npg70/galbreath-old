@@ -46,17 +46,17 @@ title: Distribution of Galbraiths in Scotland
 
 | Parish         | Total   | First | Last | Notes |
 |--------------------|-------|-------|------|------|
-| Campbeltown        |       | 1659  |    |     |
-| Inveraray/Glenaray |       | 1751  |   |     |
-| Kildalton          |       | 1761  |   |     |
-| Inverchaolain      |       | 1764  |      |    |
-| Glenorchy/Inishail |       | 1773  |      |    |
-| Kilcalmonell/Kilberry |    | 1778  |      |    |
+| Campbeltown        |  486  | 1659  | 1854 |     |
+| Inveraray/Glenaray |  18   | 1751  | 1827 |     |
+| Kildalton          |  19   | 1761  | 1850 |     |
+| Inverchaolain      |   8   | 1756  | 1847 |    |
+| Glenorchy/Inishail |  1     | 1773  | 1773     |    |
+| Kilcalmonell/Kilberry | 130 | 1778 | 1854 |    |
 | South Knapdale     |   54  | 1778  | 1849 |    |
-| Killean/Kilchenzie |       | 1778  |      |     |
+| Killean/Kilchenzie |  58   | 1778  | 1854 |     |
 | North Knapdale     |  25   | 1782  | 1838 |     |
-| Glassary           |       | 1791  |      |     |
-| Gigha and Cara     |       | 1794  |      |     |
+| Glassary           |  16   | 1791  | 1854 |     |
+| Gigha and Cara     |  177  | 1794  | 1854 |     |
 | Colonsay           |   36  | 1797  | 1853 |    |
 | Jura               |    6  | 1819  | 1847 |    |
 | Kilmeny            |    4  | 1804  | 1813 |     |
