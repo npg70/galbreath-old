@@ -44,6 +44,8 @@ title: Distribution of Galbraiths in Scotland
 | Wigtown        | 48         | 1783  | 1853 |  |
 
 
+## Argyll
+
 | Parish         | Total   | First | Last | Notes |
 |--------------------|-------|-------|------|------|
 | Campbeltown        |  486  | 1659  | 1854 |     |
@@ -63,3 +65,23 @@ title: Distribution of Galbraiths in Scotland
 | Lochgoilhead       |    2  | 1822  | 1824 |     |
 | Saddell/Skipness   |    6  | 1800  | 1840 |     |
 | Southend           |   18  | 1804  | 1849 |    |
+
+## Lanark
+
+| Parish         | Total   | First | Last | Notes |
+|--------------------|-------|-------|------|------|
+| Airdrie/New Monkland |      |      |      |       |
+| Barony             | 89    | 1711  | 1854 |   |
+| Blantyre           |
+| Bothwell           |
+| Cadder             |
+| Cambuslang         |
+| Cambusnethan       |
+| Cathcart           |
+| Covington/Thankerton |
+| Culter             |
+| Glasgow            | 315  | 1609 | 1854 |   |
+| Gorbals            |
+| Govan              |
+| Shotts             |
+| Symington          |
