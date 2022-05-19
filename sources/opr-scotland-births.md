@@ -59,7 +59,7 @@ title: Distribution of Galbraiths in Scotland
 | Gigha and Cara     |       | 1794  |      |     |
 | Colonsay           |   36  | 1797  | 1853 |    |
 | Jura               |    6  | 1819  | 1847 |    |
-| Kilmeny            |       |       |      |     |
-| Lochgoilhead       |       |       |      |     |
-| Saddell/Skipness   |       |       |     |     |
+| Kilmeny            |    4  | 1804  | 1813 |     |
+| Lochgoilhead       |    2  | 1822  | 1824 |     |
+| Saddell/Skipness   |    6  | 1800  | 1840 |     |
 | Southend           |   18  | 1804  | 1849 |    |
