@@ -107,3 +107,24 @@ title: Distribution of Galbraiths in Scotland
 | St Cuthbert's | 60 | 1575 | 1854 | |
 | Tolbooth Church, Edinb | 1 |
 | WEST CALDER | 
+
+## Renfrew
+
+| Parish         | Total   | First | Last | Notes |
+|--------------------|-------|-------|------|------|
+| Abbey | 33 | 1676 | 1852 |  |
+| Erskine | 1 | 1854 | 1854 |  |
+| Greenock (various)     | 187 | 1699 | 1854 |  |
+| Houston and Killellan  | 12 | 1821 | 1852 |   |
+| Inchinnan              |  8 | 1743 | 1774 |   |
+| Inverkip               | 8   | 1706 | 1849 |  |
+| Kilbarchan             | 11  | 1797 | 1839 |  |
+| Kilmacolm              | 17  | 1715 | 1854 |  |
+| Lochwinnoch            |  5  | 1811 | 1853 |  |
+| Mearns                 | 14 | 1780 | 1842 |  |
+| Neilston               | 10 | 1833  | 1852 |  |
+| Paisley Burgh or Low   | 15 | 1791  | 1834 |  |
+| Paisley High Church    | 29  | 1753 | 1815 |  | 
+| Paisley Middle         |  9 | 1790 | 1854 |  |
+| Port Glasgow           | 27 | 1743 | 1844 |  | 
+| Renfrew                | 16 | 1691 | 1853 |  |
