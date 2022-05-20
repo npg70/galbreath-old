@@ -110,21 +110,44 @@ title: Distribution of Galbraiths in Scotland
 
 ## Renfrew
 
-| Parish         | Total   | First | Last | Notes |
+| Parish                 | Total  | First | Last | Notes |
+|------------------------|--------|-------|------|------|
+| Abbey                  | 33     | 1676 | 1852 |  |
+| Erskine                | 1      | 1854 | 1854 |  |
+| Greenock (various)     | 187    | 1699 | 1854 |  |
+| Houston and Killellan  | 12     | 1821 | 1852 |   |
+| Inchinnan              |  8     | 1743 | 1774 |   |
+| Inverkip               | 8      | 1706 | 1849 |  |
+| Kilbarchan             | 11     | 1797 | 1839 |  |
+| Kilmacolm              | 17     | 1715 | 1854 |  |
+| Lochwinnoch            |  5     | 1811 | 1853 |  |
+| Mearns                 | 14     | 1780 | 1842 |  |
+| Neilston               | 10     | 1833 | 1852 |  |
+| Paisley Burgh or Low   | 15     | 1791 | 1834 |  |
+| Paisley High Church    | 29     | 1753 | 1815 |  | 
+| Paisley Middle         |  9     | 1790 | 1854 |  |
+| Port Glasgow           | 27     | 1743 | 1844 |  | 
+| Renfrew                | 16     | 1691 | 1853 |  |
+
+## Siirling
+
+| Parish             | Total | First | Last | Notes |
 |--------------------|-------|-------|------|------|
-| Abbey | 33 | 1676 | 1852 |  |
-| Erskine | 1 | 1854 | 1854 |  |
-| Greenock (various)     | 187 | 1699 | 1854 |  |
-| Houston and Killellan  | 12 | 1821 | 1852 |   |
-| Inchinnan              |  8 | 1743 | 1774 |   |
-| Inverkip               | 8   | 1706 | 1849 |  |
-| Kilbarchan             | 11  | 1797 | 1839 |  |
-| Kilmacolm              | 17  | 1715 | 1854 |  |
-| Lochwinnoch            |  5  | 1811 | 1853 |  |
-| Mearns                 | 14 | 1780 | 1842 |  |
-| Neilston               | 10 | 1833  | 1852 |  |
-| Paisley Burgh or Low   | 15 | 1791  | 1834 |  |
-| Paisley High Church    | 29  | 1753 | 1815 |  | 
-| Paisley Middle         |  9 | 1790 | 1854 |  |
-| Port Glasgow           | 27 | 1743 | 1844 |  | 
-| Renfrew                | 16 | 1691 | 1853 |  |
+| Airth              |  5    | 1661  | 1756 |      |
+| Baldernock         | 12    | 1644  | 1823 |      |
+| Balfron            | 153   | 1688  | 1846 |      |
+| Bothkennar         |   2   | 1771  | 1819 |      |
+| Campsie            | 10    | 1810  | 1852 |      |
+| Denny              | 10    | 1680  | 1846 |      |
+| Drymen             | 14    | 1729  | 1834 |      |
+| Falkirk            | 151   | 1595  | 1851 |      |
+| Gargunnock         |  30   | 1619  | 1854 |      |
+| Killearn           |  20   | 1724  | 1853 |      |
+| Kilsyth            |   2   | 1639  | 1644 |      |
+| Kippen             | 154   | 1705  | 1843 |      |
+| Larbert            | 18    | 1665  | 1826 |      |
+| Muiravonside       |  2    | 1715  | 1715 |      |
+| Polmont            | 5     | 1740  | 1755 |      |
+| St Ninians         | 81    | 1647  | 1825 |      |
+| Stirling           | 21    | 1739  | 1837 |      |
+| Strathblane        | 8     | 1685  | 1708 |      |
