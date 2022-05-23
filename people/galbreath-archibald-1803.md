@@ -29,7 +29,8 @@ Children of Archibald and Margaret (Loynachan) Galbreath:[^oprchildren2]
 # Sources
 
 - FamilySearch has another record that has info: https://www.familysearch.org/tree/person/details/K83Z-DGR
-- Excellent tree on [Ancestry.com](https://www.ancestry.com/family-tree/person/tree/5282753/person/130071167317/facts)
+- Female decendant on [Ancestry.com](https://www.ancestry.com/family-tree/person/tree/5282753/person/130071167317/facts)
+- A possible male decendant on [Ancestry.com](https://www.ancestry.com/family-tree/person/tree/152980265/person/292028280873/facts)
 - Stuff on Eugina: http://clark-debisschop.co.uk/tng/getperson.php?personID=I8117&tree=Clark
 
 [^birth]: OPR record for [Archibald Galbreath](/sources/opr-campbeltown-births.md#1803-09-11-archibald-galbreath)
