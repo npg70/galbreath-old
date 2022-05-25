@@ -5,7 +5,7 @@ title: Archibald Galbraith b. 1843 m. Mary Paterson
 
 Married Clyde, Glasgow on 10 Jun 1870[^marriage-paterson] to **Mary Paterson**, daughter of Charles Paterson and Margaret McCallum.
 
-He was a coppersmith[^marriage-paterson][^census-1871][^census-1881]
+He was a coppersmith[^marriage-paterson][^census-1871][^census-1881][^census-1891][^census-1901]
 
 [^marriage-paterson]: Civil records of Clyde, Glasgow, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/6895308)
 
