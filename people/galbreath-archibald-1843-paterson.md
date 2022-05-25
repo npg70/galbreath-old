@@ -13,3 +13,8 @@ He was a coppersmith[^marriage-paterson][^census-1871][^census-1881]
 
 [^census-1881]: Maybe Barrow in Furness, Lancashire, England,  [FindMyPast](https://www.findmypast.com/transcript?id=GBC%2F1881%2F0019831138), which lists an Archibald as  master coppersmith with Mary, no children.
 
+[^census-1891]:  Furness, Lancashire, England,  [FindMyPast](https://www.findmypast.com/transcript?id=GBC%2F1891%2F0024095495). "Coppersmith and plumber",  New wife age 23 "Emily" and one child Agnes, age 8, birthplace "Scotland"
+
+[^census-1901]  [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1901/0023673181), widower, "Foreman coppersmith"  Agnes age 18, birthplace "Scotland"
+
+[^census-1911] [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1911/RG14/25651/0323/12&expand=true), Agnes age 28, no occupation, birthplace listed as "Campbeltown Resident Scotland"
