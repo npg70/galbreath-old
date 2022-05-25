@@ -28,7 +28,7 @@ Children of Archibald and Agnes (O'May) Galbraith:
 
 [^census1891]: Household of Archibald Galbraith, UK Census 1891 from [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1891/0035185142&expand=true)
 
-[^agnesleoran]: Civil Registers of Campbeltown, Argyll, birth of Agnes Leoran Galbraith from [MyAinFolk](https://www.myainfolk.ca/records/19457).  Lists father as a "distillery workman"
+[^agnesleoran]: Civil Registers of Campbeltown, Argyll, birth of Agnes Leoran Galbraith from [MyAinFolk](https://www.myainfolk.ca/records/19457).  Lists father as a "distillery workman"... also on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/42256447)
 
 [^william-birth]: Civil Records of Campbeltown; 1870 GALBRAITH, WILLIAM (Statutory registers Births 507/ 77);  [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/40423938)
 
