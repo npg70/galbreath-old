@@ -1,7 +1,7 @@
 ---
 title: Archibald Galbraith b. 1843 m. Mary Paterson
 ---
-***Archibald Galbreath***, son of *Archibald Galbraith* and *Margaret Loynachan*,
+***Archibald Galbreath***, son of *[Archibald Galbraith](galbreath-archibald-1803.md)* and *Margaret Loynachan*,
 
 Married Clyde, Glasgow on 10 Jun 1870[^marriage-paterson] to **Mary Paterson**, daughter of Charles Paterson and Margaret McCallum.
 
