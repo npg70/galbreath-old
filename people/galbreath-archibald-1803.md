@@ -51,7 +51,7 @@ Children of Archibald and Margaret (Loynachan) Galbreath:[^oprchildren2]
 
 [^census1861]: The 1861 Census on [FamilySearch](https://www.familysearch.org/ark:/61903/1:1:VB78-LLK), Lists _James_ as age 17, _Samuel_ as age 9, along with _Margaret_ (age 7), _Agnes_, _John_.
 
-[^census1871]: The 1871 Census on [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1871/0023442767). Only the last daughter Agnes is living with them.
+[^census1871]: The 1871 Census on [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1871/0023442767). Only the last daughter Agnes is living with them, age 14. All listed as being born in Campbeltown, and Archibald is listed as "Flesher's killer."
 
 [^census1881]: The 1881 Census. Well Close, Longrow Street, Campbeltown, Argyllshire, Scotland. Household of Archibald Galbraith, on [FindMyPast](https://www.findmypast.com/transcript?id=GBC%2F1881%2F0029345186).  Only Archibald and Margaret listed, no children present.
 
