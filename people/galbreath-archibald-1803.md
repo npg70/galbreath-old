@@ -18,7 +18,7 @@ Children of Archibald and Eugina (McCallum) Galbreath, both in Campbeltown:[^opr
 Children of Archibald and Margaret (Loynachan) Galbreath:[^oprchildren2]
 
 1. *James Galbraith*, bp. 23 Sep 1841[^birth-james], d. 6 Dec 1875.  Seaman. Unmarried.[^james-death]
-2. *Archibald Galbraith*, bp. 17 Jul 1843[^birth-archibald], m. *Mary Paterson*
+2. *[Archibald Galbraith](galbreath-archibald-1843-paterson.md)*, bp. 17 Jul 1843[^birth-archibald], m. *Mary Paterson*
 3. *Neil Galbreath*, bp. 20 May 1845[^neil-birth], d. 3 Dec 1909 Dumbarton. m1. *Margaret Blue*, m2. *Margaret McCall or Watt*[^neil-death]
 4. *Agnes Galbreath*, bp. 1 Nov 1847,[^birth-agnes1] died in early childhood.
 6. *Samuel Templeton Galbraith*, b. 17 Nov 1850, Scotland; d. 19 Sep 1931, Montreal, Montreal Region, Quebec, Canada, m. *Mary Ellen Reynolds*
