@@ -5,4 +5,9 @@ John Galbraith, son of *[David Galbreath](galbreath-david-1797.md)* and *Janet M
 
 He married at Campbeltown 13 Oct 1865[^m1] to **Agnes McAlpine**.
 
+He married second at Campbeltown 26 Mar 1877[^m2] to **Charolette Wylie** (appears to be a widower to a Paterson).
+
+
 [^m1]: 1865 GALBRAITH, JOHN (Statutory registers Marriages 507/ 37), [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/13925421)
+
+[^m2]: 1877 GALBRAITH, JOHN (Statutory registers Marriages 507/ 14), [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/2634019)
