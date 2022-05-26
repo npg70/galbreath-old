@@ -2,7 +2,7 @@
 title: David Galbreath b. 1719 m. Jean Langwill
 familysearch: https://www.familysearch.org/tree/person/details/G3PJ-Q7V
 ---
-**David Galbreath**, son of [*James Galbreath*](galbreath-james-1672.md) and *Mary Fleming*, baptized Campbeltown, Argyll, Scotland 28 Apr 1719. He married **Jean Langwill**.
+**David Galbreath**, son of [*James Galbreath*](galbreath-james-1672.md) and *Mary Fleming*, baptized Campbeltown, Argyll, Scotland 28 Apr 1719. He married at Campbeltown 20 Mar 1742 to **Jean Langwill**.
 
 Children of David and Jean (Langwill) Galbreath, all baptized at Campbeltown:
 
