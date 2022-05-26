@@ -11,13 +11,14 @@ The 1861 Census[^census1861] for Shore Street, Campbeltown lists Flora ("formall
 
 Children of Donald and Flora (Smith) Galbreath:[^children]
 
-1. *John Galbreath*, bp. 21 Feb 1833 Gigha
-2. *Neill Galbreath*, bp. 5 Mar 1835 Gigha
-3. *Malcom Galbreath*, bp. 27 Dec 1836 Campbeltown[^malcom-birth]
-4. *Margaret Galbreath*, bp. 28 Nov 1838 Campbeltown[^margaret-birth]
-5. *Duncan Galbreath*, bp. 27 Apr 1841 Campbeltown[^duncan-birth]
-6. *Donald Galbreath*, bp. 30 Sep 1845 Campbeltown[^donald-birth]
-7. *Archibald Galbreath*, bp. 20 Dec 1847 Campbeltown[^archibald-birth]
+1. *John Galbreath*, bp. 21 Feb 1833 Gigha, m. [1855 GALBREATH, JOHN (Statutory registers Marriages 507/1 20)](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/12147166?return_row=1)
+    1. [1855 GALBRAITH, JAMES MCLACHLAN (Statutory registers Births 507/1 93)])https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/38719936?return_row=2 )
+3. *Neill Galbreath*, bp. 5 Mar 1835 Gigha
+4. *Malcom Galbreath*, bp. 27 Dec 1836 Campbeltown[^malcom-birth]
+5. *Margaret Galbreath*, bp. 28 Nov 1838 Campbeltown[^margaret-birth]
+6. *Duncan Galbreath*, bp. 27 Apr 1841 Campbeltown[^duncan-birth]
+7. *Donald Galbreath*, bp. 30 Sep 1845 Campbeltown[^donald-birth]
+8. *Archibald Galbreath*, bp. 20 Dec 1847 Campbeltown[^archibald-birth]
  
 [^marriage]: Orig TBD, but listed on [FamilySearch](https://www.familysearch.org/ark:/61903/1:1:XTKZ-Z9S)
 
