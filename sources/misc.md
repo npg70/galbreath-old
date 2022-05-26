@@ -51,7 +51,9 @@ Lord Napier owned the historic lands of Galbraith/Culcruech... so interesting it
 
 https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/5387687?return_row=5
 
-## Living
+https://www.findmypast.com/transcript?id=GBC%2F1871%2F0023732832   Balfron
+
+father is "Farmer 137 acres of which 90 arable employ 2 men & 3 women	"
 
 BT records for _Galbraith_ in:
 
