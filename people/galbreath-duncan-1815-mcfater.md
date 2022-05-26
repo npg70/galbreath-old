@@ -7,7 +7,8 @@ title: Duncan Galbreath b 1815 m. Catherine McFater
 Children of Duncan and Catherine (McFater) Galbreath, all in Campbeltown:
 
 1. *Angus Galbreath*, bp. 19 Mar 1848[^angus-birth], d. unmarried.[^angus-death]
-2. *John Galbraith*, bp. 5 Mat 1850[^john-birth], d. m. Marget Morrison[^john-death]
+2. *John Galbraith*, bp. 5 Mar 1850[^john-birth], m. *Margaret Morrison*[^john-death]
+  1. *Archibald Galbraith*, b. 9 Apr 1889 [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/42980643)  
 
 
 [^duncan-death]: Civil Records of Campbeltown, Argyll; 1880 GALBRAITH, DUNCAN (Statutory registers Deaths 507/ 57) on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/2239855). Listed as a "distillery workman, married to Catharne McP???", listed father as a "shoemaker", and John Galbraith, son, present.
