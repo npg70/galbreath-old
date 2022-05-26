@@ -16,6 +16,8 @@ Children of John and Mary (McEwing) Galbraith:
 
 # Sources
 
+1881 Census Catterick Hall, Fog Lane, Burnage, Chorlton, Lancashire, England - https://www.findmypast.com/transcript?id=GBC/1881/0017950203&expand=true
+
 https://www.ancestry.com/family-tree/person/tree/3451498/person/6195109645/facts
 
 http://www.ralstongenealogy.com/number35kintmag.htm#start
