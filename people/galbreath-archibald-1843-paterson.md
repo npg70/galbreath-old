@@ -9,6 +9,8 @@ Married Clyde, Glasgow on 10 Jun 1870[^marriage-paterson] to **Mary Paterson**, 
 
 He was a coppersmith[^marriage-paterson][^census-1871][^census-1881][^census-1891][^census-1901]
 
+Note!  There is another *[Archibald Galbreath](galbraith-archibald-1825.md)*, b. 1825, who married a different *Mary Paterson*
+
 [^marriage-paterson]: Civil records of Clyde, Glasgow, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/6895308)
 
 [^census-1871]:  Available on [FindMypast](https://www.findmypast.com/transcript?id=GBC%2F1871%2F0024906490), and raw image on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_census/10682619?image=10&return_row=0)
