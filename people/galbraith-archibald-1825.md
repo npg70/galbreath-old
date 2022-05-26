@@ -12,7 +12,7 @@ Note there is another *[Archibald Galbreath](galbreath-archibald-1843-paterson.m
 
 Children of Archibald and Mary (Paterson) Galbraith:
 
-1. *Archibald Galbreath*, b. 1867
+1. *Archibald Galbreath*, b. 21 July 1867[^archibald-birth]
 2. *James Paterson Galbraith*, b. 1868
 3. *Samuel Galbraith*, b. 1870
 4. *Edward Gordon Galbraith*, b. 1872
@@ -22,3 +22,5 @@ Children of Archibald and Mary (Paterson) Galbraith:
 [^death]: Civil Registers of Campbeltown, Argyll, death of Archibald Galbreath transcribed on [MyAinFolk](https://www.myainfolk.ca/records/6834)
 
 [^marriage1]: Civil Registers of Campbeltown, Marriage of Archibald Galbreath and Mary Paterson, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/342667)
+
+[^archibald-birth]: [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/40048242?return_row=6)
