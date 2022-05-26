@@ -7,12 +7,12 @@ findagrave: https://www.findagrave.com/memorial/172200082/alexander-galbraith
 
 He married **Mary Campbell**, died 18 Nov 1950.[^death]
 
-He was a fisherman.[^census-1891][^margaret-death]
+He was a fisherman.[^census-1891][^margaret-death][^archibald-death]
 
 Children of Alexander and Mary (Campbell) Galbraith:
 
 1. *Margaret Galbraith*, b. 1878 Skipness, d. 21 May 1952 Campbeltown, m. *John Paterson*[^margaret-death]
-2. *Archibald Galbraith*, b. ~1880 Saddell, d. 7 Jun 1905 [^death]
+2. *Archibald Galbraith*, b. ~1880 Saddell, d. 7 Jun 1905 [^death][^archibald-death]
 3. *Robert Galbraith*, 17 Sep 1881 Saddell, d. 1935, m. *Anne MacIntosh*
 4. *Mary Galbraith*, b. ~1884 Saddell
 5. *John Alexander Galbraith*, b. 1885 Skipness, d. 20 Oct 1960 Glasgow Royal Infirmary, m. *Elizabeth MacDougall*
@@ -43,6 +43,8 @@ Children of Alexander and Mary (Campbell) Galbraith:
     In Her 92nd Year
 
 [^margaret-death]: Death of Margaret Patteron, Civil Registers of Campbeltown, Argyll, transcribed by [MyAinFolk](https://www.myainfolk.ca/records/18688)
+
+[^archibald-death]: 1905 GALBRAITH, ARCHIBALD (Statutory registers Deaths 531/1 4), [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/5837556).
 
 [^census-1891]: UK Census of 1891, Household of Alexr Galbraith, [FamilySearch](https://www.familysearch.org/ark:/61903/1:1:KSFB-HYH)
 
