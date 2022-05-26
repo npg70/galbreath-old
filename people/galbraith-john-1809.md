@@ -16,6 +16,10 @@ Children of John and Mary (McEwing) Galbraith:
 
 # Sources
 
+1861 At boarding school Merchiston Academy, Colinton Road, St Cuthbert's, Newington, Midlothian, Scotland  https://www.findmypast.com/transcript?id=GBC%2F1861%2F0024162490
+
+1871 Brook Field, Lymm, Altrincham, Cheshire, England  https://www.findmypast.com/transcript?id=GBC/1871/0018410110&expand=true
+
 1881 Census Catterick Hall, Fog Lane, Burnage, Chorlton, Lancashire, England - https://www.findmypast.com/transcript?id=GBC/1881/0017950203&expand=true
 
 1883 Marriage to Florence Eliza Carr @ Chorlton, Lancashire, England https://www.findmypast.com/transcript?id=BMD%2FM%2F1884%2F1%2FAZ%2F000088%2F024
