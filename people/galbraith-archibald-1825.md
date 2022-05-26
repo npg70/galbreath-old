@@ -6,7 +6,7 @@ familysearch: https://www.familysearch.org/tree/person/details/LZVY-RCL
 
 He married first at Campbeltown 6 Apr 1865[^marriage1] to  **Mary Paterson**, and second **Margaret Galbreath**.
 
-He was a fisherman.[^death]
+He was a fisherman.[^death][^archibald-birth]
 
 Note there is another *[Archibald Galbreath](galbreath-archibald-1843-paterson.md)*, b. 1843, who married a *Mary Paterson*.
 
