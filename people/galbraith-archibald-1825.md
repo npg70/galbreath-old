@@ -4,7 +4,9 @@ familysearch: https://www.familysearch.org/tree/person/details/LZVY-RCL
 ---
 ***Archibald Galbreath***, son of *[David Galbreath](galbreath-david-1797.md)* and *Janet Mitchell*, baptised Campbeltown 10 Jul 1825,[^birth] died 9 Apr 1895.[^death]
 
-He married first at Campbeltown 6 Apr 1865[^marriage1] to  **Mary Paterson**, and second **Margaret Galbreath**.
+He married first at Campbeltown 6 Apr 1865[^marriage1] to **Mary Paterson**.
+
+He married second at Campbeltown 26 Dec 1881 [^marriage2] to **Margaret Galbreath**, daughter of Archibald Galbreath (mason) and Agnes Henderson.
 
 He was a fisherman.[^death][^archibald-birth]
 
@@ -22,5 +24,7 @@ Children of Archibald and Mary (Paterson) Galbraith:
 [^death]: Civil Registers of Campbeltown, Argyll, death of Archibald Galbreath transcribed on [MyAinFolk](https://www.myainfolk.ca/records/6834)
 
 [^marriage1]: Civil Registers of Campbeltown, Marriage of Archibald Galbreath and Mary Paterson, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/342667)
+
+[^marriage2]: 1881 GALBRAITH, ARCHIBALD (Statutory registers Marriages 507/ 71), [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/10301420)
 
 [^archibald-birth]: [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/40048242?return_row=6)
