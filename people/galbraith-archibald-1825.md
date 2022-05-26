@@ -8,6 +8,8 @@ He married first at Campbeltown 6 Apr 1865[^marriage1] to  **Mary Paterson**, an
 
 He was a fisherman.[^death]
 
+Note there is another *[Archibald Galbreath](galbreath-archibald-1843-paterson.md)*, b. 1843, who married a *Mary Paterson*.
+
 Children of Archibald and Mary (Paterson) Galbraith:
 
 1. *Archibald Galbreath*, b. 1867
