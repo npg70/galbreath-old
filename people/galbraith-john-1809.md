@@ -12,11 +12,23 @@ wikitree: https://www.wikitree.com/wiki/Galbraith-2404
 Children of John and Mary (McEwing) Galbraith:
 
 1. *[Elizabeth Galbraith](galbraith-elizabeth-1841.md)*, bp. 10 May 1841,[^birth-elizabeth] m. *James Nicol Fleming* 
-2. *Archibald Galbraith*, bp. 06 Oct 1845[^birth-archibald]
+2. *Archibald Galbraith*, bp. 6 Oct 1845[^birth-archibald], m. *Florence Eliza Carr*, no known children.
 
 # Sources
 
 1881 Census Catterick Hall, Fog Lane, Burnage, Chorlton, Lancashire, England - https://www.findmypast.com/transcript?id=GBC/1881/0017950203&expand=true
+
+1883 Marriage to Florence Eliza Carr @ Chorlton, Lancashire, England https://www.findmypast.com/transcript?id=BMD%2FM%2F1884%2F1%2FAZ%2F000088%2F024
+
+1891 Census Catterick Hall, Fog Lane, Didsbury, Chorlton, Lancashire, England - https://www.findmypast.com/transcript?id=GBC/1891/0021738500&expand=true
+  Married to Florence E ~ 1862
+  
+1901 Census Catterick, The Park, Buxton, Fairfield, Chapel En Le Frith, Derbyshire, England https://www.findmypast.com/transcript?id=GBC%2F1901%2F0019570529
+
+1911 - no
+
+1916 - Death https://www.findmypast.com/transcript?id=BMD%2FD%2F1916%2F4%2FAZ%2F000369%2F083 Newton Abbot, Devon, England
+
 
 https://www.ancestry.com/family-tree/person/tree/3451498/person/6195109645/facts
 
