@@ -9,8 +9,8 @@ bio goes here.
 
 Children of Andrew and Margaret (Scott) Galbraith, all baptised at the Barony Parish (near Glasgow):[^children]
 
-1.
-2. *Janet Martha Galbraith*, b. 7 Dec 1826, bp. 7 May 1830, d. 17 Oct 1904.  m. *James Fisher*
+1. *Janet Galbraith*,  b. 7 Dec 1826, bp. 10 Jan 1827 (note: indexed as "Galbreath")
+2. *Jane Martha Galbraith*,, bp. 7 May 1830, d. 17 Oct 1904.  m. *James Fisher*
 3. *Margaret Bogle Galbraith*, bp 22 Oct 1833, d. 18 Feb 1915, m. *William Inglis Scott*
 4. *Agnes Galbraith*, bp. 11 Dec 1835
 5. *Willamina Galbraith*, b. 7 Jun 1838, d. 1920,  m. *Hugh Cowan* -- https://www.newspapers.com/image/393172765/?terms=galbraith%20campbeltown&match=1
