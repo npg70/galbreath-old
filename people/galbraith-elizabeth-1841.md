@@ -5,6 +5,15 @@ familysearch: https://www.familysearch.org/tree/person/details/M1TD-WMJ
 ***Elizabeth Galbraith***, daughter of *[John Galbraith](galbraith-john-1809.md)* and *Mary Colville McEwing*,
 born 25 APR 1841, baptized 10 MAY 1841,[^birth] and died 10 January 1931,[^death] all in Campbeltown.
 
+1881 Census https://www.findmypast.com/transcript?id=GBC/1881/0017950203&expand=true
+
+1. *John G Fleming*
+2. *Mary H Fleming*
+3. *Jane E Fleming*
+4. *Archibald N Fleming*
+5. *Elizabath L Fleming*
+6. *Margaret J Fleming*
+7. *Andrew G Fleming*
 
 [^birth]: OPR Campbeltown, baptism of [Elizabeth Galbraith](/sources/opr-campbeltown-births.md#1841-05-10-elizabeth-galbreath)
 
