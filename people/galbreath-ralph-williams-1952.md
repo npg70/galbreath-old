@@ -5,6 +5,22 @@ title: Ralph Williams Galbreath b. 1952, m. Matilde Pignoloni, m. Abby Dale Emmi
 
 He married second **Abby Dale Emmich**, born Cincinnati, Ohio 3 Jan 1964, d. Vevay, Indiana,  16 Aug 16 2021, the daughter of George and Helen Emmich.
 
+Children of Ralpha and Matilde Galbreath
+
+1. Robert Galbreath, m. Bridget
+2. Marlena
+3. Marea
+4. Martina
+5. Michelle
+6. Mary Ann, d ?
+7. Melinda Galbreath  d. ?
+8. Marcus Galbreath, b. 15 Mar 1985, d. 15 Oct 2020.   Unknown son "Mason Galbreath"
+
+Children of Raph and Abby (Emmich) Galbreath:
+1. Ross Wayne Galbreath, m. Katie TBD
+2. Alex Dale Galbreath
+3. Max Louis Galbreath
+4. Evelyn Galbreath
 
 From https://www.marklandfuneralhome.com/obituary/Marcus-Galbreath
 
