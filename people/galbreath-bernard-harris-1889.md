@@ -9,7 +9,7 @@ Children of Benard and Effie (Turner) Galbreath:
 1. [Ralph Turner Galbreath](galbreath-ralph-turner-1911.md), b. 29 Sept. 1911  m *Evelyn Stancombe*
 2. Mary Gertrude Galbreath, b. 13 Sept. 1916; m *Robert Clayton Potter*
 3. Ruth Ellen Galbreath, b. 29 Dec. 1919; m *Willard N Everhart Jr*
-4. Edna Roberta Galbreath, b. 24 Aug 1922, d. 12 Mar 12 2009, Madison, Jefferson, Indiana ;  m *Donald M Ihle*[^robert-obit]
+4. Edna Roberta Galbreath, b. 24 Aug 1922, d. 12 Mar 12 2009, Madison, Jefferson, Indiana ;  m *Donald M Ihle*[^roberta-obit]
 
 
 
