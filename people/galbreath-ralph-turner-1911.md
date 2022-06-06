@@ -9,4 +9,4 @@ Children of Ralph and Evelyn (Stancombe) Galbreath:
 2. *Mary Jane Galbreath*, 1939  Quercus Grove, Switzerland Co., Indiana. d. 2006. m *James D Alexander*
 3. *Carroll Jean Galbreath*, b. 1941 m *Ivan Dale Green*    ancestry: cjgreen41
 4. *Beverly Ann Galbreath*, b. unknown. m *Mark Allen Cherry*
-5. *Ralph William Galbreath*, b. 1952, Switzerland Co, Indiana, m *Matilde Pignoloni*, m *Abby Dale Emmich*, see https://www.marklandfuneralhome.com/obituary/Marcus-Galbreath
+5. *[Ralph William Galbreath](galbreath-ralph-williams-1952.md)*, b. 1952, Switzerland Co, Indiana, m *Matilde Pignoloni*, m *Abby Dale Emmich*
