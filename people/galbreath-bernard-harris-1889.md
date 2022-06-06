@@ -9,13 +9,13 @@ Children of Benard and Effie (Turner) Galbreath:
 1. [Ralph Turner Galbreath](galbreath-ralph-turner-1911.md), b. 29 Sept. 1911  m *Evelyn Stancombe*
 2. Mary Gertrude Galbreath, b. 13 Sept. 1916; m *Robert Clayton Potter*
 3. Ruth Ellen Galbreath, b. 29 Dec. 1919; m *Willard N Everhart Jr*
-4. Edna Roberta Galbreath, b. 24 Aug 1922, d. 12 Mar 12 2009, Madison, Jefferson, Indiana ;  m *Donald M Ihle*[^roberta-obit]
+4. Edna Roberta Galbreath, b. 24 Aug 1922, d. 12 Mar 12 2009, Madison, Jefferson, Indiana ;  m *James C. Rider*[^roberta-obit]
 
 
 
 [^roberta-obit]: Retrieved from [VevayNewspapers.com](https://www.vevaynewspapers.com/obituaries-week-of-3-19-09/)
-> Roberta Rider
->
+    > Roberta Rider
+    >
 > E. Roberta Galbreath Rider, age 86, of Madison, passed away on Thursday, March 12th, 2009 at 3:05 a.m. at the Dover Manor in Georgetown, Kentucky.
 > 
 > Roberta entered this life on August 24th, 1922, in Ohio County, Indiana, the daughter of Bernard and Effie Turner Galbreath, both of whom preceded her in death. She was raised in Ohio County and was a 1940, graduate of Rising Sun High School.
