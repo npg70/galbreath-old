@@ -9,8 +9,8 @@ It appears he moved to Dalintober to work as a malt-man, but after his father di
 
 Children of Robert and Katharine (Harvie) Galbreath, baptized in Campbeltown except the last two:[^children]
 
-1. *Jane Galbreath*, bp. 11 Mar 1806[^jane-birth]
-2. *Samuel Galbreath*, bp. 22 Mar 1808[^samuel-birth]
+1. *Jane Galbreath*, bp. 11 Mar 1806[^jane-birth], unmarried.
+2. *Samuel Galbreath*, bp. 22 Mar 1808[^samuel-birth], unmarried.
 3. *[James Galbreath](galbreath-james-1809.md)*, bp. 27 Dec 1809,[^james-birth] m. *Nancy Cole*.
 4. *Robert Galbreath*, bp. 25 Feb 1812,[^robert-birth] d. 24 Aug 1842 in Clermont County.
 5. *Archibald Galbreath*, bp. 31 Jan 1814,[^archibald1-birth] bp. 9 Feb 1814.  Died in infancy.
