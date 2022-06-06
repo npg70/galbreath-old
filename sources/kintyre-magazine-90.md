@@ -3,7 +3,7 @@ title: XXX
 ---
 
 
-Letter 1849/1850.
+Letter 1849/1850, page 17, note 11
 
 William Fleming https://www.familysearch.org/tree/person/details/9HV9-6YJ
 
