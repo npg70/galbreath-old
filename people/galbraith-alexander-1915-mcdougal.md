@@ -20,5 +20,6 @@ Obit: [Campbeltown Courier](https://www.campbeltowncourier.co.uk/2022/02/04/anno
 
 > Annoucements Feburary 4 2022
 >
-> GALBRAITH – Peacefully at home, Dunolly, Carradale, on January 25, 2022, Alexander Galbraith (Sandy) in his 77th year, a very beloved husband of Doreen, > much loved dad of Lesley, Linda and Alex, loving papa of Lara, Carly, Alex, Cameron, Connor, Emma and James.
+> GALBRAITH – Peacefully at home, Dunolly, Carradale, on January 25, 2022, Alexander Galbraith (Sandy) in his 77th year, 
+> a very beloved husband of Doreen, > much loved dad of Lesley, Linda and Alex, loving papa of Lara, Carly, Alex, Cameron, Connor, Emma and James.
 
