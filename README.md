@@ -28,6 +28,8 @@ The rumour is that William somehow a descendant of [Archibald Galbreath](/people
 
 The parents of [Archibald Galbreath](/people/galbreath-archibald-1798.md), who married *Margaret McMillian*, is not clear.  There are at least four different stories for who the parents are.
 
+* [Archibald Galbreath](/people/galbreath-archibald-1819.md) b. 1819 moved to Paisley.
+
 ## Samuel Galbreath b. 1765 / Janet Langwill
 
 Both common names, and families have intermarried before, but Samuel's parents are unknown.  See [Samuel Galbreath](/people/galbreath-samuel-1765.md) for details.
