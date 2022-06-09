@@ -74,7 +74,9 @@ TBD [Patrick Galbreath](/people/galbreath-patrick-1712.md) and Jean Watson had s
 
 ## Archibald Galbreath b. ~1775 / Jean Black
 
-It's unclear where [Archibald Galbreath](/people/galbreath-archibald-1775.md) came from, but some of his children moved to Campbeltown in the late 1800s
+It's unclear where [Archibald Galbreath](/people/galbreath-archibald-1775.md) came from, but some of his children moved to Campbeltown in the late 1800s.
+
+Likely living relatives.
 
 ## David Galbreath b. 1812 / Catherine McKinnon
 
