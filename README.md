@@ -70,7 +70,7 @@ TBD [Patrick Galbreath](/people/galbreath-patrick-1712.md) and Jean Watson had s
 
 ## Lachlan Galbraith b. 1878, Ferryman
 
-[Lachlan Galbraith](/people/galbraith-lachlan-1878.md), b. 1878 was a ferryman at Saddell.
+[Lachlan Galbraith](/people/galbraith-lachlan-1878.md), b. 1878 was a ferryman at Saddell.  Only one known daughter.
 
 ## Archibald Galbreath b. ~1775 / Jean Black
 
