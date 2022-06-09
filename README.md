@@ -89,3 +89,5 @@ Found this by accident, [Archibald Galbraith](/people/galbraith-archibald-1865.m
 ## Donald Galbreath b. 1804 / Flora Smith
 
 [Donald Galbreath](/people/galbreath-donald-1804-flora-smith.md) and Flora Smith, both from Gigha, got married, had a few children, then moved to Campbeltown.
+
+Descendants uninvestigated.
