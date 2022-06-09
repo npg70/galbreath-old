@@ -48,6 +48,8 @@ Both common names, and families have intermarried before, but Samuel's parents a
 
 The parents of [John Galbreath](/people/galbreath-john-abt-1710.md) who married Isobell Clark in 1732 is not clear. Public sources seem to think there were TWO John Galbreath and Isobell Clarks, although I can't find any evidence of such.  Of the 15 (!) children, only the last one John b. 1760 seems to have any records.
 
+* [Neil Galbraith](/people/galbraith-neil-1788.md) b. 1788 needs investigation.
+
 ## David Galbreath b. ~1720 / Martha Baird
 
 [David Galbreath](/people/galbreath-david-abt-1720.md), b. say 1720, who married *Martha Baird*.  His parents are unclear, and all children seem to have no additional records.
