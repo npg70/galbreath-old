@@ -36,7 +36,7 @@ Archibald and the ship is listed in [Clyde Ships](http://clydeships.co.uk/view.p
 
 It appears the holding company was "Ocean Shells", and the director was "Alexander Archibald Galbraith", born in Oct 1945, according to [Check Company](http://www.checkcompany.co.uk/director/6130352/ALEXANDER-ARCHIBALD-GALBRAITH)
 
-Looks like Archibald was part of rescue operation, [Scotland's Cruel Sea](https://www.google.com/books/edition/Scotland_s_Cruel_Sea/eX8vBgAAQBAJ?hl=en&gbpv=1&bsq=Archibald%20Galbraith,%20Carradale)
+Looks like Archibald was part of rescue operation, [Scotland's Cruel Sea](https://www.google.com/books/edition/Scotland_s_Cruel_Sea/eX8vBgAAQBAJ?hl=en&gbpv=1&bsq=%20Galbraith)
 
 Poking around some more, a [Ancestry.com](https://www.ancestry.com/genealogy/records/alexander-galbraith-24-m66cxh) page says
 
