@@ -1687,7 +1687,10 @@ TBD: NEILL GALBREATH/MORE BROWN
 
 ## 1814-12-15 James Galbreath
 
-TBD: [James Galbreath](/people/galbreath-james-abt-1775.md) / Martha Galbreath
+[507/40 423 row 2](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357522?image=423)
+
+> James | Lawful son to **[James Galbreath](/people/galbreath-james-abt-1775.md)** Farmer Skerbolin and
+> **Martha Galbreath** born 13th.  Bapt 15 Dec 1814 named James.
 
 ## [1815-02-22 Archibald Galbreath](/people/galbreath-archibald-1815.md)
 
