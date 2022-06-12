@@ -1710,7 +1710,10 @@ TBD: HUGH GALBREATH/CHRISTIAN MACDONALD
 
 ## 1816-06-19 Mary Galbreath
 
-TBD: [James Galbreath](/people/galbreath-james-abt-1775.md) / Martha Galbreath
+[507/40 446 row 7](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358479?image=446)
+
+> Mary | Lawful Daughter to **[James Galbreath](/people/galbreath-james-abt-1775.md)** Farmer Skerbolin and
+> **Martha Galbreath** born 15th baptized 19th Jan 1816. named Mary
 
 ## 1816-08-18 Niel Galbreath
 
