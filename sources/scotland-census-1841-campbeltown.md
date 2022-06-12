@@ -172,6 +172,8 @@ Longrow, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_cen
 
 Longrow; [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_census/1030?image=7)
 
+It is likely this is **Martha Galbreath** who married **[James Galbreath](/people/galbreath-james-abt-1775.md)** in 1800, and their youngest child Mary, b. 1821
+
 | name | age | occupation |
 |------|-----|------------|
 | Martha Galbraith | 60 | Ind |
