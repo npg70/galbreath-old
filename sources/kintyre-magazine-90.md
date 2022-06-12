@@ -21,7 +21,7 @@ This appears to be [Archibald Galbreath](/people/galbreath-archibald-1803.md), 
 
 Archibald however is in the 1841 census as a farmer in Ugdale. [[ Is this close to Skerbolin? As the oldest son, would he gain the family farm?? ]] It would appear the letters in 1849 foreshadowed a career change. Starting with the 1851 Census, Archibald is now listed as a Flesher (butcher). He died 17 Feb 1885 in Campbeltown (also listed as a flesher).
 
-He married first in Campbeltown 5 Mar 1835 to Eugina McCallum. They had two children, but Eugina appears to have died due to complications of childbirth. He married again at Southend 25 Aug 1839 (with a second ceremony a year later at Campbeltown 25 Aug 1850) to Margaret Loynachan. They had eight children. It is suspected there are living descendants.
+He married first in Campbeltown 5 Mar 1835 to Eugina McCallum. They had two children, but Eugina appears to have died due to complications of childbirth. He married again at Southend 25 Aug 1839 (with a second ceremony a year later at Campbeltown 25 Aug 1840) to Margaret Loynachan. They had eight children. It is suspected there are living descendants.
 
 
 
