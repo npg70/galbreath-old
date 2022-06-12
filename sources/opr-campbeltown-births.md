@@ -1647,7 +1647,10 @@ TBD: JAMES GALBREATH/CATHARINE MACNEILL
 
 ## 1813-01-05 John Galbreath
 
-TBD: [James Galbreath](/people/galbreath-james-abt-1775.md) / Martha Galbreath
+[507/40 392 row 15](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357550?image=392)
+
+> John | Lawful son to **[James Galbreath](/people/galbreath-james-abt-1775.md)** farmer Sker... [illegible]
+> **Martha Galbreath** born 30th Dec 1812 bapt 5 Jan 1813. John
 
 ## 1813-07-27 John Galbreath
 
