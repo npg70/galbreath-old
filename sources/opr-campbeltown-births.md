@@ -1557,7 +1557,10 @@ TBD: PETER GALBREATH/JANET MACKAY
 
 ## 1809-04-25 Catharine Galbreath
 
-TBD: [James Galbreath](/people/galbreath-james-abt-1775.md) / Martha Galbreath
+[507/40 333 row 18](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357970?image=333)
+
+> Catharine | Lawful Daughter to **[James Galbreath](/people/galbreath-james-abt-1775.md)** Farmer Skerbolin and
+> **Martha Galbreath** born 17th baptized 25th Apr 1809. Catharine
 
 ## 1809-07-309 Catharine Galbreath
 
