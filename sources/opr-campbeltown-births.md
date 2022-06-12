@@ -1522,7 +1522,10 @@ TBD: [Archibald Galbreath](/people/galbreath-archibald-1760.md) / Jean Corbet
 
 ## 1807-12-16 Martha Galbreath
 
-TBD: [James Galbreath](/people/galbreath-james-abt-1775.md) / Martha Galbreath
+[507/40 312 row 18](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358382?image=312)
+
+> Martha | Lawful daughter to **[James Galbreath](/people/galbreath-james-abt-1775.md)** farmer Skerbolin and
+> **Martha Galbreath** born 14th bapt 16 December 1807 named Martha
 
 ## 1808-02-06 Mary Galbreath
 
