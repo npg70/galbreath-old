@@ -1745,7 +1745,10 @@ TBD: [NEIL GALBREATH](/people/galbraith-neil-1788.md)/MARY MACMILLAN
 
 ## 1817-12-03 Jean Galbreath
 
-TBD: [James Galbreath](/people/galbreath-james-abt-1775.md) / Martha Galbreath
+[507/40 469 row 12](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358205?image=469)
+
+> Jean | Lawful Daughter to **[James Galbreath](/people/galbreath-james-abt-1775.md)** Farmer Skerbolin and
+> **Martha Galbreath**, born 25th Nov. Baptized 3 Dec 1817. Named Jean.
 
 ## 1818-06-30 Elizabeth Galbreath
 
