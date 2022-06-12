@@ -189,12 +189,13 @@ Isabella may 1843-05-29 Isabella Galbreath, daughter of Neil and Elizabeth Blue
 
 ## 507-3-18
 
+81 Saddell Street
 [1851 GALBRAITH, MARGRET (Census 507/ 3/ 18) Page 18 of 31](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015085?image=18)
 
 | Name             | Relation | Age  | Occupation | Birthplace |
 |------------------|----------|------|------------|------------|
-| [Archibald Galbraith](/people/galbreath-archibald-1803.md)       | Head     | 46   | Farmer? Flesher?   | Campbeltown |
-| Margaret         | Wife     | 30   |            | Campbeltown |
+| [Archibald Galbraith](/people/galbreath-archibald-1803.md)       | Head     | 46   | Flesher [?] | Campbeltown |
+| Margaret [Loynachan]        | Wife     | 30   |            | Campbeltown |
 | Martha           | Dau      | 14   |            | Campbeltown |
 | James            | Son      |  9   | Scholar    | Campbeltown |
 | Archibald        | Son      |  7   | Scholar    | Campbeltown |
