@@ -14,7 +14,7 @@ Census Records
 
 Books
 
-* The Campbeltown Books
+* [The Campbeltown Book](campbeltown.md)
 
 Magazines
 
