@@ -17,6 +17,8 @@
 ## Books
 
 * [The Campbeltown Book](campbeltown.md)
+* [Campbeltown Whisky: An Encyclodpaedia](campbeltown-whisky-an-encyclopaedia.md)
+* 
 * [Family Names in the Glen of Antim](family-names-in-the-glen-of-antim.md), unfortuantely not much.
 * [Saga of our Kintyre Kin](saga-of-our-kintyre-kin.md)
 
