@@ -31,12 +31,16 @@ publisher: The Grimsay Press
 Appendix II - Surname Changes in Kintyre
 
 > GALBRAITH. From *Mac a Bhreatnaich*, 'son of the Briton', i.e. of Strathclyde.
-> (TSOS [The Surnames of Scotland, Balck 1946], 285)
+> (TSOS , 285)
 > The name was once common in Gigha, whence, in the 19th century -- and presumably
 > earlier -- many of the Kintyre G families came.
-> 
+
+TSOS = [The Surnames of Scotland, Balck 1946]
+
 > Neill McBretnych in Kilchevan c. 1630 (SLK);
-> 
+
+TBD
+
 > James Galbreth in Kilkeden or Ardnacross, 1694 (HTL [Hearth Tax List], 53);
 > 
 > John Galbreath in Killigruer
@@ -45,16 +49,28 @@ Appendix II - Surname Changes in Kintyre
 > 
 > Samuel G in Penninver, and
 > 
-> James and Donald G in Ardnacross, 1797 (WHT [Work Horse Tax 1797-8], 6, 9);
->  
-> Christina Galbraith, Back Street, Campbeltown, aged 30 in
-> 1861, 'bates (sic) fishing lines' (C/d8/p18);
-> 
+> James and Donald G in Ardnacross, 1797 (WHT, 6, 9);
+
+WHT is Work Horse Tax Records.
+
+* John Galbreath -- TBD
+* [Peter Galbraith](/people/galbreath-peter-1749.md), son of David Galbreath and Isabella Watson, b. 1749.
+* [Samuel Galbreath](/people/galbreath-samuel-1736.md), son of Archibald Galbreath and Martha White, baptized Campbeltown 4 Feb 1736.
+* James and Donald G - TBD
+
+> Christina Galbraith, Back Street, Campbeltown, aged 30 in 1861, 'bates (sic) fishing lines' (C/d8/p18);
+
+
 > John G, fisherman at Point House, Carradale, aged 40 in 1861 - born Cam Par (C/d3/p1);
-> 
+
+
 > Donald G, ferryman at Portmacook (Port na Cuthaig), Saddell, aged 34 in 1881 -- born Gigha (C/d1/p1).
-> 
-> Mactaggart (RTOKG [A Ramble Through the Old Kilkerran Graveyard], 24) records the  appearance in Kintyre, between 1650 and 1660, of lowland Galbraiths. 
-> 
-> John G, farmer inDrumavuling, Southend, in 1881, was born Dalrymple, Ayrshire c. 1824 (C/d2/p2).
-> 
+
+
+> Mactaggart (RTOKG, 24) records the  appearance in Kintyre, between 1650 and 1660, of lowland Galbraiths. 
+
+RTOKG == A Ramble Through the Old Kilkerran Graveyard. 
+
+> John G, farmer in Drumavuling, Southend, in 1881, was born Dalrymple, Ayrshire c. 1824 (C/d2/p2).
+
+
