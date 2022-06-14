@@ -2,12 +2,14 @@
 title: Distribution of Galbraiths in Scotland
 ---
 
+Argyll is the #1 region for Galbraith baptism records, and Campbeltown is the #1 parish.
+
 | Region         | Total   | First | Last | Notes |
 |----------------|------------|-------|------|------|
 | Aberdeen       | 0          |       |      |      |
 | Aberdeen City  | 0          |       |      |      |
 | Angus          | 11         | 1769  | 1853 |      |
-| Argyll         | 1071       | 1659  | 1854 | 1672 |
+| **Argyll**         | 1071       | 1659  | 1854 | 1672 |
 | Ayr            | 278        | 1657  | 1854 |      |
 | Banff          | 1          | 1801  | 1801 |      |
 | Berwick        | 135        | 1624  | 1854 |      |
