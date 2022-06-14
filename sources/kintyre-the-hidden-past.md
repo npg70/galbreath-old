@@ -57,9 +57,11 @@ WHT is Work Horse Tax Records.
 
 > Christina Galbraith, Back Street, Campbeltown, aged 30 in 1861, 'bates (sic) fishing lines' (C/d8/p18);
 
+TBD: not born in campbeltown.
 
 > John G, fisherman at Point House, Carradale, aged 40 in 1861 - born Cam Par (C/d3/p1);
 
+[John Galbraith](/people/galbreath-john-1821.md) son of Archibald Galbreath and Margaret McMillan, baptized at Campbeltown 2 Feb 1821.  1861 Census Point House, Saddell, Argyllshire, Scotland at [FindMyPast](https://www.findmypast.com/transcript?id=GBC%2F1861%2F0022530948)
 
 > Donald G, ferryman at Portmacook (Port na Cuthaig), Saddell, aged 34 in 1881 -- born Gigha (C/d1/p1).
 
