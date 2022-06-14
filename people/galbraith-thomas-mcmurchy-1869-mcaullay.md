@@ -6,7 +6,7 @@ familysearch: https://www.familysearch.org/tree/person/details/M1Y9-W41
 
 He married first 3 June 1898 to **Mary McCulloch**.  TBD.
 
-He married second at Campbeltown 8 June 1910 to **Isabella Stewart McAullay**, b. 1876.
+He married second at Campbeltown 8 June 1910 to **Isabella Stewart McAulay**, b. 1876.
 
 He was a fisherman.[^thomas-death][^daniel-birth]
 
@@ -15,7 +15,7 @@ Children of Thomas and Mary (McCulloch) Galbreath: (likely incomplete)
 1. *William Galbraith*, b. 6 Oct 1898,[^william-birth] d. 1978[^william-death]
 2. *David Galbraith*, b. 21 Mar 1904, [^david-birth], d. 1 May 1987[^david-death]
 
-Children of Thomas and Isabella (McAullay) Galbraith: (likely incomplete)
+Children of Thomas and Isabella (McAulay) Galbraith: (likely incomplete)
 
 1. *Maria McMurchy Galbraith*, b. 1912–1981
 2. *Daniel McAulay Galbraith*, b. 17 Dec 1913[^daniel-birth], d. 1975[^daniel-death]
