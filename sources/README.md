@@ -10,6 +10,7 @@
 ## Census Records
 
 * [Kintyre Rentals 1505-1710](kintyre-rentals-1505-1710.md)
+* [List of Inhabitants upon the Duke of Argyll's Property in Kintyre](list-of-inhabitants-upon-the-duke-of-argylls-property-in-kintyre-1792.md)
 * [1841 UK Census](scotland-census-1841-campbeltown.md) for Campbeltown
 * [1851 UK Census](scotland-census-1851-campbeltown.md) for Campbeltown
 
