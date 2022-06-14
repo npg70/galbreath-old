@@ -10,7 +10,7 @@ Children of Neil and Margaret (Stewart) Galbraith:
 
 1. *Agnes Galbreath*, b. Saddell And Skipness,Argyll,Scotland 23 JAN 1863 
 2. *John Galbraith*, b.  Saddell And Skipness,Argyll,Scotland 19 NOV 1864
-3. *Martha Galbraith*, b. Saddell And Skipness,Argyll,Scotland, 25 March 1867, m. *Robert McBain*
+3. *[Martha Galbraith](galbraith-martha-1867-mcbain.md)*, b. Saddell And Skipness,Argyll,Scotland, 25 March 1867, m. *Robert McBain*
 4. *Neil Galbraith*, b. Campbeltown 23 MAY 1869
 5. *Margaret Galbraith*, b. Campbeltown 28 OCT 1871
 
