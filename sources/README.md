@@ -19,10 +19,14 @@
 * [The Campbeltown Book](campbeltown.md)
 * [Campbeltown Whisky: An Encyclodpaedia](campbeltown-whisky-an-encyclopaedia.md)
 * [Distilleries of Campbeltown](distilleries-of-campbeltown.md)
-* [Family Names in the Glen of Antim](family-names-in-the-glen-of-antim.md), unfortuantely not much.
 * [Saga of our Kintyre Kin](saga-of-our-kintyre-kin.md)
+* [An Historical and Genealogical Tour of Kilkerran Graveyard]()  TBD
+* [Kintyre: The Hidden Past]() TBD
+* [Kintyre Country Life]() TBD
 * [Kilkerran Graveyard Revisted](kilkerran-graveyard-revisted.md)
-* [Kilkerran Graveyard Inscriptions](kilkerran-graveyard-inscriptions.md), unpublished.
+
+* Kintyre in the 17th Century - Galbraith not mentioned!
+* [Family Names in the Glen of Antim](family-names-in-the-glen-of-antim.md), unfortuantely not much.
 
 ## Magazines
 
@@ -31,3 +35,7 @@
 * [Kintyre Magainze #14](kintyre-magazine-14.md)
 * [Kintyre Magainze #50](kintyre-magazine-50.md)
 * [Kintyre Magazine #90](kintyre-magazine-90.md)
+
+## Manuscripts
+
+* [Kilkerran Graveyard Inscriptions](kilkerran-graveyard-inscriptions.md), unpublished.
