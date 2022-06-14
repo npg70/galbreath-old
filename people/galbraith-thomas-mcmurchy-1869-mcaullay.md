@@ -4,7 +4,7 @@ familysearch: https://www.familysearch.org/tree/person/details/M1Y9-W41
 ---
 ***Thomas McMurchy Galbraith***, son of *[William Galbraith](galbreath-william-1833.md)* and *Maria McMurchy*, born at Campbeltown, 23 Apr 1869[^thomas-birth]. He died at Campbeltown 1 July 1940.[^thomas-death].
 
-He married first 3 June 1898 to **Mary McCulloch**.  TBD.
+He married first 3 June 1896[^mcculloch-marriage] to **Mary McCulloch**.
 
 He married second at Campbeltown 8 June 1910 to **Isabella Stewart McAulay**, b. 1876.
 
@@ -12,6 +12,7 @@ He was a fisherman.[^thomas-death][^daniel-birth]
 
 Children of Thomas and Mary (McCulloch) Galbreath: (likely incomplete)
 
+1. *Duncan Galbraith*, b. 23 Apr 1891,[^duncan-birth]
 1. *William Galbraith*, b. 6 Oct 1898,[^william-birth] d. 1978[^william-death]
 2. *David Galbraith*, b. 21 Mar 1904, [^david-birth], d. 1 May 1987[^david-death]
 
@@ -20,6 +21,10 @@ Children of Thomas and Isabella (McAulay) Galbraith: (likely incomplete)
 1. *Maria McMurchy Galbraith*, b. 1912–1981
 2. *Daniel McAulay Galbraith*, b. 17 Dec 1913[^daniel-birth], d. 1975[^daniel-death]
 
+
+[^duncan-birth]: Statuatory Records of Campbeltown; 1891 GALBRAITH, DUNCAN (Statutory registers Births 507/ 177); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/43269329). Marked as "illegitmate", father a fisherman, mother a domestic servant.
+
+[^mcculloch-marriage]: Statuatory Records of Campbeltown; 1896 GALBRAITH, THONAS (Statutory registers Marriages 507/ 17); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/9277023). Note misspelling of Thomas in index.
 
 [^thomas-birth]: Statuatory Records of Campbeltown; 1869 GALBRAITH, THOMAS MCMURCHY (Statutory registers Births 507/ 78); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/40319428)
 
