@@ -17,7 +17,7 @@ Children of Thomas and Mary (McCulloch) Galbreath: (likely incomplete)
 Children of Thomas and Isabella (McAullay) Galbraith:
 
 1. *Maria McMurchy Galbraith*, b. 1912–1981
-2. *Daniel McAulay Galbraith*, b. 17 Dec 1913[^daniel-birth], d. 1975
+2. *Daniel McAulay Galbraith*, b. 17 Dec 1913[^daniel-birth], d. 1975[^daniel-death]
 
 [^thomas-birth]: Statuatory Records of Campbeltown; 1869 GALBRAITH, THOMAS MCMURCHY (Statutory registers Births 507/ 78); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/40319428)
 
