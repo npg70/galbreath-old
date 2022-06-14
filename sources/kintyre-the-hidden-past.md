@@ -28,13 +28,16 @@ publisher: The Grimsay Press
 
 ## Page 210
 
-> GALBRAITH. From *Mac a Bhreatnaich*, 'son of the Briton', i.e. of Strathclyde. (TSOS, 285)
+Appendix II - Surname Changes in Kintyre
+
+> GALBRAITH. From *Mac a Bhreatnaich*, 'son of the Briton', i.e. of Strathclyde.
+> (TSOS [The Surnames of Scotland, Balck 1946], 285)
 > The name was once common in Gigha, whence, in the 19th century -- and presumably
 > earlier -- many of the Kintyre G families came.
 > 
 > Neill McBretnych in Kilchevan c. 1630 (SLK);
 > 
-> James Galbreth in Kilkeden or Ardnacross, 1694 (HTL, 53);
+> James Galbreth in Kilkeden or Ardnacross, 1694 (HTL [Hearth Tax List], 53);
 > 
 > John Galbreath in Killigruer
 > 
@@ -42,7 +45,7 @@ publisher: The Grimsay Press
 > 
 > Samuel G in Penninver, and
 > 
-> James and Donald G in Ardnacross, 1797 (WHT, 6, 9);
+> James and Donald G in Ardnacross, 1797 (WHT [Work Horse Tax 1797-8], 6, 9);
 >  
 > Christina Galbraith, Back Street, Campbeltown, aged 30 in
 > 1861, 'bates (sic) fishing lines' (C/d8/p18);
@@ -51,7 +54,7 @@ publisher: The Grimsay Press
 > 
 > Donald G, ferryman at Portmacook (Port na Cuthaig), Saddell, aged 34 in 1881 -- born Gigha (C/d1/p1).
 > 
-> Mactaggart (RTOKG, 24) records the  appearance in Kintyre, between 1650 and 1660, of lowland Galbraiths. 
+> Mactaggart (RTOKG [A Ramble Through the Old Kilkerran Graveyard], 24) records the  appearance in Kintyre, between 1650 and 1660, of lowland Galbraiths. 
 > 
 > John G, farmer inDrumavuling, Southend, in 1881, was born Dalrymple, Ayrshire c. 1824 (C/d2/p2).
 > 
