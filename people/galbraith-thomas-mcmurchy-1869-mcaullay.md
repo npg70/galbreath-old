@@ -4,11 +4,15 @@ familysearch: https://www.familysearch.org/tree/person/details/M1Y9-W41
 ---
 ***Thomas McMurchy Galbraith***, son of *[William Galbraith](galbreath-william-1833.md)* and *Maria McMurchy*, born at Campbeltown, 23 Apr 1869[^thomas-birth]. He died at Campbeltown 1 July 1940.[^thomas-death].
 
-He married first to **Mary McCulloh**.  TBD.  Unknown if any children.
+He married first to **Mary McCulloch**.  TBD.  Unknown if any children.
 
 He married second at Campbeltown 8 June 1910 to **Isabella Stewart McAullay**, b. 1876.
 
 He was a fisherman.[^thomas-death][^daniel-birth]
+
+Children of Thomas and Mary (McCulloch) Galbreath: (likely incomplete)
+
+1. *William Galbraith*, b 1899, d. 1978[^william-death]
 
 Children of Thomas and Isabella (McAullay) Galbraith:
 
@@ -21,3 +25,4 @@ Children of Thomas and Isabella (McAullay) Galbraith:
 
 [^daniel-birth]: Statuatory Records of Campbeltown; 1913 GALBRAITH, DANIEL MCAULAY (Statutory registers Births 507/ 229); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/46398131), lists father as a fisher.
 
+[^william-death]: See [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&dl_cat=statutory&dl_rec=statutory-deaths&surname=galbraith&surname_so=exact&forename=William&forename_so=starts&other_surname_so=exact&mmsurname_so=exact&sex=M&from_year=1978&to_year=1978&birth_year_range=1&county=ARGYLL&record_type=stat_deaths)
