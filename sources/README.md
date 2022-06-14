@@ -21,6 +21,7 @@
 * [Distilleries of Campbeltown](distilleries-of-campbeltown.md)
 * [Family Names in the Glen of Antim](family-names-in-the-glen-of-antim.md), unfortuantely not much.
 * [Saga of our Kintyre Kin](saga-of-our-kintyre-kin.md)
+* [Kilkerran Graveyard Revisted](kilkerran-graveyard-revisted.md)
 
 ## Magazines
 
