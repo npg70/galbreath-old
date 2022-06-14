@@ -23,7 +23,7 @@
 * [An Historical and Genealogical Tour of Kilkerran Graveyard](kilkerran-graveyard.md), one of two Galbraiths found.
 * [Kintyre The Hidden Past](xx) TBD
 * [Kintyre Country Life](kintyre-country-life.md), 2 references, unknown.
-* [Kilkerran Graveyard Revisted](kilkerran-graveyard-revisted.md)
+* [Kilkerran Graveyard Revisted](kilkerran-graveyard-revisted.md), 2 references
 
 Overviews:
 * Kintyre in the 17th Century - Galbraith not mentioned!
