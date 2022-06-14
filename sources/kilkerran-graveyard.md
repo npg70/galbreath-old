@@ -22,5 +22,5 @@ Galbraith: [24](#page-24), [36](#page-36)
 > were the parents of Neil McBain, the most successfull footballer Campbeltown has yet produced,
 >though since hs father was an 'incomer' and his mother apparently from Carradale...
 
-Marth Galbraith on [FamilySearch](https://www.familysearch.org/tree/person/details/GMRV-V7V), daughter of a Neil Galbraith and Martha Stewart.
+[Marth Galbraith](/people/galbraith-martha-1867-mcbain.md), daughter of a [Neil Galbraith](/people/galbraith-neil-1841.md) and Martha Stewart, born 1867.
 
