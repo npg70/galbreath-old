@@ -92,7 +92,7 @@ TBD: where listed?
 
 ## Page 349
 
-Deemed missing in 1940 from the Battle of Dunkirk:
+Deemed missing in 1940 at the Battle of Dunkirk:
 
 > Gunner Dan Galbraith, c/o Mason, Mill Street - 201st Anti-tank Battery, R.A.
 
