@@ -21,8 +21,8 @@
 * [Distilleries of Campbeltown](distilleries-of-campbeltown.md)
 * [Saga of our Kintyre Kin](saga-of-our-kintyre-kin.md)
 * [An Historical and Genealogical Tour of Kilkerran Graveyard]()  TBD
-* [Kintyre: The Hidden Past]() TBD
-* [Kintyre Country Life]() TBD
+* [Kintyre: The Hidden Past](xx) TBD
+* [Kintyre Country Life](xx) TBD
 * [Kilkerran Graveyard Revisted](kilkerran-graveyard-revisted.md)
 
 * Kintyre in the 17th Century - Galbraith not mentioned!
