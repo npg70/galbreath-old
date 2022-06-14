@@ -14,7 +14,7 @@ Children of Thomas and Mary (McCulloch) Galbreath: (likely incomplete)
 
 1. *Duncan Galbraith*, b. 23 Apr 1891,[^duncan-birth]
 1. *William Galbraith*, b. 6 Oct 1898,[^william-birth] d. 1978[^william-death]
-2. *David Galbraith*, b. 21 Mar 1904, [^david-birth], d. 1 May 1987[^david-death]
+2. *David Galbraith*, b. 21 Mar 1904, [^david-birth] d. 1 May 1987[^david-death]
 
 Children of Thomas and Isabella (McAulay) Galbraith: (likely incomplete)
 
