@@ -12,7 +12,7 @@ He was a fisherman.[^thomas-death][^daniel-birth]
 
 Children of Thomas and Mary (McCulloch) Galbreath: (likely incomplete)
 
-1. *William Galbraith*, b 1899, d. 1978[^william-death]
+1. *William Galbraith*, b 6 Oct 1898,[^william-birth] d. 1978[^william-death]
 
 Children of Thomas and Isabella (McAullay) Galbraith:
 
@@ -24,5 +24,7 @@ Children of Thomas and Isabella (McAullay) Galbraith:
 [^thomas-death]: Statuatory Records of Campbeltown; 1940 GALBRAITH, THOMAS (Statutory registers Deaths 507/ 61); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/9233441), listed as fisherman, son William present.
 
 [^daniel-birth]: Statuatory Records of Campbeltown; 1913 GALBRAITH, DANIEL MCAULAY (Statutory registers Births 507/ 229); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/46398131), lists father as a fisher.
+
+[^william-birth]: Statuatory Records of Campbeltown; 1898 GALBRAITH, WILLIAM (Statutory registers Births 507/ 226); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/44346520). List father as a fisherman.
 
 [^william-death]: See [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&dl_cat=statutory&dl_rec=statutory-deaths&surname=galbraith&surname_so=exact&forename=William&forename_so=starts&other_surname_so=exact&mmsurname_so=exact&sex=M&from_year=1978&to_year=1978&birth_year_range=1&county=ARGYLL&record_type=stat_deaths)
