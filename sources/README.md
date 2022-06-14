@@ -20,7 +20,7 @@
 * [Campbeltown Whisky: An Encyclodpaedia](campbeltown-whisky-an-encyclopaedia.md)
 * [Distilleries of Campbeltown](distilleries-of-campbeltown.md)
 * [Saga of our Kintyre Kin](saga-of-our-kintyre-kin.md)
-* [An Historical and Genealogical Tour of Kilkerran Graveyard](xx)  TBD
+* [An Historical and Genealogical Tour of Kilkerran Graveyard](kilkerran-graveyard.md), one of two Galbraiths found.
 * [Kintyre The Hidden Past](xx) TBD
 * [Kintyre Country Life](xx) TBD
 * [Kilkerran Graveyard Revisted](kilkerran-graveyard-revisted.md)
