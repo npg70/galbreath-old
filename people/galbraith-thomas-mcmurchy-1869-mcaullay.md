@@ -4,7 +4,7 @@ familysearch: https://www.familysearch.org/tree/person/details/M1Y9-W41
 ---
 ***Thomas McMurchy Galbraith***, son of *[William Galbraith](galbreath-william-1833.md)* and *Maria McMurchy*, born at Campbeltown, 23 Apr 1869[^thomas-birth]. He died at Campbeltown 1 July 1940.[^thomas-death].
 
-He married first 3 June 1896[^mcculloch-marriage] to **Mary McCulloch**.
+He married first at Campbeltown 3 June 1896[^mcculloch-marriage] to **Mary McCulloch**.
 
 He married second at Campbeltown 8 June 1910 to **Isabella Stewart McAulay**, b. 1876.
 
