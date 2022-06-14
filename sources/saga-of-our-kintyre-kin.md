@@ -22,7 +22,6 @@ Notes:
 - Can't confirm "Galbraith" instead of "Galbreath"
 - problem with first child Janet, married Hugh not Samuel Mitchell 
 - fourth child James born in Peninver in 31 Aug 1817
-- Second child Samuel had a daughter "Catherine Galbraith Greenlees" on 26 June 1844.  Can't confirm use of 
-iddle name.
+- Second child Samuel had a daughter "Catherine Galbraith Greenlees" on 26 June 1844.  Can't confirm use of middle name.
 
 
