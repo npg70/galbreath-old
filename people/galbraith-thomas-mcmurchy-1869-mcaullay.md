@@ -4,7 +4,7 @@ familysearch: https://www.familysearch.org/tree/person/details/M1Y9-W41
 ---
 ***Thomas McMurchy Galbraith***, son of *[William Galbraith](galbreath-william-1833.md)* and *Maria McMurchy*, born at Campbeltown, 23 Apr 1869[^thomas-birth]. He died at Campbeltown 1 July 1940.[^thomas-death].
 
-He married first to **Mary McCulloch**.  TBD.
+He married first 3 June 1898 to **Mary McCulloch**.  TBD.
 
 He married second at Campbeltown 8 June 1910 to **Isabella Stewart McAullay**, b. 1876.
 
@@ -17,13 +17,15 @@ Children of Thomas and Mary (McCulloch) Galbreath: (likely incomplete)
 Children of Thomas and Isabella (McAullay) Galbraith:
 
 1. *Maria McMurchy Galbraith*, b. 1912–1981
-2. *Daniel McAulay Galbraith*, b. 17 Dec 1913[^daniel-birth]
+2. *Daniel McAulay Galbraith*, b. 17 Dec 1913[^daniel-birth], d. 1975
 
 [^thomas-birth]: Statuatory Records of Campbeltown; 1869 GALBRAITH, THOMAS MCMURCHY (Statutory registers Births 507/ 78); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/40319428)
 
 [^thomas-death]: Statuatory Records of Campbeltown; 1940 GALBRAITH, THOMAS (Statutory registers Deaths 507/ 61); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/9233441), listed as fisherman, son William present.
 
 [^daniel-birth]: Statuatory Records of Campbeltown; 1913 GALBRAITH, DANIEL MCAULAY (Statutory registers Births 507/ 229); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/46398131), lists father as a fisher.
+
+[^daniel-death]: Statuatory Records of Campbeltown; See [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&dl_cat=statutory&dl_rec=statutory-deaths&surname=galbraith&surname_so=exact&forename=daniel&forename_so=starts&other_surname_so=exact&mmsurname_so=exact&sex=M&from_year=1975&to_year=1975&birth_year_range=1&county=ARGYLL&record_type=stat_deaths)
 
 [^william-birth]: Statuatory Records of Campbeltown; 1898 GALBRAITH, WILLIAM (Statutory registers Births 507/ 226); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/44346520). List father as a fisherman.
 
