@@ -1,7 +1,7 @@
 ---
-title: AN Historical and Genealogical Tour of Killerran Graveyard
+title: An Historical and Genealogical Tour of Killerran Graveyard
 year: 2006
-publisher: Kintyre Civic Societ
+publisher: Kintyre Civic Society
 author: Angus Martin
 ---
 
