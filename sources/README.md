@@ -9,6 +9,9 @@ Church and Statuatory Records
 
 Census Records
 
+* [1841 UK Census](scotland-census-1841-campbeltown.md)
+* [1851 UK Census](scotland-census-1851-campbeltown.md)
+
 Books
 
 * The Campbeltown Books
