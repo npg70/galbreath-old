@@ -19,6 +19,12 @@ The children and grandchildren of [William Galbreath](/people/galbreath-william-
 
 The rumour is that William somehow a descendant of [Archibald Galbreath](/people/galbreath-archibald-1708.md) of the previous line. It appears there are no direct-male descendants, so it may remain a mystery. 
 
+## Samuel Galbreath b. 1765 / Janet Langwill
+
+[Samuel Galbreath](/people/galbreath-samuel-1765.md)'s parents are unknown, but genetic testing indicates Samuel was a decendant of, or has a common ancestor with James Galbreath and Mary Nielson.
+
+* 
+
 ## David Galbreath / Mary Greenlees
 
 [David Galbreath](/people/galbreath-david-1793.md) and Mary Greenless.  Under investigation.  Appears some? all? moved to Ontario, Canada.  May or may not son of 
@@ -30,9 +36,7 @@ The parents of [Archibald Galbreath](/people/galbreath-archibald-1798.md), who m
 
 * [Archibald Galbreath](/people/galbreath-archibald-1819.md) b. 1819 moved to Paisley.
 
-## Samuel Galbreath b. 1765 / Janet Langwill
 
-Both common names, and families have intermarried before, but Samuel's parents are unknown.  See [Samuel Galbreath](/people/galbreath-samuel-1765.md) for details.
 
 ## Alexander Galbreath b. 1816 / Elisabeth McCualskey
 
