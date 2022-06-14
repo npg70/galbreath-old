@@ -18,7 +18,7 @@ publisher: The Grimsay Press
 
 ## Page 152
 
-> The craigaig hut wsa built in the early years of the 1939-1945 war by a team of young men
+> The Craigaig hut was built in the early years of the 1939-1945 war by a team of young men
 > comprising ... Calum Galbraith ... all of them from the Drumlemble-Machrihanish district.
 
 ## Page 195
