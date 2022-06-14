@@ -17,7 +17,7 @@ Children of Thomas and Isabella (McAullay) Galbraith:
 
 [^thomas-birth]: Statuatory Records of Campbeltown; 1869 GALBRAITH, THOMAS MCMURCHY (Statutory registers Births 507/ 78); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/40319428)
 
-[^thomas-death]: Statuatory Records of Campbeltown; 1940 GALBRAITH, THOMAS (Statutory registers Deaths 507/ 61); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/9233441)
+[^thomas-death]: Statuatory Records of Campbeltown; 1940 GALBRAITH, THOMAS (Statutory registers Deaths 507/ 61); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/9233441), listed as fisherman, son William present.
 
 [^daniel-birth]: Statuatory Records of Campbeltown; 1913 GALBRAITH, DANIEL MCAULAY (Statutory registers Births 507/ 229); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/46398131), lists father as a fisher.
 
