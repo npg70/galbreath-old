@@ -12,7 +12,7 @@ He was a fisherman.[^thomas-death][^daniel-birth]
 
 Children of Thomas and Mary (McCulloch) Galbreath: (likely incomplete)
 
-1. *William Galbraith*, b 6 Oct 1898,[^william-birth] d. 1978[^william-death]
+1. *William Galbraith*, b. 6 Oct 1898,[^william-birth] d. 1978[^william-death]
 
 Children of Thomas and Isabella (McAullay) Galbraith:
 
