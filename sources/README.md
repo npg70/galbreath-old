@@ -22,7 +22,7 @@
 * [Saga of our Kintyre Kin](saga-of-our-kintyre-kin.md)
 * [An Historical and Genealogical Tour of Kilkerran Graveyard](kilkerran-graveyard.md), one of two Galbraiths found.
 * [Kintyre The Hidden Past](xx) TBD
-* [Kintyre Country Life](xx) TBD
+* [Kintyre Country Life](kintyre-country-life.md), 2 references, unknown.
 * [Kilkerran Graveyard Revisted](kilkerran-graveyard-revisted.md)
 
 Overviews:
