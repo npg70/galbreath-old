@@ -19,4 +19,5 @@ Books
 
 Magazines
 
-*
+* [Kintyre Magainze #14](kintyre-magazine-14.md)
+* [Kintyre Magainze]
