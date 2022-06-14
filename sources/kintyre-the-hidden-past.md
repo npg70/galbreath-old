@@ -70,7 +70,7 @@ Don't see any Christina from Campbeltown in OPR.  Census 1861 on [FindMyPast](ht
 
 > Mactaggart (RTOKG, 24) records the  appearance in Kintyre, between 1650 and 1660, of lowland Galbraiths. 
 
-RTOKG == A Ramble Through the Old Kilkerran Graveyard. 
+RTOKG == A Ramble Through the Old Kilkerran Graveyard.  Nothing new here since first OPR records in Campbeltown where in 1659, and more 1672 onward.
 
 > John G, farmer in Drumavuling, Southend, in 1881, was born Dalrymple, Ayrshire c. 1824 (C/d2/p2).
 
