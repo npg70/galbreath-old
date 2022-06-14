@@ -23,7 +23,7 @@ The rumour is that William somehow a descendant of [Archibald Galbreath](/people
 
 [Samuel Galbreath](/people/galbreath-samuel-1765.md)'s parents are unknown, but genetic testing indicates Samuel was a decendant of, or has a common ancestor with James Galbreath and Mary Nielson.
 
-* 
+* [Thomas McMurchy Galbriath](/people/galbraith-thomas-mcmurchy-1869-mcaullay.md), b. 1869, m. McAullay, has at least one male direct descendant.  Maybe more.
 
 ## David Galbreath / Mary Greenlees
 
