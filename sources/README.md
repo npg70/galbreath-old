@@ -18,12 +18,12 @@
 
 * [The Campbeltown Book](campbeltown.md)
 * [Campbeltown Whisky: An Encyclodpaedia](campbeltown-whisky-an-encyclopaedia.md)
-* [Distilleries of Campbeltown](distilleries-of-campbeltown.md)
-* [Saga of our Kintyre Kin](saga-of-our-kintyre-kin.md)
 * [An Historical and Genealogical Tour of Kilkerran Graveyard](kilkerran-graveyard.md), one of two Galbraiths found.
-* [Kintyre The Hidden Past](xx) TBD
+* [Kintyre The Hidden Past](kintyre-the-hidden-past.md) TBD
 * [Kintyre Country Life](kintyre-country-life.md), 2 references, unknown.
 * [Kilkerran Graveyard Revisted](kilkerran-graveyard-revisted.md), 2 references
+* [Distilleries of Campbeltown](distilleries-of-campbeltown.md)
+* [Saga of our Kintyre Kin](saga-of-our-kintyre-kin.md), 1 refernces Catherine who married James Greenlees.
 
 Overviews:
 * Kintyre in the 17th Century - Galbraith not mentioned!
