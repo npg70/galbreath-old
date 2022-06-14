@@ -35,4 +35,4 @@ Children of Thomas and Isabella (McAulay) Galbraith: (likely incomplete)
 
 [^david-birth]: Statuatory Records of Campbeltown; 1904 GALBRAITH, DAVID (Statutory registers Births 507/ 72); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/45067335?return_row=0).  Lists father as a fisherman, birth on "Mill Street"
 
-[^david-death]: Statuatory Records of Campbeltown; See [ScotlandsPeople]
+[^david-death]: Statuatory Records of Campbeltown; See [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&dl_cat=statutory&dl_rec=statutory-deaths&surname=galbraith&surname_so=exact&forename=david&forename_so=starts&other_surname_so=exact&mmsurname_so=exact&from_year=1987&to_year=1987&birth_year_range=1&record_type=stat_deaths)
