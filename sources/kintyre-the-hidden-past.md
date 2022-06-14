@@ -42,13 +42,10 @@ TSOS = [The Surnames of Scotland, Balck 1946]
 TBD
 
 > James Galbreth in Kilkeden or Ardnacross, 1694 (HTL [Hearth Tax List], 53);
-> 
-> John Galbreath in Killigruer
-> 
-> Peter G in Laggan
-> 
-> Samuel G in Penninver, and
-> 
+
+HTL = Hearth Tax List
+
+> John Galbreath in Killigruer, Peter G in Laggan, Samuel G in Penninver, and
 > James and Donald G in Ardnacross, 1797 (WHT, 6, 9);
 
 WHT is Work Horse Tax Records.
