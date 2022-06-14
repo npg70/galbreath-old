@@ -65,6 +65,8 @@ Don't see any Christina from Campbeltown in OPR.  Census 1861 on [FindMyPast](ht
 
 > Donald G, ferryman at Portmacook (Port na Cuthaig), Saddell, aged 34 in 1881 -- born Gigha (C/d1/p1).
 
+* 1891 Census, Portmacook, Saddell, Argyllshire, Scotland, on [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1891/0035234946&expand=true)
+* 1901 Census, Portinaccook, Saddell, Argyllshire, Scotland, on [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1901/0035922071&expand=true)
 
 > Mactaggart (RTOKG, 24) records the  appearance in Kintyre, between 1650 and 1660, of lowland Galbraiths. 
 
