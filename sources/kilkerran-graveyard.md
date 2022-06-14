@@ -21,3 +21,6 @@ Galbraith: [24](#page-24), [36](#page-36)
 > Robert McBain (died 13/4/1949, age 84) and Martha Galbraith (died 31/7/1939, age 72)
 > were the parents of Neil McBain, the most successfull footballer Campbeltown has yet produced,
 >though since hs father was an 'incomer' and his mother apparently from Carradale...
+
+Marth Galbraith on [FamilySearch](https://www.familysearch.org/tree/person/details/GMRV-V7V), daughter of a Neil Galbraith and Martha Stewart.
+
