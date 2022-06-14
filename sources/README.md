@@ -4,8 +4,8 @@
 
 ## Church and Statuatory Records
 
-* Statistical Summary of Galbraith OPR baptism records.
-* Mostly complete transcription of all OPR Campbeltown birth records
+* OPR statistical summary of baptism records for all of Scotland. TL;DR Argyll is #1 region for Galbraith, Campbeltown is #1 parish.
+* OPR Campbeltown baptism records
 
 ## Census Records
 
