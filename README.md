@@ -10,11 +10,6 @@ The descendants of [James Galbreath](/people/galbreath-james-1659.md) b. 1659 an
 * [Robert Galbreath](/people/galbreath-robert-1778.md) b. 1778 immigrated to Clermont County, Ohio, USA in 1818
 * [Margaret Galbreath](/people/galbreath-margaret-1771.md), b. 1771 immigrated to New Brunswick, Canada in 1821
 
-## David Galbreath / Mary Greenlees
-
-[David Galbreath](/people/galbreath-david-1793.md) and Mary Greenless.  Under investigation.  Appears some? all? moved to Ontario, Canada.  May or may not son of 
-[David Galbreath](/people/galbreath-david-1755.md) and Mary Flemming which would make then descendants of James Galbreath / Mary Nielson above.
-
 ## William Galbreath b. 1736 / Margaret Dunlop
 
 The children and grandchildren of [William Galbreath](/people/galbreath-william-1736.md) and Margaret Dunlop were influential in government and industry in Campbeltown and Glasgow.  
@@ -23,6 +18,11 @@ The children and grandchildren of [William Galbreath](/people/galbreath-william-
 * *[John Galbraith](/people/galbraith-john-1809.md)*, b. 1809, Provost of Campbeltown and founder of Scotia Distillery.
 
 The rumour is that William somehow a descendant of [Archibald Galbreath](/people/galbreath-archibald-1708.md) of the previous line. It appears there are no direct-male descendants, so it may remain a mystery. 
+
+## David Galbreath / Mary Greenlees
+
+[David Galbreath](/people/galbreath-david-1793.md) and Mary Greenless.  Under investigation.  Appears some? all? moved to Ontario, Canada.  May or may not son of 
+[David Galbreath](/people/galbreath-david-1755.md) and Mary Flemming which would make then descendants of James Galbreath / Mary Nielson above.
 
 ## Archibald Galbreath b ~ 1798/ Margaret McMillian
 
