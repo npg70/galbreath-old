@@ -40,3 +40,4 @@ Overviews:
 ## Manuscripts
 
 * [Kilkerran Graveyard Inscriptions](kilkerran-graveyard-inscriptions.md), unpublished.
+* [Trade and Economic Development in Eighteenth-Century Campbeltown](trade-and-economic-development-in-eighteenth-century-campbeltown.md), 1983, Phd Dissertation, many Galbreath references related to the distilling industry.
