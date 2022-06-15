@@ -39,7 +39,7 @@ Overviews:
 * Kintyre Magazine #35, Letters to America
 * [Kintyre Magainze #50](kintyre-magazine-50.md), Templetons of Kintyre
 * [Kintyre Magazine #67](kintyre-magazine-67.md), Argyll's Forgotten Whisky Barons 
-* [Kintyre Magazine #90](kintyre-magazine-90.md)
+* [Kintyre Magazine #90](kintyre-magazine-90.md), mentions [Archibald Galbreath], born 8 Sep 1803, son of James Galbreath and Martha Galbreath
 
 ## Manuscripts
 
