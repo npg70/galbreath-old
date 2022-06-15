@@ -16,6 +16,8 @@ publisher: The Grimsay Press
 > Saddell, kept by the ferryman there, Lachie Galbraith, was much
 > indulged by the Galbraith children.
 
+[Lachlan Galbraith](/people/galbraith-lachlan-1878.md), son of Donald Galbraith (fisherman) and Janet Morrison, born Saddel, Argyll, Scotland 20 Nov 1878.
+
 ## Page 152
 
 > The Craigaig hut was built in the early years of the 1939-1945 war by a team of young men
