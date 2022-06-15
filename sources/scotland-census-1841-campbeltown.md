@@ -388,5 +388,5 @@ Ugadale
 | name | age | occupation |
 |------|-----|------------|
 | [Archd Galbraith](/people/galbreath-archibald-1803.md) | 30 | Farmer |
-| Margt      | 20 |  |
+| Margt [Loynachan]    | 20 |  |
 | Martha     | 5 |     |
