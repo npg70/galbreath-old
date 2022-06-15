@@ -33,7 +33,7 @@ Overviews:
 
 (missing a few references)
 
-* [Kintyre Magainze #14](kintyre-magazine-14.md)
+* [Kintyre Magainze #14](kintyre-magazine-14.md), An 18th Century Letter from Campbeltown to America
 * [Kintyre Magainze #50](kintyre-magazine-50.md)
 * [Kintyre Magazine #67](kintyre-magazine-67.md), Argyll's Forgotten Whisky Barons 
 * [Kintyre Magazine #90](kintyre-magazine-90.md)
