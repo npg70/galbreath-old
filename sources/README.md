@@ -23,7 +23,7 @@
 * [Kintyre Country Life](kintyre-country-life.md), 2 references, unknown.
 * [Kilkerran Graveyard Revisted](kilkerran-graveyard-revisted.md), 2 references
 * [Distilleries of Campbeltown](distilleries-of-campbeltown.md)
-* [Saga of our Kintyre Kin](saga-of-our-kintyre-kin.md), 1 refernces Catherine who married James Greenlees.
+* [Saga of our Kintyre Kin](saga-of-our-kintyre-kin.md), 1 references Catherine who married James Greenlees.
 
 Overviews:
 * Kintyre in the 17th Century - Galbraith not mentioned!
