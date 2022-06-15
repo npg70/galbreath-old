@@ -7,7 +7,15 @@ familysearch: https://www.familysearch.org/tree/person/details/LVX6-R5K
 
 He married at Campbeltown 18 Apr 1805, **Katherine Harvie**, daugher of *James Harvie* and [*Katherine Galbreath*](galbreath-katharine-1741.md), born 29 Jul 1780 and baptized at Campbeltown 30 Jul 1780,[^birth-kh] died Washington Township, Clermont, Ohio, USA 21 Jun 1847.
 
-Based on the baptism records of the first two children, it appears he moved to Dalintober to work as a malt-man, but after his father died, he returned to take over the family farm in Peninver.
+Based on the baptism records of the first two children[^jane-birth][^samuel-birth], it appears as a young man, he moved to Dalintober to work as a malt-man (1806), but after his father died (1807), he returned to take over the family farm in Peninver (1808).
+
+In 1817, the entire family, including the 3 month-old Archibald, immigrated to Clermont County, Ohio:[^redtower-16-54]
+
+> Robert, Catherine and their young family departed Panever, Scotland on July 24, 1817, and arrived in
+> Baltimore, MD on Sept 26, 1817. The family came across country to Pittsburgh, PA with oxen and cart, then
+> down the Ohio River by flat boat to settle near Neville, Cleremont[sic] Co, Ohio where Robert took up farming.
+
+It is unclear what triggered this, or why Clermont County.
 
 Children of Robert and Katharine (Harvie) Galbreath, baptized in Campbeltown except the last two:[^children]
 
@@ -40,3 +48,5 @@ Children of Robert and Katharine (Harvie) Galbreath, baptized in Campbeltown exc
 [^archibald2-birth]: OPR Campbeltown, baptism of [Archibald Galbreath](/sources/opr-campbeltown-births.md#1815-02-22-archibald-galbreath)
 
 [^john-birth]: OPR Campbeltown, baptism of [John Galbreath](/sources/opr-campbeltown-births.md#1817-04-16-john-galbreath)
+
+[^redtower-16-54]: The Red tower: Clan Galbraith Association, Vol. 16, Page 54.  Indexed on [FamilySearch](https://www.familysearch.org/library/books/viewer/226154/?offset=0#page=54&viewer=picture&o=&n=0&q=).  Attempts to locate the original Bible haven't succeeded (2022).
