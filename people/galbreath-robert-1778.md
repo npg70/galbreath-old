@@ -21,7 +21,7 @@ And why Clermont, Ohio?  TBD: McNair connection.
 
 The date of entry at the Port of Baltimore has not been confirmed since:
 * Baltimore did not keep records of immigration until much later
-* Earlier commercial records are indexed by boat name, not date.
+* Earlier commercial records are indexed by boat name, not date.  And these records on not online.
 
 Children of Robert and Katharine (Harvie) Galbreath, baptized in Campbeltown except the last two:[^children]
 
