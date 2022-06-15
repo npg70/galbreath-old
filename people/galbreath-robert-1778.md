@@ -9,13 +9,13 @@ He married at Campbeltown 18 Apr 1805, **Katherine Harvie**, daugher of *James H
 
 Based on the baptism records of the first two children[^jane-birth][^samuel-birth], it appears as a young man, he moved to Dalintober to work as a malt-man (1806), but after his father died (1807), he returned to take over the family farm in Peninver (1808).
 
-In 1817, the entire family, including the 3 month-old Archibald, immigrated to Clermont County, Ohio:[^redtower-16-54]
+In 1817, the entire family, including the 5 month-old Archibald, immigrated to Clermont County, Ohio:[^redtower-16-54]
 
 > Robert, Catherine and their young family departed Panever, Scotland on July 24, 1817, and arrived in
 > Baltimore, MD on Sept 26, 1817. The family came across country to Pittsburgh, PA with oxen and cart, then
 > down the Ohio River by flat boat to settle near Neville, Cleremont[sic] Co, Ohio where Robert took up farming.
 
-It is unclear what triggered this.  TBD: Perhaps he sold the farm to his younger sister Catherine (who married James Greelees)?
+It is unclear what triggered this.  TBD: Perhaps he sold the farm to his younger sister [Catherine](galbreath-catherine-1788.md) (who married James Greenlees)?
 
 And why Clermont, Ohio?  TBD: McNair connection.
 
