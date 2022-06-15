@@ -1,5 +1,6 @@
 ---
-title: XXX
+title: Kintyre Magazine 90
+year: 2022
 ---
 
 
