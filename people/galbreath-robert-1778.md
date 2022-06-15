@@ -5,7 +5,7 @@ familysearch: https://www.familysearch.org/tree/person/details/LVX6-R5K
 
 **Robert Galbreath**, son of [*Samuel Galbreath*](galbreath-samuel-1736.md) and *Janet McNair*, born in Peninver, Argyll, Scotland 12 Oct 1778, baptized Campbeltown, Argyll, Scotland 15 Oct 1778,[^birth] died Neville, Clermont, Ohio, USA 19 May 1847, married Campbeltown 18 Apr 1805, **Katherine Harvie**, born 29 Jul 1780 and baptized at Campbeltown 30 Jul 1780,[^birth-kh] died Washington Township, Clermont, Ohio, USA 21 Jun 1847, daugher of *James Harvie* and [*Katherine Galbreath*](galbreath-katharine-1741.md).
 
-It appears he moved to Dalintober to work as a malt-man, but after his father died, he returned to take over the family farm in Peninver.
+Based on the baptism records of the first two children, it appears he moved to Dalintober to work as a malt-man, but after his father died, he returned to take over the family farm in Peninver.
 
 Children of Robert and Katharine (Harvie) Galbreath, baptized in Campbeltown except the last two:[^children]
 
