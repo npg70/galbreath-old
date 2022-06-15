@@ -135,7 +135,7 @@ Balgom Street, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/n
 | name | age | occupation |
 |------|-----|------------|
 | [David Galbreath](/people/galbreath-david-1797.md)   | 40 | Sawer |
-| Janet Galbreath   | 40 |       |
+| Janet Galbreath [Mitchell]  | 40 |       |
 | Samuel Galbreath  | 14 |       |
 | Agnes Galbreath   | 13 |       |
 | Janet Galbreath   | 11 |       |
