@@ -5,6 +5,8 @@ author: Angus Martin
 publisher: The Grimsay Press
 ---
 
+## Index
+
 * Galbraith, family name, [210](#page-210)
 * Galbraith, Calum of Drumlemble, [152](#page-152)
 * Galbraith, John 'China' of Campbeltown, [195](#page-195)
