@@ -1,6 +1,6 @@
 ---
 title: Trade and Economic Development in Eighteenth-Century Campbeltown
-author:
+author: Susan L MacDonald
 year: 1982
 ---
 
