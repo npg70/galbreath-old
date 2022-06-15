@@ -15,4 +15,4 @@ Also reprinted on [Ralston Genealogy](http://www.ralstongenealogy.com/number67ki
 > after James's father. James died in 1850 leaving 
 > £186 18s 7 d, of which £137 18s 9d represented cattle, horses and farm implements.
 
-[Catherine Galbreath](/people/galbreath-catherine-1788.md), daughter of [Samuel Galbreath](/people/galbreath-samuel-1736.md) and Janet McNair, born Peninver, Argyll, Scotland 16 May 1788, baptized Campbeltown 18 May 1788,
+[Catherine Galbreath](/people/galbreath-catherine-1788.md), daughter of [Samuel Galbreath](/people/galbreath-samuel-1736.md) and Janet McNair, baptized Campbeltown 18 May 1788.
