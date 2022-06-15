@@ -78,4 +78,6 @@ RTOKG == A Ramble Through the Old Kilkerran Graveyard.  Nothing new here since f
 
 > John G, farmer in Drumavuling, Southend, in 1881, was born Dalrymple, Ayrshire c. 1824 (C/d2/p2).
 
+1881 Census, Drumavuling, Southend, Argyllshire, Scotland, on [FindMyPast](https://www.findmypast.com/transcript?id=GBC%2F1881%2F0029395251).  That says Argyllshire not Ayrshire.
+
 
