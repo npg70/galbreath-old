@@ -41,7 +41,7 @@ TSOS = [The Surnames of Scotland, Balck 1946]
 
 TBD
 
-> James Galbreth in Kilkeden or Ardnacross, 1694 (HTL [Hearth Tax List], 53);
+> James Galbreth in Kilkeden or Ardnacross, 1694 (HTL, 53);
 
 HTL = Hearth Tax List
 
