@@ -15,7 +15,13 @@ In 1817, the entire family, including the 3 month-old Archibald, immigrated to C
 > Baltimore, MD on Sept 26, 1817. The family came across country to Pittsburgh, PA with oxen and cart, then
 > down the Ohio River by flat boat to settle near Neville, Cleremont[sic] Co, Ohio where Robert took up farming.
 
-It is unclear what triggered this, or why Clermont County.
+It is unclear what triggered this.  TBD: Perhaps he sold the farm to his younger sister Catherine (who married James Greelees)?
+
+And why Clermont, Ohio?  TBD: McNair connection.
+
+The date of entry at the Port of Baltimore has not been confirmed since:
+* Baltimore did not keep records of immigration until much later
+* Earlier commercial records are indexed by boat name, not date.
 
 Children of Robert and Katharine (Harvie) Galbreath, baptized in Campbeltown except the last two:[^children]
 
