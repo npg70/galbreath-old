@@ -20,7 +20,7 @@
 * [Kintyre The Hidden Past](kintyre-the-hidden-past.md), a number of references
 * [Kintyre Country Life](kintyre-country-life.md), 2 references, unknown.
 * [Kilkerran Graveyard Revisted](kilkerran-graveyard-revisted.md), 2 references
-* [Distilleries of Campbeltown](distilleries-of-campbeltown.md)
+* [Distilleries of Campbeltown](distilleries-of-campbeltown.md), 5 references
 * [Saga of our Kintyre Kin](saga-of-our-kintyre-kin.md), 1 references Catherine who married James Greenlees.
 
 Overviews:
