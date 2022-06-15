@@ -34,6 +34,9 @@ Overviews:
 (missing a few references)
 
 * [Kintyre Magainze #14](kintyre-magazine-14.md), An 18th Century Letter from Campbeltown to America
+* Kintype Magazine #16, TBD, James Stewart - Fact of Fiction Another Dunaverty Mystery, discussion of [David Stewart Galbraith](https://github.com/npg70/galbreath/blob/main/people/galbraith-david-stewart-1782.md).  See [RalstonGenealogy](http://www.ralstongenealogy.com/number16kintmag.htm)
+* Kintype Magazine #28, TBD, See [RalstonGenealogy](http://www.ralstongenealogy.com/number28kintmag.htm)
+* Kintyre Magazine #35, Letters to America
 * [Kintyre Magainze #50](kintyre-magazine-50.md), Templetons of Kintyre
 * [Kintyre Magazine #67](kintyre-magazine-67.md), Argyll's Forgotten Whisky Barons 
 * [Kintyre Magazine #90](kintyre-magazine-90.md)
