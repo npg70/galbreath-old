@@ -1999,7 +1999,7 @@ TBD: [DONALD GALBREATH](/people/galbreath-donald-1804-flora-smith.md)/FLORA SMIT
 
 ## 1839-05-16 John Galbreath
 
-TBD: ARCHIBALD GALBREATH/AGNES HENDERSON
+**[Archibald Galbreath](/people/galbreath-archibald-1800.md)** **Agnes Henderson**
 
 ## 1839-06-02 James Galbreath
 
