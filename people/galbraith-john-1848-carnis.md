@@ -6,9 +6,9 @@ familysearch: https://www.familysearch.org/tree/person/details/LZ62-KK8
 
 
 1891 census https://www.findmypast.com/transcript?id=GBC/1891/0035235533&expand=true
+1901 census https://www.findmypast.com/transcript?id=GBC/1901/0035922407&expand=true
 
 Children of John and Helen (Carnis) Galbraith:
-
 
 1. *John Galbraith*, 1873–Deceased
 2. Georgina Cook Galbraith, b. 1875
