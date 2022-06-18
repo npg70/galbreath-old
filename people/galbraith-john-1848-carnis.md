@@ -1,8 +1,21 @@
 ---
-title: xxx
+title: John Galbraith b. 1848 m. Helen Carnis
+familysearch: https://www.familysearch.org/tree/person/details/LZ62-KK8
 ---
 ***John Galbraith***, son of *[John Galbreath](galbreath-john-1821.md)* and *Margaret Cook*, b. Apr 1848, bp 18 Oct 1848 Campbeltown
 
 
+Children of John and Helen (Carnis) Galbraith:
 
-died 
+
+1. *John Galbraith*, 1873–Deceased
+2. Georgina Cook Galbraith, b. 1875
+3. James Galbraith, b. 1878
+4. Alexander Cook Galbraith, b. 11 Apr 1879, Saddell, d. 21 Dec 1952 Carradale, m. Flora Mitchell
+5. Helen Mary Galbraith, b. 1881
+6. Archibald Galbraith, b. 1883
+7. Neil Galbraith, b. 1886 Carradale,  d. 21 May 1915 France
+8. Janet Galbraith, 1889–Deceased 
+9. Margaret Cook Galbraith, b. 1890–Deceased
+10. Alice Cairns Galbraith, b. 1892
+11. John Cairns, b. 19 May 1894 Saddell, d. Mar 1959, Montreal, Quebec, Canada
