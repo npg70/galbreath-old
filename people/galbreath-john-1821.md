@@ -11,7 +11,7 @@ Children of John and Margaret (Cook) Galbreath:[^oprchildren]
 1. *[Neil Galbreath](galbraith-neil-1841.md)*, b. 18 Aug 1841, Campbeltown[^neill-birth], likley drown in 1873[^neil-death]
 2. *Mary Galbreath*, b. 5 Oct 1843, Campbeltown[^mary-birth]
 3. *Margaret Galbreath*, b. 29 Jan 1845, Campbeltown[^margaret-birth]
-4. *[John Galbreath*](galbraith-john-1848-carnis.md)*, b. Apr 1848, bp 18 Oct 1848 Campbeltown[^john-birth]; m. *Helen Allison Carnis*
+4. *[John Galbreath](galbraith-john-1848-carnis.md)*, b. Apr 1848, bp 18 Oct 1848 Campbeltown[^john-birth]; m. *Helen Allison Carnis*
 5. *Agnes Galbraith*, b. 1 Feb 1851, Campbeltown;[^agnes-birth] d. 8 Aug 1884, Campbeltown, Argyll, Scotland
 6. *[Alexander Galbraith](galbraith-alexander-1854.md)*, b. 25 May 1854, Campbeltown;[^alexander-birth] m. *Mary Campbell*
 7. *Archibald Galbreath*, b. 19 Aug 1856, Dalintober, Campbeltown[^archibald-birth]
