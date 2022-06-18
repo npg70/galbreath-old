@@ -5,6 +5,8 @@ familysearch: https://www.familysearch.org/tree/person/details/LZ62-KK8
 ***John Galbraith***, son of *[John Galbreath](galbreath-john-1821.md)* and *Margaret Cook*, b. Apr 1848, bp 18 Oct 1848 Campbeltown
 
 
+1891 census https://www.findmypast.com/transcript?id=GBC/1891/0035235533&expand=true
+
 Children of John and Helen (Carnis) Galbraith:
 
 
