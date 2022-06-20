@@ -12,6 +12,7 @@ The descendants of [James Galbreath](/people/galbreath-james-1659.md) b. 1659 an
 
 Leafs:
 * [David Galbreath](/people/galbreath-david-1719.md) b. 1719 m. Jean Langwill, 5 children but no records for any of them after baptism.
+* [James Galbreath](/people/galbreath-james-1768-jean-harvey.md) b. 1768 m. Jean Harvey; six children, no records
 
 ## William Galbreath b. 1736 / Margaret Dunlop
 
