@@ -14,7 +14,7 @@ Children of John and Janet (Watson) Galbreath, all baptised in Campbeltown:[^chi
 3. *Janet Galbraith*, bp. 25 May 1845, assumed died in infancy 
 4. *Janet Galbraith*, bp. 19 Dec 1847
 5. *Isabella Galbraith*, bp. 8 Sep 1850
-6. *William Galbratih*, bp. 7 Nov 1853[^william-birth]
+6. *William Galbraith*, bp. 7 Nov 1853[^william-birth]
 
 [^birth]: OPR Campbeltown, baptism of [John Galbraith](/sources/opr-campbeltown-births.md#1804-05-13-john-galbraith
 
