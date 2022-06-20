@@ -10,6 +10,9 @@ The descendants of [James Galbreath](/people/galbreath-james-1659.md) b. 1659 an
 * [Robert Galbreath](/people/galbreath-robert-1778.md) b. 1778 immigrated to Clermont County, Ohio, USA in 1818
 * [Margaret Galbreath](/people/galbreath-margaret-1771.md), b. 1771 immigrated to New Brunswick, Canada in 1821
 
+Leafs:
+* [David Galbreath](/people/galbreath-david-1719.md) b. 1719 m. Jean Langwill, 5 children but no records for any of them after baptism.
+
 ## William Galbreath b. 1736 / Margaret Dunlop
 
 The children and grandchildren of [William Galbreath](/people/galbreath-william-1736.md) and Margaret Dunlop were influential in government and industry in Campbeltown and Glasgow.  
