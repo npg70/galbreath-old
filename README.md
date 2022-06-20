@@ -34,9 +34,9 @@ The rumour is that William somehow a descendant of [Archibald Galbreath](/people
 
 The parents of [Archibald Galbreath](/people/galbreath-archibald-1798.md), who married *Margaret McMillian*, is not clear.  There are at least four different stories for who the parents are.
 
+Leafs:
 * [Archibald Galbreath](/people/galbreath-archibald-1819.md) b. 1819 moved to Paisley.
-
-
+* [Archibald Galbreath](/people/galbraith-alexander-1887.md) b. 1887 m. Tina E Campbell, family likely still in Carradale
 
 ## Alexander Galbreath b. 1816 / Elisabeth McCualskey
 
