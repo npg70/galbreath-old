@@ -9,7 +9,7 @@ She married in 1859 to **James Nicol Fleming** TBD Vitals.  He was director at t
 
 After his conviction, there were issue with him improving the house that was in trust for wife, using effectively stolen monies.[^casemine]
 
-Interestingly, there was also a ship "James Nicol Fleming", launched in 1869.  The ships owner was Albion Shipping, owned by James Galbraith of Glasgow.[^clyde1].  In 1879, the name was changed to "Napier" (also a name related to the Galbraiths). 
+Interestingly, there was also a ship "James Nicol Fleming", launched in 1869.  The ships owner was Albion Shipping, owned by James Galbraith of Glasgow[^clyde1].  In 1879, the name was changed to "Napier" (also a name related to the Galbraiths). 
 
 Prior to this James Galbraith, launched the ship "Margaret Galbraith" in 1868,[^clyde2] named after this wife.
 
