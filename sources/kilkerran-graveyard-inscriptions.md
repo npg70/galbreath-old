@@ -155,6 +155,8 @@ Canidates of Janet on [ScotlandPeoples](https://www.scotlandspeople.gov.uk/recor
 
 > 608.	Erected by the family in memory of their father DUNCAN McCALLUM who died 2 January 1853 and their mother SARAH GALBRAITH died 9 July 1882 also their brothers MALCOM died in 1851, HUGH died 19 August 1885 (their sister BARBARA died 7 February 1877 and her husband ALEXR DURROCH died 8 July 1877) also two children of NEIL McCALLUM who died in infancy, HELEN KELLY, wife of DUNCAN McCALLUM, Witchburn, who died 19 February 1898 aged 52 years and their daughter SARAH died at Glasgow 4 February 1893 aged 23 years, interred in Sighthill, also their son HUGH who was drowned at Westport 10 July 1899 aged 22 years, the said DUNCAN McCALLUM, died at Witchburn in his 88th year.
 
+[Sarah Galbraith](/people/galbraith-sarah-1817-mccallum.md), daughter of Neil Galbreath and Mary McMillian, born 1817.
+
 ## 697
 
 > 697.	Erected by WILLIAM McDOUGALL in memory of his parents DANIEL McDOUGALL who died 16 June 1816 aged 83 years and MARY GALBREATH his wife who died 10 January 1838 aged 92 years also of their son DANIEL sailing master, R N who died at Antigua 13 December 1816 aged 37 years, ARCHIBALD who died March 1833 aged 58 years.
@@ -163,7 +165,7 @@ Canidates of Janet on [ScotlandPeoples](https://www.scotlandspeople.gov.uk/recor
 
 ## 816
 
-> 816	Erected by LACH. McNEIL your. Of Kilchrist in memory of CATHARIN CLARK his spouse who died 10 November 1732 her age 17.  By CATHERINE McNEILL in memory of her husband JAMES GALBRAITH, Mariner, who died 6 February 1817 aged 37 years and of her mother CATHERINE McNEILL who died 26 May 1845 aged 74 years, MARGARET GALBRAITH daughter of the above JAMES GALBRAITH and CATHERINE McNEILL and spouse of the late EDWARD REATON, Mariner, who died 10 May 1890 aged 79 years.
+> 816.	Erected by LACH. McNEIL your. Of Kilchrist in memory of CATHARIN CLARK his spouse who died 10 November 1732 her age 17.  By CATHERINE McNEILL in memory of her husband JAMES GALBRAITH, Mariner, who died 6 February 1817 aged 37 years and of her mother CATHERINE McNEILL who died 26 May 1845 aged 74 years, MARGARET GALBRAITH daughter of the above JAMES GALBRAITH and CATHERINE McNEILL and spouse of the late EDWARD REATON, Mariner, who died 10 May 1890 aged 79 years.
 
 1811-01-05 Margaret Galbreath
 
