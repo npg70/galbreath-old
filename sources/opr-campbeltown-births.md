@@ -1735,13 +1735,16 @@ TBD: JOHN GALBREATH/SARAH MCINNES
 
 ## 1817-04-08 Sarah Galbreath
 
-TBD: [NEIL GALBREATH](/people/galbraith-neil-1788.md)/MARY MACMILLAN
+[507/40 459 row 15](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358502?image=459)
+
+> Lawful Daughter to **[Neil Galbreath](/people/galbraith-neil-1788.md)** Shoemaker Dalintober
+> **Mary MacMillan** born 5th. baptized 8th April 1817. Named Sarah.
 
 ## [1817-04-16 John Galbreath](/people/galbreath-john-1817.md)
 
 [507/40 460 row 13](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357574?image=460)
 
-> John | Lawful Son to [Robert Galbreath](/people/galbreath-robert-1778.md) Farmer Peninver and Catherine Harvey, born 12th, baptised 16th April 1817. John
+> John | Lawful Son to **[Robert Galbreath](/people/galbreath-robert-1778.md)** Farmer Peninver and **Catherine Harvey**, born 12th, baptised 16th April 1817. John
 
 ## 1817-12-03 Jean Galbreath
 
@@ -1758,13 +1761,13 @@ TBD: [DAVID STEWART GALBREATH](/people/galbraith-david-stewart-1782.md)/ELIZABET
 
 [507/ 40 486 row 10](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357296?image=486)
 
-Archibald | Lawful Son to [Archibald Galbreath](/people/galbreath-archibald-1798.md) Fisherman Dalintober & Margaret MacMillan Born 17 & Bapt 19 Janry 1819 Archibald
+Archibald | Lawful Son to **[Archibald Galbreath](/people/galbreath-archibald-1798.md)** Fisherman Dalintober & **Margaret MacMillan** Born 17 & Bapt 19 Janry 1819 Archibald
 
 ## 1819-04-01 David Galbreath
 
 [507/40 489 row 12](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357356?image=489)
 
-> David | Lawful son of [David Galbreath](/people/galbreath-david-1793.md) Farmer Ugadale & Mary Greenlees
+> David | Lawful son of **[David Galbreath](/people/galbreath-david-1793.md)** Farmer Ugadale & **Mary Greenlees**
 > born 28th March & Bapt 1st April 1819. David.
 
 ## 1819-08-06 Catharine Galbreath
