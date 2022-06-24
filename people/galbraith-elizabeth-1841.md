@@ -13,7 +13,7 @@ Interestingly, there was also a ship "James Nicol Fleming", launched in 1869.  T
 
 Prior to this James Galbraith, launched the ship "Margaret Galbraith" in 1868,[^clyde2] named after this wife.
 
-Just a conciendence that Flemming's wife was a Galbraith, and the Galbraith shipbuilder named his ship after Fleming?  I assumed Fleming approved the loan for the ship.
+Just a conciendence that Fleming's wife was a Galbraith, and the Galbraith shipbuilder named his ship after Fleming?  I assumed Fleming approved the loan for the ship.
 
 881 Census https://www.findmypast.com/transcript?id=GBC/1881/0017950203&expand=true
 
