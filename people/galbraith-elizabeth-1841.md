@@ -17,7 +17,7 @@ Just a conciendence that Flemming's wife was a Galbraith, and the Galbraith ship
 
 881 Census https://www.findmypast.com/transcript?id=GBC/1881/0017950203&expand=true
 
-Children of James and Elizabeth (Galbraith) Flemming:
+Children of James and Elizabeth (Galbraith) Fleming:
 
 1. *John Galbraith Fleming*
 2. *Mary H Fleming*
