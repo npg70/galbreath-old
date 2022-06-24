@@ -10,7 +10,7 @@ Children of Neil and Mary (McMillian) Galbraith, all baptized in Campbeltown:[^c
 
 1. *Anne Galbreath*, bp. 30 Mar 1811[^anne-birth]
 2. *John Galbreath*, bp. 27 Jul 1813[^john-birth]
-3. *Sarah Galbreath*, bp. 8 Apr 1817[^sarah-birth]
+3. *[Sarah Galbraith](galbraith-sarah-1817-mccallum.md)*, bp. 8 Apr 1817[^sarah-birth], m. *William McCallum*
 4. *Neil Galbreath*, bp. 22 Dec 1819[^neil1-birth]
 5. *Mary Galbreath*, bp. 19 Apr 1821[^mary-birth]
 6. *Hugh Galbreath*, bp. 13 May 1823[^hugh-birth], 30 Sep 1901, m. *Catherine McNair*[^hugh-death]
@@ -24,7 +24,7 @@ Children of Neil and Mary (McMillian) Galbraith, all baptized in Campbeltown:[^c
 
 [^mcmillian-death]: Civil Records of Campbeltown; 1866 GALBRAITH, MARY (Statutory registers Deaths 507/ 9); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/956289)
 
-[^children]: OPR Campbeltown, child of Neil Galbreath and Mary McMillan, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=fuzzy&forename_so=starts&from_year=1811&to_year=1829&parent_names_so=exact&parent_name_two=mary%20mcmillan&parent_name_two_so=fuzzy&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&rd_real_name%5B0%5D=CAMPBELTOWN%20%28LANDWARD%29%20OR%20CAMPBELTOWN%20%28BURGH%29%20OR%20CAMPBELTOWN&rd_display_name%5B0%5D=CAMPBELTOWN%20%28LANDWARD%29%7CCAMPBELTOWN%20%28BURGH%29%7CCAMPBELTOWN_CAMPBELTOWN&rd_label%5B0%5D=CAMPBELTOWN&rd_name%5B0%5D=CAMPBELTOWN%20%2ALANDWARD%2A%20OR%20CAMPBELTOWN%20%2ABURGH%2A%20OR%20CAMPBELTOWN&sort=asc&order=Date&field=year)
+[^children]: OPR Campbeltown, child (of Neil Galbreath and Mary McMillan, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=fuzzy&forename_so=starts&from_year=1811&to_year=1829&parent_names_so=exact&parent_name_two=mary%20mcmillan&parent_name_two_so=fuzzy&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&rd_real_name%5B0%5D=CAMPBELTOWN%20%28LANDWARD%29%20OR%20CAMPBELTOWN%20%28BURGH%29%20OR%20CAMPBELTOWN&rd_display_name%5B0%5D=CAMPBELTOWN%20%28LANDWARD%29%7CCAMPBELTOWN%20%28BURGH%29%7CCAMPBELTOWN_CAMPBELTOWN&rd_label%5B0%5D=CAMPBELTOWN&rd_name%5B0%5D=CAMPBELTOWN%20%2ALANDWARD%2A%20OR%20CAMPBELTOWN%20%2ABURGH%2A%20OR%20CAMPBELTOWN&sort=asc&order=Date&field=year)
 
 [^anne-birth]: OPR Campbeltown, baptism of [Anne Galbreath](/sources/opr-campbeltown-births.md#1811-03-30-anne-galbreath)
 
