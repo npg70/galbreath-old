@@ -7,6 +7,10 @@ born 25 APR 1841, baptized 10 MAY 1841,[^birth] and died 10 January 1931,[^death
 
 She married in 1859 to **James Nicol Fleming** TBD Vitals.  He was director at the City of Glasgow Bank, which collpased in 1878.   He was convicted of fraud, served 8 months in prison, and died in Campbeltown in 1904.
 
+* 1878 - rumoured to have fled to Spain.
+* 1882 - Convicted
+* 1904 - Died
+
 After his conviction, there were issue with him improving the house that was in trust for wife, using effectively stolen monies.[^casemine]
 
 Interestingly, there was also a ship "James Nicol Fleming", launched in 1869.  The ships owner was Albion Shipping, owned by James Galbraith of Glasgow[^clyde1].  In 1879, the name was changed to "Napier" (also a name related to the Galbraiths). 
