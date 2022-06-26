@@ -9,6 +9,7 @@ The descendants of [James Galbreath](/people/galbreath-james-1659.md) b. 1659 an
 * [Alexander Galbreath](/people/galbreath-alexander-1753.md), b. 1753, immigrated to Baltimore, then York County, PA in 1785.
 * [Robert Galbreath](/people/galbreath-robert-1778.md) b. 1778 immigrated to Clermont County, Ohio, USA in 1818
 * [Margaret Galbreath](/people/galbreath-margaret-1771.md), b. 1771 immigrated to New Brunswick, Canada in 1821
+* [Mary Galbreath](/people/galbreath-mary-1759.md), b. 1759 m. xxx
 
 Leafs:
 * [David Galbreath](/people/galbreath-david-1719.md) b. 1719 m. Jean Langwill, 5 children but no records for any of them after baptism.
