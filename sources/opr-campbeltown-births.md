@@ -1184,7 +1184,9 @@ TBD: [Peter Galbreath](/people/galbreath-peter-1749.md) / Agnes McMurchy
 
 ## 1793-02-09 Archibald Galbreath
 
-TBD: John Galbreath / Agnes Galbreath
+[507/40 104 row 21](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357273?image=104)
+
+> Archibald | Lawful Son to **John Galbreath** & **Agnes Galbreath** in town born 6th bapt 9th
 
 ## 1793-04-12 John Galbreath
 
