@@ -952,8 +952,7 @@ TBD: Patrick Galbreath / Ann McLellan
 
 ## 1782-05-12 Mary Galbreath
 
-
-> Mary | Lawful daut to **John Galbreath** & Agnes Galbreath
+> Mary | Lawful daut to **[John Galbreath](/people/galbreath-john-1754-galbreath.md)** & Agnes Galbreath
 > born & bapt 12 May
 
 ## 1782-10-03 Sarrah Galbreath
@@ -993,7 +992,7 @@ Ann | Natural Daughter to Neill Galbreath & Isabell McKinlay in Drumord (?) born
 
 [507/40 50 row 20](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358460?image=50)
 
-> Mary | Lawful Dau to [John Galbreath](/people/galbreath-john-1760.md) & Marion McLean, Knockanly born 1st bapt 3rd [Sep 1783]
+> Mary | Lawful Dau to **[John Galbreath](/people/galbreath-john-1760.md)** & **Marion McLean**, Knockanly born 1st bapt 3rd [Sep 1783]
 
 ## 1783-11-02 Archibald Galbreath
 
@@ -1010,7 +1009,7 @@ TBD: [Peter Galbreath](/people/galbreath-peter-1749.md) / Agnes McMurchy
 
 [507/ 20 71 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357565?image=72)  TBD: link needs fixing
 
-> David | Lawful son to *John Galbreath* Town Officer & Agnes Galbreath
+> David | Lawful son to **[John Galbreath](/people/galbreath-john-1754-galbreath.md)** Town Officer & **Agnes Galbreath**
 > was born 2nd & bapt 3rd Feb
 
 ## 1784-11-04 Neill Galbreath
@@ -1025,14 +1024,14 @@ TBD: John Galbreath / Katharine Hegon
 
 [507/ 20 85 row 2](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2040?image=85)
 
-> Mary | Lawful Daugh to [Peter Galbraith](/people/galbreath-peter-1749.md) Farmer in Laggan & Agnes McMurchy
+> Mary | Lawful Daugh to **[Peter Galbraith](/people/galbreath-peter-1749.md)** Farmer in Laggan & **Agnes McMurchy**
 > was born 19th & bapt 21 Sept.
 
 ## 1785-10-23 Jean Galbreath
 
 [507/ 20 85 row 7](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2040?image=85) TBD: link needs fixing.
 
-> Jean | Lawful Dau to **John Galbraith** Town Officier & Agnes Galbraith
+> Jean | Lawful Dau to **[John Galbraith](/people/galbreath-john-1754-galbreath.md)** Town Officier & **Agnes Galbraith**
 > was born 23rd & bapt 25th Oct.
 
 ## 1785-11-20 Daniel Galbraith
@@ -1047,7 +1046,7 @@ TBD: Neill Galbriath / Isalbell McKinlay
 
 [507/ 20 86 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/988?image=86)
 
-> John | Lawful son to [David Galbraith](/people/galbreath-david-1755.md) in Ardnacross & Mary Fleeming
+> John | Lawful son to **[David Galbraith](/people/galbreath-david-1755.md)** in Ardnacross & **Mary Fleeming**
 > was born 30th & bapt 31th Dec.
 
 ## 1786-01-04 Janet Galbraith
@@ -1082,7 +1081,7 @@ TBD: [Peter Galbreath](/people/galbreath-peter-1749.md) / Agnes MacMurchy
 
 [507/10 104 row 15](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357976?image=104)
 
-> Catharine | Lawful daut. to [Samuel Galbreath](/people/galbreath-samuel-1736.md) in Peninver & Janet MacNair
+> Catharine | Lawful daut. to **[Samuel Galbreath](/people/galbreath-samuel-1736.md)** in Peninver & **Janet MacNair**
 > was born 16th & Bapt. 18th May [1788]
 
 ## [1788-08-29 Mary Galbreath](/people/galbreath-mary-1788.md)
@@ -1121,7 +1120,7 @@ TBD: Neill Galbreath / Katherine Mclarty
 
 [507/ 20 117 row 4](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358383?image=117)
 
-> Martha | Lawful daugt to **John Galbreath** Sheriff Officer in Town & Agnes Galbreath
+> Martha | Lawful daugt to **[John Galbreath](/people/galbreath-john-1754-galbreath.md)** Sheriff Officer in Town & **Agnes Galbreath**
 > was born 24th & bapt 25th
 
 ## 1790-06-09 Margaret Galbreath
@@ -1186,13 +1185,13 @@ TBD: [Peter Galbreath](/people/galbreath-peter-1749.md) / Agnes McMurchy
 
 [507/40 104 row 21](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357273?image=104)
 
-> Archibald | Lawful Son to **John Galbreath** & **Agnes Galbreath** in town born 6th bapt 9th
+> Archibald | Lawful Son to **[John Galbreath](/people/galbreath-john-1754-galbreath.md)** & **Agnes Galbreath** in town born 6th bapt 9th
 
 ## 1793-04-12 John Galbreath
 
 [507/40 106 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357660?image=106)
 
-> John | Lawful son to  [John Galbreath](/people/galbreath-john-1760.md) & Marion McLean in [Tolelach???] [???] 12
+> John | Lawful son to **[John Galbreath](/people/galbreath-john-1760.md)** & **Marion McLean** in [Tolelach???] [???] 12
 
 ## 1793-05-14 Lachlan Galbreath
 
@@ -1214,7 +1213,7 @@ TBD: Neil Galbreath / Florance Paterson
 
 [507/40 111 row 18](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357780?image=111)
 
-> Samuel Lawful son to [Samuel Galbreath](/people/galbreath-samuel-1736.md) and Janet McNair Peninver les
+> Samuel Lawful son to **[Samuel Galbreath](/people/galbreath-samuel-1736.md)** and **Janet McNair** Peninver les
 
 ## 1794-03-16 Katherin Galbreath
 
