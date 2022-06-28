@@ -1247,29 +1247,29 @@ TBD: Neill Galbreath / Isabill McKinlay
 
 ## 1795-03-31 Agnes Galrbeath
 
-TBD: James Galbreath / Jean Harvy
+TBD: **[James Galbreath](/people/galbreath-james-1768-jean-harvey.md)**  **Jean Harvey**
 
 ## 1795-10-14 John Galbreath
 
 [507/40 131 row 7](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356903?image=131)
 
-> John & Elizabeth | Lawful twin children to Neil Galbreath & Florance Paterson? ????
+> John & Elizabeth | Lawful twin children to **Neil Galbreath** & **Florance Paterson**? ????
 
 ## 1795-10-14 Elizabeth Galbreath
 
 [507/40 131 row 7](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357043?image=131)
 
-> John & Elizabeth | Lawful twin children to Neil Galbreath & Florance Paterson? ????
+> John & Elizabeth | Lawful twin children to **Neil Galbreath** & **Florance Paterson**? ????
 
 ## 1795-10-26 Janet Galbreath
 
 [507/40 131 row 10](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358151?image=131)
 
-> Janet Lawful Daugt to [Samuel Galbreath](/people/galbreath-samuel-1765.md) & Janet Langwell (in town?) Sept 26th
+> Janet Lawful Daugt to **[Samuel Galbreath](/people/galbreath-samuel-1765.md)** & **Janet Langwell** (in town?) Sept 26th
 
 ## 1796-06-04 Jean Galbreath
 
-TBD: [Patrick Galbreath](/people/galbreath-peter-1749.md)  / Agnes McMurchy
+TBD: **[Patrick Galbreath](/people/galbreath-peter-1749.md)**   **Agnes McMurchy**
 
 ## 1796-07-27 Hester Galbreath
 
@@ -1277,13 +1277,13 @@ TBD: Neil Galbreath / Grizell Taylor
 
 ## 1796-10-06 Andrew Galbreath
 
-TBD: James Galbreath / Jean Harvey
+TBD: **[James Galbreath](/people/galbreath-james-1768-jean-harvey.md)**  **Jean Harvey**
 
 ## 1796-11-09 John Galbreath
 
 [507/40 144 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357611?image=144)
 
-> John | Lawful son to [Samuel Galbreath](/people/galbreath-samuel-1736.md) & Janet McNair Peninver born (&?) bapt 9th
+> John | Lawful son to **[Samuel Galbreath](/people/galbreath-samuel-1736.md)** & **Janet McNair** Peninver born (&?) bapt 9th
 
 ## 1796-12-30 Katherin Galbreath
 
@@ -1297,7 +1297,7 @@ TBD: [Archibald Galbreath](/people/galbreath-archibald-1760.md) / Jean Corbet
 
 [507/40 153 row 4](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357357?image=153), indexed as "Janet Langwell" differently than all other children.
 
-> David | Lawful son to [Samuel Galbreath](/people/galbreath-samuel-1765.md) in Town and Janet Langwill, 
+> David | Lawful son to **[Samuel Galbreath](/people/galbreath-samuel-1765.md)** in Town and **Janet Langwill**, 
 > born 16th, baptised 19th [illegible] the Childs name is David.
 
 ## 1798-04-21 Jean Galbreath
@@ -1308,16 +1308,16 @@ TBD: Neil Galbreath / Isabell Mckinlay
 
 [507/40 166 row 10](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357899?image=166)
 
-> Agnes | Lawfult daugt to [Peter Galbreath](/people/galbreath-peter-1749.md) & Agnes McMurchy
+> Agnes | Lawfult daugt to **[Peter Galbreath](/people/galbreath-peter-1749.md)** & **Agnes McMurchy**
 > in Lagan was Born 18th Baptized 21th, Agnes--
 
 ## 1798-09-12 MaryAnn? Galbreath
 
-TBD: James Galbreath / Jean Harvey
+TBD: **[James Galbreath](/people/galbreath-james-1768-jean-harvey.md)**  **Jean Harvey**
 
 ## 1798-09-12 Margaret Galbreath
 
-TBD: James Galbreath / Jean Harvey
+TBD: **[James Galbreath](/people/galbreath-james-1768-jean-harvey.md)**  **Jean Harvey**
 
 ## [1798-09-30 Archibald Galbreath](/people/galbreath-archibald-1798.md)
 
