@@ -10,7 +10,7 @@ Children of David and Mary (Fleming) Galbreath, all baptized at Campbeltown:[^ch
 
 1. *Margaret Galbreath*, b. 1 Nov 1782, bp. 3 Nov 1782[^margaret-birth]
 2. *John Galbraith*, b. 28 Nov 1785, bp. 29 Nov 1785[^john-birth]
-3. *James Galbriath*, b. 30 Dec 1786, bp. 31 Dec 1786.[^james-birth]  Listed under "DAVID OR SAMUEL GALBRAITH MARY FLEEMING"
+3. *James Galbraith*, b. 30 Dec 1786, bp. 31 Dec 1786.[^james-birth]  Listed under "DAVID OR SAMUEL GALBRAITH MARY FLEEMING"
 4. *[Mary Galbreath](galbreath-mary-1788.md)*, bp. 29 Aug 1788,[^mary-birth] m. *Robert Clark*
 5. *Janet Galbraith*, b. 23 Dec 1790, bp. 24 Dec 1790[^janet-birth]
 6. *David Galbreath*, bp. 27 Aug 1793[^david-birth]
