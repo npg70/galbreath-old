@@ -1367,7 +1367,7 @@ TBD: NEIL GALBREATH/MARGARET GALBREATH
 
 ## 1800-10-05 Jean Galbreath
 
-TBD: JAMES GALBREATH/JEAN HARVEY 
+TBD: **[James Galbreath](/people/galbreath-james-1768-jean-harvey.md)**  **Jean Harvey**
 
 death: https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/2359939?return_row=13
 
@@ -1405,18 +1405,18 @@ TBD: NEIL GALBREATH/GRIZELL TAYLOR
 
 [507/40 228 row 3](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357637?image=228)
 
-> John | Archibald Galbreath + Margaret McAlester in town had a lawful
+> John | **Archibald Galbreath** + **Margaret McAlester** in town had a lawful
 > son born 21 bapts. 22 named John
 
 ## 1802-09-05 Henrey Galbreath
 
-TBD: JAMES GALBREATH/JEAN HARVEY
+TBD: **[James Galbreath](/people/galbreath-james-1768-jean-harvey.md)**  **Jean Harvey**
 
 ## 1802-09-15 James Galbreath
 
 [507/40 232 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357492?image=234)
 
-> James | Lawful son to [Samuel Galbreath](/people/galbreath-samuel-1765.md) and Janet Langwill in town born 14th baptized 15th Sept [1802] James
+> James | Lawful son to **[Samuel Galbreath](/people/galbreath-samuel-1765.md)** and **Janet Langwill** in town born 14th baptized 15th Sept [1802] James
 
 ## 1803-01-19 Margaret Galbreath
 
@@ -1426,8 +1426,8 @@ TBD: [Archibald Galbreath](/people/galbreath-archibald-1760.md) / Jean Corbet
 
 [507/40 252 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357282?image=252)
 
-> Archibald | Lawful Son to [James Galbreath](/people/galbreath-james-abt-1775.md) Tenant in Skerbolin and 
-> Martha Galbreath Born 8th Baptized 11th September 1803 Named Archibald
+> Archibald | Lawful Son to **[James Galbreath](/people/galbreath-james-abt-1775.md)** Tenant in Skerbolin and 
+> **Martha Galbreath** Born 8th Baptized 11th September 1803 Named Archibald
 
 ## 1804-02-02 Donald Galbreath
 
@@ -1437,31 +1437,32 @@ TBD: NEILL GALBREATH/FLORY PATTERSON
 
 [507/40 262](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358471?image=262)
 
-John | Lawful Son to [William Galbraith](/people/galbreath-william-1780.md) workman in Kildonell and Jean Campbell born 11th baptized 13 May 1804 named John 
+John | Lawful Son to **[William Galbraith](/people/galbreath-william-1780.md)** workman in Kildonell and **Jean Campbell** born 11th baptized 13 May 1804 named John 
 
 ## 1804-05-22 Mary Galbreath
 
 [507/40 262 row 10](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358471?image=262)
 
-> Mary | Lawful Daughter to [Samuel Galbreath](/people/galbreath-samuel-1765.md) Sawer in Campbeltown and Janet Langwill born 18 baptised 22 May 1804 named Mary
+> Mary | Lawful Daughter to **[Samuel Galbreath](/people/galbreath-samuel-1765.md)** Sawer in Campbeltown and **Janet Langwill** born 18 baptised 22 May 1804 named Mary
 
 ## 1804-07-26 William Galbreath
 
 [507/40 265  row 21](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357855?image=265)
 
-> William | Lawful ~daughter~ son to [David Galbreath](/people/galbreath-david-1755.md) Farmer in [unreadable] 
-> Mary Fleeming born 23 bapt 26th July.
+> William | Lawful ~daughter~ son to **[David Galbreath](/people/galbreath-david-1755.md)** Farmer in [unreadable] 
+> **Mary Fleeming** born 23 bapt 26th July.
 
 ## 1804-09-30 Margaret Galbreath
 
 [507/40 267 row 16](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358326?image=267)
 
 > Margaret | Lawful daughter to **[Peter Galbreath](/people/galbreath-peter-1766.md)** Sailor in Campbeltown 
-> and Margaret Galbreath born 29 baptized 30 Sept 1804. Margaret
+> and **Margaret Galbreath** born 29 baptized 30 Sept 1804. Margaret
 
 ## 1805-03-06 Florence Galbreath
 
-TBD: JAMES GALBREATH/JEAN HARVIE
+TBD: **[James Galbreath](/people/galbreath-james-1768-jean-harvey.md)**  **Jean Harvey**
+
 death: https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/2856442?return_row=11
 
 James listed as a baker.
@@ -1470,8 +1471,8 @@ James listed as a baker.
 
 [507/40 275 row 4](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358218?image=275)
 
-> Jean | Lawful Daughter to [Archibald Galbreath](/people/galbreath-archibald-1760.md) Merchant in Campbeltown and 
-> Jean Corbet, born 28th March, baptised 7th April 1805.  Jean
+> Jean | Lawful Daughter to **[Archibald Galbreath](/people/galbreath-archibald-1760.md)** Merchant in Campbeltown and 
+> **Jean Corbet**, born 28th March, baptised 7th April 1805.  Jean
 
 ## 1805-05-07 Barbara Galbreath
 
@@ -1481,32 +1482,32 @@ TBD: NEILL GALBREATH/MARY MACVICAR
 
 [507/40 282 row 18](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358491?image=282)
 
-> Orsella | Lawful daughter to [James Galbreath](/people/galbreath-james-abt-1775.md) Farmer in Skerbolin and Martha Galbreath
+> Orsella | Lawful daughter to **[James Galbreath](/people/galbreath-james-abt-1775.md)** Farmer in Skerbolin and **Martha Galbreath**
 > Born 18th Baptized 24 November 1804. Orsella
 
 ## 1806-03-11 Janet Galbreath
 
 [507/40 286 row 8](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358164?image=286)
 
-> Janet | Lawful Daughter to [Robert Galbreath](/people/galbreath-robert-1778.md) Malster in Dalintober and Catherine Harvey born 10th baptised 11 March 1806 Janet
+> Janet | Lawful Daughter to **[Robert Galbreath](/people/galbreath-robert-1778.md)** Malster in Dalintober and **Catherine Harvey** born 10th baptised 11 March 1806 Janet
 
 ## 1806-09-02 Archibald Galbreath
 
 [507/40 292 row 15](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357909?image=292)
 
-> Archibald | Lawful Son to Peter Galbreath Taylor in Campbeltown and Janet MacKay born 31 Aug baptised 02 Sept 1806 named Archibald
+> Archibald | Lawful Son to **Peter Galbreath** Taylor in Campbeltown and **Janet MacKay** born 31 Aug baptised 02 Sept 1806 named Archibald
 
 ## 1806-09-03 Agnes Galbreath
 
 [507/40 292 row 16](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357909?image=292)
 
-> Agnes | Lawful Daughter to [Samuel Galbreath](/people/galbreath-samuel-1765.md) sawer in Campbeltown and Janet Langwill born 2 baptised 3 September 1806 named Agnes
+> Agnes | Lawful Daughter to **[Samuel Galbreath](/people/galbreath-samuel-1765.md)** sawer in Campbeltown and **Janet Langwill** born 2 baptised 3 September 1806 named Agnes
 
 ## 1806-09-17 Janet Galbreath
 
 [507/40 293 row 7](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358120?image=293)
 
-> Janet | Lawful Daughter to Archibald Galbreath Baker in Campbeltown and Jackie Templeton
+> Janet | Lawful Daughter to **Archibald Galbreath** Baker in Campbeltown and **Jackie Templeton**
 > born 14th baptised 17th September 1806 named Janet
 
 ## 1807-03-13 Malcom Galbreath
@@ -1536,13 +1537,13 @@ TBD: HUGH GALBREATH/CHRISTIAN MACDONALD
 
 [507/40 316 row 14](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357775?image=316)
 
-> Samuel | Lawful Son to [Robert Galbreath](/people/galbreath-robert-1778.md) Farmer in Peninver and Catherine Harvie, born 18, baptised 22 March 1808.  Samuel
+> Samuel | Lawful Son to **[Robert Galbreath](/people/galbreath-robert-1778.md)** Farmer in Peninver and **Catherine Harvie**, born 18, baptised 22 March 1808.  Samuel
 
 ## [1808-12-20 Isobell Galbreath](/people/galbraith-isabella-1808.md)
 
 [507/40 329 row ](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358101?image=329)
 
-> Isobell | Lawful Daughter to [William Galbreath](/people/galbreath-william-1780.md) Laborer Toniorch(??) and Jean Campbell
+> Isobell | Lawful Daughter to **[William Galbreath](/people/galbreath-william-1780.md)** Laborer Toniorch(??) and **Jean Campbell**
 > born 19th, baptized 20th December 1808. Isobell.
 
 ## 1809-01-22 Peter Galbreath
@@ -1553,8 +1554,8 @@ TBD: PETER GALBREATH/JANET MACKAY
 
 [507/40 339 row 16](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357569?image=339)
 
-> John | Lawful Son to [Archibald Galbreath](/people/galbreath-archibald-1760.md) Merchant in Campbeltown and 
-> Jean Corbet, born 3rd, baptised 5th Sept 1809. Named John
+> John | Lawful Son to **[Archibald Galbreath](/people/galbreath-archibald-1760.md)** Merchant in Campbeltown and 
+> **Jean Corbet**, born 3rd, baptised 5th Sept 1809. Named John
 
 ## 1809-04-25 Catharine Galbreath
 
@@ -1581,7 +1582,7 @@ TBD: HUGH GALBREATH/CHRISTAN MACDONALD
 
 [507/40 345 row 10](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357525?image=345)
 
-> James | Lawful Son to [Robert Galbreath](/people/galbreath-robert-1778.md) Farmer Peninver and Catherine Harvie, born 23, baptised 27th Dec 1809. Named James
+> James | Lawful Son to **[Robert Galbreath](/people/galbreath-robert-1778.md)** Farmer Peninver and **Catherine Harvie**, born 23, baptised 27th Dec 1809. Named James
 
 ## 1810-02-22 Mary Galbreath
 
@@ -1595,7 +1596,7 @@ TBD: JAMES GALBREATH/CATHARINE MACNEILL
 
 [507/40 365 row 16](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357779?image=365)
 
-> Samuel | Lawful son to [James Galbreath](/people/galbreath-james-abt-1775.md) Farmer Skerbolin & Martha Galbreath
+> Samuel | Lawful son to **[James Galbreath](/people/galbreath-james-abt-1775.md)** Farmer Skerbolin & **Martha Galbreath**
 > born 17th bapt 20th Feb 1811. Samuel.
 
 ## 1811-03-17 Norman Galbreath
@@ -1612,7 +1613,7 @@ TBD: [Neill Galbreath](/people/galbraith-neil-1788.md) / Mary MacMillan
 
 [507/40 369 row 16](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357737?image=369)
 
-> Peter | Lawful son to [William Galbreath](/people/galbreath-william-1780.md) farmer Laggan and Janet Campbell
+> Peter | Lawful son to **[William Galbreath](/people/galbreath-william-1780.md)** farmer Laggan and **Janet Campbell**
 > born 30th baptized 31th May 1811. Named Peter
 
 ## 1811-05-31 Robert Galbreath
@@ -1625,8 +1626,8 @@ TBD: [Neill Galbreath](/people/galbraith-neil-1788.md) / Mary MacMillan
 
 [507/ 40 373 row 10](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358494?image=373)
 
-> Rachael | Lawful Daughter to *[Archibald Galbreath](/people/galbreath-archibald-1760.md)* 
-> Merchant in Campbeltown & *Jean Corbet* born 17th. Bapt 25th Aug 1811
+> Rachael | Lawful Daughter to **[Archibald Galbreath](/people/galbreath-archibald-1760.md)** 
+> Merchant in Campbeltown & **Jean Corbet** born 17th. Bapt 25th Aug 1811
 
 ## 1811-10-10 John Galbreath
 
@@ -1640,7 +1641,7 @@ TBD: NEILL GALBREATH/FLORA PATTERSON
 
 [507/40 380 row 8](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357753?image=380)
 
-> Robert | Lawful son to [Robert Galbreath](/people/galbreath-robert-1778.md) ~~weaver~~ farmer Peninver and Catherine Harvey born 25th, bapt 26th Feb 1812 named Robert
+> Robert | Lawful son to **[Robert Galbreath](/people/galbreath-robert-1778.md)** ~~weaver~~ farmer Peninver and **Catherine Harvey** born 25th, bapt 26th Feb 1812 named Robert
 
 ## 1812-11-18 Charles Galbreath
 
@@ -1673,14 +1674,14 @@ TBD: [Archibald Galbreath](/people/galbreath-archibald-1760.md) / Jean Corbet
 
 [507/40 409 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357319?image=409)
 
-> Archibald | Lawful Son to [Robert Galbreath](/people/galbreath-robert-1778.md) Farmer in Peninver and Catherine Harvie, born 31 Jan, baptised 9 Feb 1814. Named Archibald
+> Archibald | Lawful Son to **[Robert Galbreath](/people/galbreath-robert-1778.md)** Farmer in Peninver and **Catherine Harvie**, born 31 Jan, baptised 9 Feb 1814. Named Archibald
 
 ## 1814-04-07 Anne Galbreath
 
 [507/ 40 411 row 17](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357945?image=411)
 
-> Anne | Lawful Daughter to [Archibald Galbreath](/people/galbreath-archibald-1798.md) Sailor in Campbeltown and or 
-> Dalintober & Margaret McMillian born 5th bapt. 7th April. Anne.
+> Anne | Lawful Daughter to **[Archibald Galbreath](/people/galbreath-archibald-1798.md)** Sailor in Campbeltown and or 
+> Dalintober & **Margaret McMillian** born 5th bapt. 7th April. Anne.
 
 ## 1814-12-01 Catharine Galbreath
 
@@ -1697,7 +1698,7 @@ TBD: NEILL GALBREATH/MORE BROWN
 
 [507/40 426 row 1](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357306?image=426)
 
-> Archibald | Lawful Son to [Robert Galbreath](/people/galbreath-robert-1778.md) Farmer Peninver and Catherine Harvey, born 19th, baptised 22 Feb 1815. Named Archibald
+> Archibald | Lawful Son to **[Robert Galbreath](/people/galbreath-robert-1778.md)** Farmer Peninver and **Catherine Harvey**, born 19th, baptised 22 Feb 1815. Named Archibald
 
 ## [1815-07-21 William Galbreath](/people/galbraith-william-1815.md)
 
@@ -2288,7 +2289,7 @@ TBD: DONALD GALBRAITH/ISABELLA MCLEAN
 
 [507/70 374 row 9](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358092?image=374)
 
-> Isabella | Lawful daughter of [John Galbreath](/people/galbraith-john-1804.md) distillery workman and Janet Watson
+> Isabella | Lawful daughter of **[John Galbreath](/people/galbraith-john-1804.md)** distillery workman and **Janet Watson**
 > born 1th May and Baptized 8th Sept 1850
 
 ## 1851-02-12 Duncan Galbraith
@@ -2311,7 +2312,7 @@ TBD: [DAVID GALBRAITH](/people/galbreath-david-1819.md)/CATHERINE MCKINNON
 
 [507/70 407 row 4](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/1962?image=407)
 
-> Margaret | Lawful daughter of [Peter Galbraith](/people/galbraith-peter-1811.md) Maltster and Sarah Armour born
+> Margaret | Lawful daughter of **[Peter Galbraith](/people/galbraith-peter-1811.md)** Maltster and **Sarah Armour** born
 > 11 (4?) September and baptized 4 October 1852.
 
 ## 1852-12-06 Jean Cameron Galbraith
@@ -2338,14 +2339,14 @@ donald: cartwright
 
 [507/70 520 row 13](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/1353?image=420)
 
-> William | Lawful Son of [John Galbraith](/people/galbraith-john-1804.md) Distilleryman and Janet Wilson[should be Watson]
+> William | Lawful Son of **[John Galbraith](/people/galbraith-john-1804.md)** Distilleryman and **Janet Wilson**[should be Watson]
 > was born 10th October and baptized 7 November 1853
 
 ## [1854-05-25 Alexander Galbraith](/people/galbraith-alexander-1854.md)
 
 [507/70 437 row 3](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/87?image=437), indexed under birth date and not baptism date.
 
-> Alexander | Lawful son of [John Galbraith](/people/galbreath-john-1821.md), Fisher, and Margaret Cook
+> Alexander | Lawful son of **[John Galbraith](/people/galbreath-john-1821.md)**, Fisher, and **Margaret Cook**
 > born 25th May 1854 and baptized 5 December 1855
 
 
