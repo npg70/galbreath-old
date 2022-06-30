@@ -4,7 +4,7 @@ familysearch: https://www.familysearch.org/tree/person/details/LZDN-S95
 ---
 ***John Galbreath***, of unknown origin, was born about 1754.
 
-He married **Agnes Galbreath**.
+He married at Campbeltown 5 Aug 1779 to **Agnes Galbreath**, also of unconfirmed origin.
 
 His occupation was listed as "town officer", "sherif", and habour master.
 
