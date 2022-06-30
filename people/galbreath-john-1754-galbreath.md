@@ -12,7 +12,7 @@ Children of John and Agnes Galbreath:[^children]
 
 1. *Mary Galbreath*, bp. 5 Dec 1782[^mary-birth], m. *Archibald Huie* 1811
 2. *David Galbreath*, bp. 3 Feb 1784[^david-birth]
-3. *Jean Galbreath*, bp.23 Oct 1785[^jean-birth]
+3. *Jean Galbreath*, bp. 23 Oct 1785[^jean-birth]
 4. *Martha Galbreath*, bp. 25 Jan 1790[^martha-birth], m. *Archibald MacConachy* 1815
 5. *Archibald Galbreath*, bp. 9 Feb 1793[^archibald-birth]
 
