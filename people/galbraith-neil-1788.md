@@ -13,7 +13,7 @@ Children of Neil and Mary (McMillian) Galbraith, all baptized in Campbeltown:[^c
 3. *[Sarah Galbraith](galbraith-sarah-1817-mccallum.md)*, bp. 8 Apr 1817[^sarah-birth], m. *William McCallum*
 4. *Neil Galbreath*, bp. 22 Dec 1819[^neil1-birth]
 5. *Mary Galbreath*, bp. 19 Apr 1821[^mary-birth]
-6. *Hugh Galbreath*, bp. 13 May 1823[^hugh-birth], 30 Sep 1901, m. *Catherine McNair*[^hugh-death]
+6. *[Hugh Galbreath](galbreath-hugh-1823-mcnair.md)*, bp. 13 May 1823[^hugh-birth], 30 Sep 1901, m. *Catherine McNair*[^hugh-death]
 7. *Janet Galbreath*, bp. 22 Dec 1825[^janet-birth]
 8. *Neil Galbreath*, bp. 19 Feb 1829[^neil2-birth]
 
