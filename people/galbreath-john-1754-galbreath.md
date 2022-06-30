@@ -13,7 +13,6 @@ Children of John and Agnes Galbreath:[^children]
 1. *Mary Galbreath*, bp. 5 Dec 1782[^mary-birth], m. *Archibald Huie* 1811
 2. *David Galbreath*, bp. 3 Feb 1784[^david-birth]
 3. *Jean Galbreath*, bp.23 Oct 1785[^jean-birth]
- https://github.com/npg70/galbreath/blob/main/sources/opr-campbeltown-births.md#1785-10-23-jean-galbreath
 4. *Martha Galbreath*, bp. 25 Jan 1790[^martha-birth], m. *Archibald MacConachy* 1815
 5. *Archibald Galbreath*, bp. 9 Feb 1793[^archibald-birth]
 
@@ -21,9 +20,9 @@ Children of John and Agnes Galbreath:[^children]
 
 [^mary-birth]: OPR Campbeltown, Baptism of [Mary Galbreath](/sources/opr-campbeltown-births.md#1782-05-12-mary-galbreath)
 
-[^david-birth]: OPR Campbeltown, Baptism of [David Galbreath](/sources/opr-campbeltown-births.md#1784-02-03-david-galbreath), father listed as "town officier"
+[^david-birth]: OPR Campbeltown, Baptism of [David Galbreath](/sources/opr-campbeltown-births.md#1784-02-03-david-galbreath), father listed as "town officer"
 
-[^jean-birth]: OPR Campbeltown, Baptism of [Jean Galbraith](/sources/opr-campbeltown-births.md#1785-10-23-jean-galbreath), father listed as town officiwe
+[^jean-birth]: OPR Campbeltown, Baptism of [Jean Galbraith](/sources/opr-campbeltown-births.md#1785-10-23-jean-galbreath), father listed as town officer
 
 [^martha-birth]: OPR Campbeltown, Baptism of [Martha Galbreath](/sources/opr-campbeltown-births.md#1790-01-25-martha-galbreath), father listed as "sherif officer"
 
