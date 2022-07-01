@@ -1,8 +1,12 @@
 ---
 title: John Galbreath b. 1821 m. Margaret Cook
-familysearch: https://www.familysearch.org/tree/person/details/LZ62-KLL)
+familysearch: https://www.familysearch.org/tree/person/details/LZ62-KLL
+findagrave: https://www.findagrave.com/memorial/172200102/john-galbraith
 ---
-***John Galbreath***, son of  [Archibald Galbreath](galbreath-archibald-1798.md) and *Margaret McMillan*, baptized at Campbeltown 2 Feb 1821.[^birth], and died at Shore Cottages, Carradale, Saddell on 7 Dec 1902.[^death] He married at Campbeltown 1 Sep 1840 to **Margaret Cook**,[^marriage] born abt 1821, the daughter of *John Cook* and *Mary Taylor* both of St Quivox and Newton-on-Ayr, Ayrshire, Scotland.  She died at Saddell, Argyll on 6 Nov 1888.
+***John Galbreath***, son of  [Archibald Galbreath](galbreath-archibald-1798.md) and *Margaret McMillan*, baptized at Campbeltown 2 Feb 1821.[^birth], and died at Shore Cottages, Carradale, Saddell on 7 Dec 1902[^death], and burried at Brackley Wood Burial Ground,
+Carradale.[^burial]
+
+He married at Campbeltown 1 Sep 1840 to **Margaret Cook**,[^marriage] born abt 1821, the daughter of *John Cook* and *Mary Taylor* both of St Quivox and Newton-on-Ayr, Ayrshire, Scotland.  She died at Saddell, Argyll on 6 Nov 1888.
 
 He was a fisherman.[^death][^alexander-birth][^archibald-birth][^census1851]
 
@@ -22,6 +26,8 @@ Children of John and Margaret (Cook) Galbreath:[^oprchildren]
 [^birth]: OPR Campbeltown, baptism of [John Galbreath](/sources/opr-campbeltown-births.md#1821-02-02-john-galbreath)
 
 [^death]: 1902 GALBRAITH, JOHN (Statutory registers Deaths 531/1 14) on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/5474329).  Listed as a fisherman, as is his father.  A son was present, perhaps John (nearly illegible).
+
+[^burial]: Find a Grave, database and images (https://www.findagrave.com/memorial/172200102/john-galbraith : accessed 01 July 2022), memorial page for John Galbraith (unknown–1902), Find a Grave Memorial ID 172200102, citing Brackley Wood Burial Ground, Carradale, Argyll and Bute, Scotland ; Maintained by Pixturmn (contributor 47729036) .
 
 [^marriage]: OPR Marriage on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=M&record_type%5B0%5D=opr_marriages&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-banns-marriages&surname=galbreath&surname_so=exact&forename_so=starts&sex=M&spouse_name=cook&spouse_name_so=exact&from_year=1840&to_year=1840&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
 
