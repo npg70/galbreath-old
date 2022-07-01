@@ -10,7 +10,7 @@ He was a mason / journeyman.[^marriage-glass][^death].
 
 Children of William and Grace (Glass) Galbraith, all born or baptized in Campbeltown:
 
-1. *William Galbraith*, bp. 2 Mar 1846[^william-birth], marriage 1869 to helen campbell https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/7464417?return_row=6
+1. *W[illiam Galbraith](galbraith-william-1846-campbell.md)*, bp. 2 Mar 1846[^william-birth], m.*Helen Campbell*   marriage 1869 to helen campbell https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/7464417?return_row=6
 3. *Agnes Galbraith*, bp. 28 Aug 1848[^agnes-birth], m. *John O'Hara*, seaman; d. 23 Oct 1879[^agnes-death]
 4. *Jean Cameron Galbraith*, bp. 6 Dec 1852[^jean-birth]
 5. *Alexander Galbraith*, b. 21 Dec 1855[^alexander-birth]
