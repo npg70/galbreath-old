@@ -11,7 +11,7 @@ His occupation was in the distilling industry.[^census1871][^census1881][^census
 Children of Archibald and Agnes (O'May) Galbraith:
 
 1. *[William Galbraith](galbraith-william-1870.md)*, b. 5 Apr 1870[^william-birth]
-2. *John Galbraith*, b. 4 Dec 1871[^john-birth]
+2. *[John "China" Galbraith]*, b. 4 Dec 1871[^john-birth]
 3. *Mary Galbraith*, b. 16 Jan 1874
 4. *Archibald Galbreath*, b. 1 Apr 1881,[^archibald-birth] d. 1881[^archibald-death]
 5. *Agnes Leoran Galbraith*, b. 10 Jan 1883[^agnesleoran]
