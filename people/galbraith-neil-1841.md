@@ -2,7 +2,7 @@
 title: Neil Galbraith b. 1841 m. Margaret Stewart
 familysearch: https://www.familysearch.org/tree/person/details/K4FX-X7P
 ---
-***Neil Galbraith***, son of [John Galbreath](/people/galbreath-john-1821.md) and Margaret Cook, was born 18 Aug 1841 and baptized 30 Dec 1841 in Campbeltown.[^birth] He died in 21 Apr 1879 due to a drowning accident near Saddell.[^death][^death1][^death2]
+***Neil Galbraith***, son of [John Galbreath](/people/galbreath-john-1821.md) and Margaret Cook, was born 18 Aug 1841 and baptized 30 Dec 1841 in Campbeltown.[^birth] He died in 21 Apr 1873 due to a drowning accident near Saddell.[^death][^death1][^death2]
 
 He married as a in Glasgow 31 Dec 1861 to **Margaret Stewart**, daughter of John Stewart and Agnes Martin(?).
 
