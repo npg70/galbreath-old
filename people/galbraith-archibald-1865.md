@@ -2,7 +2,7 @@
 title: Archibald Galbraith b. 1865 m. Isabella McKay
 findagrave: https://www.findagrave.com/memorial/179781210/alexander-galbraith
 ---
-***Archibald Galbraith***, son of [Daniel/Donald Galbraith](galbraith-donald-1831-isabella-mcdermid.md) and Isabella McDermid,
+***Archibald Galbraith***, son of *[Daniel/Donald Galbraith](galbraith-donald-1831-isabella-mcdermid.md)* and *Isabella McDermid*,
 was born Campbeltown 1 July 1865[^birth],
 and died 1928.
 
