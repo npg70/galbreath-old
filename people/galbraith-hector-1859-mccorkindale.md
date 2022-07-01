@@ -3,7 +3,7 @@ title: Hector Galbraith b. 1859 m. Mary McCorkindale
 familysearch: https://www.familysearch.org/tree/person/details/M1YJ-SDV
 findagrave: https://www.findagrave.com/memorial/179783783/hector-galbraith
 ---
-***Hector Galbraith***, son of *[Hugh Galbraith](galbraith-hugh-1823-mcnair.md)* and *Catharine McNair*,
+***Hector Galbraith***, son of *[Hugh Galbraith](galbreath-hugh-1823-mcnair.md)* and *Catharine McNair*,
 was born at Campbeltown 7 Nov 1859.  He died 18 Nov 1921.
 
 He married 27 Nov 1885 to **Mary McCorkindale**.
