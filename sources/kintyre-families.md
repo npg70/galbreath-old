@@ -5,17 +5,17 @@ author: Angus Martin
 publisher: TBD
 ---
 
-* Hector Galbraith, d. 1921 age 62
-* John Galbraith, m. More LcLean
+* [Hector Galbraith](/people/galbraith-hector-1859-mccorkindale.md), d. 1921 age 62
+* [John Galbraith](/people/galbreath-john-1760.md), m. More LcLean
 * Hugh Galbratih, d. 1947, m. Agnes Barbour.
 * John Kenneth G-, b 1908, d. 2006
 * Lachlan G,   TBD
 * Edward G, d. 1933, age 77, m. Mary Mclarty 1883, son of John shoemaker, Mary McGeachy
-* David Stewart G
-* Flora Campbell G - 
+* [David Stewart G-](/people/galbraith-david-stewart-1782.md)
+* [Flora Campbell G-](/people/galbraith-flora-1821.md) 
 * Hugh G-, father was Francis Kennedy
-* William Campbell G (1870-1946)
-* William G, d. 1926 age 80 (father of above)
+* [William Campbell G]() (1870-1946)
+* [William G](/people/galbraith-william-1846-campbell.md), d. 1926 age 80 (father of above)
 * Samuel G, d. 1860
 * David G, his father
 * Rev. Angus G 1837-1909, son of Donald and Janet McQuilkan
