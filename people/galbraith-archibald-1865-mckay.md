@@ -14,6 +14,10 @@ Isabella birth on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-re
 
 1871 with whole family: https://www.findmypast.com/transcript?id=GBC/1871/0023444161&expand=true  as "Daniel", 1833.  Isabella in campbelotwn born about 1840
 
+Children of Archibald and Isabella (McKay) Galbraith:
+
+1. *Peter Galbraith*, b. 1904
+
 [^birth]: Statuatory Records of Campbeltown, Argyll; 1865 GALBRAITH, ARCHIBALD (Statutory registers Births 507/ 143); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/39836164).
 
 [^death]: 1928 GALBRAITH, ARCHIBALD (Statutory registers Deaths 507/ 30); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/8122346)
