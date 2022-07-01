@@ -99,7 +99,7 @@ Likely living relatives.
 
 ## Archibald Galbraith b. 1865 / Margaret Robertson
 
-Found this by accident, [Archibald Galbraith](/people/galbraith-archibald-1865.md) buried at Kilkerran graveyard.
+Found this by accident, [Archibald Galbraith](/people/galbreath-archibald-1865-robertson.md) buried at Kilkerran graveyard.
 
 Need cleanup.
 
