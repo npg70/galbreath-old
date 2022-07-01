@@ -33,7 +33,7 @@ publisher: TBD
 * [Archibald Galbraith](/people/galbraith-archibald-1865-mckay.md), d. 1928,age 62, m. Isabella McKay
 * [John G-](/people/galbreath-john-1821.md), 1821-1902, m. Margaret Cook.  "most of john jr's family emigrated to Canada  ***check***
 * [Archibald "Sandy" Galbraith](/people/galbraith-alexander-1854.md), (brother), (1854-1912), m. Mary Campbell ***I have alexander***
-* Neil G, d. 1873 drowning, m. Martha Stewart
+* [Neil G-](/people/galbraith-neil-1841.md), d. 1873 drowning, m. Martha Stewart
 * John G (father), m. Margaret Cook
 * Archibald G- and Margaret McMillian
 * [Martha G-](/people/galbraith-martha-1867-mcbain.md) (daughter), mother of footballer Neil McBain
