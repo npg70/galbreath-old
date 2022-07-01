@@ -1,5 +1,6 @@
 ---
 title: Archibald Galbraith b. 1865 m. Isabella McKay
+findagrave: https://www.findagrave.com/memorial/179352175/archibald-galbraith
 ---
 ***Archibald Galbraith***, son of *[Daniel/Donald Galbraith](galbraith-donald-1831-isabella-mcdermid.md)* and *Isabella McDermid*,
 was born Campbeltown 1 July 1865[^birth],
@@ -16,5 +17,7 @@ Isabella birth on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-re
 [^birth]: Statuatory Records of Campbeltown, Argyll; 1865 GALBRAITH, ARCHIBALD (Statutory registers Births 507/ 143); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/39836164).
 
 [^death]: 1928 GALBRAITH, ARCHIBALD (Statutory registers Deaths 507/ 30); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/8122346)
+
+[^burial]: Find a Grave, database and images (https://www.findagrave.com/memorial/179352175/archibald-galbraith : accessed 30 June 2022), memorial page for Archibald Galbraith (1866–25 Mar 1928), Find a Grave Memorial ID 179352175, citing Kilkerran Cemetery, Campbeltown, Argyll and Bute, Scotland ; Maintained by Pixturmn (contributor 47729036) .
 
 [^isabella-marriage]: [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/13550822)
