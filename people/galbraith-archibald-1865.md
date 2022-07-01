@@ -4,7 +4,7 @@ findagrave: https://www.findagrave.com/memorial/179781210/alexander-galbraith
 ---
 ***Archibald Galbraith***, son of *[Daniel/Donald Galbraith](galbraith-donald-1831-isabella-mcdermid.md)* and *Isabella McDermid*,
 was born Campbeltown 1 July 1865[^birth],
-and died 1928.
+and died 25 Mar 1928.[^death]
 
 He married at Campbeltown 1888 to *Isabella McKay*[^isabella-marriage]
 
@@ -19,6 +19,8 @@ He married at Greenock on 15 Jul 1809[^marriage] to **Margaret Robertson**, died
 
 
 [^birth]: Statuatory Records of Campbeltown, Argyll; 1865 GALBRAITH, ARCHIBALD (Statutory registers Births 507/ 143); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/39836164).
+
+[^death]: 1928 GALBRAITH, ARCHIBALD (Statutory registers Deaths 507/ 30); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/8122346)
 
 [^burial]: FindAGrave is misindexed and says the name is "Alexander".  Find a Grave, database and images (https://www.findagrave.com/memorial/179781210/alexander-galbraith : accessed 11 January 2022), memorial page for Alexander Galbraith (1864–1949), Find a Grave Memorial ID 179781210, citing Kilkerran Cemetery, Campbeltown, Argyll and Bute, Scotland ; Maintained by Pixturmn (contributor 47729036) .
 
