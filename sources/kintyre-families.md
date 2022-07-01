@@ -28,7 +28,7 @@ publisher: TBD
 * [William Galbraith](/people/galbraith-william-1870.md), m. margaret McMillian
 * [Achibald Galbratih](/people/galbreath-archibald-1842.md), m. Agnes O'May
 * John Galbraith, b. 1871 "China"
-* Jeannie G- whiteinch Glasgow in 1914 was 24y.o.   has many very near relatives in Campbeltown.
+* [Jeannie G](/people/galbraith-jane-1890.md) whiteinch Glasgow in 1914 was 24y.o.   has many very near relatives in Campbeltown.
 * Margaret McCallum G, d. 25 Nov 1931 (burns).  "her adoptive father was Archibald Gillies"
 * [Archibald Galbraith](/people/galbraith-archibald-1865-mckay.md), d. 1928,age 62, m. Isabella McKay
 * [John G-](/people/galbreath-john-1821.md), 1821-1902, m. Margaret Cook.  "most of john jr's family emigrated to Canada  ***check***
