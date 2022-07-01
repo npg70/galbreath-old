@@ -25,9 +25,9 @@ publisher: TBD
 * William (bother), jeweller/watchmaker, d. 1915, age 81
 * John (brother), TBD
 * John G, d. 15 Dec 1908 London
-* William Galbreaith, m. margaret McMillian
-* Achibald Galbrath, m. Agnes O'May
-* John Galbrath, b. 1871 "China"
+* [William Galbraith](/people/galbraith-william-1870.md), m. margaret McMillian
+* [Achibald Galbratih](/people/galbreath-archibald-1842.md), m. Agnes O'May
+* John Galbraith, b. 1871 "China"
 * Jeannie G- whiteinch Glasgow in 1914 was 24y.o.   has many very near relatives in Campbeltown.
 * Margaret McCallum G, d. 25 Nov 1931 (burns).  "her adoptive father was Archibald Gillies"
 * Archibald Galbraith, d. 1928,age 62, m. Isabella McKay
