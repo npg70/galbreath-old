@@ -21,6 +21,7 @@ Family search says he was born NOV 1831, Kilcalmonell And Kilberry, which matche
 
 Children of Donald and Isabella (McDermid) Galbraith:
 
+1. *Jane Galbraith*, b. 1862, m. *Donald Galbraith*
 1. *[Archibald Galbraith](/people/galbraith-archibald-1865-mckay.md)*, b. 1 July 1865, m. *Isabella McKay* 
 
 No doubt many others
