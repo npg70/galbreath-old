@@ -1,0 +1,58 @@
+---
+title: Kintyre Families
+year: TBD
+author: Angus Martin
+publisher: TBD
+---
+
+* Hector Galbraith, d. 1921 age 62
+* John Galbraith, m. More LcLean
+* Hugh Galbratih, d. 1947, m. Agnes Barbour.
+* John Kenneth G-, b 1908, d. 2006
+* Lachlan G,   TBD
+* Edward G, d. 1933, age 77, m. Mary Mclarty 1883, son of John shoemaker, Mary McGeachy
+* David Stewart G
+* Flora Campbell G - 
+* Hugh G-, father was Francis Kennedy
+* William Campbell G (1870-1946)
+* William G, d. 1926 age 80 (father of above)
+* Samuel G, d. 1860
+* David G, his father
+* Rev. Angus G 1837-1909, son of Donald and Janet McQuilkan
+* Rev. Angus G d. 1901 dage 74, son of Angus and Mary McLeod
+* Angus G (father), d. 1836 age 42
+* Daneil Galbreath (brother), b. 1831 d. 1896 m. Jess MacQueen
+* William (bother), jeweller/watchmaker, d. 1915, age 81
+* John (brother), TBD
+* John G, d. 15 Dec 1908 London
+* William Galbreaith, m. margaret McMillian
+* Achibald Galbrath, m. Agnes O'May
+* John Galbrath, b. 1871 "China"
+* Jeannie G- whiteinch Glasgow in 1914 was 24y.o.   has many very near relatives in Campbeltown.
+* Margaret McCallum G, d. 25 Nov 1931 (burns).  "her adoptive father was Archibald Gillies"
+* Archibald Galbraith, d. 1928,age 62, m. Isabella McKay
+* John G, 1821-1902, m. Margaret Cook.  "most of john jr's family emigrated to Canada
+* Archibald "Sandy" Galbraith, (brother), (1854-1912), m. Mary Campbell
+* Neil G, d. 1873 drowning, m. Martha Stewart
+* John G (father), m. Margaret Cook
+* Archibald G and Margaret McMillian
+* Martha G (daughter), mother of footballer Neil McBain
+* John G (son), d. 10 May 1932 jumped from police boat.  m. Isabella McTaggart
+* William Cook G (carradale), (son of Sandy G & Mary Campbell), m. Christina Moss, d. 1969 
+* Neil G-, x. Kilberry, m. Isabella McMillian.
+* Donald G (son), b. 1862 Saddell.  M. Catharine McLarty in 1886 in Campbeltown, moved to Ontario.
+* Donald G, x Gigha, m. Janet Morrison, d. Saddell 1905 age 54
+* Lachlan (son), d. 1861 age 82
+* John G- (brother)
+* Neil (brother), m2. Margaret MOrrison Black 17 Feb 1926, d. age 50 20 Dec 1926
+* Charolette MacMicharl G  "Carol", at 1951 age 21, b. 1930, m. Derick R THomson, d. 2017 (Linn Cemetary Glasgow)
+* Archibald Galbreath (cotton)
+* Andrew Galbraith lord provost of Glasgow
+* John Galbraith (1809-1881)
+* Archibald G (son? ), d. 1916 age 71
+* Elizabeth m. James Nicol Flemming
+* Robert G (my gggfather)
+* Samuel G m. Mary Ellen Reynolds, ANtinuea... born Ugadale in 1856
+* Archibald G, m. Margaret Loynachan.
+* James Galbreath , m. Martha G
+* William G b. Ayrshire, moved to Southend in 1851, and son John got another lease in 1861.
