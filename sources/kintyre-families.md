@@ -34,7 +34,7 @@ publisher: TBD
 * [John G-](/people/galbreath-john-1821.md), 1821-1902, m. Margaret Cook.  "most of john jr's family emigrated to Canada  ***check***
 * [Archibald "Sandy" Galbraith](/people/galbraith-alexander-1854.md), (brother), (1854-1912), m. Mary Campbell ***I have alexander***
 * [Neil G-](/people/galbraith-neil-1841.md), d. 1873 drowning, m. Martha Stewart
-* John G (father), m. Margaret Cook
+* [John G-](/people/galbreath-john-1821.md) (father), m. Margaret Cook
 * Archibald G- and Margaret McMillian
 * [Martha G-](/people/galbraith-martha-1867-mcbain.md) (daughter), mother of footballer Neil McBain
 * John G (son), d. 10 May 1932 jumped from police boat.  m. Isabella McTaggart
