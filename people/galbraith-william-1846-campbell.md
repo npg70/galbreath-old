@@ -9,7 +9,9 @@ He married **Ellen Campbell**
 
 He was a mason, like his father.
 
-Children of William and Ellen (Campbell) Galbraith
+Children of William and Ellen (Campbell) Galbraith:
+
+1. *[William Campbell Galbraith]()*, b. 1870, d. 1946
 
 [^birth]: OPR Campbeltown, baptism of [William Galbraith](/sources/opr-campbeltown-births.md#1846-03-02-william-galbreath)
 
