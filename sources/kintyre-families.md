@@ -25,7 +25,7 @@ publisher: TBD
 * William (bother), jeweller/watchmaker, d. 1915, age 81
 * John (brother), TBD
 * John G, d. 15 Dec 1908 London
-* [William Galbraith](/people/galbraith-william-1870.md), m. margaret McMillian
+* [William Galbraith](/people/galbraith-william-1870-mcmillan.md),murdered his wife Margaret McMillian
 * [Achibald Galbratih](/people/galbreath-archibald-1842.md), m. Agnes O'May
 * John Galbraith, b. 1871 "China"
 * [Jeannie G](/people/galbraith-jane-1890.md) whiteinch Glasgow in 1914 was 24y.o.   has many very near relatives in Campbeltown.
