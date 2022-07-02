@@ -38,6 +38,6 @@ Children of Archibald and Mary (McLean) Galbraith, all baptized in Kilcalmonell 
 
 [^jane-birth]: Statutory records of Campbeltown; 1861 GALBRAITH, JANE (Statutory registers Births 507/ 238); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/39390506)
 
-[^archibald-birth]: Statutory records of Campbeltown; [ScotlandsPeople]
+[^archibald-birth]: Statutory records of Campbeltown; 1865 GALBRAITH, ARCHIBALD (Statutory registers Births 507/ 143); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/39836164)
 
 [^children]:  [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbr&surname_so=starts&forename_so=starts&from_year=1820&to_year=1840&parent_names=archibald%20galbr&parent_names_so=starts&parent_name_two=mclean&parent_name_two_so=fuzzy&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
