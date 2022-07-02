@@ -14,7 +14,7 @@ Note there is another *[Archibald Galbreath](galbreath-archibald-1843-paterson.m
 
 Children of Archibald and Mary (Paterson) Galbraith:
 
-1. *Archibald Galbreath*, b. 21 July 1867[^archibald-birth]
+1. *Archibald Galbreath*, b. 21 July 1867,[^archibald-birth], d. 14 Sep 1955[^archibald-death], m. *Mary Gilchrist* 
 2. *James Paterson Galbraith*, b. 1868
 3. *Samuel Galbraith*, b. 1870
 4. *Edward Gordon Galbraith*, b. 1872
@@ -27,4 +27,6 @@ Children of Archibald and Mary (Paterson) Galbraith:
 
 [^marriage2]: 1881 GALBRAITH, ARCHIBALD (Statutory registers Marriages 507/ 71), [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/10301420)
 
-[^archibald-birth]: [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/40048242?return_row=6)
+[^archibald-birth]: [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/40048242)
+
+[^archibald-death]: 1955 GALBREAITH, ARCHIBALD (Statutory registers Deaths 507/ 60); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/10817652j
