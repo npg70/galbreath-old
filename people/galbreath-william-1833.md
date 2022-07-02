@@ -9,7 +9,7 @@ Married 4 Apr 1851 Islandmagee/Larne, Ireland[^marriage] to **Maria McMurtry**.
 Children of William and Maria (McMurtry) Galbreath:[^children]
 
 1. *Helen Wallace Galbraith*, b. 9 Apr 1864, m. *Donald Bowie*
-2. *William Galbraith*, b. 20 Aug 1866[^william-birth]
+2. *William Galbraith*, b. 20 Aug 1866[^william-birth], d. 3 Sep 1944,[^william-death] m. *Mary Stewart*
 3. *[Thomas McMurchy Galbraith](galbraith-thomas-mcmurchy-1869-mcaullay.md)*, b. 23 Apr 1869[^thomas-birth], m. *Isabella Stewart McAullay*
 4. *David Galbraith*, b. 18 Aug 1871
 5. *Maria Galbraith*, b. 11 Apr 1874 [^m2]
@@ -26,7 +26,9 @@ Larne, Ireland is almost exactly straight south from Campbeltown across the sea.
 
 [^children]: TBD. These are now civil records.
 
-[^william-birth]: Statuatory Records of Campbeltown; 1866 GALBRAITH, WILLIAM (Statutory registers Births 507/ 166); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/39963936)
+[^william-birth]: Statutory Records of Campbeltown; 1866 GALBRAITH, WILLIAM (Statutory registers Births 507/ 166); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/39963936)
+
+[^william-death]: Statutory Records of Campbeltown; 1944 GALBRAITH, WILLIAM (Statutory registers Deaths 507/ 78); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/9730392)
 
 [^thomas-birth]: Statuatory Records of Campbeltown; 1869 GALBRAITH, THOMAS MCMURCHY (Statutory registers Births 507/ 78); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/40319428)
 
