@@ -9,7 +9,7 @@ Married 4 Apr 1851 Islandmagee/Larne, Ireland[^marriage] to **Maria McMurtry**.
 Children of William and Maria (McMurtry) Galbreath:[^children]
 
 1. *Helen Wallace Galbraith*, b. 9 Apr 1864, m. *Donald Bowie*
-2. *William Galbraith*, b. 20 Aug 1866[^william-birth], d. 3 Sep 1944,[^william-death] m. *Mary Stewart*
+2. *William Galbraith*, b. 20 Aug 1866[^william-birth], d. 3 Sep 1944,[^william-death] m. *Mary Stewart McMillan*
 3. *[Thomas McMurchy Galbraith](galbraith-thomas-mcmurchy-1869-mcaullay.md)*, b. 23 Apr 1869[^thomas-birth], m. *Isabella Stewart McAullay*
 4. *David Galbraith*, b. 18 Aug 1871
 5. *Maria Galbraith*, b. 11 Apr 1874 [^m2]
