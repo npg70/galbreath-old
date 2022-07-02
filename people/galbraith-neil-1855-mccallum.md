@@ -9,8 +9,9 @@ He married 24 June 1884 to **Mary McCallum**.[^marriage]
 Children of Neil and Mary (McCallum) Galbraith:
 
 1. *Catherine McNair Galbraith*, b. 1885
-1. *[Hugh Galbraith](galbraith-hugh-1892-barbour.md)*, b. 4 Feb 1892,[^hugh-birth] m. *Agnes Barbour* 
-2. 
+2. *Margaret McNair Galbraith*, b. 1887
+3. *[Hugh Galbraith](galbraith-hugh-1892-barbour.md)*, b. 4 Feb 1892,[^hugh-birth] m. *Agnes Barbour* 
+4. 
 
 [^birth]:
 
