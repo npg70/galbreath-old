@@ -11,8 +11,10 @@ He was a mason, like his father.
 
 Children of William and Ellen (Campbell) Galbraith:
 
-1. *[William Campbell Galbraith]()*, b. 1870, d. 1946
+1. *[William Campbell Galbraith]()*, b. Southend, 11 Feb 1869 "illegitimate";[^william-birth] d. 1946
 
 [^birth]: OPR Campbeltown, baptism of [William Galbraith](/sources/opr-campbeltown-births.md#1846-03-02-william-galbreath)
 
 [^marriage]: marriage 1869 to helen [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/7464417)
+
+[^william-birth]: Statutory records of Southend, Arygll; 1869 GALBRAITH, WILLIAM (Statutory registers Births 532/ 4); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/40327253)
