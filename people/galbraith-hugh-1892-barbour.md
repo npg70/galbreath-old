@@ -10,7 +10,7 @@ He married **Agnes Jane Barbour**.
 Children of Hugh and Agnes (Barbour) Galbraith:
 
 
-[^birth]: 
+[^birth]: Statutory records of Campbeltown; 1892 GALBRAITH, HUGH (Statutory registers Births 507/ 38), [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/43504198)
 
 [^burial]: Find a Grave, database and images (https://www.findagrave.com/memorial/178173122/hugh-galbraith : accessed 01 July 2022), memorial page for Hugh Galbraith (1892–9 May 1947), Find a Grave Memorial ID 178173122, citing Kilkerran Cemetery, Campbeltown, Argyll and Bute, Scotland ; Maintained by Pixturmn (contributor 47729036) .
 
