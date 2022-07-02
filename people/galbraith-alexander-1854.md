@@ -5,7 +5,7 @@ findagrave: https://www.findagrave.com/memorial/172200082/alexander-galbraith
 ---
 ***Alexander Galbraith***, son of [John Galbreath](galbreath-john-1821.md) and *Margaret Cook*, born 25 May 1854 and baptized at Campbeltown 5 Dec 1855.[^birth] He died 29 Mar 1912, Carradale, Argyll, Scotland.[^death]
 
-He married **Mary Campbell**, died 18 Nov 1950.[^death]
+He married [^marriage] **Mary Campbell**, died 18 Nov 1950.[^death]
 
 He was a fisherman.[^census-1891][^margaret-death][^archibald-death]
 
@@ -41,6 +41,8 @@ Children of Alexander and Mary (Campbell) Galbraith:
     Mary Campbell
     Died 18th November 1950
     In Her 92nd Year
+
+[^marriage]: [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/1344069)
 
 [^margaret-death]: Death of Margaret Patteron, Civil Registers of Campbeltown, Argyll, transcribed by [MyAinFolk](https://www.myainfolk.ca/records/18688)
 
