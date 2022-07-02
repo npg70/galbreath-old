@@ -8,6 +8,11 @@ He married 24 June 1884 to **Mary McCallum**.[^marriage]
 
 Children of Neil and Mary (McCallum) Galbraith:
 
+1. *[Hugh Galbraith](galbraith-hugh-1892-barbour.md)*, b. 4 Feb 1892,[^hugh-birth] m. *Agnes Barbour* 
+2. 
+
 [^birth]:
 
 [^marriage]:
+
+[^hugh-birth]: Statutory records of Campbeltown; 1892 GALBRAITH, HUGH (Statutory registers Births 507/ 38), [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/43504198)
