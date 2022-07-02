@@ -6,6 +6,11 @@ born Campbeltown 19 Dec 1861.[^birth]
 
 She married at Campbeltown 27 Sep 1881 to **Donald Galbraith**[^marriage]
 
+parents of donald :  Peter Galbraith b 1823, d. 1878 west Greenock, Christina Niven.  death https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/2044127?return_row=11
+
+22 nov 1847 , row or rhu parish, marriage https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/8088398?image=241&return_row=0
+
+
 Children of Donald and Jane Galbraith:
 
 1. *[Jane "Jeanie" Galbraith](galbraith-jane-1890.md)*, b. Patrick, Lanark 19 June 1890,[^jane-birth], murdered 1914
