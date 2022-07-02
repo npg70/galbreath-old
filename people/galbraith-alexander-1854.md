@@ -17,7 +17,7 @@ Children of Alexander and Mary (Campbell) Galbraith:
 4. *Mary Galbraith*, b. ~1884 Saddell
 5. *John Alexander Galbraith*, b. 1885 Skipness, d. 20 Oct 1960 Glasgow Royal Infirmary, m. *Elizabeth MacDougall*
 6. *[Alexander Galbraith](galbraith-alexander-1887.md)*, b. 19 Mar 1887 Shore Cottages, Carradale, Saddell,[^birth-alexander] m. *Eliza Tina Campbell*
-7. *William Cook Galbraith*, b. ~1888 Skipness, m. *Christina Sarah Moss*
+7. *William Cook Galbraith*, b. 20 Dec 1888 Shore Cottages, Carradale, Saddell,[^william-birth] m. *Christina Sarah Moss*
 8. *Malcolm Galbraith*, b. 1889 Campbeltown, d. 1954
 9. *Annie C Galbraith*, b. ~1891 Saddell, d. 1969, m. *Herbert Laing*
 10. *Jamesina Galbraith*, b. 1893 Saddell
@@ -49,6 +49,8 @@ Children of Alexander and Mary (Campbell) Galbraith:
 [^archibald-death]: 1905 GALBRAITH, ARCHIBALD (Statutory registers Deaths 531/1 4), [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/5837556).
 
 [^census-1891]: UK Census of 1891, Household of Alexr Galbraith, [FamilySearch](https://www.familysearch.org/ark:/61903/1:1:KSFB-HYH)
+
+[^william-birth]: Statutory records of Saddell, Argyll; 1888 GALBRAITH, WILLIAM COOK (Statutory registers Births 531/1 26); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/42880816)
 
 [^birth-alexander]: Statutory registers Births 531/1 3, Saddel, Argyll, birth of Alexander Galbraith, on [ScotlandPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/42705294)
 
