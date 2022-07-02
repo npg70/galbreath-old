@@ -38,7 +38,7 @@ publisher: TBD
 * [Archibald G-](/people/galbreath-archibald-1798.md) and Margaret McMillian
 * [Martha G-](/people/galbraith-martha-1867-mcbain.md) (daughter), mother of footballer Neil McBain
 * John G (son), d. 10 May 1932 jumped from police boat.  m. Isabella McTaggart
-* William Cook G (carradale), (son of Sandy G & Mary Campbell), m. Christina Moss, d. 1969 
+* [William Cook G](/people/galbraith-william-cook-1888-moss.md) (carradale), (son of Sandy G & Mary Campbell), m. Christina Moss, d. 1969 
 * Neil G-, x. Kilberry, m. Isabella McMillian.
 * Donald G (son), b. 1862 Saddell.  M. Catharine McLarty in 1886 in Campbeltown, moved to Ontario.
 * Donald G, x Gigha, m. Janet Morrison, d. Saddell 1905 age 54
