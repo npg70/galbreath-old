@@ -54,5 +54,5 @@ publisher: TBD
 * [Robert G-](/people/galbreath-robert-1778.md) immigrated to America in 1818
 * Samuel G m. Mary Ellen Reynolds, Antigua... born Ugadale in 1856
 * [Archibald G-](/people/galbreath-archibald-1803.md), m. Margaret Loynachan.
-* James Galbreath , m. Martha G
+* [James Galbreath](/people/galbreath-james-abt-1775.md), m. Martha G
 * William G b. Ayrshire, moved to Southend in 1851, and son John got another lease in 1861.
