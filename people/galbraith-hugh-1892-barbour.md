@@ -4,7 +4,7 @@ familysearch: https://www.familysearch.org/tree/person/details/G4BT-Y62
 findagrave: https://www.findagrave.com/memorial/178173122/hugh-galbraith
 ---
 ***Hugh Galbraith***, son of *[Neil Galbraith](galbraith-neil-1855-mccallum.md)* and *Mary McCallum*m
-born Campbeltown 4 Feb 1892[^birth], died Hillhead, Glasgow 9 May 1947[^death], and buried at Kilkerran Cemetary[^burial]
+born Campbeltown 4 Feb 1892[^birth], died Hillhead, Glasgow 9 May 1947,[^death] and buried at Kilkerran Cemetary[^burial]
 
 He married **Agnes Jane Barbour**.
 
