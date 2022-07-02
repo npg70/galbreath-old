@@ -5,8 +5,8 @@ author: Angus Martin
 publisher: TBD
 ---
 
-* [Hector Galbraith](/people/galbraith-hector-1859-mccorkindale.md), d. 1921 age 62
-* [John Galbraith](/people/galbreath-john-1760.md), m. More LcLean
+* [Hector Galbraith](/people/galbraith-hector-1859-mccorkindale.md), d. 1921 age 62, m. Mary Corkindale
+* [John Galbraith](/people/galbreath-john-1760.md), m. More McLean
 * Hugh Galbratih, d. 1947, m. Agnes Barbour.
 * John Kenneth G-, b 1908, d. 2006
 * Lachlan G,   TBD
