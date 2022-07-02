@@ -14,7 +14,7 @@ Note there is another *[Archibald Galbreath](galbreath-archibald-1843-paterson.m
 
 Children of Archibald and Mary (Paterson) Galbraith:
 
-1. *Archibald Galbreath*, b. 21 July 1867,[^archibald-birth], d. 14 Sep 1955[^archibald-death], m. *Mary Gilchrist* 
+1. *Archibald Galbreath*, b. 21 July 1867,[^archibald-birth] d. 14 Sep 1955[^archibald-death], m. *Mary Gilchrist* 
 2. *James Paterson Galbraith*, b. 1868
 3. *Samuel Galbraith*, b. 1870
 4. *Edward Gordon Galbraith*, b. 1872
