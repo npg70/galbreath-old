@@ -51,7 +51,7 @@ Leafs:
 
 [John Galbreath](/people/galbreath-john-1815.md) was born around 1814 in Clachan / Kilcalmonel and moved to Campbeltown and started a family with Mary McTaggart. However no good records seem to confirm his birth.
 
-* [William Galbraith](/people/galbraith-william-1870.md) murdered his wife
+* [William Galbraith](/people/galbraith-william-1870-mcmillan.md) murdered his wife
 
 ## David Galbreath b. 1684 / Isabella Watson
 
