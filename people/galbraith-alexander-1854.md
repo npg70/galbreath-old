@@ -5,7 +5,7 @@ findagrave: https://www.findagrave.com/memorial/172200082/alexander-galbraith
 ---
 ***Alexander Galbraith***, son of [John Galbreath](galbreath-john-1821.md) and *Margaret Cook*, born 25 May 1854 and baptized at Campbeltown 5 Dec 1855.[^birth] He died 29 Mar 1912, Carradale, Argyll, Scotland.[^death]
 
-He married [^marriage] **Mary Campbell**, died 18 Nov 1950.[^death]
+He married  at Saddell 18 Oct 1877 [^marriage] **Mary Campbell**, died 18 Nov 1950.[^death]
 
 He was a fisherman.[^census-1891][^margaret-death][^archibald-death]
 
