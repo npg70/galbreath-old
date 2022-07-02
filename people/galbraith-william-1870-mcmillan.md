@@ -4,7 +4,7 @@ familysearch: https://www.familysearch.org/tree/person/details/M1YM-JW4
 ---
 ***William Galbraith***, son of *[Archibald Galbreath](/people/galbreath-archibald-1842.md)* and *Agnes O'May*, born Campbeltown at 5 April 1870[^birth].  
 
-He married at Campbeltown 5 Dec 1892[^marriage] to *Margaret McMillan*, daughter of Malcolm McMilland and Agnes(?) McGreachy.
+He married at Campbeltown 5 Dec 1892[^marriage] to *Margaret McMillan*, daughter of Malcolm McMillan and Agnes(?) McGreachy.
 
 Placeholders for another day:
 
