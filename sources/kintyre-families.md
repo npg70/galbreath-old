@@ -27,7 +27,7 @@ publisher: TBD
 * John G, d. 15 Dec 1908 London
 * [William Galbraith](/people/galbraith-william-1870-mcmillan.md),murdered his wife Margaret McMillian
 * [Achibald Galbratih](/people/galbreath-archibald-1842.md), m. Agnes O'May
-* John Galbraith, b. 1871 "China"
+* [John Galbraith](/people//galbraith-john-china-1871.md), b. 1871 "China"
 * [Jeannie G](/people/galbraith-jane-1890.md) whiteinch Glasgow in 1914 was 24y.o.   has many very near relatives in Campbeltown.
 * [Margaret McCallum G-](/people/galbraith-margaret-1916.md), d. 25 Nov 1931 (burns), age 15.  "her adoptive father was Archibald Gillies"
 * [Archibald Galbraith](/people/galbraith-archibald-1865-mckay.md), d. 1928,age 62, m. Isabella McKay
