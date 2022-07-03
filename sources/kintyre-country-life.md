@@ -14,7 +14,7 @@ Index:
 
 "Lifting the crop"
 
-John 'China' Galbraith was a piper.  Other references to Armour and McNair that might be related.
+[John 'China' Galbraith](/galbraith-john-china-1871.md) was a piper.  Other references to Armour and McNair that might be related.
 
 ## Pages 174-175
 
