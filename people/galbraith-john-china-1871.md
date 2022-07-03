@@ -1,5 +1,6 @@
 ---
 title: John "China" Galbraith, b. 1871
+familysearch: https://www.familysearch.org/tree/person/details/M1TN-R4L
 ---
 ***John "China" Galbraith***, son of *[Archibald Galbraith](galbreath-archibald-1842.md)* and *Agnes O'May*,
 He died Campbeltown 5 Mar 1956[^death].
