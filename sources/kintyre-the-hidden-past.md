@@ -28,7 +28,7 @@ publisher: The Grimsay Press
 ## Page 195
 
 > in the early years of the present centures [1900s]...
-> with piper 'China' (John Galbraith)
+> with piper ['China' (John Galbraith)](/people/galbraith-john-china-1871.md)
 
 ## Page 210
 
