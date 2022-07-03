@@ -7,6 +7,9 @@ She died in a fire 25 Nov 1931.[^death]
 
 Her birth record has "McMillan/McCallum" written in, while her death record is index with "McMill."
 
+She has a twin sister, Jeanie!!
+
+
 Her adoptive father is *Archibald Gillies*.
 
 
