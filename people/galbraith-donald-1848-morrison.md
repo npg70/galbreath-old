@@ -2,7 +2,7 @@
 title: Donald Galbraith b. 1848 m. Janet Morrison
 familysearch:
 ---
-***Donald Galbraith**, son of *Neil Galbraith* and *Flora McDonald*, was born at Gigha 15 Aug 1848.
+***Donald Galbraith***, son of *Neil Galbraith* and *Flora McDonald*, was born at Gigha 15 Aug 1848.
 
 He died at "Ferry House," Saddell 22 Jan 1904.[^death]
 
