@@ -9,7 +9,7 @@ He married as a in Glasgow 31 Dec 1861 to **Margaret Stewart**, daughter of John
 Children of Neil and Margaret (Stewart) Galbraith:
 
 1. *Agnes Galbreath*, b. Saddell 23 Jan 1863 
-2. *[John Galbraith](galbraith-john-1864-*, b. Saddell, 19 Nov 1864[^john-birth]
+2. *[John Galbraith](galbraith-john-1864-mctaggart.md)*, b. Saddell, 19 Nov 1864[^john-birth]
 3. *[Martha Galbraith](galbraith-martha-1867-mcbain.md)*, b. Saddell, 25 March 1867, m. *Robert McBain*
 4. *Neil Galbraith*, b. Campbeltown 23 May 1869
 5. *Margaret Galbraith*, b. Campbeltown 28 Oct 1871
