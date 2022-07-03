@@ -24,7 +24,7 @@ Children of John and Helen (Carnis) Galbraith:
 10. Alice Cairns Galbraith, b. 1892
 11. John Cairns, b. 19 May 1894 Saddell, d. Mar 1959, Montreal, Quebec, Canada
 
-[^john]: OPR Campbeltown, baptism of [John Galbreath](/sources/opr-campbeltown-births.md#1848-10-18-john-galbreath)
+[^birth]: OPR Campbeltown, baptism of [John Galbreath](/sources/opr-campbeltown-births.md#1848-10-18-john-galbreath)
 
 [^death]: Statutory records of Saddell; 1913 GALBRAITH, JOHN (Statutory registers Deaths 531/1 10); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/6546312)
 
