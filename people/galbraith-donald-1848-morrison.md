@@ -6,6 +6,8 @@ familysearch: https://www.familysearch.org/tree/person/details/9M93-9S4
 
 He died at "Ferry House," Saddell 22 Jan 1904.[^death]
 
+He married **Janet Morrison**.
+
 Children of Donald and Janet (Morrison) Galbraith, all born in Saddell:
 
 1. *John Galbraith*, b. 18 May 1871[^john-birth]
