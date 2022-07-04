@@ -1,11 +1,14 @@
 ---
 title: Neil Galbraith b. 1875 m1. McCallum m2. Margaret Morrison Black
+familysearch: 
 ---
 ***Neil Galbraith***, son of *[Donald Galbraith](galbraith-donald-1848-morrison.md)* and *Janet Morrison*, was born at Saddell 6? Jan 1875.[^birth] He died at Campbeltown on 22 Dec 1926.[^death]
 
 He married first at Campbeltown 15 Apr 1900[^jeanie-marriage] **Jeanie McCallum**, a domestic servant.
 
 He married second at Campbeltown 17 Feb 1926[^margaret-marriage] **Margaret Morrison Black**, a stewardess, daughter of James Black fisherman, and Agnes McMurchy.
+
+Children unknown.
 
 [^birth]: Statutory records of Saddell; 1875 GALBRAITH, NEIL (Statutory registers Births 531/1 1); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/41041796)
 
