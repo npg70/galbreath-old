@@ -1,8 +1,7 @@
 ---
 title: Neil Galbraith b. 1875 m1. McCallum m2. Margaret Morrison Black
 ---
-***Neil Galbraith***, son of *[Donald Galbraith](galbraith-donald-1848-morrison.md)* and *Janet Morrison*, was born at Saddell 6? Jan 1875.
-He died at Campbeltown on 22 Dec 1926.[^death]
+***Neil Galbraith***, son of *[Donald Galbraith](galbraith-donald-1848-morrison.md)* and *Janet Morrison*, was born at Saddell 6? Jan 1875.[^birth] He died at Campbeltown on 22 Dec 1926.[^death]
 
 He married first **Jeanie McCallum**.
 
