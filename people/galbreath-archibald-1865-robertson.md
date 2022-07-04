@@ -9,7 +9,7 @@ He married at Greenock on 15 Jul 1809[^marriage] to **Margaret Robertson**, died
 
 [^birth]: 1865 GALBREATH, ARCHIBALD (Statutory registers Births 519/ 8); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/39834730)
 
- [^death]: tbd
+[^death]: Statutory records of Campbeltown; 1949 GALBRAITH, ARCHIBALD (Statutory registers Deaths 507/ 101); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/10235509)
 
 [^marriage]: tbd
 
