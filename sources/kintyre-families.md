@@ -22,7 +22,7 @@ publisher: TBD
 * Rev. Angus G d. 1901 age 74,
 * [Angus G-](/people/galbraith-angus-1784-mcleod.md) (father), d. 1836 age 42, m. Mary McLeod
 * Daneil Galbreath (brother), b. 1831 d. 1896 m. Jess MacQueen
-* William (bother), jeweller/watchmaker, d. 1915, age 81
+* [William G-](/people/galbraith-william-1833.md) (bother), jeweller/watchmaker, d. 1915, age 81
 * John (brother), TBD
 * John G, d. 15 Dec 1908 London
 * [William Galbraith](/people/galbraith-william-1870-mcmillan.md),murdered his wife Margaret McMillian
