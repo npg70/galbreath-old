@@ -1,6 +1,6 @@
 ---
 title: William Galbraith b. 1833  watchmaker
-familysearch: 
+familysearch: https://www.familysearch.org/tree/person/details/M1YG-2BZ
 findagrave: https://www.findagrave.com/memorial/179310292/william-galbraith
 ---
 ***William Galbraith***, son of *[Angus Galbraith](galbraith-angus-1784-mcleod.md)* and *Mary McLeod*,
