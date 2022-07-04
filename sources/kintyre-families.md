@@ -44,7 +44,7 @@ publisher: TBD
 * [Donald G-](/people//galbraith-donald-1848-morrison.md), from Gigha, m. Janet Morrison, d. Saddell 1905 age 54
 * [Lachlan G-](/people/galbraith-lachlan-1878.md) (son), d. 1961 age 82, ferryman.
 * John G- (brother)
-* Neil G- (brother), m2. Margaret Morrison Black 17 Feb 1926, d. age 50 20 Dec 1926
+* [Neil G-](/people/galbraith-neil-1875-mccallum-black.md) (brother), m2. Margaret Morrison Black 17 Feb 1926, d. age 50 20 Dec 1926
 * Charolette MacMicharl G  "Carol", at 1951 age 21, b. 1930, m. Derick R Thomson, d. 2017 (Linn Cemetary Glasgow)
 * [Archibald Galbreath](/people/galbraith-archibald-1807.md) (cotton)
 * [Andrew Galbraith](/people/galbraith-andrew-1799.md) lord provost of Glasgow
