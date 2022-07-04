@@ -1,6 +1,6 @@
 ---
 title: Donald Galbraith b. 1848 m. Janet Morrison
-familysearch:
+familysearch: https://www.familysearch.org/tree/person/details/9M93-9S4
 ---
 ***Donald Galbraith***, son of *Neil Galbraith* and *Flora McDonald*, was born at Gigha 15 Aug 1848.
 
