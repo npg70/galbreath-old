@@ -9,7 +9,7 @@ He married at Edinburgh 22 Dec 1876[^marriage] to **Jemina Sutherland**.
 Children of Angus and Jemina (Sutherland) Galbraith, both in Inverness:
 
 1. *James John Galbraith*, b. 6 Nov 1877[^jj-birth]
-2. *Alexander Sutherland Galbraith*, 6 Jan 1879[^as-birth]
+2. *Alexander Sutherland Galbraith*, b. 6 Jan 1879[^as-birth]
 
 [^birth]: 31/12/1837 GALBRAITH, ANGUS (Old Parish Registers Births 531/ 20 30 Saddell and Skipness) Page 30 of 94; [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/801?image=30)
 
