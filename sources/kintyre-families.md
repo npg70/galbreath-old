@@ -19,7 +19,7 @@ publisher: TBD
 * [Samuel G-](/people/galbraith-samuel-1827.md), d. 1860
 * [David G-](/people/galbreath-david-1797.md), his father
 * Rev. Angus G 1837-1909, son of Donald and Janet McQuilkan
-* Rev. Angus G d. 1901 age 74,
+* [Rev. Angus G-](/people/galbraith-angus-1827-smith.md) d. 1901 age 74,
 * [Angus G-](/people/galbraith-angus-1784-mcleod.md) (father), d. 1836 age 42, m. Mary McLeod
 * Daneil Galbreath (brother), b. 1831 d. 1896 m. Jess MacQueen
 * [William G-](/people/galbraith-william-1833.md) (bother), jeweller/watchmaker, d. 1915, age 81
