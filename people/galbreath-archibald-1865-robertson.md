@@ -2,7 +2,7 @@
 title: Archibald Galbreath b. 1865 m. Margaret Robertson
 findagrave: https://www.findagrave.com/memorial/179781210/alexander-galbraith
 ---
-***Archibald Galbraith***, xxx, born at Killean & Kilkenzie  17 Jan 1865. He died 27 Nov 1949[^death], and burried at Kilkerran.[^burial]
+***Archibald Galbraith***, son of *Archibald Galbraith* (shoemaker) and *Elizabeth McMillan*, born at Killean & Kilkenzie  17 Jan 1865.[^birth] He died 27 Nov 1949[^death], and burried at Kilkerran.[^burial]
 
 He married at Greenock on 15 Jul 1809[^marriage] to **Margaret Robertson**, died 22 Apr 1950.[^burial]
 
