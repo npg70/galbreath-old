@@ -1,9 +1,7 @@
 ---
 title: Neil Galbraith b. 1828 m. Isabella McMillan
 ---
-***Neil Galbraith***, son of *John Galbraith* and *Mary Sinclair*, born at Kilbery ~1818.
-
-He died 23 Mar 1874.[^death]
+***Neil Galbraith***, son of *John Galbraith* and *Mary Sinclair*, born at Kilbery ~1818.  He died at Saddell 23 Mar 1874.[^death]
 
 Parents are unclear.  The marriage record sure looks like "Mary Sinclar", however that Mary did't have a Neil as a son, while Mary McPhail did.
 
