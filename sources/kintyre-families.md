@@ -52,7 +52,7 @@ publisher: TBD
 * Archibald G- (son of John above), d. 1916 age 71
 * [Elizabeth G-](/people/galbraith-elizabeth-1841.md), m. James Nicol Flemming
 * [Robert G-](/people/galbreath-robert-1778.md) immigrated to America in 1818
-* Samuel G m. Mary Ellen Reynolds, Antigua... born Ugadale in 1856
+* [Samuel G-](/people/galbraith-samuel-1850-reynolds.md) m. Mary Ellen Reynolds, Antigua... born Ugadale in 1856
 * [Archibald G-](/people/galbreath-archibald-1803.md), m. Margaret Loynachan.
 * [James Galbreath](/people/galbreath-james-abt-1775.md), m. Martha G
 * William G b. Ayrshire, moved to Southend in 1851, and son John got another lease in 1861.
