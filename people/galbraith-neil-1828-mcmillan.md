@@ -46,3 +46,4 @@ Children of Neil and Isabella (McMillan) Galbraith:
 
 Mary died at Tarbert 30 Jan 1885.[^mary-death]
 
+n
