@@ -22,9 +22,13 @@ All children of John and Mary: [ScotlandsPeople](https://www.scotlandspeople.gov
 
 Mary died at Tarbert 30 Jan 1885.[^mary-death]
 
+He married at Saddell 6 Feb 1856[^marriage] to **Isabella McMillan**.
+
 Children of Neil and Isabella (McMillan) Galbraith:
 
 1. *[Donald Galbraith](galbraith-donald-1862-mclarty.md)*, b. 1862 m. *Catharine McLarty*
 
 
 [^mary-death]: Statutory records of Tarbert; 1885 GALBRAITH, MARY (Statutory registers Deaths 535/ 3); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/2809851)  Widow of Donald Galbraith farmer, Donald (son) present.
+
+[^marriage]: Statutory records of Saddell; 1856 GALBRAITH, NIEL (Statutory registers Marriages 531/1 1); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/8330817)
