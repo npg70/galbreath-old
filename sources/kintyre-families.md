@@ -39,7 +39,7 @@ publisher: TBD
 * [Martha G-](/people/galbraith-martha-1867-mcbain.md) (daughter), mother of footballer Neil McBain
 * [John G-](/people/galbraith-john-1864-mctaggart.md) (son), d. 10 May 1932 jumped from police boat.  m. Isabella McTaggart
 * [William Cook G](/people/galbraith-william-cook-1888-moss.md) (carradale), (son of Sandy G & Mary Campbell), m. Christina Moss, d. 1969 
-* Neil G-, x. Kilberry, m. Isabella McMillian.
+* [Neil G-](/people/galbraith-neil-1828-mcmillan.md), x. Kilberry, m. Isabella McMillian.
 * [Donald G-](/people/galbraith-donald-1862-mclarty.md) (son), b. 1862 Saddell.  M. Catharine McLarty in 1886 in Campbeltown, moved to Ontario.
 * [Donald G-](/people//galbraith-donald-1848-morrison.md), from Gigha, m. Janet Morrison, d. Saddell 1905 age 54
 * [Lachlan G-](/people/galbraith-lachlan-1878.md) (son), d. 1961 age 82, ferryman.
