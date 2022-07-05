@@ -2,7 +2,7 @@
 title: Orsella Galbreath b. 1805 m. James Templeton
 familysearch: https://www.familysearch.org/tree/person/details/KCWD-NBW
 ---
-***Orsella Galbreath***, daughter of [*James Galbreath*](galbreath-james-abt-1775.md) and *Martha Galbreath*, baptized at Campbeltown 24 Nov 1805.[^birth], died 2 Dec 1898[^death] Married at Campbeltown 03 Feb 1829[^marriage] to **James Templeton**.
+***Orsella Galbreath***, daughter of [*James Galbreath*](galbreath-james-abt-1775.md) and *Martha Galbreath*, baptized at Campbeltown 24 Nov 1805.[^birth], died 2 Dec 1898[^death] Married at Campbeltown 3 Feb 1829[^marriage] to **James Templeton**.
 
 Children of James and Orsella (Galbreath) Templeton:
 
