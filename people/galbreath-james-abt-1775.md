@@ -4,7 +4,7 @@ familysearch: https://www.familysearch.org/tree/person/details/KZ84-RRK
 ---
 ***James Galbreath***, of unknown origin, was born say 1775.  He married at Campbeltown, Argyll Scotland 20 Mar 1800[^marriage] to **Martha Galbreath**.
 
-He died between 1829 and 1837 due to marriage records of his daughters Orsella and Catherine.
+He died between 1829 and 1837 due to marriage records of his daughters Orsella and Catherine.  The same daughters *may* have married bothers James and Hugh.  (See [ScotlandsPeoples](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=templeton&surname_so=exact&forename_so=starts&parent_names_so=exact&parent_name_two=brak&parent_name_two_so=starts&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&sort=asc&order=Date&field=year))
 
 Martha Galbreath and their youngest daughter Mary are recorded in the 1841 Census as being in Long Row, Campbeltown.[^census-1841]
 
