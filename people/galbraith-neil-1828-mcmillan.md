@@ -31,4 +31,6 @@ Children of Neil and Isabella (McMillan) Galbraith:
 
 [^mary-death]: Statutory records of Tarbert; 1885 GALBRAITH, MARY (Statutory registers Deaths 535/ 3); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/2809851)  Widow of Donald Galbraith farmer, Donald (son) present.
 
-[^marriage]: Statutory records of Saddell; 1856 GALBRAITH, NIEL (Statutory registers Marriages 531/1 1); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/8330817)
+[^marriage]: Statutory records of Saddell; 1856 GALBRAITH, NIEL (Statutory registers Marriages 531/1 1); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/8330817).  Niel aged 32, and Isabella age 23.  Father John Galbraith, and Mary [Sinclair]?
+
+
