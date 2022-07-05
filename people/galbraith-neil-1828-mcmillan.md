@@ -9,9 +9,11 @@ All children of John and Mary: [ScotlandsPeople](https://www.scotlandspeople.gov
 1851 Census: https://www.findmypast.com/transcript?id=GBC/1851/0019282946&expand=true
   Mary a widow at age 49 "Farmers wife of 100 acres 2 men employed"
   Other children present.
+
+1861: https://www.findmypast.com/transcript?id=GBC%2F1861%2F0022460225
+    Just mary age 60, and donald (age 22, fisherman)
+    
   
-
-
 Children of Neil and Isabella (McMillan) Galbraith:
 
 1. *[Donald Galbraith](galbraith-donald-1862-mclarty.md)*, b. 1862 m. *Catharine McLarty*
