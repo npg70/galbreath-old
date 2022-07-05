@@ -10,6 +10,7 @@ All children of John and Mary: [ScotlandsPeople](https://www.scotlandspeople.gov
   Mary a widow at age 49 "Farmers wife of 100 acres 2 men employed"
   Other children present.
 
+## different mary?
 1861: https://www.findmypast.com/transcript?id=GBC%2F1861%2F0022460225
     Just mary age 60, and donald (age 22, fisherman)
     
@@ -18,8 +19,6 @@ All children of John and Mary: [ScotlandsPeople](https://www.scotlandspeople.gov
 
 1881 https://www.findmypast.com/transcript?id=GBC%2F1881%2F0029398103
     mary age 80,  donald age 40, married 2 kids
-
-mary not found in 1891 census.. so died between 1881 and 1891.   Maybe some South Knapdale.
 
 Mary died at Tarbert 30 Jan 1885.[^mary-death]
 
