@@ -104,7 +104,7 @@ tbd
 
 * [Jeannie G](/people/galbraith-jane-1890.md) whiteinch Glasgow in 1914 was 24y.o.   has many very near relatives in Campbeltown.
 
-Her mother was XXX.
+Her mother was [Jane Galbraith](/people/galbraith-jane-1861-galbraith.md).
 Her father was Donald Galbraith, but seems un-connected to Kintyre.
 
 ---
