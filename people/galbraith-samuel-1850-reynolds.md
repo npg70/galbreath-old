@@ -7,7 +7,7 @@ was perhaps born in Ugadale in 17 Nov 1850.
 
 He married **Mary Ellen Reynolds**
 
-His middle name is often listed as "Templeton" but this may be being confused with his son "Samuel Templeton Galbraith", b. XXX.
+His middle name is often listed as "Templeton" but this may be being confused with his son "Samuel Templeton Galbraith", b. 1886.
 
 The birth date of "17 Nov" is often used but without source.
 
