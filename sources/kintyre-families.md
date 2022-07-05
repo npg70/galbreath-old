@@ -28,6 +28,8 @@ Still researching exactly his Kintyre connections
 * Lachlan G,   "teacher of Enlgish and Gaelic", x-Gigha
 * Edward G, d. 1933, age 77, m. Mary Mclarty 1883, son of John shoemaker, Mary McGeachy
 
+tbd
+
 * [David Stewart G-](/people/galbraith-david-stewart-1782.md)
 * [Flora Campbell G-](/people/galbraith-flora-1821.md) 
 
@@ -40,13 +42,16 @@ TBD
 * [William Campbell G]() (1870-1946)
 * [William G](/people/galbraith-william-1846-campbell.md), d. 1926 age 80 (father of above), m. Helen Campbell
 
+tbd
 
 * [Samuel G-](/people/galbraith-samuel-1827.md), d. 1860
 * [David G-](/people/galbreath-david-1797.md), his father
 
+tbd
 
 * [Rev. Angus G-](/people/galbraith-angus-1837-sutherland.md) 1837-1909, son of ~Donald~ Niel and Janet McQuilkan
 
+tbd
 
 * [Rev. Angus G-](/people/galbraith-angus-1827-smith.md) d. 1901 age 74, m. Jessie MacQueen
 * [Angus G-](/people/galbraith-angus-1784-mcleod.md) (father), d. 1836 age 42, m. Mary McLeod
@@ -60,11 +65,13 @@ William survived a attempted murder/robbery at his store.  Survived but bankrupt
 
 * John G, d. 15 Dec 1908 London
 
+tbd
 
 * [William Galbraith](/people/galbraith-william-1870-mcmillan.md),murdered his wife Margaret McMillian
 * [Achibald Galbratih](/people/galbreath-archibald-1842.md), m. Agnes O'May
 * [John Galbraith](/people//galbraith-john-china-1871.md), b. 1871 "China"
 
+tbd
 
 * [Jeannie G](/people/galbraith-jane-1890.md) whiteinch Glasgow in 1914 was 24y.o.   has many very near relatives in Campbeltown.
 
@@ -80,6 +87,7 @@ She was a twin!  Can't find any info
 
 * [Archibald Galbraith](/people/galbraith-archibald-1865-mckay.md), d. 1928,age 62, m. Isabella McKay
 
+tbd
 
 * [John G-](/people/galbreath-john-1821.md), 1821-1902, m. Margaret Cook.  "most of john jr's family emigrated to Canada  ***check***
 * [Archibald "Sandy" Galbraith](/people/galbraith-alexander-1854.md), (brother), (1854-1912), m. Mary Campbell ***I have alexander***
@@ -92,6 +100,7 @@ TBD Alex vs Arch.
 * [Martha G-](/people/galbraith-martha-1867-mcbain.md) (daughter), mother of footballer Neil McBain
 * [John G-](/people/galbraith-john-1864-mctaggart.md) (son), d. 10 May 1932 jumped from police boat.  m. Isabella McTaggart
 
+TBD
 
 * [William Cook G](/people/galbraith-william-cook-1888-moss.md) (carradale), (son of Sandy G & Mary Campbell), m. Christina Moss, d. 1969 
 * [Neil G-](/people/galbraith-neil-1828-mcmillan.md), x. Kilberry, m. Isabella McMillian.
