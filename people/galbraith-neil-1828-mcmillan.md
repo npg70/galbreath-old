@@ -8,6 +8,7 @@ All children of John and Mary: [ScotlandsPeople](https://www.scotlandspeople.gov
 
 1851 Census: https://www.findmypast.com/transcript?id=GBC/1851/0019282946&expand=true
   Mary a widow at age 49 "Farmers wife of 100 acres 2 men employed"
+  Neil ~ 1829 age 22.
   Other children present.
 
 ## different mary?
