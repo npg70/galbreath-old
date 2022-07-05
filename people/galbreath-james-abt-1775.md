@@ -4,7 +4,9 @@ familysearch: https://www.familysearch.org/tree/person/details/KZ84-RRK
 ---
 ***James Galbreath***, of unknown origin, was born say 1775.  He married at Campbeltown, Argyll Scotland 20 Mar 1800[^marriage] to **Martha Galbreath**.
 
-Martha Galbreath and their youngest daughter Mary are recorded in the 1841 Census as being in Long Row, Campbeltown.[^census-1841]  This implies James died before 1841.
+He died before 1837 since the marriage of daughter Catherine lists him as the "last James Galbreath Skebolin"
+
+Martha Galbreath and their youngest daughter Mary are recorded in the 1841 Census as being in Long Row, Campbeltown.[^census-1841]
 
 For baptism records of children, he was a farmer in Skebolin.
 
@@ -14,13 +16,13 @@ Children of James and Martha Galbreath, all baptized in Campbeltown:[^children]
 2. [*Archibald Galbreath*](galbreath-archibald-1803.md), bp. 11 Sep 1803,[^birth-archibald] m1. *Eugina McCallum*, m2. *Margaret Loynachan*
 3. [*Orsella Galbreath*](galbreath-orsella-1805.md), bp. 24 Nov 1805,[^birth-orsella] m. *James Templeton*
 4. *Martha Galbreath*, bp. 16 Dec 1807[^birth-martha]
-4. *Catharine Galbreath*, bp. 25 Apr 1809[^birth-catharine], m. *Hugh Templeton*[^catharine-marriage], maltster.[^hugh-maltster]
-5. *Samuel Galbreath*, bp. 20 Feb 1811[^birth-samuel]
-5. *John Galbreath*, bp. 5 Jan 1813[^birth-john]
+5. *Catharine Galbreath*, bp. 25 Apr 1809[^birth-catharine], m. *Hugh Templeton*[^catharine-marriage], maltster.[^hugh-maltster]
+6. *Samuel Galbreath*, bp. 20 Feb 1811[^birth-samuel]
+7. *John Galbreath*, bp. 5 Jan 1813[^birth-john]
 6. *James Galbreath*, bp. 15 Dec 1814[^birth-james]
-7. *Mary Galbreath*, bp. 19 Jun 1816[^birth-mary1], assumed died in infancy
-8. *Jean Galbreath*, bp. 3 Dec 1817[^birth-jean], d. 12 Mar 1900 High Street, Campbeltown, m. *Robert Kelly* shipmaster[^jean-death]
-9. *Mary Galbreath*, bp. 13 Mar 1821[^birth-mary2], maybe death @ https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/976261
+8. *Mary Galbreath*, bp. 19 Jun 1816[^birth-mary1], assumed died in infancy
+9. *Jean Galbreath*, bp. 3 Dec 1817[^birth-jean], d. 12 Mar 1900 High Street, Campbeltown, m. *Robert Kelly* shipmaster[^jean-death]
+10. *Mary Galbreath*, bp. 13 Mar 1821[^birth-mary2], maybe death @ https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/976261
 
 [^marriage]: OPR for marriage on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/9531021?image=51&return_row=0) indexed as 20 March 1800, but appears to me as the 26th.  The transcription is:
     > James Galbreath and Martha Galbreath both of this parish 26 [March 1800]
