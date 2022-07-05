@@ -6,6 +6,8 @@ was baptized. in Dalrymple, Ayr 28 Mar 1824.
 
 He married Stewarton, Ayr 1871[^marriage]  **Catharine Paterson**.
 
+Family listed in Southend in 1881 Census: https://www.findmypast.com/transcript?id=GBC%2F1881%2F0029395251
+
 Children of John and Catharine (Paterson) Galbraith:
 
 1. *William John Galbraith*, b. 26 July 1873 [^william-birth]
