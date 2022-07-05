@@ -28,7 +28,7 @@ Children of Samuel and Mary Ellen (Reynolds) Galbraith, all in Saint Johns,  Ant
 3. *Samuel Templeton Galbraith*, b. 26 July 1886; d. May 1977, San Francisco, CA, USA; m. Lola Maria Cardinal
 4. *James Galbraith*, b. 1887
 5. *Mary Ellen Louise Galbraith*,  b. 18 Jul 1889; d. 21 Mar 1981, Pensilva, Cornwall, England, United Kingdom
-6. *Arthur Andrew Galbraith*, b. 26 Sep 1893, Antigua, Antigua and Barbuda; d. 24 April 1975 Vancouver, British Columbia, Canada
+6. *Arthur Andrew Galbraith*, b. 26 Sep 1893; d. 24 April 1975 Vancouver, British Columbia, Canada; m. *Viviene Maw*
 7. *Lillian Agnes Galbraith*, b. 1896
 8. *William Galbraith*, b. 1898
 9. *Monica Estelle Galbraith*, b. 15 July 1901; d. about 1995, Barbuda, Antigua and Barbuda; m.  *Wilfred George Alton*
