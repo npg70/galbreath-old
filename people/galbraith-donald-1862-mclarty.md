@@ -9,6 +9,12 @@ London, Middlesex, Ontario, Canada.
 
 He married at Campbeltown 11 June 1886 **Catharine McLarty**.
 
+From [Ancestry.com](https://www.ancestry.com/family-tree/person/tree/71855511/person/232218862057/facts)
+
+> At the turn of the 20th century, Donald was founder Pipe Major of the Argyll and Bute Artillery Pipe Band in Campbeltown and taught the Campbeltown Boy's Brigade pipe band. In 1907, he and his family moved to Kilmarnock. Donald's father was also a piper.
+>
+> When the family came to Canada Donald continued to play. He was pipe major of the Ingersoll Pipe Band. His son, James played in the same band. His great grandson, James played Donald's 130 year old pipes at family occasions.
+
 
 Children of Donald and Catharine (McLarty) Galbraith:
 
