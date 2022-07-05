@@ -4,7 +4,7 @@ familysearch: https://www.familysearch.org/tree/person/details/KZ84-RRK
 ---
 ***James Galbreath***, of unknown origin, was born say 1775.  He married at Campbeltown, Argyll Scotland 20 Mar 1800[^marriage] to **Martha Galbreath**.
 
-He died before 1837 since the marriage of daughter Catherine lists him as the "last James Galbreath Skebolin"
+He died between 1829 and 1837 due to marriage records of his daughters Orsella and Catherine.
 
 Martha Galbreath and their youngest daughter Mary are recorded in the 1841 Census as being in Long Row, Campbeltown.[^census-1841]
 
