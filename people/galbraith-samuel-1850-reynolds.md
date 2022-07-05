@@ -1,11 +1,11 @@
 ---
 title: Samuel Galbreaith b. 1850 m. Mary Ellen Reynolds
-familysearch: https://www.familysearch.org/tree/person/sources/G7VG-7ZK
+familysearch: https://www.familysearch.org/tree/person/details/G7VG-7ZK
 ---
 ***Samuel Galbraith***, son of *[Archibald Galbreath](galbreath-archibald-1803.md)* and *Margaret Loynachan*,
 was perhaps born in Ugadale in 17 Nov 1850.
 
-He married **Mary Ellen Reynolds**
+He married **Mary Ellen Reynolds** in BWI ~1883.
 
 His middle name is often listed as "Templeton" but this may be being confused with his son "Samuel Templeton Galbraith", b. 1886.  Two of his aunts (his father's sisters) married to Templetons (perhaps brothers).
 
