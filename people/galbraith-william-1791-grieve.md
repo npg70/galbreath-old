@@ -14,7 +14,7 @@ Children of William and Mary (Grieve) Galbraith, all in Dalymple:[^children]
 1. *Adam Galbraith*, bp. 6 Oct 1818, assume died in childhood
 2. *Jane Galbraith*, bp. 30 Jan 1820
 3. *Peter Galbraith*, bp. 10 Feb 1822, assume died in infancy.
-4. *John McClannahan Galbraith*, bp. 28 Mar 1824; m. *Catharine Paterson*
+4. *[John McClannahan Galbraith](galbraith-john-1824-paterson.md)*, bp. 28 Mar 1824; m. *Catharine Paterson*
 5. *Peter Galbraith*, bp. 9 Apr 1826
 6. *Thomas Galbraith*, bp. 24 Jul 1828
 7. *Janet Galbraith*, bp. 23 Feb 1831
