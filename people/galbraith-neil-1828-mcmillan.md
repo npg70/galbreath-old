@@ -13,8 +13,19 @@ All children of John and Mary: [ScotlandsPeople](https://www.scotlandspeople.gov
 1861: https://www.findmypast.com/transcript?id=GBC%2F1861%2F0022460225
     Just mary age 60, and donald (age 22, fisherman)
     
-  
+1871 https://www.findmypast.com/transcript?id=GBC%2F1871%2F0023495931
+    just mary age 71, donald age 30
+
+1881 https://www.findmypast.com/transcript?id=GBC%2F1881%2F0029398103
+    mary age 80,  donald age 40, married 2 kids
+
+mary not found in 1891 census.. so died between 1881 and 1891.   Maybe some South Knapdale.
+
+Mary died at Tarbert 30 Jan 1885.[^mary-death]
+
 Children of Neil and Isabella (McMillan) Galbraith:
 
 1. *[Donald Galbraith](galbraith-donald-1862-mclarty.md)*, b. 1862 m. *Catharine McLarty*
 
+
+[^mary-death]: Statutory records of Tarbert; 1885 GALBRAITH, MARY (Statutory registers Deaths 535/ 3); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/2809851)  Widow of Donald Galbraith farmer, Donald (son) present.
