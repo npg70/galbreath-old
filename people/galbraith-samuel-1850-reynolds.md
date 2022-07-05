@@ -24,7 +24,7 @@ So 1850 (or 1851) does seem the most likely birth year.
 Children of Samuel and Mary Ellen (Reynolds) Galbraith, all in Saint Johns,  Antigua and Barbuda, British West Indies.
 
 1. *Margaret Vincent Galbraith*, b. 16 Jan 1884; d. 3 Nov 1945, Montreal, Quebec, Canada
-2. *Archibald Reynolds Galbraith*, b. 1885 BWI
+2. *Archibald Reynolds Galbraith*, b. 1885
 3. *Samuel Templeton Galbraith*, b. 26 July 1886; d. May 1977, San Francisco, CA, USA; m. Lola Maria Cardinal
 4. *James Galbraith*, b. 1887
 5. *Mary Ellen Louise Galbraith*,  b. 18 Jul 1889; d. 21 Mar 1981, Pensilva, Cornwall, England, United Kingdom
