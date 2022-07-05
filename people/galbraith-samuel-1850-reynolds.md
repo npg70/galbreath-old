@@ -21,7 +21,11 @@ Sometimes listed as being born in 1856, but what would be problematic since
 
 So 1850 (or 1851) does seem the most likely birth year.
 
-Children of Samuel and Mary Ellen (Reynolds) Galbraith, all in Saint Johns,  Antigua and Barbuda, British West Indies.
+Not found in 1871 Census.
+He somehow got to BWI before 1884.
+Immigrated to Canada ~1909.
+
+Children of Samuel and Mary Ellen (Reynolds) Galbraith, all in Saint Johns, Antigua and Barbuda, British West Indies.
 
 1. *Margaret Vincent Galbraith*, b. 16 Jan 1884; d. 3 Nov 1945, Montreal, Quebec, Canada
 2. *Archibald Reynolds Galbraith*, b. 1885
