@@ -9,6 +9,8 @@ London, Middlesex, Ontario, Canada.
 
 He married at Campbeltown 11 June 1886 **Catharine McLarty**.
 
+Immigration to St. Catharines, Ontario, Canada  June 1911
+
 From [Ancestry.com](https://www.ancestry.com/family-tree/person/tree/71855511/person/232218862057/facts)
 
 > At the turn of the 20th century, Donald was founder Pipe Major of the Argyll and Bute Artillery Pipe Band in Campbeltown and taught the Campbeltown Boy's Brigade pipe band. In 1907, he and his family moved to Kilmarnock. Donald's father was also a piper.
