@@ -55,4 +55,5 @@ publisher: TBD
 * [Samuel G-](/people/galbraith-samuel-1850-reynolds.md) m. Mary Ellen Reynolds, Antigua... born Ugadale in 1856
 * [Archibald G-](/people/galbreath-archibald-1803.md), m. Margaret Loynachan.
 * [James Galbreath](/people/galbreath-james-abt-1775.md), m. Martha G
-* [William G-](/people/galbraith-william-1791-grieve.md) b. Ayrshire, moved to Southend in 1851, and son John got another lease in 1861.
+* [William G-](/people/galbraith-william-1791-grieve.md) b. Ayrshire, moved to Southend in 1851
+* [John G-](/people/galbraith-john-1824-paterson.md) (son) got another lease in 1861.
