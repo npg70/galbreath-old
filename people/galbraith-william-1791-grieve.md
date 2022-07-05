@@ -9,6 +9,10 @@ He moved to Southend, Argyll ~1851 (unsourced).
 
 1861 Census: https://www.findmypast.com/transcript?id=GBC/1861/0022532122&expand=true 
 
+1871 Census: https://www.findmypast.com/transcript?id=GBC/1871/0023491938
+
+Not listed in 1881.
+
 Children of William and Mary (Grieve) Galbraith, all in Dalymple:[^children]
 
 1. *Adam Galbraith*, bp. 6 Oct 1818, assume died in childhood
