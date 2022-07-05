@@ -19,7 +19,7 @@ Don't know the sources for these (ok).
 
 * John G-, attached during a shinty match
 
-Unable to find any addition info
+Unable to find any additional to identify him.
 
 ---
 
@@ -27,7 +27,7 @@ Unable to find any addition info
 * [John Galbraith](/people/galbreath-john-1760.md), m. More McLean
 * [Hugh Galbratih](/people/galbraith-hugh-1892-barbour.md), d. 1947, m. Agnes Barbour.
 
-Wasn't clear how Hugh fit in...  he is the Grandon of John G0 and More McLean.
+Wasn't clear how Hugh fit in...  he is the Grandon of John G- and More McLean.
 
 ---
 
@@ -42,28 +42,40 @@ Still researching exactly his Kintyre connections
 
 tbd
 
+---
+
 * [David Stewart G-](/people/galbraith-david-stewart-1782.md)
 * [Flora Campbell G-](/people/galbraith-flora-1821.md) 
 
 Ref to Kintyre Magazine
 
+---
+
 * Hugh G-, father was Francis Kennedy
 
 TBD
+
+---
 
 * [William Campbell G]() (1870-1946)
 * [William G](/people/galbraith-william-1846-campbell.md), d. 1926 age 80 (father of above), m. Helen Campbell
 
 tbd
 
+---
+
 * [Samuel G-](/people/galbraith-samuel-1827.md), d. 1860
 * [David G-](/people/galbreath-david-1797.md), his father
 
 tbd
 
+---
+
 * [Rev. Angus G-](/people/galbraith-angus-1837-sutherland.md) 1837-1909, son of ~Donald~ Niel and Janet McQuilkan
 
 tbd
+
+---
 
 * [Rev. Angus G-](/people/galbraith-angus-1827-smith.md) d. 1901 age 74, m. Jessie MacQueen
 * [Angus G-](/people/galbraith-angus-1784-mcleod.md) (father), d. 1836 age 42, m. Mary McLeod
@@ -74,10 +86,13 @@ tbd
 TBD: MacQueen vs. McQueen
 William survived a attempted murder/robbery at his store.  Survived but bankrupted.
 
+---
 
 * John G, d. 15 Dec 1908 London
 
 tbd
+
+---
 
 * [William Galbraith](/people/galbraith-william-1870-mcmillan.md),murdered his wife Margaret McMillian
 * [Achibald Galbratih](/people/galbreath-archibald-1842.md), m. Agnes O'May
@@ -85,10 +100,14 @@ tbd
 
 tbd
 
+---
+
 * [Jeannie G](/people/galbraith-jane-1890.md) whiteinch Glasgow in 1914 was 24y.o.   has many very near relatives in Campbeltown.
 
 Her mother was XXX.
 Her father was Donald Galbraith, but seems un-connected to Kintyre.
+
+---
 
 * [Margaret McCallum G-](/people/galbraith-margaret-1916.md), d. 25 Nov 1931 (burns), age 15.  "her adoptive father was Archibald Gillies"
 
@@ -97,14 +116,20 @@ Middle name is suspect.  THe official records have "guesses"
 Not orphaned... mother Mary was around.
 She was a twin!  Can't find any info
 
+---
+
 * [Archibald Galbraith](/people/galbraith-archibald-1865-mckay.md), d. 1928,age 62, m. Isabella McKay
 
 tbd
+
+---
 
 * [John G-](/people/galbreath-john-1821.md), 1821-1902, m. Margaret Cook.  "most of john jr's family emigrated to Canada  ***check***
 * [Archibald "Sandy" Galbraith](/people/galbraith-alexander-1854.md), (brother), (1854-1912), m. Mary Campbell ***I have alexander***
 
 TBD Alex vs Arch.
+
+---
 
 * [Neil G-](/people/galbraith-neil-1841.md), d. 1873 drowning, m. Martha Stewart
 * [John G-](/people/galbreath-john-1821.md) (father), m. Margaret Cook
@@ -114,12 +139,15 @@ TBD Alex vs Arch.
 
 TBD
 
+---
+
 * [William Cook G](/people/galbraith-william-cook-1888-moss.md) (carradale), (son of Sandy G & Mary Campbell), m. Christina Moss, d. 1969 
 * [Neil G-](/people/galbraith-neil-1828-mcmillan.md), x. Kilberry, m. Isabella McMillian.
 * [Donald G-](/people/galbraith-donald-1862-mclarty.md) (son), b. 1862 Saddell.  M. Catharine McLarty in 1886 in Campbeltown, moved to Ontario.
 
 TBD
 
+---
 
 * [Donald G-](/people//galbraith-donald-1848-morrison.md), from Gigha, m. Janet Morrison, d. Saddell 1905 age 54
 * [Lachlan G-](/people/galbraith-lachlan-1878.md) (son), d. 1961 age 82, ferryman.
@@ -162,6 +190,9 @@ He is listed in 1851 Census as being "0", so 1850 or 1851.   But all subsequent 
 
 James & Martha - lowland?
 
+---
+
 * [William G-](/people/galbraith-william-1791-grieve.md) b. Ayrshire, moved to Southend in 1851
 * [John G-](/people/galbraith-john-1824-paterson.md) (son) got another lease in 1861.
 
+---
