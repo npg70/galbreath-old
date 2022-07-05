@@ -5,7 +5,9 @@ author: Angus Martin
 publisher: TBD
 ---
 
-Galbraith/Galbreath
+## Galbraith/Galbreath
+
+---
 
 * Neill Mcbretnych, 1636
 * Catherine NcVretinich, 1687
@@ -13,9 +15,13 @@ Galbraith/Galbreath
 
 Don't know the sources for these (ok).
 
+---
+
 * John G-, attached during a shinty match
 
 Unable to find any addition info
+
+---
 
 * [Hector Galbraith](/people/galbraith-hector-1859-mccorkindale.md), d. 1921 age 62, m. Mary Corkindale
 * [John Galbraith](/people/galbreath-john-1760.md), m. More McLean
@@ -23,9 +29,13 @@ Unable to find any addition info
 
 Wasn't clear how Hugh fit in...  he is the Grandon of John G0 and More McLean.
 
+---
+
 * John Kenneth G-, b 1908, d. 2006
 
 Still researching exactly his Kintyre connections
+
+---
 
 * Lachlan G,   "teacher of Enlgish and Gaelic", x-Gigha
 * Edward G, d. 1933, age 77, m. Mary Mclarty 1883, son of John shoemaker, Mary McGeachy
@@ -118,9 +128,13 @@ TBD
 
 TBD
 
+---
+
 * Charolette MacMicharl G  "Carol", at 1951 age 21, b. 1930, m. Derick R Thomson, d. 2017 (Linn Cemetary Glasgow)
 
 too modern to get records off scotlands people (have to wait to 2030).  Do we have any additional info on her parents?
+
+---
 
 * [Archibald Galbreath](/people/galbraith-archibald-1807.md) (cotton)
 * [Andrew Galbraith](/people/galbraith-andrew-1799.md) lord provost of Glasgow
@@ -131,9 +145,13 @@ too modern to get records off scotlands people (have to wait to 2030).  Do we ha
 Seems like more could be said here.
 Add correction to Campbeltown Whiskey
 
+---
+
 * [Robert G-](/people/galbreath-robert-1778.md) immigrated to America in 1818
 
 Did Robert sell his farm to his younger sister Catherine m. Greelees?
+
+---
 
 * [Samuel G-](/people/galbraith-samuel-1850-reynolds.md) m. Mary Ellen Reynolds, Antigua... born Ugadale in 1856
 * [Archibald G-](/people/galbreath-archibald-1803.md), m. Margaret Loynachan.
