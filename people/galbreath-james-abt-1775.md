@@ -22,7 +22,7 @@ Children of James and Martha Galbreath, all baptized in Campbeltown:[^children]
 6. *James Galbreath*, bp. 15 Dec 1814[^birth-james]
 8. *Mary Galbreath*, bp. 19 Jun 1816[^birth-mary1], assumed died in infancy
 9. *Jean Galbreath*, bp. 3 Dec 1817[^birth-jean], d. 12 Mar 1900 High Street, Campbeltown, m. *Robert Kelly* shipmaster[^jean-death]
-10. *Mary Galbreath*, bp. 13 Mar 1821[^birth-mary2], maybe death @ https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/976261
+10. *Mary Galbreath*, bp. 13 Mar 1821[^birth-mary2]
 
 [^marriage]: OPR for marriage on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/9531021?image=51&return_row=0) indexed as 20 March 1800, but appears to me as the 26th.  The transcription is:
     > James Galbreath and Martha Galbreath both of this parish 26 [March 1800]
