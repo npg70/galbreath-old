@@ -27,7 +27,7 @@ publisher: TBD
 * [John Galbraith](/people/galbreath-john-1760.md), m. More McLean
 * [Hugh Galbratih](/people/galbraith-hugh-1892-barbour.md), d. 1947, m. Agnes Barbour.
 
-    * Wasn't clear how Hugh fit in...  he is the Grandon of John G- and More McLean.
+    * Wasn't clear how Hugh fit in...  he is the Grandson of John G- and More McLean.
 
 ---
 
@@ -83,8 +83,8 @@ tbd
 * [William G-](/people/galbraith-william-1833.md) (bother), jeweller/watchmaker, d. 1915, age 81
 * John (brother), TBD
 
-TBD: MacQueen vs. McQueen
-William survived a attempted murder/robbery at his store.  Survived but bankrupted.
+    * TBD: MacQueen vs. McQueen
+    * William victim of an attempted murder/robbery at his store.  He survived but the damage bankrupted him.
 
 ---
 
@@ -98,14 +98,15 @@ tbd
 * [Achibald Galbratih](/people/galbreath-archibald-1842.md), m. Agnes O'May
 * [John Galbraith](/people//galbraith-john-china-1871.md), b. 1871 "China"
 
-tbd
+    * China's day job was working at a distillery.
 
 ---
 
 * [Jeannie G](/people/galbraith-jane-1890.md) whiteinch Glasgow in 1914 was 24y.o.   has many very near relatives in Campbeltown.
 
-Her mother was [Jane Galbraith](/people/galbraith-jane-1861-galbraith.md).
-Her father was Donald Galbraith, but seems un-connected to Kintyre.
+    
+    * Her mother was [Jane Galbraith](/people/galbraith-jane-1861-galbraith.md).
+    * Her father was Donald Galbraith, but seems un-connected to Kintyre.
 
 ---
 
@@ -143,7 +144,7 @@ TBD
 
 * [William Cook G](/people/galbraith-william-cook-1888-moss.md) (carradale), (son of Sandy G & Mary Campbell), m. Christina Moss, d. 1969 
 * [Neil G-](/people/galbraith-neil-1828-mcmillan.md), x. Kilberry, m. Isabella McMillian.
-* [Donald G-](/people/galbraith-donald-1862-mclarty.md) (son), b. 1862 Saddell.  M. Catharine McLarty in 1886 in Campbeltown, moved to Ontario.
+* [Donald G-](/people/galbraith-donald-1862-mclarty.md) (son), b. 1862 Saddell,  m. Catharine McLarty in 1886 in Campbeltown, moved to Ontario.
 
 TBD
 
@@ -160,7 +161,7 @@ TBD
 
 * Charolette MacMicharl G  "Carol", at 1951 age 21, b. 1930, m. Derick R Thomson, d. 2017 (Linn Cemetary Glasgow)
 
-    * too recent to get records off Scotlands People (have to wait to 2030).  Do we have any additional info on her parents?
+    * Too recent to get records off Scotlands People (have to wait to 2030).  Do we have any additional info on her parents?
 
 ---
 
