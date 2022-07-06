@@ -111,10 +111,10 @@ Her father was Donald Galbraith, but seems un-connected to Kintyre.
 
 * [Margaret McCallum G-](/people/galbraith-margaret-1916.md), d. 25 Nov 1931 (burns), age 15.  "her adoptive father was Archibald Gillies"
 
-    ** Not orphaned, but illegitmate birth, with father unknown.  
-    ** Mother Mary is listed in Census with Archibald Gillies.
-    ** Middle name is suspect.  THe official records have McMillian, McCallum, and McNair.
-    ** She was a twin Jeannie!  Can't find any info however.
+    * Not orphaned, but illegitmate birth, with father unknown.  
+    * Mother Mary is listed in Census with Archibald Gillies.
+    * Middle name is suspect. The official records have McMillian, McCallum, and McNair.
+    * She was a twin -- Jeannie!  Can't find any info however.
 
 ---
 
@@ -177,7 +177,7 @@ Add correction to Campbeltown Whiskey
 
 * [Robert G-](/people/galbreath-robert-1778.md) immigrated to America in 1818
 
-Did Robert sell his farm to his younger sister Catherine m. Greelees?
+    * Did Robert sell his farm to his younger sister Catherine m. Greelees?
 
 ---
 
