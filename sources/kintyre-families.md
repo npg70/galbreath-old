@@ -33,7 +33,8 @@ publisher: TBD
 
 * John Kenneth G-, b 1908, d. 2006
 
-Still researching exactly his Kintyre connections
+    * Is "Whitehouse" a place, or a term?
+    * Still researching exactly his Kintyre connections
 
 ---
 
@@ -47,7 +48,7 @@ tbd
 * [David Stewart G-](/people/galbraith-david-stewart-1782.md)
 * [Flora Campbell G-](/people/galbraith-flora-1821.md) 
 
-Ref to Kintyre Magazine
+    * Ref to Kintyre Magazine
 
 ---
 
@@ -137,16 +138,17 @@ TBD Alex vs Arch.
 * [Archibald G-](/people/galbreath-archibald-1798.md) and Margaret McMillian
 * [Martha G-](/people/galbraith-martha-1867-mcbain.md) (daughter), mother of footballer Neil McBain
 * [John G-](/people/galbraith-john-1864-mctaggart.md) (son), d. 10 May 1932 jumped from police boat.  m. Isabella McTaggart
+* [William Cook G](/people/galbraith-william-cook-1888-moss.md) (carradale), (son of Sandy G & Mary Campbell), m. Christina Moss, d. 1969 
 
 TBD
 
 ---
 
-* [William Cook G](/people/galbraith-william-cook-1888-moss.md) (carradale), (son of Sandy G & Mary Campbell), m. Christina Moss, d. 1969 
-* [Neil G-](/people/galbraith-neil-1828-mcmillan.md), x. Kilberry, m. Isabella McMillian.
-* [Donald G-](/people/galbraith-donald-1862-mclarty.md) (son), b. 1862 Saddell,  m. Catharine McLarty in 1886 in Campbeltown, moved to Ontario.
+* [Neil G-](/people/galbraith-neil-1828-mcmillan.md), x. Kilberry, m. Isabella McMillian.  Piper.
+* [Donald G-](/people/galbraith-donald-1862-mclarty.md) (son), b. 1862 Saddell,  m. Catharine McLarty in 1886 in Campbeltown, moved to Ontario.  Piper.
 
-TBD
+    * Bagpipe.news appears dead (july 5, 2022)
+    * See Donald for other details
 
 ---
 
