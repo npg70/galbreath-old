@@ -17,7 +17,7 @@ publisher: TBD
 
 ---
 
-* John G-, attackdc during a shinty match
+* John G-, attacked during a shinty match 1818
 
     * Unable to find any additional to identify him.
 
