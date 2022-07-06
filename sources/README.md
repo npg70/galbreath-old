@@ -32,7 +32,7 @@ Overviews:
 (missing a few references)
 
 * [Kintyre Magazine #14](kintyre-magazine-14.md), *An 18th Century Letter from Campbeltown to America*
-* Kintyre Magazine #16, TBD, *James Stewart - Fact of Fiction Another Dunaverty Mystery*, discussion of [David Stewart Galbraith](https://github.com/npg70/galbreath/blob/main/people/galbraith-david-stewart-1782.md).  See [RalstonGenealogy](http://www.ralstongenealogy.com/number16kintmag.htm)
+* [Kintyre Magazine #16](kintyre-magazine-16.md), *James Stewart - Fact of Fiction Another Dunaverty Mystery*, discussion of [David Stewart Galbraith](/people/galbraith-david-stewart-1782.md).  See [RalstonGenealogy](http://www.ralstongenealogy.com/number16kintmag.htm)
 * Kintyre Magazine #28, TBD, See [RalstonGenealogy](http://www.ralstongenealogy.com/number28kintmag.htm)
 * Kintyre Magazine #35, *Letters to America*
 * [Kintyre Magazine #50](kintyre-magazine-50.md), *Templetons of Kintyre*
