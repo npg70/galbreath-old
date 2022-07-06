@@ -13,13 +13,13 @@ publisher: TBD
 * Catherine NcVretinich, 1687
 * Neill Galbreath, 1733, son of Gilnive, Kilchamaig
 
-Don't know the sources for these (ok).
+    * Don't know the sources for these (ok).
 
 ---
 
-* John G-, attached during a shinty match
+* John G-, attackdc during a shinty match
 
-Unable to find any additional to identify him.
+    * Unable to find any additional to identify him.
 
 ---
 
@@ -27,7 +27,7 @@ Unable to find any additional to identify him.
 * [John Galbraith](/people/galbreath-john-1760.md), m. More McLean
 * [Hugh Galbratih](/people/galbraith-hugh-1892-barbour.md), d. 1947, m. Agnes Barbour.
 
-Wasn't clear how Hugh fit in...  he is the Grandon of John G- and More McLean.
+    * Wasn't clear how Hugh fit in...  he is the Grandon of John G- and More McLean.
 
 ---
 
@@ -160,7 +160,7 @@ TBD
 
 * Charolette MacMicharl G  "Carol", at 1951 age 21, b. 1930, m. Derick R Thomson, d. 2017 (Linn Cemetary Glasgow)
 
-too modern to get records off scotlands people (have to wait to 2030).  Do we have any additional info on her parents?
+    * too recent to get records off Scotlands People (have to wait to 2030).  Do we have any additional info on her parents?
 
 ---
 
@@ -170,8 +170,8 @@ too modern to get records off scotlands people (have to wait to 2030).  Do we ha
 * Archibald G- (son of John above), d. 1916 age 71
 * [Elizabeth G-](/people/galbraith-elizabeth-1841.md), m. James Nicol Flemming
 
-Seems like more could be said here.
-Add correction to Campbeltown Whiskey
+    * Seems like more could be said here.
+    * Add correction to Campbeltown Whiskey
 
 ---
 
@@ -185,10 +185,9 @@ Add correction to Campbeltown Whiskey
 * [Archibald G-](/people/galbreath-archibald-1803.md), m. Margaret Loynachan.
 * [James Galbreath](/people/galbreath-james-abt-1775.md), m. Martha G
 
-Samuel - Can't find reference to Samuel being boring in Ugadale or in 1856.  His birth isn't in OPR or Statutory records.
+    * Samuel - Can't find reference to Samuel being boring in Ugadale or in 1856.  His birth isn't in OPR or Statutory records.
 He is listed in 1851 Census as being "0", so 1850 or 1851.   But all subsequent records have him in 1852-1856 range.
-
-James & Martha - lowland?
+    * James & Martha - are we sure they are lowland?
 
 ---
 
