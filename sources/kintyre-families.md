@@ -111,10 +111,10 @@ Her father was Donald Galbraith, but seems un-connected to Kintyre.
 
 * [Margaret McCallum G-](/people/galbraith-margaret-1916.md), d. 25 Nov 1931 (burns), age 15.  "her adoptive father was Archibald Gillies"
 
-Illigitable bith with father unknown.  Not orphaned.
-Middle name is suspect.  THe official records have "guesses"
-Not orphaned... mother Mary was around.
-She was a twin!  Can't find any info
+    ** Not orphaned, but illegitmate birth, with father unknown.  
+    ** Mother Mary is listed in Census with Archibald Gillies.
+    ** Middle name is suspect.  THe official records have McMillian, McCallum, and McNair.
+    ** She was a twin Jeannie!  Can't find any info however.
 
 ---
 
