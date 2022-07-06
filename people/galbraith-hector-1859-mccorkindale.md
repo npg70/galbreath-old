@@ -10,7 +10,7 @@ He married 27 Nov 1885 to **Mary McCorkindale**.
 
 Children of Hector and Mary (McCorkindale) Galbraith:
 
-1. *John McCorkindale Gakbraith*, b. 1886
+1. *John McCorkindale Galbraith*, b. 1886
 2. *Catherine Galbraith*, b. 1890
 3. *Charles McCorkindale Galbraith*, b. 1891
 4. *Margaret Galbraith*, b. 1893, d. 1964
