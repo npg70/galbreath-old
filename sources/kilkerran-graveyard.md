@@ -14,7 +14,7 @@ Galbraith: [24](#page-24), [36](#page-36)
 > Alexander McMillian and Mary Ann Galbraith, the grandparents of Glasgow-born playwright
 > Hector MacMillian -- **The Rising** (1970), **The Slash** (1973), etc. -- ... belonged to Campbeltown
 
-[Mary Ann Galbraith](/people/galbraith-mary-ann-1864-mcmillan.md), b. 1864 to Mary Galbraith and unknown father.
+[Mary Ann Galbraith](/people/galbraith-mary-ann-1864-macmillan.md), b. 1864 to Mary Galbraith and unknown father.
 
 ## Page 35
 
