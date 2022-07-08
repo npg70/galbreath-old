@@ -9,7 +9,7 @@ She married at Campbeltown 6 Jan 1896 to **Alexander MacMillan**, son of Robert 
 Children of Alexander and Mary Ann (Galbraith) MacMillian:
 
 1. *Robert Galbraith MacMillan*, b. 31 Mar 1899;  d. 7 April 1966;[^robert-death] m. 24 Mar 1923 *Christina Pater Lustie*
-    1. [Hector MacMillian](https://www.familysearch.org/tree/person/details/GXGJ-BL9) -- The Rising (1970), The Sash (1973), etc, b. 29 Sep 1929, d. 1 Apr 2018.[^hector-death][^grandparents]
+    1. [Hector MacMillian](https://www.familysearch.org/tree/person/details/GXGJ-BL9) -- Playwrite: The Rising (1970), The Sash (1973); b. 29 Sep 1929, d. 1 Apr 2018.[^hector-death][^grandparents]
 
 Her Mother:
 * The 1861 Census lists a Mary Galbraith, b. 1835, Dress maker, the daughter of Donald, windower and former "Hemp rackler" b. 1791[^census1861]
