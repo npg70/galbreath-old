@@ -1924,7 +1924,10 @@ TBD: [David Stewart Galbreath](/people/galbraith-david-stewart-1782.md)/ELIZABET
 
 ## 1832-07-05 Mary Galbreath
 
-TBD: DONALD GALBREATH/ANN MCMILLAN 
+[507/70 12 row 1](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358426?image=12)
+
+> Mary | Lawful daughter of **Donald Galbreath** laborer & **Ann McMillan**
+> was born 3rd & baptized 5th July 1832.  Named Mary.
 
 ## 1832-07-29 David Galbreath
 
@@ -1946,7 +1949,7 @@ TBD: [DAVID STEWART GALBREATH](/people/galbraith-david-stewart-1782.md) / ELIZAB
 
 [507/70 32 row 4](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357872?image=32)
 
-> William | Lawful son of [David Galbreath](/people/galbreath-david-1797.md), sawyer, & Janet Mitchell, was born 29 Sept & Bapt 2 Oct 1833. William
+> William | Lawful son of **[David Galbreath](/people/galbreath-david-1797.md)**, sawyer, & **Janet Mitchell**, was born 29 Sept & Bapt 2 Oct 1833. William
 
 ## 1833-11-28 Neill Galbreath
 
@@ -1970,7 +1973,7 @@ TBD: [David Galbreath](/people/galbreath-david-1797.md)/Janet Mitchell
 
 ## 1835-11-30 Martha Galbreath
 
-> Martha | Lawful daughter of [Archd Galbreath](/people/galbreath-archibald-1803.md) farmer Skerbolin and Eugina McCallum 
+> Martha | Lawful daughter of **[Archd Galbreath](/people/galbreath-archibald-1803.md)** farmer Skerbolin and **Eugina McCallum** 
 > was born 21st (27th ?) & bapt 30 Nov 1835
 
 ## 1836-11-15 Archibald Galbreath
@@ -1995,7 +1998,7 @@ TBD: [ARCHIBALD GALBREATH](/people/galbraith-archibald-1800.md)/BARBRA WILKINSON
 
 ## 1838-01-25 Ugenia Galbreath
 
-> Ugenia | Lawful daughter of [Arch Galbreath](/people/galbreath-archibald-1803.md) and Ugenia McCallum
+> Ugenia | Lawful daughter of **[Arch Galbreath](/people/galbreath-archibald-1803.md)** and **Ugenia McCallum**
 > in [Skerbolin?] was born [illegible] and bapt 25 Jan 1838
 
 ## 1838-11-28 Margaret Galbreath
@@ -2024,7 +2027,7 @@ THREE RECORDS GALBREATH (2) / GALBRAITH (1)
 
 [507/70 163 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358117?image=163)
 
-> Jane | Lawful daughter of [John Galbreath](/people/galbraith-john-1804.md) workman and Janet Watson
+> Jane | Lawful daughter of **[John Galbreath](/people/galbraith-john-1804.md)** workman and **Janet Watson**
 > was born the sixth and Baptized 22 Dec 1839
 
 Note: right above on same page is the same day baptism of Jane Patterson, daughter of James Patterson and Isabella Galbreath
@@ -2049,7 +2052,7 @@ TBD: [John Galbraith](/people/galbraith-john-1809.md) / Mary Coville McEwing
 
 [507/70 207 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357470?image=207)
 
-> James | Lawful son of [Arch Galbreath](/people/galbreath-archibald-1803.md) far[? farmer] Ugadale, and Margaret Loynachan
+> James | Lawful son of **[Arch Galbreath](/people/galbreath-archibald-1803.md)** far[? farmer] Ugadale, and **Margaret Loynachan**
 > was born twenty thrird September and baptized 7th Nov 1841
 
 ## 1841-12-05 Angus Galbreath
@@ -2064,8 +2067,8 @@ TBD: DUNCAN GALBREATH/MARY THOMSON
 
 [507/70 210 row 7](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357705?image=210)
 
-> Neill | Lawful son of [John Galbreath]/people/galbreath-john-1821.md) fisherman
-> and Margaret Cook was born eighteenth and bapt 30 Dec 1841
+> Neill | Lawful son of **[John Galbreath]/people/galbreath-john-1821.md)** fisherman
+> and **Margaret Cook** was born eighteenth and bapt 30 Dec 1841
 
 ## 1842-02-16 Isabella Galbreath
 
@@ -2077,20 +2080,20 @@ TBD: JOHN GALBREATH/MARGARET MCKECHNEY
 
 ## [1842-07-25 John Galbreath](/people/galbreath-john-1842.md)
 
-John | Lawful son of [David Galbreath](/people/galbreath-david-1797.md) Sawyer and Janet Mitchell born second and baptized 25 July 1842
+John | Lawful son of **[David Galbreath](/people/galbreath-david-1797.md)** Sawyer and **Janet Mitchell** born second and baptized 25 July 1842
 
 ## [1842-09-25 Archibald Galbreath](/people/galbreath-archibald-1842.md)
 
 [507/70 226 row 1](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357656?image=226)
 
-> Archibald | Lawful son of [John Galbreath](/people/galbreath-john-1815.md) laborer (location??) and Mary McTaggart
+> Archibald | Lawful son of **[John Galbreath](/people/galbreath-john-1815.md)** laborer (location??) and **Mary McTaggart**
 > was born twenty fifth August and Baptized 25 September 1842
 
 ## 1842-09-26 John Galbreath
 
 [507/70 226 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357656?image=226)
 
-> John | Lawful son of [John Galbreath](/people/galbraith-john-1804.md) workman and Janet Watson
+> John | Lawful son of **[John Galbreath](/people/galbraith-john-1804.md)** workman and **Janet Watson**
 > was born third and Baptized twentysixth September 1842
 
 ## 1843-05-29 Isabella Galbreath
@@ -2101,7 +2104,7 @@ TBD: NEIL GALBREATH/ELIZABETH BLUE
 
 [507/70 244 row 3](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357295?image=244)
 
-> Archibald | Lawful son of [Arch Galbreath](/people/galbreath-archibald-1803.md), farmer, Ugadale and Margaret Loynachan,
+> Archibald | Lawful son of **[Arch Galbreath](/people/galbreath-archibald-1803.md)**, farmer, Ugadale and **Margaret Loynachan**,
 > was born seventeeenth July & bapt. 13 Augt. 1843
 
 ## 1843-11-05 Mary Galbreath
@@ -2128,8 +2131,8 @@ Unclear why I recorded this one.
 
 [507/70 267 row 3](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357227?image=267)
 
-> Alexander - Lawful son of [John Galbreath](/people/galbreath-john-1815.md), laborer?
-> ???; and of Mary McTaggart
+> Alexander - Lawful son of **[John Galbreath](/people/galbreath-john-1815.md)**, laborer?
+> ???; and of **Mary McTaggart**
 > was born 6th July & baptized 4 Aug 1844
 
 ## 1844-08-25 William Galbreath
