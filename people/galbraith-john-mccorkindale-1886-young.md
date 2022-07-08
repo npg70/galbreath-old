@@ -3,10 +3,9 @@ title: John McCorkindale Galbraith b. 1866 m. Margaret Hardie Young
 familysearch: https://www.familysearch.org/tree/person/details/GZXY-NM9
 findagrave: https://www.findagrave.com/memorial/121012462/john-galbraith
 ---
-**John McCorkindale Galbraith**, son of , born in 1866.
+**John McCorkindale Galbraith**, son of *[Hector Galbraith](galbraith-hector-1859-mccorkindale.md)* and *Mary McCorkindale*, was born in 1866.
 
 He married at Southend 5 Jul 1917 to **Margaret Hardie Young**.  She died in 1964.
-
 
 Children of John and Margaret (Young) Galbraith:
 
