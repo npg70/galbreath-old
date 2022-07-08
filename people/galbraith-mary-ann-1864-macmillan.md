@@ -20,6 +20,6 @@ Her Mother:
   [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/10909689).  The record is hard to read but says she was 
   a domestic servant and something about "illegitamate [something]"
   
-[^census1861]: [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1861/0022162201(
+[^census1861]: [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1861/0022162201)
   
   
