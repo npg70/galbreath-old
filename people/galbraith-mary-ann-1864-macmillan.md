@@ -6,7 +6,7 @@ familysearch: https://www.familysearch.org/tree/person/details/M1TW-5H3
 
 She married at Campbeltown 6 Jan 1896 to **Alexander MacMillan**, son of Robert and Helen (name TBD).
 
-Grandparents of Glasgow-born playwright Hector MacMillian -- The Rising (1970), The Slash (1973), etc[^grandparents]
+Grandparents of Glasgow-born playwright Hector MacMillian -- The Rising (1970), The Slash (1973), etc, b. 29 Sep 1929, d. 1 Apr 2018.[^hector-death][^grandparents]
 
 Her Mother:
 * The 1861 Census lists a Mary Galbraith, b. 1835, Dress maker, the daughter of Donald, windower and former "Hemp rackler" b. 1791[^census1861]
@@ -25,3 +25,5 @@ Her Mother:
 [^census1861]: [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1861/0022162201)
   
 [^grandparents]: From [Kilkerran Graveyard](/sources/kilkerran-graveyard.md#page-24)
+
+[^hector-death]:  via [HeraldScotland](https://www.heraldscotland.com/opinion/16161208.obituary---hector-macmillan-playwright-author-luthier-known-sash/)
