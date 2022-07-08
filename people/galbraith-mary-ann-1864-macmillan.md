@@ -6,7 +6,7 @@ familysearch: https://www.familysearch.org/tree/person/details/M1TW-5H3
 
 She married at Campbeltown 6 Jan 1896 to **Alexander MacMillan**, son of Robert and Helen (name TBD).
 
-Grandparents of Glasgow-born playwright Hector MacMillian -- The Rising (1970), The Sash (1973), etc, b. 29 Sep 1929, d. 1 Apr 2018.[^hector-death][^grandparents]
+Grandparents of Glasgow-born playwright [Hector MacMillian](https://www.familysearch.org/tree/person/details/GXGJ-BL9) -- The Rising (1970), The Sash (1973), etc, b. 29 Sep 1929, d. 1 Apr 2018.[^hector-death][^grandparents]
 
 Children of Alexander and Mary Ann (Galbraith) MacMillian:
 
