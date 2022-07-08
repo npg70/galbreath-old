@@ -8,6 +8,10 @@ She married at Campbeltown 6 Jan 1896 to **Alexander MacMillan**, son of Robert 
 
 Grandparents of Glasgow-born playwright Hector MacMillian -- The Rising (1970), The Sash (1973), etc, b. 29 Sep 1929, d. 1 Apr 2018.[^hector-death][^grandparents]
 
+Children of Alexander and Mary Ann (Galbraith) MacMillian:
+
+1. *Robert Galbraith MacMillan*, TBD, father of Hector above, m. *Chrissie*
+
 Her Mother:
 * The 1861 Census lists a Mary Galbraith, b. 1835, Dress maker, the daughter of Donald, windower and former "Hemp rackler" b. 1791[^census1861]
 * There is [Mary Galbreath](/sources/opr-campbeltown-births.md#1832-07-05-mary-galbreath) born to Donald Galbreatha & Ann McMillan, can't find a sister Margaret however.
