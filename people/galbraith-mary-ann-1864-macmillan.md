@@ -24,5 +24,4 @@ Her Mother:
   
 [^census1861]: [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1861/0022162201)
   
-  
-[^grandparents]: 
+[^grandparents]: From [Kilkerran Graveyard](/sources/kilkerran-graveyard.md#page-24)
