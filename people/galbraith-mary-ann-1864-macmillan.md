@@ -1,5 +1,6 @@
 ---
 title: Mary Ann Galbraith b. 1864 m. Alexander MacMillan
+familysearch: https://www.familysearch.org/tree/person/details/M1TW-5H3
 ---
 ***Mary Ann Galbraith***, daughter of *Mary Galbreath* and an unknown father, was born Campbeltown 20 Aug 1864.[^birth]
 
