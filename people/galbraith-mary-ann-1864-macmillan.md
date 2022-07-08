@@ -4,13 +4,12 @@ familysearch: https://www.familysearch.org/tree/person/details/M1TW-5H3
 ---
 ***Mary Ann Galbraith***, daughter of *Mary Galbreath* and an unknown father, was born Campbeltown 20 Aug 1864.[^birth]
 
-She married at Campbeltown 6 Jan 1896 to **Alexander MacMillan**, son of Robert and Helen (name TBD).
-
-Grandparents of Glasgow-born playwright [Hector MacMillian](https://www.familysearch.org/tree/person/details/GXGJ-BL9) -- The Rising (1970), The Sash (1973), etc, b. 29 Sep 1929, d. 1 Apr 2018.[^hector-death][^grandparents]
+She married at Campbeltown 6 Jan 1896 to **Alexander MacMillan**, son of Robert and Helen (name TBD).  He was a coal miner.
 
 Children of Alexander and Mary Ann (Galbraith) MacMillian:
 
-1. *Robert Galbraith MacMillan*, TBD, father of Hector above, m. *Chrissie*
+1. *Robert Galbraith MacMillan*, b. 31 Mar 1899;  d. 7 April 1966;[^robert-death] m. 24 Mar 1923 *Christina Pater Lustie*
+    1. [Hector MacMillian](https://www.familysearch.org/tree/person/details/GXGJ-BL9) -- The Rising (1970), The Sash (1973), etc, b. 29 Sep 1929, d. 1 Apr 2018.[^hector-death][^grandparents]
 
 Her Mother:
 * The 1861 Census lists a Mary Galbraith, b. 1835, Dress maker, the daughter of Donald, windower and former "Hemp rackler" b. 1791[^census1861]
@@ -31,3 +30,7 @@ Her Mother:
 [^grandparents]: From [Kilkerran Graveyard](/sources/kilkerran-graveyard.md#page-24)
 
 [^hector-death]:  via [HeraldScotland](https://www.heraldscotland.com/opinion/16161208.obituary---hector-macmillan-playwright-author-luthier-known-sash/)
+
+[^robert-marriage]: Statutory records of Cambuslang, Lanark; 1923 MACMILLAN, ROBERT (Statutory registers Marriages 627/ 43); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/9343360)
+
+[^robert-death]: 1966 MACMILLAN, ROBERT GALBRAIT (Statutory registers Deaths 644/2 334); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/11777868)
