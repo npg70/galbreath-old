@@ -14,6 +14,8 @@ Galbraith: [24](#page-24), [36](#page-36)
 > Alexander McMillian and Mary Ann Galbraith, the grandparents of Glasgow-born playwright
 > Hector MacMillian -- **The Rising** (1970), **The Slash** (1973), etc. -- ... belonged to Campbeltown
 
+[Mary Ann Galbraith](/people/galbraith-mary-ann-1864-mcmillan.md), b. 1864 to Mary Galbraith and unknown father.
+
 ## Page 35
 
 (in the McBain section):
@@ -22,5 +24,5 @@ Galbraith: [24](#page-24), [36](#page-36)
 > were the parents of Neil McBain, the most successfull footballer Campbeltown has yet produced,
 >though since hs father was an 'incomer' and his mother apparently from Carradale...
 
-[Marth Galbraith](/people/galbraith-martha-1867-mcbain.md), daughter of a [Neil Galbraith](/people/galbraith-neil-1841.md) and Martha Stewart, born 1867.
+[Martha Galbraith](/people/galbraith-martha-1867-mcbain.md), daughter of a [Neil Galbraith](/people/galbraith-neil-1841.md) and Martha Stewart, born 1867.
 
