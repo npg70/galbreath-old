@@ -33,9 +33,9 @@ Children of Archibald and Margaret (Loynachan) Galbreath:[^oprchildren2]
 - A possible male decendant on [Ancestry.com](https://www.ancestry.com/family-tree/person/tree/152980265/person/292028280873/facts)
 - Stuff on Eugina: http://clark-debisschop.co.uk/tng/getperson.php?personID=I8117&tree=Clark
 
-[^birth]: OPR record for [Archibald Galbreath](/sources/opr-campbeltown-births.md#1803-09-11-archibald-galbreath)
+[^birth]: OPR Campbeltown; baptism of [Archibald Galbreath](/sources/opr-campbeltown-births.md#1803-09-11-archibald-galbreath)
 
-[^marriage1a]: OPR Kilcalmonell; [ScotlandsPeople]()
+[^marriage1a]: OPR Kilcalmonell; 28/02/1835 GALBRAITH, ARCHIBALD (Old Parish Registers Marriages 516/ 20 248 Kilcalmonell and Kilberry) Page 248 of 405; [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/8088015?image=248)
     > 28 February 1835
     >
     > Which day were booked in order to marriage
@@ -44,7 +44,7 @@ Children of Archibald and Margaret (Loynachan) Galbreath:[^oprchildren2]
     > Archibald Galbraith Tacksman of Skirbeen[?]
     > in the parish of Campbeltown
  
-[^marriage1b]: OPR Campbeltown; 05/03/1835 GALBREATH, ARCHIBALD (Old Parish Registers Marriages 507/ 60 322 Campbeltown) Page 322 of 478; [ScotlandsPeople]()
+[^marriage1b]: OPR Campbeltown; 05/03/1835 GALBREATH, ARCHIBALD (Old Parish Registers Marriages 507/ 60 322 Campbeltown) Page 322 of 478; [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/9530912?image=322)
     > Archibald Galbreath farmer, of this parish & Eugina
     > McCallum of Kilcalmonnel were married 5 June [1835]
 
