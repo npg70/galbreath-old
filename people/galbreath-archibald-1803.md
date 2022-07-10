@@ -35,6 +35,10 @@ Children of Archibald and Margaret (Loynachan) Galbreath:[^oprchildren2]
 
 [^birth]: OPR record for [Archibald Galbreath](/sources/opr-campbeltown-births.md#1803-09-11-archibald-galbreath)
 
+[^marriage1]: OPR Campbeltown; 05/03/1835 GALBREATH, ARCHIBALD (Old Parish Registers Marriages 507/ 60 322 Campbeltown) Page 322 of 478; [ScotlandsPeople]()
+    > Archibald Galbreath farmer, of this parish & Eugina
+    > McCallum of Kilcalmonel were married 5 June [1835]
+
 [^marriage1]: OPR Campbeltown, marriage of GALBREATH ARCHIBALD & EUGINA MCCALLUM, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=M&record_type%5B0%5D=opr_marriages&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-banns-marriages&surname=galbreath&surname_so=fuzzy&forename=archibald&forename_so=starts&sex=M&spouse_name=mccallum&spouse_name_so=exact&from_year=1830&to_year=1840&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches). However there is another record in Kilcalmonell and Kilberry a week earlier with the same names, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=M&record_type%5B0%5D=opr_marriages&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-banns-marriages&surname=McCallum&surname_so=fuzzy&forename=eu&forename_so=starts&spouse_name_so=exact&from_year=1835&to_year=1835&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
 
 [^marriage2a]: Southend OPR, marriage record for Archibald Galbreath and "MARGARET LYNACHAN"; 25/08/1839 GALBRAITH, ARCHIBALD (Old Parish Registers Marriages 532/ 20 164 Southend) Page 164 of 176; [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/8088022?image=164)
