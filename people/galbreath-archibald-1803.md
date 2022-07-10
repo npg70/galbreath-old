@@ -8,7 +8,7 @@ He married first at Kilcalconell 28 Feb 1835[^marriage1a] (and again at Campbelt
 
 He married second at Southend 25 Aug 1839[^marriage2a] (with a second ceremony a year later at Campbeltown 25 Aug 1840[^marriage2b]) to **Margaret Loynachan**, born 24 Aug 1821, South End, Argyll, Scotland, daughter of Neil Loynachan farmer and Margaret Brodie. She died at Dumbarton, 14 Nov 1886.[^loynachan-death]
 
-His marrage to Eugina in 1835 listed him as a Tacksman in Skerbolin.[^marriage1a] The 1841 and 1851 census listed him as farmer[^census1841][^census1851], however there after until his death he was  _flesher_ or butcher.[^census1861][^census1871][^census1881][^james-death]
+His marrage to Eugina in 1835 listed him as a Tacksman in Skerbolin.[^marriage1a] The 1841 Census listed him as farmer,[^census1841] however there after until his death he was  _flesher_ or butcher.[^census1851][^census1861][^census1871][^census1881][^james-death]
 
 Children of Archibald and Eugina (McCallum) Galbreath, both in Campbeltown:[^oprchildren1]
 
@@ -63,7 +63,7 @@ Children of Archibald and Margaret (Loynachan) Galbreath:[^oprchildren2]
 
 [^census1841-eugina]: The 1841 Census for Ardlammy, Gigha, Argyllshire, Scotland lists a Eugina Galbreath, age 3, living in McCallum household, which certainly matches the timeline.  Transcript available on [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1841/0016666302&expand=true).
 
-[^census1851]: The 1851 Census on [FamilySearch](https://www.familysearch.org/ark:/61903/1:1:VYYQ-41Z).  Lists wife, along with _Martha_, _James_, _Archibald_, _Niel_, and _Samuel_ age 0.
+[^census1851]: The 1851 Census on [FamilySearch](https://www.familysearch.org/ark:/61903/1:1:VYYQ-41Z).  Lists wife, along with _Martha_, _James_, _Archibald_, _Niel_, and _Samuel_ age 0.  Archibald is listed a farmer, but the original on ScotlandsPeople looks more like Flesher.
 
 [^census1861]: The 1861 Census on [FamilySearch](https://www.familysearch.org/ark:/61903/1:1:VB78-LLK), Lists _James_ as age 17, _Samuel_ as age 9, along with _Margaret_ (age 7), _Agnes_, _John_.
 
