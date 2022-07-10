@@ -189,7 +189,8 @@ Isabella may 1843-05-29 Isabella Galbreath, daughter of Neil and Elizabeth Blue
 
 ## 507-3-18
 
-81 Saddell Street
+81 Saddell Street, Campbeltown
+
 [1851 GALBRAITH, MARGRET (Census 507/ 3/ 18) Page 18 of 31](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015085?image=18)
 
 | Name             | Relation | Age  | Occupation | Birthplace |
