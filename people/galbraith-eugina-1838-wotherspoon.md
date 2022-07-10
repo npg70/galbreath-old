@@ -3,7 +3,7 @@ title: Eugina Galbraith b. 1838 m. James Wotherspoon
 familysearch: https://www.familysearch.org/tree/person/details/KHTP-W5D
 findagrave: https://www.findagrave.com/memorial/115118723/james-wotherspoon
 ---
-***Eugina Galbraith**, daughter of *[Archibald Galbreath](galbreath-archibald-1803.md)* and
+***Eugina Galbraith***, daughter of *[Archibald Galbreath](galbreath-archibald-1803.md)* and
 *Eugina McCallum*, was baptized at Campbeltown 25 Jan 1838.[^birth]
 She died at Clachan 5 Oct 1920[^death] and buried at Kilchattan Old Graveyard in Gigha[^burial].
 
