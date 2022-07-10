@@ -8,7 +8,7 @@ He married first at Kilcalconell 28 Feb 1835[^marriage1a] (and again at Campbelt
 
 He married second at Southend 25 Aug 1839[^marriage2a] (with a second ceremony a year later at Campbeltown 25 Aug 1840[^marriage2b]) to **Margaret Loynachan**, born 24 Aug 1821, South End, Argyll, Scotland, daughter of Neil Loynachan farmer and Margaret Brodie. She died at Dumbarton, 14 Nov 1886.[^loynachan-death]
 
-His marrage to Eugina listed him as a Tacksman in Skerbolin.[^marriage1a] The 1841 and 1851 census listed him as farmer[^census1841][^census1851], however there after until his death he was  _flesher_ or butcher.[^census1861][^census1871][^census1881][^james-death]
+His marrage to Eugina in 1835 listed him as a Tacksman in Skerbolin.[^marriage1a] The 1841 and 1851 census listed him as farmer[^census1841][^census1851], however there after until his death he was  _flesher_ or butcher.[^census1861][^census1871][^census1881][^james-death]
 
 Children of Archibald and Eugina (McCallum) Galbreath, both in Campbeltown:[^oprchildren1]
 
