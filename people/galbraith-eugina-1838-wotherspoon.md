@@ -11,6 +11,10 @@ She married 24 Apr 1866[^marriage] to **James Wotherspoon**.
 
 Her mother likely died due to complications of childbirth, and her father gave the baby to a McCallum family in Gigha.[^census1841]
 
+The 1851 Census, lists Eugina (age 13, b. 1838, from "Kirkcuslen") as being the neice of William McCallum (age 32, b 1819 in Kilcolmkill) in Ardlamy, Gigha.[^census1851].  In 1861 she older sister Martha joined the household.[^census1861]
+
+
+
 - Stuff on Eugina: http://clark-debisschop.co.uk/tng/getperson.php?personID=I8117&tree=Clark
 
 [^birth]: OPR Campbeltown, baptism of [Ugenia Galbreath]()
@@ -22,3 +26,7 @@ Her mother likely died due to complications of childbirth, and her father gave t
 [^marriage]: Statutory records of Gigha, Argyll; 1866 WOTHERSPOON, JAMES (Statutory registers Marriages 537/ 1); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/12332387)
 
 [^census1841]: The 1841 Census for Ardlammy, Gigha, Argyllshire, Scotland lists a Eugina Galbreath, age 3, living in McCallum household, which certainly matches the timeline.  Transcript available on [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1841/0016666302&expand=true).
+
+[^census1851]: Census 1851, Ardalamy Gigha, on [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1851/0019321636)
+
+[^census1861]: Census 1861, Ardalamy, Gigha, on [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1861/0022539221)
