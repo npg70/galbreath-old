@@ -2080,7 +2080,8 @@ TBD: JOHN GALBREATH/MARGARET MCKECHNEY
 
 ## [1842-07-25 John Galbreath](/people/galbreath-john-1842.md)
 
-John | Lawful son of **[David Galbreath](/people/galbreath-david-1797.md)** Sawyer and **Janet Mitchell** born second and baptized 25 July 1842
+> John | Lawful son of **[David Galbreath](/people/galbreath-david-1797.md)** Sawyer and **Janet Mitchell**
+> born second and baptized 25 July 1842
 
 ## [1842-09-25 Archibald Galbreath](/people/galbreath-archibald-1842.md)
 
@@ -2139,7 +2140,7 @@ Unclear why I recorded this one.
 
 [507/70 268 row 10](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357844?image=268)
 
-> William | Lawful son of [Peter Galbreath](/people/galbraith-peter-1811.md), Laborer and Sarah Armour
+> William | Lawful son of **[Peter Galbreath](/people/galbraith-peter-1811.md)**, Laborer and **Sarah Armour**
 > was born 27 July and baptized 25 Augst 1844
 
 ## 1844-12-22 Donald Galbreath
@@ -2150,14 +2151,14 @@ TBD: ARCHIBALD GALBREATH/ANN MCFARLANE
 
 [507/70 284 row 3](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358146?image=284)
 
-> Janet | Lawful daughter of [John Galbreath](/people/galbraith-john-1804.md) workman and Janet Watson
+> Janet | Lawful daughter of **[John Galbreath](/people/galbraith-john-1804.md)** workman and **Janet Watson**
 > was born 26th April and Baptized 25th May 1845
 
 ## 1845-06-15 Neill Galbreath
 
 [507/70 285 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357704?image=285)
 
-> Neill | | Lawful son of [Arch Galbreath](/people/galbreath-archibald-1803.md), farmer, Ugadale and Margt. Loynachan,
+> Neill | Lawful son of **[Arch Galbreath](/people/galbreath-archibald-1803.md)**, farmer, Ugadale and **Margt. Loynachan**,
 > was born 20th May & bapt. 15 June 1845
 
 ## 1845-06-29 Margaret Galbreath
@@ -2192,14 +2193,14 @@ TBD: DUNCAN GALBREATH/MARY THOMSON
 
 [507/70 306 row 12](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357318?image=306)
 
-> Archibald | Lawful son of [Peter Galbreath](/people/galbraith-peter-1811.md) workman and Sarah Armour was born 7 June
+> Archibald | Lawful son of **[Peter Galbreath](/people/galbraith-peter-1811.md)** workman and **Sarah Armour** was born 7 June
 > and baptized 12 July 1846.
  
 ## 1847-11-01 Agnes Galbreath
 
 [507/70 327 row 13](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357898?image=327)
 
-> Agnes| | Lawful Daughter of [Archibald Galbreath](/people/galbreath-archibald-1803.md) ??? ??? and Margaret Loynachan,
+> Agnes| | Lawful Daughter of **[Archibald Galbreath](/people/galbreath-archibald-1803.md)** ??? ??? and **Margaret Loynachan**,
 > was born 25th September. Baptized 1st November 1847
 
 ## 1847-11-15 Isabella Galbreath
@@ -2214,14 +2215,14 @@ TBD: [JOHN GALBREATH](/people/galbreath-john-1815.md)/MARY MCTAGGART
 
 [507/70 329 row 4](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358145?image=329)
 
-> Janet | Lawful daughter of [John Galbreath](/people/galbraith-john-1804.md) workman and Janet Watson
+> Janet | Lawful daughter of **[John Galbreath](/people/galbraith-john-1804.md)** workman and **Janet Watson**
 > born 13th ??? Baptized 19th December 1847
 
 ## 1847-12-20 Archibald Galbraith
 
 [507/70 329 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357280?image=329)
 
-> Archibald | Lawful son of [Donald Galbreath](/people/galbreath-donald-1804-flora-smith.md) (Grasier????) and Flora Smith
+> Archibald | Lawful son of **[Donald Galbreath](/people/galbreath-donald-1804-flora-smith.md)** (Grasier????) and **Flora Smith**
 > born 8th and Baptized 20th December 1847
 
 ## 1848-01-25 Agnes Galbreath
@@ -2244,15 +2245,15 @@ TBD: [WILLIAM GALBREATH](/people/galbraith-william-1815.md)/GRACE GLASS
 
 [507/70 342 row 9](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358262?image=342)
 
-> Margaret | Lawful daughter of Alexander Galbreath, Farm Servant, and
-> Elizabeth McCallaskey, born 20th September and Baptized 15th October 1848
+> Margaret | Lawful daughter of **Alexander Galbreath**, Farm Servant, and
+> **Elizabeth McCallaskey**, born 20th September and Baptized 15th October 1848
 
 ## 1848-10-18 John Galbreath
 
 [507/70 342 row 9](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358262?image=342)
 
-> John | Lawful son of [John Galbreath](/people/galbreath-john-1821.md), Seaman Dalintober, and
-> Margaret Cook, born [day missing] April and Baptized 18th October 1848
+> John | Lawful son of **[John Galbreath](/people/galbreath-john-1821.md)**, Seaman Dalintober, and
+> **Margaret Cook**, born [day missing] April and Baptized 18th October 1848
 
 ## 1848-11-19 Daniel Galbraith
 
@@ -2266,7 +2267,7 @@ TBD: NEIL GALBRAITH/FLORA MCNEAL
 
 [507/70 350 row 9](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358114?image=350)
 
-> Jane | Lawful Daughter of [Peter Galbreath](/people/galbraith-peter-1811.md) Workman and Sarah Armour born 19th February
+> Jane | Lawful Daughter of **[Peter Galbreath](/people/galbraith-peter-1811.md)** Workman and **Sarah Armour** born 19th February
 > and baptized 25th Marc 1849
 
 ## 1849-12-26 Margaret Galbraith
