@@ -1323,7 +1323,7 @@ TBD: **[James Galbreath](/people/galbreath-james-1768-jean-harvey.md)**  **Jean 
 
 [507/40 172 row 7](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357297?image=172)
 
-> Archibald | [David Galbreath](/people/galbreath-david-1755.md) & Mary Fleemin in Ardencross had
+> Archibald | **[David Galbreath](/people/galbreath-david-1755.md)** & **Mary Fleemin** in Ardencross had
 > a lawful son born 27th baptized 30th. The childs name is Archibald.
 
 ## 1798-10-20 Martha Galbreath
@@ -1338,7 +1338,7 @@ TBD: Neil Galbreath / Mary McViccar
 
 [507/ 40 180 row 3](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357247?image=180)
 
-> Andrew | [Archibald Galbreath](/people/galbreath-archibald-1760.md) & Jean Corbet had a lawful
+> Andrew | **[Archibald Galbreath](/people/galbreath-archibald-1760.md)** & **Jean Corbet** had a lawful
 > son born 6th baptized 10th, the Childs name is Andrew.
 
 ## 1799-06-26 Mary Galbreath
@@ -1355,7 +1355,7 @@ TBD: NEIL GALBREATH/MARGARET GALBREATH
 
 [507/40 197 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358384?image=197)
 
->  Martha | [Samuel Galbreath](/people/galbreath-samuel-1765.md) and Janet Langwill in Drumlesnell[sic]
+>  Martha | **[Samuel Galbreath](/people/galbreath-samuel-1765.md)** and **Janet Langwill** in Drumlesnell[sic]
 >  had a lawful dat. born 24th baptized 26th Feb. [1800] named Martha
 
 ## 1800-02-28 Florance Molloy
@@ -1391,14 +1391,14 @@ TBD: NEIL GALBREATH/GRIZELL TAYLOR
 
 [507/40 19 row 16](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358131?image=219)
 
-> Janet | [James Galbreath](/people/galbreath-james-abt-1775.md) & Martha Galbreath Skerbolin 
+> Janet | **[James Galbreath](/people/galbreath-james-abt-1775.md)** & **Martha Galbreath** Skerbolin 
 > had a lawful Dau Born 30th Baptized 31st named Janet
 
 ## 1802-03-16 Alexander Galbreath
 
 [507/40 225 row 20 ](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357219?image=225)
 
-> Alexander | [David Galbreath](/people/galbreath-david-1755.md) & Mary Fleeming [??? Arndacross] had a 
+> Alexander | **[David Galbreath](/people/galbreath-david-1755.md)** & **Mary Fleeming** [??? Arndacross] had a 
 > son born 12th baptized 16th named Alexander 
 
 ## 1802-04-22 John Galbreath
@@ -1620,7 +1620,7 @@ TBD: [Neill Galbreath](/people/galbraith-neil-1788.md) / Mary MacMillan
 
 [507/20 149 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357765?image=149), note William Galbreath/Janet Campbell above.  Not twins, but different people, in different books.
 
-> Robert | Lawful son to [William Galbreath](/people/galbreath-william-1780.md) & Jean Campbell. Born 30th & Baptized 31th May 1811
+> Robert | Lawful son to **[William Galbreath](/people/galbreath-william-1780.md)** & **Jean Campbell**. Born 30th & Baptized 31th May 1811
 
 ## 1811-08-25 Rachel Galbreath
 
@@ -1704,7 +1704,7 @@ TBD: NEILL GALBREATH/MORE BROWN
 
 [507/40 432 row 11](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357852?image=432)
 
-> William | Lawful son to [William Galbreath](/people/galbreath-william-1780.md) Farmer Laggan and Jean Campbell born 19th. Baptized 21st July 1815.  Named William
+> William | Lawful son to **[William Galbreath](/people/galbreath-william-1780.md)** Farmer Laggan and **Jean Campbell** born 19th. Baptized 21st July 1815.  Named William
 
 ## 1816-04-13 Jean Galbreath
 
@@ -1721,7 +1721,7 @@ TBD: HUGH GALBREATH/CHRISTIAN MACDONALD
 
 [507/40 449 row 9](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357713?image=449)
 
-> Niel | Lawful son to [Archibald Galbreath](/people/galbreath-archibald-1798.md) Fisher Dalintober and Margaret MacMillan. Born 17th. Baptized 18th Aug 1816 named Niel
+> Niel | Lawful son to **[Archibald Galbreath](/people/galbreath-archibald-1798.md)** Fisher Dalintober and **Margaret MacMillan**. Born 17th. Baptized 18th Aug 1816 named Niel
 
 ## 1817-01-14 Effy Galbreath
 
@@ -1800,14 +1800,14 @@ TBD: [DAVID GALBREATH](/people/galbreath-david-1793.md)/MARY GREENLEES
 
 [507/60 30 row 2](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357635?image=30)
 
-> John | Lawful son of [Archd Galbreath](/people/galbreath-archibald-1798.md) Fisherman Dalitober & Mary McMillan
+> John | Lawful son of **[Archd Galbreath](/people/galbreath-archibald-1798.md)** Fisherman Dalitober & **Mary McMillan**
 > born 30th Jan & bapt 2nd Feb 1821. John
 
 ## 1821-03-13 Mary Galbreath
 
 [507/60 31 row 11](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358436?image=31)
 
-> Mary | Lawful ~Son~ Dau of [James Galbreath](/people/galbreath-james-abt-1775.md) Farmer Skerbolin and Martha Galbreath
+> Mary | Lawful ~Son~ Dau of **[James Galbreath](/people/galbreath-james-abt-1775.md)** Farmer Skerbolin and **Martha Galbreath**
 > Both 12th & Bapts 13th March 1831. Mary.
 
 ## 1821-04-19 Mary Galbreath
@@ -1854,8 +1854,8 @@ TBD: JOHN GALBREATH/JEAN MCINNES
 
 [507/60 108 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357269?image=108)
 
-> Archibald | Lawful son of [David Galbreath](/people/galbreath-david-1797.md) sawyer and
-> Janet Mitchell was born 7th & bapt 10th July. Arch
+> Archibald | Lawful son of **[David Galbreath](/people/galbreath-david-1797.md)** sawyer and
+> **Janet Mitchell** was born 7th & bapt 10th July. Arch
 
 ## 1825-12-22 Janet Galbreath
 
@@ -1865,8 +1865,8 @@ TBD: [NEILL GALBREATH](/people/galbraith-neil-1788.md)/MARY MCMILLAN
 
 [507/60 137 row 8](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357778?image=137)
 
-> Samuel | Lawful son of [David Galbreath](/people/galbreath-david-1797.md) sawyer and
-> Janet Mitchell was born & bapt 14 Jan 1827. Samuel
+> Samuel | Lawful son of **[David Galbreath](/people/galbreath-david-1797.md)** sawyer and
+> **Janet Mitchell** was born & bapt 14 Jan 1827. Samuel
 
 ## 1827-04-12 John Galbreath
 
@@ -1949,7 +1949,7 @@ TBD: [DAVID STEWART GALBREATH](/people/galbraith-david-stewart-1782.md) / ELIZAB
 
 [507/70 32 row 4](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357872?image=32)
 
-> William | Lawful son of **[David Galbreath](/people/galbreath-david-1797.md)**, sawyer, & **Janet Mitchell**, was born 29 Sept & Bapt 2 Oct 1833. William
+> William | Lawful son of **[David Galbreath](/people/galbreath-david-1797.md)**, sawyer,n& **Janet Mitchell**, was born 29 Sept & Bapt 2 Oct 1833. William
 
 ## 1833-11-28 Neill Galbreath
 
@@ -2067,7 +2067,7 @@ TBD: DUNCAN GALBREATH/MARY THOMSON
 
 [507/70 210 row 7](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357705?image=210)
 
-> Neill | Lawful son of **[John Galbreath]/people/galbreath-john-1821.md)** fisherman
+> Neill | Lawful son of **[John Galbreath](/people/galbreath-john-1821.md)** fisherman
 > and **Margaret Cook** was born eighteenth and bapt 30 Dec 1841
 
 ## 1842-02-16 Isabella Galbreath
