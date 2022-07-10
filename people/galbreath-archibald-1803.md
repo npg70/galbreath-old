@@ -13,7 +13,7 @@ His marrage to Eugina in 1835 listed him as a Tacksman in Skerbolin.[^marriage1a
 Children of Archibald and Eugina (McCallum) Galbreath, both in Campbeltown:[^oprchildren1]
 
 1. *Martha Galbreath*, bp. 30 Nov 1835[^martha-birth], d. 9 Jul 1922 Campbeltown, unmarried.[^martha-death]
-2. *Eugina Galbreath*, bp. 25 Jan 1838,[^eugenia-birth], d. 5 Oct 1920, Burnside Cottages, Cladan, Kintyre, m. *James Wotherspoon*[^eugenia-death]
+2. *[Eugina Galbreath](/galbraith-eugina-1838-wotherspoon.md)*, bp. 25 Jan 1838,[^eugenia-birth], m. *James Wotherspoon*
 
 Children of Archibald and Margaret (Loynachan) Galbreath:[^oprchildren2]
 
@@ -31,7 +31,6 @@ Children of Archibald and Margaret (Loynachan) Galbreath:[^oprchildren2]
 - FamilySearch has another record that has info: https://www.familysearch.org/tree/person/details/K83Z-DGR
 - Female decendant on [Ancestry.com](https://www.ancestry.com/family-tree/person/tree/5282753/person/130071167317/facts)
 - A possible male decendant on [Ancestry.com](https://www.ancestry.com/family-tree/person/tree/152980265/person/292028280873/facts)
-- Stuff on Eugina: http://clark-debisschop.co.uk/tng/getperson.php?personID=I8117&tree=Clark
 
 [^birth]: OPR Campbeltown; baptism of [Archibald Galbreath](/sources/opr-campbeltown-births.md#1803-09-11-archibald-galbreath)
 
@@ -84,8 +83,6 @@ Children of Archibald and Margaret (Loynachan) Galbreath:[^oprchildren2]
 [^martha-death]: Civil Records of Campbeltown, Argyll, 1922 GALBRAITH, MARTHA (Statutory registers Deaths 507/ 92), [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/7620649).  Occupation is illegible, father was a farmer, a cousin James (last name illegible) was present.
 
 [^eugenia-birth]: OPR Campbeltown, record of baptism of [Ugenia Galbreath](/sources/opr-campbeltown-births.md#1838-01-25-ugenia-galbreath)
-
-[^eugenia-death]: Civil records of Kilcalmonel, Argyll, Scotland, 1920 WOTHERSPOON, EUGENIA (Statutory registers Deaths 516/ 6), [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/7510900).  List father as a Archibald Galbreath, butcher, deceased and mother as Eugeina Galbraith, M.S. Wynne(?) McCallum.  Unclear if that's two maiden names or what.
 
 [^birth-james]: OPR Campbeltown, record of baptism of [James Galbreath](/sources/opr-campbeltown-births.md#1841-11-07-james-galbreath)
 
