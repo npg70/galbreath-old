@@ -49,6 +49,10 @@ Children of Archibald and Margaret (Loynachan) Galbreath:[^oprchildren2]
     > McCallum of Kilcalmonnel were married 5 June [1835]
 
 [^marriage2]: OPR Campbeltown, marriage of GALBREATH ARCHIBALD & EUGINA MCCALLUM, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=M&record_type%5B0%5D=opr_marriages&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-banns-marriages&surname=galbreath&surname_so=fuzzy&forename=archibald&forename_so=starts&sex=M&spouse_name=mccallum&spouse_name_so=exact&from_year=1830&to_year=1840&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches).
+    > Archibald Galbreath farmer Ugadale of this parish and
+    > Margaret Loynochan daughter of the late
+    > Neil Loynochan farmer Edan[?] Southend Parish
+    > were married twentyfifth Aigust 1840
 
 [^marriage2a]: Southend OPR, marriage record for Archibald Galbreath and "MARGARET LYNACHAN"; 25/08/1839 GALBRAITH, ARCHIBALD (Old Parish Registers Marriages 532/ 20 164 Southend) Page 164 of 176; [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/8088022?image=164)
     > Aug 22nd Archibald Galbraith of Campbeltown Parish and
