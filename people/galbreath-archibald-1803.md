@@ -93,16 +93,16 @@ Children of Archibald and Margaret (Loynachan) Galbreath:[^oprchildren2]
 
 [^neil-birth]: OPR Campbeltown, record of baptism of [Neil Galbreath](/sources/opr-campbeltown-births.md#1845-06-15-neill-galbreath)
 
-[^neil-death]: Civil Records of Dumbarton, 1909 GALBRAITH, NEIL (Statutory registers Deaths 496/ 308), [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/6133681).  Listed as "riviter (journeyman)", Father as "Archibald Galbraith flesher deceased", and mother misindexed as "Margaret Lunachan".  Wife "Margaret" was present (but unclear which one).
+[^neil-death]: Statutory Records of Dumbarton; 1909 GALBRAITH, NEIL (Statutory registers Deaths 496/ 308); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/6133681).  Listed as "riviter (journeyman)", Father as "Archibald Galbraith flesher deceased", and mother misindexed as "Margaret Lunachan".  Wife "Margaret" was present (but unclear which one).
 
 [^birth-agnes1]: OPR Campbeltown, record of baptism of [Agnes Galbreath](/sources/opr-campbeltown-births.md#1847-11-01-agnes-galbreath)
 
 [^birth-margaret]: TODO [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/1876?image=416).  Misindexed mothers name [search](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=fuzzy&forename_so=starts&from_year=1853&to_year=1853&parent_names=arch&parent_names_so=starts&parent_name_two_so=exact&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
 
-[^agnes2-birth]: Birth of *Agnes Galbraith* from Statuatory Records on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/38691865). Contains many details such age ages of parents, year and location of marriage, current location.
+[^agnes2-birth]: Statutory records of Southend, Argyll; 1855 GALBRAITH, AGNES (Statutory registers Births 507/1 65); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/38691865). Contains many details such age ages of parents, year and location of marriage, current location.
 )
 
-[^agnes2-death]: Civil records of College, Glasgow, 1944 GALBRAITH, AGNES (Statutory registers Deaths 644/7 9), [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/9773817?return_row=4). Lists father as "Archibald Galbreath, butcher", and mother as "Margaret Lang" (likely not remembered or not written correctly).  An unlisted Mitchell-family newphew was present.
+[^agnes2-death]: Statutory records of College, Glasgow; 1944 GALBRAITH, AGNES (Statutory registers Deaths 644/7 9); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/9773817?return_row=4). Lists father as "Archibald Galbreath, butcher", and mother as "Margaret Lang" (likely not remembered or not written correctly).  An unlisted Mitchell-family newphew was present.
 
 [^john-birth]: Birth of *John Galbraith* from Statuatory Records on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/38879864). Contains little additional information.
 
