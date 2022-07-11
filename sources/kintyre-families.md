@@ -28,6 +28,10 @@ publisher: TBD
 * [Hugh Galbratih](/people/galbraith-hugh-1892-barbour.md), d. 1947, m. Agnes Barbour.
 
     * Wasn't clear how Hugh fit in...  he is the Grandson of John G- and More McLean.
+    * The Internet says the line goes back on generation more
+    * Hector G-
+    * John G-
+    * Hugh G-
 
 ---
 
@@ -48,6 +52,7 @@ tbd
 * [David Stewart G-](/people/galbraith-david-stewart-1782.md)
 * [Flora Campbell G-](/people/galbraith-flora-1821.md) 
 
+    * DSG was frequently mentioned in Kirk Session of Campbeltown (found by flipping through them on ScotlandsPeople)
     * Ref to Kintyre Magazine #16?  Some connection of Stewart families?
 
 ---
@@ -68,7 +73,7 @@ tbd
 * [Samuel G-](/people/galbraith-samuel-1827.md), d. 1860
 * [David G-](/people/galbreath-david-1797.md), his father
 
-tbd
+    * Could this be a lowland family?  Based just on names I would thing so.
 
 ---
 
@@ -85,7 +90,7 @@ tbd
 * John (brother), TBD
 
     * TBD: MacQueen vs. McQueen
-    * William victim of an attempted murder/robbery at his store.  He survived but the damage bankrupted him.
+    * William was a victim of an attempted murder/robbery at his store.  He survived but the damage bankrupted him.
 
 ---
 
@@ -99,12 +104,12 @@ tbd
 * [Achibald Galbratih](/people/galbreath-archibald-1842.md), m. Agnes O'May
 * [John Galbraith](/people//galbraith-john-china-1871.md), b. 1871 "China"
 
-    * China's day job was working at a distillery.
+    * When not pipig, China's day job was working at a distillery.
 
 ---
 
 * [Jeannie G-](/people/galbraith-jane-1890.md) whiteinch Glasgow in 1914 was 24y.o.   has many very near relatives in Campbeltown.
-    * Her mother was [Jane Galbraith](/people/galbraith-jane-1861-galbraith.md).
+    * Her mother was [Jane Galbraith](/people/galbraith-jane-1861-galbraith.md). Yes another Galbreath/Galbraith marriage
     * Her father was Donald Galbraith, but seems un-connected to Kintyre.
 
 ---
