@@ -13,7 +13,7 @@ His marrage to Eugina in 1835 listed him as a Tacksman in Skerbolin.[^marriage1a
 Children of Archibald and Eugina (McCallum) Galbreath, both in Campbeltown:[^oprchildren1]
 
 1. *Martha Galbreath*, bp. 30 Nov 1835[^martha-birth], d. 9 Jul 1922 Campbeltown, unmarried.[^martha-death]
-2. *[Eugina Galbreath](/galbraith-eugina-1838-wotherspoon.md)*, bp. 25 Jan 1838,[^eugenia-birth], m. *James Wotherspoon*
+2. *[Eugina Galbreath](galbraith-eugina-1838-wotherspoon.md)*, bp. 25 Jan 1838,[^eugenia-birth], m. *James Wotherspoon*
 
 Children of Archibald and Margaret (Loynachan) Galbreath:[^oprchildren2]
 
