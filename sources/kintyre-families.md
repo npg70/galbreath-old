@@ -66,7 +66,7 @@ TBD
 * [William Campbell G]() (1870-1946)
 * [William G](/people/galbraith-william-1846-campbell.md), d. 1926 age 80 (father of above), m. Helen Campbell
 
-tbd
+    * William G married Helen Campbell at Southend 22 June 1869
 
 ---
 
