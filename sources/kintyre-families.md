@@ -194,5 +194,6 @@ He is listed in 1851 Census as being "0", so 1850 or 1851.   But all subsequent 
 
 * [William G-](/people/galbraith-william-1791-grieve.md) b. Ayrshire, moved to Southend in 1851
 * [John G-](/people/galbraith-john-1824-paterson.md) (son) got another lease in 1861.
+    * William is the son of *Peter Galbraith* and *Jean Logan*, baptized in Dalrymple, Ayr on 9 Dec 1791. He married in Dalrymple 25 Aug 1818 to **Mary Grieve**.
 
 ---
