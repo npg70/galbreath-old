@@ -73,9 +73,10 @@ TBD
 * [Samuel G-](/people/galbraith-samuel-1827.md), d. 1860
 * [David G-](/people/galbreath-david-1797.md), his father
 
-    * Samuel Galbraith, son of David Galbreath and Janet Mitchell. baptized at Campbeltown 14 Jan 1827, and died 17 Oct 1860. He married at Campbeltown 8 April 1860 to Margaret Beaton
-    * 
     * Could this be a lowland family?  Based just on names I would thing so.
+    * Samuel Galbraith, son of David Galbreath and Janet Mitchell. baptized at Campbeltown 14 Jan 1827, and died 17 Oct 1860. He married at Campbeltown 8 April 1860 to Margaret Beaton
+    * David Galbreath, son of Samuel Galbreath and Janet Langwill, at Campbeltown was born 16 Sept 1797 and baptised 19 Sep 1797. He died 12 Aug 1884. He married 5 Oct 1824 to Janet Mitchell Janet was the daughter of Archibald Mitchell and Agnes Greenless, born around 1801 and died 4 Oct 1874 in Campbeltown.
+ 
 
 ---
 
