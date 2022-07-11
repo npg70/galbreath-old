@@ -13,13 +13,13 @@ publisher: TBD
 * Catherine NcVretinich, 1687
 * Neill Galbreath, 1733, son of Gilnive, Kilchamaig
 
-    * Don't know the sources for these (ok).
+    * NOTE: Don't know the sources for these (ok).
 
 ---
 
 * John G-, attacked during a shinty match 1818
 
-    * Unable to find any additional to identify him.
+    * NOTE: Unable to find any additional to identify him.
 
 ---
 
@@ -29,16 +29,16 @@ publisher: TBD
 
     * Wasn't clear how Hugh fit in...  he is the Grandson of John G- and More McLean.
     * The Internet says the line goes back on generation more
-    * Hector G-
-    * John G-
-    * Hugh G-
+    * BIO: Hector G-
+    * BIO: John G-
+    * BIO: Hugh G-
 
 ---
 
 * John Kenneth G-, b 1908, d. 2006
 
-    * Is "Whitehouse" a place, or a term?
-    * Still researching exactly his Kintyre connections
+    * QUESTION: Is "Whitehouse" a place, or a term?
+    * NOTE: Still researching exactly his Kintyre connections
 
 ---
 
@@ -52,8 +52,8 @@ tbd
 * [David Stewart G-](/people/galbraith-david-stewart-1782.md)
 * [Flora Campbell G-](/people/galbraith-flora-1821.md) 
 
-    * DSG was frequently mentioned in Kirk Session of Campbeltown (found by flipping through them on ScotlandsPeople)
-    * Ref to Kintyre Magazine #16?  Some connection of Stewart families?
+    * ADDITION: DSG was frequently mentioned in Kirk Session of Campbeltown (found by flipping through them on ScotlandsPeople)
+    * ADDITION: Ref to Kintyre Magazine #16?  Some connection of Stewart families?  While it 
 
 ---
 
@@ -66,23 +66,23 @@ TBD
 * [William Campbell G]() (1870-1946)
 * [William G](/people/galbraith-william-1846-campbell.md), d. 1926 age 80 (father of above), m. Helen Campbell
 
-    * Look good -- William G married Helen Campbell at Southend 22 June 1869
+    * BIO:  William G married Helen Campbell at Southend 22 June 1869
 
 ---
 
 * [Samuel G-](/people/galbraith-samuel-1827.md), d. 1860
 * [David G-](/people/galbreath-david-1797.md), his father
 
-    * Could this be a lowland family?  Based just on names I would thing so.
-    * Samuel Galbraith, son of David Galbreath and Janet Mitchell. baptized at Campbeltown 14 Jan 1827, and died 17 Oct 1860. He married at Campbeltown 8 April 1860 to Margaret Beaton
-    * David Galbreath, son of Samuel Galbreath and Janet Langwill, at Campbeltown was born 16 Sept 1797 and baptised 19 Sep 1797. He died 12 Aug 1884. He married 5 Oct 1824 to Janet Mitchell Janet was the daughter of Archibald Mitchell and Agnes Greenless, born around 1801 and died 4 Oct 1874 in Campbeltown.
+    * QUESTION: Could this be a lowland family?  Based just on names I would think so.
+    * BIO: Samuel Galbraith, son of David Galbreath and Janet Mitchell. baptized at Campbeltown 14 Jan 1827, and died 17 Oct 1860. He married at Campbeltown 8 April 1860 to Margaret Beaton
+    * BIO: David Galbreath, son of Samuel Galbreath and Janet Langwill, at Campbeltown was born 16 Sept 1797 and baptised 19 Sep 1797. He died 12 Aug 1884. He married 5 Oct 1824 to Janet Mitchell Janet was the daughter of Archibald Mitchell and Agnes Greenless, born around 1801 and died 4 Oct 1874 in Campbeltown.
  
 
 ---
 
 * [Rev. Angus G-](/people/galbraith-angus-1837-sutherland.md) 1837-1909, son of ~Donald~ Niel and Janet McQuilkan
 
-tbd
+    * CORRECTION: Father is Neil not Donald.
 
 ---
 
@@ -103,11 +103,11 @@ tbd
 
 ---
 
-* [William Galbraith](/people/galbraith-william-1870-mcmillan.md),murdered his wife Margaret McMillian
+* [William Galbraith](/people/galbraith-william-1870-mcmillan.md), murdered his wife Margaret McMillian
 * [Achibald Galbratih](/people/galbreath-archibald-1842.md), m. Agnes O'May
 * [John Galbraith](/people//galbraith-john-china-1871.md), b. 1871 "China"
 
-    * When not pipig, China's day job was working at a distillery.
+    * NOTE: When not piping, China's day job was working at a distillery.
 
 ---
 
@@ -119,10 +119,9 @@ tbd
 
 * [Margaret McCallum G-](/people/galbraith-margaret-1916.md), d. 25 Nov 1931 (burns), age 15.  "her adoptive father was Archibald Gillies"
 
-    * Not orphaned, but illegitmate birth, with father unknown.  
-    * Mother Mary is listed in Census with Archibald Gillies.
-    * Middle name is suspect. The official records have McMillian, McCallum, and McNair.
-    * She was a twin -- Jeannie!  Can't find any info however.
+    * CORRECTION: Not orphaned, but illegitmate birth, with father unknown.  Mother Mary is listed in Census with Archibald Gillies.
+    * CORRECTION: Middle name is suspect. The official records have McMillian, McCallum, and McNair.
+    * NOTE: She was a twin -- Jeannie!  Can't find any info however.
 
 ---
 
@@ -153,7 +152,7 @@ TBD
 * [Neil G-](/people/galbraith-neil-1828-mcmillan.md), x. Kilberry, m. Isabella McMillian.  Piper.
 * [Donald G-](/people/galbraith-donald-1862-mclarty.md) (son), b. 1862 Saddell, m. Catharine McLarty in 1886 in Campbeltown, moved to Ontario.  Piper.
 
-    * Bagpipe.news appears dead (july 5, 2022)
+    * NOTE: Bagpipenews,com appears dead (july 5, 2022)
     * See Donald for other details
 
 ---
@@ -169,7 +168,7 @@ TBD
 
 * Charolette MacMicharl G  "Carol", at 1951 age 21, b. 1930, m. Derick R Thomson, d. 2017 (Linn Cemetary Glasgow)
 
-    * Too recent to get records off Scotlands People (have to wait to 2030).  Do we have any additional info on her parents?
+    * QUESTION: Too recent to get records off Scotlands People (have to wait to 2030).  Do we have any additional info on her parents?
 
 ---
 
@@ -186,7 +185,7 @@ TBD
 
 * [Robert G-](/people/galbreath-robert-1778.md) immigrated to America in 1818
 
-    * Did Robert sell his farm to his younger sister Catherine m. Greelees?
+    * QUESTION: Did Robert sell his farm to his younger sister Catherine m. Greelees?
 
 ---
 
@@ -196,13 +195,13 @@ TBD
 
     * Samuel - Can't find reference to Samuel being boring in Ugadale or in 1856.  His birth isn't in OPR or Statutory records.
 He is listed in 1851 Census as being "0", so 1850 or 1851.   But all subsequent records have him in 1852-1856 range.
-    * James & Martha - are we sure they are lowland?
+    * QUESTION: James & Martha - are we sure they are lowland?
 
 ---
 
 * [William G-](/people/galbraith-william-1791-grieve.md) b. Ayrshire, moved to Southend in 1851
 * [John G-](/people/galbraith-john-1824-paterson.md) (son) got another lease in 1861.
-    * William is the son of *Peter Galbraith* and *Jean Logan*, baptized in Dalrymple, Ayr on 9 Dec 1791. He married in Dalrymple 25 Aug 1818 to **Mary Grieve**.
-    * John Galbraith, son of *William Galbraith* and *Mary Grieve*, was baptized in Dalrymple, Ayr 28 Mar 1824. He married Stewarton, Ayr 18711 to Catharine Paterson.
+    * BIO: William is the son of *Peter Galbraith* and *Jean Logan*, baptized in Dalrymple, Ayr on 9 Dec 1791. He married in Dalrymple 25 Aug 1818 to **Mary Grieve**.
+    * BIO: John Galbraith, son of *William Galbraith* and *Mary Grieve*, was baptized in Dalrymple, Ayr 28 Mar 1824. He married Stewarton, Ayr 18711 to Catharine Paterson.
 
 ---
