@@ -66,13 +66,15 @@ TBD
 * [William Campbell G]() (1870-1946)
 * [William G](/people/galbraith-william-1846-campbell.md), d. 1926 age 80 (father of above), m. Helen Campbell
 
-    * William G married Helen Campbell at Southend 22 June 1869
+    * Look good -- William G married Helen Campbell at Southend 22 June 1869
 
 ---
 
 * [Samuel G-](/people/galbraith-samuel-1827.md), d. 1860
 * [David G-](/people/galbreath-david-1797.md), his father
 
+    * Samuel Galbraith, son of David Galbreath and Janet Mitchell. baptized at Campbeltown 14 Jan 1827, and died 17 Oct 1860. He married at Campbeltown 8 April 1860 to Margaret Beaton
+    * 
     * Could this be a lowland family?  Based just on names I would thing so.
 
 ---
