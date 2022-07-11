@@ -7,12 +7,15 @@ findagrave: https://www.findagrave.com/memorial/115118723/james-wotherspoon
 *Eugina McCallum*, was baptized at Campbeltown 25 Jan 1838.[^birth]
 She died at Clachan 5 Oct 1920[^death] and buried at Kilchattan Old Graveyard in Gigha[^burial].
 
-She married 24 Apr 1866[^marriage] to **James Wotherspoon**.
+She married 24 Apr 1866[^marriage] to **James Wotherspoon**.  The record lists her mother (who she never met) as "Jane McCallum", and not "Eugina".
 
-Her mother likely died due to complications of childbirth, and her father gave the baby to a McCallum family in Gigha.[^census1841]
+Her mother likely died due to complications of childbirth, and her father gave the baby the William McCallum hosuehold in Gigha.[^census1841]  The 1841 Census lists the McCallum family and a lone 3 year-old Eugina.
 
-The 1851 Census, lists Eugina (age 13, b. 1838, from "Kirkcuslen") as being the neice of William McCallum (age 32, b 1819 in Kilcolmkill) in Ardlamy, Gigha.[^census1851].  In 1861 she older sister Martha joined the household.[^census1861]
+The 1851 Census, lists Eugina (age 13, b. 1838, from "Kirkcuslen"  TBD need to review original document) as being the neice of William McCallum (age 32, b 1819 in "Kilcolmkill"  Need to see original but likely Kilcalmonell) in Ardlamy, Gigha.[^census1851].
 
+In 1861, Eugina's older sister Martha joined the household,[^census1861].  The records lists Martha and Eugina has both being from Campbeltown, and William McCallum being born at Kilcalmonell in 1819.  Unfortunately the 1861 does not indicate the relationship between them.
+
+Recalling that her marriage listed her as being from Kilcalmonell and her father's name is John.
 
 
 - Stuff on Eugina: http://clark-debisschop.co.uk/tng/getperson.php?personID=I8117&tree=Clark
