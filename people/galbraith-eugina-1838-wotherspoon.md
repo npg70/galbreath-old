@@ -4,7 +4,7 @@ familysearch: https://www.familysearch.org/tree/person/details/KHTP-W5D
 findagrave: https://www.findagrave.com/memorial/115118723/james-wotherspoon
 ---
 ***Eugina Galbraith***, daughter of *[Archibald Galbreath](galbreath-archibald-1803.md)* and
-*Eugina McCallum*, was baptized at Campbeltown 25 Jan 1838.[^birth]
+*[Janet "Eugina" McCallum](mccallum-janet-eugina-1815-galbreath.md)*, was baptized at Campbeltown 25 Jan 1838.[^birth]
 She died at Clachan 5 Oct 1920[^death] and buried at Kilchattan Old Graveyard in Gigha[^burial].
 
 She married 24 Apr 1866[^marriage] to **James Wotherspoon**.  The record lists her mother (who she never met) as "Jane McCallum", and not "Eugina".
