@@ -48,7 +48,7 @@ tbd
 * [David Stewart G-](/people/galbraith-david-stewart-1782.md)
 * [Flora Campbell G-](/people/galbraith-flora-1821.md) 
 
-    * Ref to Kintyre Magazine
+    * Ref to Kintyre Magazine #16?  Some connection of Stewart families?
 
 ---
 
@@ -103,9 +103,7 @@ tbd
 
 ---
 
-* [Jeannie G](/people/galbraith-jane-1890.md) whiteinch Glasgow in 1914 was 24y.o.   has many very near relatives in Campbeltown.
-
-    
+* [Jeannie G-](/people/galbraith-jane-1890.md) whiteinch Glasgow in 1914 was 24y.o.   has many very near relatives in Campbeltown.
     * Her mother was [Jane Galbraith](/people/galbraith-jane-1861-galbraith.md).
     * Her father was Donald Galbraith, but seems un-connected to Kintyre.
 
@@ -145,7 +143,7 @@ TBD
 ---
 
 * [Neil G-](/people/galbraith-neil-1828-mcmillan.md), x. Kilberry, m. Isabella McMillian.  Piper.
-* [Donald G-](/people/galbraith-donald-1862-mclarty.md) (son), b. 1862 Saddell,  m. Catharine McLarty in 1886 in Campbeltown, moved to Ontario.  Piper.
+* [Donald G-](/people/galbraith-donald-1862-mclarty.md) (son), b. 1862 Saddell, m. Catharine McLarty in 1886 in Campbeltown, moved to Ontario.  Piper.
 
     * Bagpipe.news appears dead (july 5, 2022)
     * See Donald for other details
