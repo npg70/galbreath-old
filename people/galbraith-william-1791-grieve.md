@@ -2,7 +2,7 @@
 title: William Galbraith b. 1791 m. Mary Grieve
 findagrave: https://www.findagrave.com/memorial/114206412/william-galbraith
 ---
-***William Galbraith***, son of *Peter Galbraith* and *Jean Logan*, baptized [^birth] in Dalrymple, Ayr on 9 Dec 1781.
+***William Galbraith***, son of *Peter Galbraith* and *Jean Logan*, baptized [^birth] in Dalrymple, Ayr on 9 Dec 1791.
 
 He married in Dalrymple 25 Aug 1818 to **Mary Grieve**.
 
