@@ -2,9 +2,9 @@
 title: John Galbratih b. 1824 m. Catharine Paterson
 ---
 ***John Galbraith***, son of *[William Galbraith](galbraith-william-1791-grieve.md)* and *Mary Grieve*, 
-was baptized. in Dalrymple, Ayr 28 Mar 1824.
+was baptized in Dalrymple, Ayr 28 Mar 1824.
 
-He married Stewarton, Ayr 1871[^marriage]  **Catharine Paterson**.
+He married Stewarton, Ayr 1871[^marriage] to **Catharine Paterson**.
 
 Family listed in Southend in 1881 Census: https://www.findmypast.com/transcript?id=GBC%2F1881%2F0029395251
 
