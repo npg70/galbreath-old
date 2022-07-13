@@ -2,7 +2,7 @@
 title: David Stewart Galbraith b 1780 m. Elizabeth Fraser
 familysearch: https://www.familysearch.org/tree/person/details/KZDT-66V
 ---
-***David Stewart Galbraith***, son of *Daniel Torquil Galbraith*, Laird of Machrehanish and *Maragaret Stuart* (dau. of Archibald Stuart, Esq., of Askomibeg); b. 1780.[^birth]
+***David Stewart Galbraith***, son of *Daniel Torquil Galbraith*, Laird of Machrehanish and *Maragaret Stuart* (dau. of Archibald Stuart, Esq., of Askomibeg); b. 1780.[^birth]   He died at Edinbourgh in 24 Feb 1864.[^death]
 
 Hmmm maybe another marriage and children....
 
@@ -44,6 +44,8 @@ Children of David and Elizabeth (Fraser) Galbreath, all baptized at Campbeltown:
 14. *Henry Louis Galbraith*, bp. 12 Jun 1837
 
 [^birth]: no OPR records found.
+
+[^death]: Statutory records of St Andrew (Edinburgh); 1864 GALBRAITH, DAVID STEWART (Statutory registers Deaths 685/2 96); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/685325).  Very dificult to read but "Age 81" (1783), "Window of Elizabeth Fraser" and "Daniel Galbraith and Margaret Stuwart" are legigible.
 
 [^jsg-birth1]: OPR Records, Greenock Old or West, baptism of "John Sayers Galbreath", on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357669?image=179)
 
