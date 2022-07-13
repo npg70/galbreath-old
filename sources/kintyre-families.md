@@ -127,7 +127,7 @@ tbd
 
 * [Archibald Galbraith](/people/galbraith-archibald-1865-mckay.md), d. 1928,age 62, m. Isabella McKay
 
-tbd
+    * BIO: Archibald Galbraith, son of Daniel/Donald Galbraith and Isabella McDermid, was born Campbeltown 1 July 18651, and died 25 Mar 1928. He married at Campbeltown 16 Apr 1888 to Isabella McKay
 
 ---
 
