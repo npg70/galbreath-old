@@ -107,7 +107,8 @@ tbd
 * [Achibald Galbratih](/people/galbreath-archibald-1842.md), m. Agnes O'May
 * [John Galbraith](/people//galbraith-john-china-1871.md), b. 1871 "China"
 
-    * NOTE: When not piping, China's day job was working at a distillery.
+    * NOTE: When not piping, China's day job was working at a distillery (like his father)
+    * BIO: John "China" Galbraith, son of Archibald Galbraith and Agnes O'May, He died Campbeltown 5 Mar 19561.  Umarried?
 
 ---
 
