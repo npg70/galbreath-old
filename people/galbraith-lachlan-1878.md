@@ -18,10 +18,10 @@ Children of Lachlan and Annie (McCallum) Galbraith:
 
 [^death]: Statutory records of Saddell, Argyll; 1961 GALBRAITH, LACHLAN (Statutory registers Deaths 531/1 9); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/11296886)
 
-[^marriage1]: Statutory registers Marriages 519/ 3 of Killean and Kilchenzie, marriage of Lachlan Galbraith and Annie McCallum, On [ScotlandPeoples](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/2693426)
+[^marriage1]: Statutory records of Killean and Kilchenzie; 1903 GALBRAITH, LACHLAN (Statutory registers Marriages 519/ 3); [ScotlandPeoples](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/2693426)
 
-[^marriage2]: Civil Registers of Saddell, Argyll, Marraige of Lachlan Galbraith and Janet McCallum, transcribed on [MyAinFolk](https://www.myainfolk.ca/records/16042)
+[^marriage2]: Statutory records of  Saddell, Argyll; Marraige of Lachlan Galbraith and Janet McCallum, transcribed on [MyAinFolk](https://www.myainfolk.ca/records/16042)
 
-[^birth-janet]: Civil Registers of Saddell, Argyll, birth of Janet Galbraith on [MyAinFold](https://www.myainfolk.ca/records/18737)
+[^birth-janet]: Statutory records of Saddell, Argyll; birth of Janet Galbraith; [MyAinFold](https://www.myainfolk.ca/records/18737)
 
 
