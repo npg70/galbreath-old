@@ -138,7 +138,7 @@ tbd
 * [John G-](/people/galbraith-john-1848-carnis.md) son, 1848-1913
 * [Archibald/Alexander "Sandy" Galbraith](/people/galbraith-alexander-1854.md), (son), (1854-1912), m. Mary Campbell
 
-    * TBD Alex vs Arch.
+    * TBD Alex vs Arch
     * John G, b. 1848:  He married at Leith, Edinburghshire on 24 Sep 1872 to Helen Carnis.
 
 ---
