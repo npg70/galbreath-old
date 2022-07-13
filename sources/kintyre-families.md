@@ -136,10 +136,9 @@ tbd
 
 * [John G-](/people/galbreath-john-1821.md), 1821-1902, m. Margaret Cook in 1840.  "most of john jr's family emigrated to Canada
 * [John G-](/people/galbraith-john-1848-carnis.md) son, 1848-1913
-* [Archibald/Alexander "Sandy" Galbraith](/people/galbraith-alexander-1854.md), (son), (1854-1912), m. Mary Campbell
+* [Alexander "Sandy" Galbraith](/people/galbraith-alexander-1854.md), (son), (1854-1912), m. Mary Campbell
 
-    * TBD Alex vs Arch
-    * John G, b. 1848:  He married at Leith, Edinburghshire on 24 Sep 1872 to Helen Carnis.
+    * BIO: John G Jr, b. 1848:  He married at Leith, Edinburghshire on 24 Sep 1872 to Helen Carnis.
 
 ---
 
