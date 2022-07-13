@@ -135,7 +135,7 @@ tbd
 ---
 
 * [John G-](/people/galbreath-john-1821.md), 1821-1902, m. Margaret Cook in 1840.  "most of john jr's family emigrated to Canada
-* [John G-]() son, 1848-1913
+* [John G-](/people/galbraith-john-1848-carnis.md) son, 1848-1913
 * [Archibald/Alexander "Sandy" Galbraith](/people/galbraith-alexander-1854.md), (son), (1854-1912), m. Mary Campbell
 
     * TBD Alex vs Arch.
