@@ -6,9 +6,9 @@ familysearch: https://www.familysearch.org/tree/person/details/GDQ1-X1W
 
 He died in 1961.
 
-He married first at Killean and Kilchenzie 9 Jun 1903[^marriage1] to Annie McCallum, daughter of Dugald McCallum and unknown McMillian (both deceased at time of marriage).
+He married first at Killean and Kilchenzie 9 Jun 1903[^marriage1] to **Annie McCallum**, daughter of Dugald McCallum and unknown McMillian (both deceased at time of marriage).
 
-He married second at Saddell Manse, Carradale, Argyll 12 Oct 1933[^marriage2] to Janet McCallum, daughter of an unknown father and Janet McCallum.
+He married second at Saddell Manse, Carradale, Argyll 12 Oct 1933[^marriage2] to **Janet McCallum**, daughter of an unknown father and Janet McCallum.
 
 He was a ferryman.
 
