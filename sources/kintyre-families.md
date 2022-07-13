@@ -29,7 +29,7 @@ publisher: TBD
 
     * Wasn't clear how Hugh fit in...  he is the Grandson of John G- and More McLean.
     * The Internet says the line goes back on generation more
-    * BIO: Hector G-
+    * BIO: Hector Galbraith, son of Hugh Galbraith and Catharine McNair, was born at Campbeltown 7 Nov 1859. He died Southend 18 Nov 1921.  He married 27 Nov 1885 to Mary McCorkindale.
     * BIO: John G-
     * BIO: Hugh Galbraith, son of Neil Galbraith and Mary McCallumm born Campbeltown 4 Feb 1892, died Hillhead, Glasgow 9 May 1947, and buried at Kilkerran Cemetary. He married Agnes Jane Barbour.
 
