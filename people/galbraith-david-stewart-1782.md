@@ -2,7 +2,7 @@
 title: David Stewart Galbraith b 1780 m. Elizabeth Fraser
 familysearch: https://www.familysearch.org/tree/person/details/KZDT-66V
 ---
-***David Stewart Galbraith***, son of *Daniel Torquil Galbraith*, Laird of Machrehanish and *Maragaret Stuart* (dau. of Archibald Stuart, Esq., of Askomibeg); b. 1780.[^birth]   He died at Edinbourgh in 24 Feb 1864.[^death]
+***David Stewart Galbraith***, son of *Daniel Torquil Galbraith*, Laird of Machrehanish and *Maragaret Stuart* (dau. of Archibald Stuart, Esq., of Askomibeg); b. 1780.[^birth]   He died at Edinbourgh in 26 Dec 1863.[^death-statutory][^death-newspaper]
 
 Hmmm maybe another marriage and children....
 
@@ -45,7 +45,12 @@ Children of David and Elizabeth (Fraser) Galbreath, all baptized at Campbeltown:
 
 [^birth]: no OPR records found.
 
-[^death]: Statutory records of St Andrew (Edinburgh); 1864 GALBRAITH, DAVID STEWART (Statutory registers Deaths 685/2 96); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/685325).  Very dificult to read but "Age 81" (1783), "Window of Elizabeth Fraser" and "Daniel Galbraith and Margaret Stuwart" are legigible.
+[^death-statutory]: Statutory records of St Andrew (Edinburgh); 1864 GALBRAITH, DAVID STEWART (Statutory registers Deaths 685/2 96); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/685325).  Very dificult to read but "Age 81" (1783), "Window of Elizabeth Fraser" and "Daniel Galbraith and Margaret Stuart" are legigible.
+
+[^death-newspaper]: From Morning Post of London, England, Jan 1, 1864; via [BritishNewspaperArchive](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000174/18640101/056/0008)
+     > GALBREAITH: On the 27 ult., [Last Month] at Edinburgh, David Stuart Galbraith, Esq., late of Marchrihanish, and Drumore House,
+     > Argyllshire, a magistrate and deputy-lieutenant of that county.
+
 
 [^jsg-birth1]: OPR Records, Greenock Old or West, baptism of "John Sayers Galbreath", on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357669?image=179)
 
