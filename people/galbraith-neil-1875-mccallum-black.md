@@ -4,7 +4,7 @@ familysearch:
 ---
 ***Neil Galbraith***, son of *[Donald Galbraith](galbraith-donald-1848-morrison.md)* and *Janet Morrison*, was born at Saddell 6? Jan 1875.[^birth] He died at Campbeltown on 22 Dec 1926.[^death]
 
-He married first at Campbeltown 15 Apr 1900[^jeanie-marriage] **Jeanie McCallum**, a domestic servant, age 24, daughter of Dugald McCallum and Isabella McMillan.
+He married first at Campbeltown 15 Apr 1900[^jeanie-marriage] **Jeanie McCallum**, a domestic servant, age 24, daughter of Dugald McCallum and Isabella McMillan.  Jeanie's sister, Annie, also married Neil's brother [Lachlan](galbraith-lachlan-1878.md).
 
 He married second at Campbeltown 17 Feb 1926[^margaret-marriage] **Margaret Morrison Black**, a stewardess, daughter of James Black fisherman, and Agnes McMurchy.
 
