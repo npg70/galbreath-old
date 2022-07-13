@@ -1,5 +1,5 @@
 ---
-title: Lachlan Galbrath b 1879 m McCallum m McCallum
+title: Lachlan Galbraith b 1879 m McCallum m McCallum
 familysearch: https://www.familysearch.org/tree/person/details/GDQ1-X1W
 ---
 ***Lachlan Galbraith***, son of *[Donald Galbraith](galbraith-donald-1848-morrison.md)* (fisherman) and *Janet Morrison*, born Saddel, Argyll, Scotland 20 Nov 1878.[^birth]
