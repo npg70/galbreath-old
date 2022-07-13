@@ -104,7 +104,7 @@ tbd
 
 ---
 
-* [William Galbraith](/people/galbraith-william-1870-mcmillan.md), murdered his wife Margaret McMillian
+* [William Galbraith](/people/galbraith-william-1870-mcmillan.md), b. 1870, murdered his wife Margaret McMillian
 * [Achibald Galbratih](/people/galbreath-archibald-1842.md), m. Agnes O'May
 * [John Galbraith](/people//galbraith-john-china-1871.md), b. 1871 "China"
 
@@ -134,21 +134,20 @@ tbd
 
 ---
 
-* [John G-](/people/galbreath-john-1821.md), 1821-1902, m. Margaret Cook.  "most of john jr's family emigrated to Canada  ***check***
-* [Archibald "Sandy" Galbraith](/people/galbraith-alexander-1854.md), (brother), (1854-1912), m. Mary Campbell ***I have alexander***
+* [John G-](/people/galbreath-john-1821.md), 1821-1902, m. Margaret Cook in 1840.  "most of john jr's family emigrated to Canada
+* [John G-]() son, 1848-1913
+* [Archibald/Alexander "Sandy" Galbraith](/people/galbraith-alexander-1854.md), (son), (1854-1912), m. Mary Campbell
 
-TBD Alex vs Arch.
+    * TBD Alex vs Arch.
 
 ---
 
-* [Neil G-](/people/galbraith-neil-1841.md), d. 1873 drowning, m. Martha Stewart
-* [John G-](/people/galbreath-john-1821.md) (father), m. Margaret Cook
-* [Archibald G-](/people/galbreath-archibald-1798.md) and Margaret McMillian
+* [Neil G-](/people/galbraith-neil-1841.md), d. 1873 age 32 drowning, m. Martha Stewart
 * [Martha G-](/people/galbraith-martha-1867-mcbain.md) (daughter), mother of footballer Neil McBain
-* [John G-](/people/galbraith-john-1864-mctaggart.md) (son), d. 10 May 1932 jumped from police boat.  m. Isabella McTaggart
-* [William Cook G](/people/galbraith-william-cook-1888-moss.md) (carradale), (son of Sandy G & Mary Campbell), m. Christina Moss, d. 1969 
+* [John G-](/people/galbraith-john-1864-mctaggart.md) (son), d. 10 May 1932 age 66, jumped from police boat.  m. Isabella McTaggart in 1887
+* [William Cook G](/people/galbraith-william-cook-1888-moss.md) (carradale), (son of Sandy G & Mary Campbell), b. 1888, d. 1969, m. Christina Moss
 
-TBD
+    * 
 
 ---
 
