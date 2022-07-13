@@ -3,7 +3,7 @@ title: John Galbraith b. 1864 m. Isabella McTaggart
 familysearch: XXX
 findagrave: XXX
 ---
-***John Galbraith***, son of *[Neil Galbraith](galbraith-neil-1841.md)* and *Margaret Stewart*, 
+***John Galbraith***, son of *[Neil Galbraith](galbraith-neil-1841.md)* and *Martha Stewart*, 
 born at Saddell, 19 Nov 1864[^birth]. He died by drowning/suicide on 10 May 1932[^death]
 
 He married in 1887 to  **Isabella McTaggart**.
