@@ -147,7 +147,9 @@ tbd
 * [John G-](/people/galbraith-john-1864-mctaggart.md) (son), d. 10 May 1932 age 66, jumped from police boat.  m. Isabella McTaggart in 1887
 * [William Cook G](/people/galbraith-william-cook-1888-moss.md) (carradale), (son of Sandy G & Mary Campbell), b. 1888, d. 1969, m. Christina Moss
 
-    * 
+    * BIO: Martha born at Saddell on 25 March 1867
+
+
 
 ---
 
