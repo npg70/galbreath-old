@@ -45,8 +45,8 @@ Children of John and Margaret (Cook) Galbreath:[^oprchildren]
 
 [^agnes-birth]: OPR Campbeltown, baptism of [Agnes Galbraith](/sources/opr-campbeltown-births.md#1851-08-17-agnes-galbraith)
 
-[^alexander-birth]: OPR Campbeltown, baptism of [Alexander Galbraith](/sources/opr-campbeltown-births.md#1854-05-25-alexander-galbraith)
+[^alexander-birth]: OPR Campbeltown, baptism of [Alexander Galbraith](/sources/opr-campbeltown-births.md#1854-05-25-alexander-galbraith).  Last Galbraith in OPR!
 
-[^archibald-birth]: Statuatory record of birth of Archibald Galbreath on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/38771094)
+[^archibald-birth]: Statutory record of Campbeltown; 1856 GALBRAITH, ARCHIBALD (Statutory registers Births 507/1 112); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/38771094)
 
 [^census1851]: 1851 England, Wales & Scotland Census; Queen Street, Campbeltown, Cantyre, Argyllshire, Scotland; Household of John Galbreath. [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1851/0019254769&expand=true)
