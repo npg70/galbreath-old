@@ -164,8 +164,8 @@ tbd
 * John G- (brother)
 * [Neil G-](/people/galbraith-neil-1875-mccallum-black.md) (brother), m2. Margaret Morrison Black 17 Feb 1926, d. age 50 20 Dec 1926
 
-    * NOTE: Neil and Lachland both married twice, but their first marriages were to sister, Jeanie and, Annie and Agnes McCallum.
-    * BIO: John Galbraith, b. Saddell 18 May 1871, 26 Apr 1943 Tradeston Glasgow; m. Susan Livingston
+    * NOTE: Neil and Lachland both married twice, but their first marriages were to sister, Jeanie and Annie McCallum. The daughters of Dugald McCallum (blacksmith) and Isabella McMillian
+    * BIO: John Galbraith, b. Saddell 18 May 1871, d. 26 Apr 1943 Tradeston Glasgow; m. Susan Livingston
 
 ---
 
