@@ -52,8 +52,7 @@ tbd
 * [David Stewart G-](/people/galbraith-david-stewart-1782.md)
 * [Flora Campbell G-](/people/galbraith-flora-1821.md) 
 
-    * ADDITION: DSG was frequently mentioned in Kirk Session of Campbeltown (found by flipping through them on ScotlandsPeople)
-    * ADDITION: Ref to Kintyre Magazine #16?  Some connection of Stewart families?  While it 
+    * ADDITION: DSG was frequently mentioned in Kirk Session of Campbeltown (found by flipping through them on ScotlandsPeople) 
 
 ---
 
