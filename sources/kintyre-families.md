@@ -200,7 +200,7 @@ tbd
     * QUESTION: James & Martha - lowland?
     * CORRECTION:  For Archibald, maybe just mention Margaret was 2nd wife as you did with a previous entry. 
     * CORRECTION?: Samuel - Can't find reference to Samuel being boring in Ugadale or in 1856.  His birth isn't in OPR or Statutory records.
-He is listed in 1851 Census as being "0", so 1850 or 1851.   But all subsequent records have him in 1852-1856 range.
+He is listed in 1851 Census as being "5M", so 1850 or 1851.   But all subsequent records have him in 1852-1856 range.
 
 ---
 
