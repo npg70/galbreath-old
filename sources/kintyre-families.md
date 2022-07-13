@@ -156,6 +156,7 @@ TBD
 * [Donald G-](/people/galbraith-donald-1862-mclarty.md) (son), b. 1862 Saddell, m. Catharine McLarty in 1886 in Campbeltown, moved to Ontario.  Piper.
 
     * BIO: Neil Galbraith, son of John Galbraith and Mary Sinclair, born at Kilbery ~1818. He died at Saddell 23 Mar 1874. He married at Saddell 6 Feb 18563 to Isabella McMillan.
+    * BIO: Donald Galbraith, son of Neil Galbraith and Isabella McMillan, born Saddell 26 May 1862. He died 13 August 1947 London, Middlesex, Ontario, Canada. He married at Campbeltown 11 June 1886 Catharine McLarty.
 
 ---
 
