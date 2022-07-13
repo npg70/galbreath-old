@@ -74,6 +74,7 @@ TBD
 * [David G-](/people/galbreath-david-1797.md), his father
 
     * QUESTION: Could this be a lowland family?  Based just on names I would think so.
+    * NOTE: This section was a bit light on vital data.. perhaps add an age, a (birth-death), or marriage for one of the people.
     * BIO: Samuel Galbraith, son of David Galbreath and Janet Mitchell. baptized at Campbeltown 14 Jan 1827, and died 17 Oct 1860. He married at Campbeltown 8 April 1860 to Margaret Beaton
     * BIO: David Galbreath, son of Samuel Galbreath and Janet Langwill, at Campbeltown was born 16 Sept 1797 and baptised 19 Sep 1797. He died 12 Aug 1884. He married 5 Oct 1824 to Janet Mitchell Janet was the daughter of Archibald Mitchell and Agnes Greenless, born around 1801 and died 4 Oct 1874 in Campbeltown.
  
@@ -82,7 +83,7 @@ TBD
 
 * [Rev. Angus G-](/people/galbraith-angus-1837-sutherland.md) 1837-1909, son of ~Donald~ Niel and Janet McQuilkan
 
-    * CORRECTION: Father is Neil not Donald.
+    * CORRECTION: Father is Neil not Donald, at least according to OPR records.
 
 ---
 
@@ -93,7 +94,7 @@ TBD
 * John (brother), TBD
 
     * TBD: MacQueen vs. McQueen
-    * William was a victim of an attempted murder/robbery at his store.  He survived but the damage bankrupted him.
+    * NOTE: William was a victim of an attempted murder/robbery at his store.  He survived but the damage bankrupted him. 
 
 ---
 
@@ -114,8 +115,8 @@ tbd
 ---
 
 * [Jeannie G-](/people/galbraith-jane-1890.md) whiteinch Glasgow in 1914 was 24y.o.   has many very near relatives in Campbeltown.
-    * Her mother was [Jane Galbraith](/people/galbraith-jane-1861-galbraith.md). Yes another Galbreath/Galbraith marriage
-    * Her father was Donald Galbraith, but seems un-connected to Kintyre.
+    * NOTE: Her mother was [Jane Galbraith](/people/galbraith-jane-1861-galbraith.md). Yes another Galbraith/Galbraith marriage.
+    * NOTE: Her father was Donald Galbraith, but seems un-connected to Kintyre.
 
 ---
 
