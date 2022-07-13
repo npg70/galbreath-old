@@ -8,7 +8,7 @@ She married **Robert McBain**.
 
 Children of Robert and Martha (Galbraith) McBain:
 
-1. *Neil McBain*
+1. *Neil McBain*, footballer
 
 See [Kilkerran Graveyard, page 36](/sources/kilkerran-graveyard.md#page-36)
 
