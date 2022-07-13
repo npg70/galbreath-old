@@ -25,10 +25,10 @@ publisher: TBD
 
 * [Hector Galbraith](/people/galbraith-hector-1859-mccorkindale.md), d. 1921 age 62, m. Mary Corkindale
 * [John Galbraith](/people/galbreath-john-1760.md), m. More McLean
-* [Hugh Galbratih](/people/galbraith-hugh-1892-barbour.md), d. 1947, m. Agnes Barbour.
+* [Hugh Galbratih](/people/galbraith-hugh-1892-barbour.md), d. 1947, m. Agnes Barbour
 
     * NOTE: Wasn't clear how Hugh fit in...  he is the Grandson of John G- and More McLean.
-    * NOTE: The Internet says the line goes back on generation more to a John Galbraeth and Isobell Clark (see below).  Evidence is circumstantial however (i.e. looks resonable but I suspect it's only based on OPR records and appropriate ages).
+    * NOTE: The Internet says the line goes back on generation more to a John Galbreath and Isobell Clark (see below).  Evidence is circumstantial however (i.e. looks resonable but I suspect it's only based on OPR records and appropriate ages).
     * BIO: Hector Galbraith, son of Hugh Galbraith and Catharine McNair, was born at Campbeltown 7 Nov 1859. He died Southend 18 Nov 1921.  He married 27 Nov 1885 to Mary McCorkindale.
     * BIO: John Galbreath, son of John Galbreath and Isobell Clark, baptized at Campbeltown on 2 May 1760. He married 28 October 1781 to Marion McLean, b. about 1750 of unknown parents.
     * BIO: Hugh Galbraith, son of Neil Galbraith and Mary McCallumm born Campbeltown 4 Feb 1892, died Hillhead, Glasgow 9 May 1947, and buried at Kilkerran Cemetary. He married Agnes Jane Barbour.
@@ -114,7 +114,7 @@ tbd
 
 ---
 
-* [Jeannie G-](/people/galbraith-jane-1890.md) whiteinch Glasgow in 1914 was 24y.o.   has many very near relatives in Campbeltown.
+* [Jeannie G-](/people/galbraith-jane-1890.md) whiteinch Glasgow in 1914 was 24y.o.   "has many very near relatives in Campbeltown".
     * NOTE: Her mother was [Jane Galbraith](/people/galbraith-jane-1861-galbraith.md). Yes another Galbraith/Galbraith marriage.
     * NOTE: Her father was Donald Galbraith, but seems un-connected to Kintyre.
 
@@ -165,7 +165,7 @@ TBD
 * John G- (brother)
 * [Neil G-](/people/galbraith-neil-1875-mccallum-black.md) (brother), m2. Margaret Morrison Black 17 Feb 1926, d. age 50 20 Dec 1926
 
-TBD
+    * NOTE: Looks good.
 
 ---
 
@@ -182,13 +182,13 @@ TBD
 * [Elizabeth G-](/people/galbraith-elizabeth-1841.md), m. James Nicol Flemming
 
     * Seems like more could be said here.
-    * Add correction to Campbeltown Whiskey
+    * Add correction to Campbeltown Whiskey?
 
 ---
 
 * [Robert G-](/people/galbreath-robert-1778.md) immigrated to America in 1818
 
-    * QUESTION: Did Robert sell his farm to his younger sister Catherine m. Greelees?
+    * QUESTION: Did Robert sell his farm to his younger sister Catherine Greenlees?
 
 ---
 
@@ -196,15 +196,16 @@ TBD
 * [Archibald G-](/people/galbreath-archibald-1803.md), m. Margaret Loynachan.
 * [James Galbreath](/people/galbreath-james-abt-1775.md), m. Martha G
 
-    * Samuel - Can't find reference to Samuel being boring in Ugadale or in 1856.  His birth isn't in OPR or Statutory records.
+    * QUESTION: James & Martha - lowland?
+    * CORRECTION:  For Archibald, maybe just mention Margaret was 2nd wife as you did with a previous entry. 
+    * CORRECTION?: Samuel - Can't find reference to Samuel being boring in Ugadale or in 1856.  His birth isn't in OPR or Statutory records.
 He is listed in 1851 Census as being "0", so 1850 or 1851.   But all subsequent records have him in 1852-1856 range.
-    * QUESTION: James & Martha - are we sure they are lowland?
 
 ---
 
 * [William G-](/people/galbraith-william-1791-grieve.md) b. Ayrshire, moved to Southend in 1851
 * [John G-](/people/galbraith-john-1824-paterson.md) (son) got another lease in 1861.
-    * BIO: William is the son of *Peter Galbraith* and *Jean Logan*, baptized in Dalrymple, Ayr on 9 Dec 1791. He married in Dalrymple 25 Aug 1818 to **Mary Grieve**.
+    * BIO: William is the son of *Peter Galbraith* and *Jean Logan*, baptized in Dalrymple, Ayr on 9 Dec 1791. He married in Dalrymple 25 Aug 1818 to Mary Grieve.
     * BIO: John Galbraith, son of *William Galbraith* and *Mary Grieve*, was baptized in Dalrymple, Ayr 28 Mar 1824. He married Stewarton, Ayr 18711 to Catharine Paterson.
 
 ---
