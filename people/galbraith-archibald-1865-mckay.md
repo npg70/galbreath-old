@@ -6,7 +6,7 @@ findagrave: https://www.findagrave.com/memorial/179352175/archibald-galbraith
 was born Campbeltown 1 July 1865[^birth],
 and died 25 Mar 1928.[^death]
 
-He married at Campbeltown 1888 to *Isabella McKay*[^isabella-marriage]
+He married at Campbeltown 16 Apr 1888 to *Isabella McKay*[^isabella-marriage]
 
 Isabella listed in 1861 with children and sister (without Daniel "master marnier").  https://www.findmypast.com/transcript?id=GBC%2F1861%2F0022164831
 
