@@ -18,10 +18,10 @@ Children of Archibald and Isabella (McKay) Galbraith:
 
 1. *Peter Galbraith*, b. 1904
 
-[^birth]: Statuatory Records of Campbeltown, Argyll; 1865 GALBRAITH, ARCHIBALD (Statutory registers Births 507/ 143); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/39836164).
+[^birth]: Statutory records of Campbeltown; 1865 GALBRAITH, ARCHIBALD (Statutory registers Births 507/ 143); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/39836164).
 
 [^death]: Statutory records of Campbeltown; 1928 GALBRAITH, ARCHIBALD (Statutory registers Deaths 507/ 30); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/8122346)
 
 [^burial]: Find a Grave, database and images (https://www.findagrave.com/memorial/179352175/archibald-galbraith : accessed 30 June 2022), memorial page for Archibald Galbraith (1866–25 Mar 1928), Find a Grave Memorial ID 179352175, citing Kilkerran Cemetery, Campbeltown, Argyll and Bute, Scotland ; Maintained by Pixturmn (contributor 47729036) .
 
-[^isabella-marriage]: Statutory records of Campbeltown, 1888 GALBRAITH, ARCHIE (Statutory registers Marriages 507/ 6); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/13550822)
+[^isabella-marriage]: Statutory records of Campbeltown; 1888 GALBRAITH, ARCHIE (Statutory registers Marriages 507/ 6); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/13550822)
