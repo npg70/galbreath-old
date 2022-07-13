@@ -3,6 +3,7 @@ title: Neil Galbraith b. 1828 m. Isabella McMillan
 ---
 ***Neil Galbraith***, son of *John Galbraith* and *Mary Sinclair*, born at Kilbery ~1818.[^birth]  He died at Saddell 23 Mar 1874.[^death]
 
+He married at Saddell 6 Feb 1856[^marriage] to **Isabella McMillan**.
 
 
 * All children of John and Mary Sinclair: [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbr&surname_so=starts&forename_so=starts&from_year=1810&to_year=1845&parent_names=john&parent_names_so=exact&parent_name_two=sin&parent_name_two_so=starts&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&rd_real_name%5B0%5D=KILBERRY%20OR%20KILCALMONELL%20AND%20KILBERRY&rd_display_name%5B0%5D=KILBERRY%7CKILCALMONELL%20AND%20KILBERRY_KILBERRY&rd_label%5B0%5D=KILBERRY&rd_name%5B0%5D=KILBERRY%20OR%20KILCALMONELL%20AND%20KILBERRY&sort=asc&order=Date&field=year)
@@ -18,7 +19,7 @@ title: Neil Galbraith b. 1828 m. Isabella McMillan
 * 1901 Isabella https://www.findmypast.com/transcript?id=GBC%2F1901%2F0035922018 with 2 grandchildren
 * 1911 not found
 
-He married at Saddell 6 Feb 1856[^marriage] to **Isabella McMillan**.
+
 
 Children of Neil and Isabella (McMillan) Galbraith:
 
