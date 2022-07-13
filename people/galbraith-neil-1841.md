@@ -8,9 +8,9 @@ He married as a in Glasgow 31 Dec 1861 to **Margaret Stewart**, daughter of John
 
 Children of Neil and Margaret (Stewart) Galbraith:
 
-1. *Agnes Galbreath*, b. Saddell 23 Jan 1863 
+1. *Agnes Galbreath*, b. Saddell, 23 Jan 1863 
 2. *[John Galbraith](galbraith-john-1864-mctaggart.md)*, b. Saddell, 19 Nov 1864[^john-birth]
-3. *[Martha Galbraith](galbraith-martha-1867-mcbain.md)*, b. Saddell, 25 March 1867, m. *Robert McBain*
+3. *[Martha Galbraith](galbraith-martha-1867-mcbain.md)*, b. Saddell, 25 Mar 1867,[^martha-birth] m. *Robert McBain*
 4. *Neil Galbraith*, b. Campbeltown 23 May 1869
 5. *Margaret Galbraith*, b. Campbeltown 28 Oct 1871
 
@@ -24,4 +24,6 @@ Children of Neil and Margaret (Stewart) Galbraith:
 
 [^death2]: "Distressing Fatal Boating Accident", Dundee People's Journal - Saturday 26 April 1873, page 4, column 1. [Brittish Newspapers Archive](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000697/18730426/064/0004)
 
-[^john-birth]: Statutory records of Saddell; 1864 GALBREATH, JOHN (Statutory registers Births 531/1 26); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/39647646)
+[^martha-birth]: Statutory records of Saddell, Argyll; 1867 GALBREATH, MARTHA (Statutory registers Births 531/1 5); [ScotlandsPeople]
+
+[^john-birth]: Statutory records of Saddell, Argyll; 1864 GALBREATH, JOHN (Statutory registers Births 531/1 26); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/39647646)
