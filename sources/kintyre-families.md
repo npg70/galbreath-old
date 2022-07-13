@@ -27,10 +27,10 @@ publisher: TBD
 * [John Galbraith](/people/galbreath-john-1760.md), m. More McLean
 * [Hugh Galbratih](/people/galbraith-hugh-1892-barbour.md), d. 1947, m. Agnes Barbour.
 
-    * Wasn't clear how Hugh fit in...  he is the Grandson of John G- and More McLean.
-    * The Internet says the line goes back on generation more
+    * NOTE: Wasn't clear how Hugh fit in...  he is the Grandson of John G- and More McLean.
+    * NOTE: The Internet says the line goes back on generation more to a John Galbraeth and Isobell Clark (see below).  Evidence is circumstantial however (i.e. looks resonable but I suspect it's only based on OPR records and appropriate ages).
     * BIO: Hector Galbraith, son of Hugh Galbraith and Catharine McNair, was born at Campbeltown 7 Nov 1859. He died Southend 18 Nov 1921.  He married 27 Nov 1885 to Mary McCorkindale.
-    * BIO: John G-
+    * BIO: John Galbreath, son of John Galbreath and Isobell Clark, baptized at Campbeltown on 2 May 1760. He married 28 October 1781 to Marion McLean, b. about 1750 of unknown parents.
     * BIO: Hugh Galbraith, son of Neil Galbraith and Mary McCallumm born Campbeltown 4 Feb 1892, died Hillhead, Glasgow 9 May 1947, and buried at Kilkerran Cemetary. He married Agnes Jane Barbour.
 
 ---
