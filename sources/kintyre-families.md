@@ -31,7 +31,7 @@ publisher: TBD
     * The Internet says the line goes back on generation more
     * BIO: Hector G-
     * BIO: John G-
-    * BIO: Hugh G-
+    * BIO: Hugh Galbraith, son of Neil Galbraith and Mary McCallumm born Campbeltown 4 Feb 1892, died Hillhead, Glasgow 9 May 1947, and buried at Kilkerran Cemetary. He married Agnes Jane Barbour.
 
 ---
 
