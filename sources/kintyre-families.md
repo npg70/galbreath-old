@@ -115,7 +115,7 @@ tbd
 ---
 
 * [Jeannie G-](/people/galbraith-jane-1890.md) whiteinch Glasgow in 1914 was 24y.o.   "has many very near relatives in Campbeltown".
-    * NOTE: Her mother was [Jane Galbraith](/people/galbraith-jane-1861-galbraith.md). Yes another Galbraith/Galbraith marriage.
+    * NOTE: Her mother was [Jane Galbraith](/people/galbraith-jane-1861-galbraith.md), Yes another Galbraith/Galbraith marriage... Janet was  daughter of Donald Galbraith and Isabella McDermid, born Campbeltown 19 Dec 1861.  
     * NOTE: Her father was Donald Galbraith, but seems un-connected to Kintyre.
 
 ---
