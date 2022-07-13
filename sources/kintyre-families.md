@@ -149,8 +149,6 @@ tbd
 
     * BIO: Martha born at Saddell on 25 March 1867
 
-
-
 ---
 
 * [Neil G-](/people/galbraith-neil-1828-mcmillan.md), x. Kilberry, m. Isabella McMillian.  Piper.
@@ -166,7 +164,7 @@ tbd
 * John G- (brother)
 * [Neil G-](/people/galbraith-neil-1875-mccallum-black.md) (brother), m2. Margaret Morrison Black 17 Feb 1926, d. age 50 20 Dec 1926
 
-    * NOTE: Looks good.
+    * BIO: John G - born 18 May 1871
 
 ---
 
