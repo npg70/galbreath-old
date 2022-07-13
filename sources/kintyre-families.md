@@ -155,7 +155,6 @@ TBD
 * [Neil G-](/people/galbraith-neil-1828-mcmillan.md), x. Kilberry, m. Isabella McMillian.  Piper.
 * [Donald G-](/people/galbraith-donald-1862-mclarty.md) (son), b. 1862 Saddell, m. Catharine McLarty in 1886 in Campbeltown, moved to Ontario.  Piper.
 
-    * NOTE: Bagpipenews,com appears dead (july 5, 2022)
     * See Donald for other details
 
 ---
