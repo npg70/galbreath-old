@@ -4,7 +4,7 @@ familysearch: https://www.familysearch.org/tree/person/details/GDQ1-X1W
 ---
 ***Lachlan Galbraith***, son of *[Donald Galbraith](galbraith-donald-1848-morrison.md)* (fisherman) and *Janet Morrison*, born Saddel, Argyll, Scotland 20 Nov 1878.[^birth]
 
-He died in 1961.
+He died in 1961.[^death]
 
 He married first at Killean and Kilchenzie 9 Jun 1903[^marriage1] to **Annie McCallum**, daughter of Dugald McCallum and unknown McMillian (both deceased at time of marriage).
 
@@ -17,6 +17,8 @@ Children of Lachlan and Annie (McCallum) Galbraith:
 1. *Janet Galbraith*, b. 2 Feb 1905 Saddell
 
 [^birth]: Statutory registers Births 531/1 17 of Saddell, Argyll, birth of Lachlan Galbraith, on [ScotlandPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/41469080)
+
+[^death]: Statutory records of Saddell, Argyll; 1961 GALBRAITH, LACHLAN (Statutory registers Deaths 531/1 9); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/11296886)
 
 [^marriage1]: Statutory registers Marriages 519/ 3 of Killean and Kilchenzie, marriage of Lachlan Galbraith and Annie McCallum, On [ScotlandPeoples](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/2693426)
 
