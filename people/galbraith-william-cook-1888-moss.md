@@ -8,4 +8,4 @@ Brackley Wood Burial Ground, Carradale, Argyll.[^burial]
 
 He married **Christina Sarah Moss**.  
 
-[^burial]: 
+[^burial]: Find a Grave, database and images (https://www.findagrave.com/memorial/172200109/william-cook-galbraith : accessed 13 July 2022), memorial page for William Cook Galbraith (unknown–1969), Find a Grave Memorial ID 172200109, citing Brackley Wood Burial Ground, Carradale, Argyll and Bute, Scotland ; Maintained by Pixturmn (contributor 47729036) .
