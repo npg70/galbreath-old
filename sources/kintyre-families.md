@@ -108,7 +108,7 @@ tbd
 * [Achibald Galbratih](/people/galbreath-archibald-1842.md), m. Agnes O'May
 * [John Galbraith](/people//galbraith-john-china-1871.md), b. 1871 "China"
 
-    * NOTE: When not piping, China's day job was working at a distillery (like his father)
+    * NOTE: When not piping, China's day job was working at a distillery (like his father, and brother)
     * BIO: Archibald Galbreath, son of John Galbreath and Mary McTaggart, born Campbeltown 25 Aug 1842, and baptized Campbeltown 25 Sep 1842. He died 22 Sep 1896. He married at Campbeltown 8 Dec 18693 to Agnes O'May, daughter of William O'May and Margaret Milloy.
     * BIO: John "China" Galbraith, son of Archibald Galbraith and Agnes O'May, He died Campbeltown 5 Mar 19561.  Umarried?
 
