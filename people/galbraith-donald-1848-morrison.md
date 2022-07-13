@@ -12,7 +12,7 @@ Children of Donald and Janet (Morrison) Galbraith, all born in Saddell:
 
 1. *John Galbraith*, b. 18 May 1871[^john-birth], 26 Apr 1943 Tradeston Glasgow; m. Susan Livingston[^john-death]
 2. *[Neil Galbraith](galbraith-neil-1875-mccallum-black.md)*, b. 6? Jan 1875[^neil-birth], m1. *Jeanie McCallum*; m2. *Margaret Morrison Black*
-3. *[Lachlan Galbraith](galbraith-lachlan-1878.md)*, b. 20 Nov 1878[^lachlan-birth]
+3. *[Lachlan Galbraith](galbraith-lachlan-1878.md)*, b. 20 Nov 1878,[^lachlan-birth] m1. *McCallum*, m2. *McCallum*
 
 [^birth]: Statutory records of Gigha; 15/08/1848 GALBRAITH, DONALD (Old Parish Registers Births 537/ 20 67 Gigha and Cara) Page 67 of 81; [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/121?image=67)
 
