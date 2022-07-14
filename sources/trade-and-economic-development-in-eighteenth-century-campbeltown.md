@@ -35,10 +35,12 @@ Referring to the 1700s:
 
 ## Page 315
 
-> He borrowed money from merchant/maltmen of the town, 
-> Duncan Ballantine, John Campbell, James Greenslees,
+> David Ryburn ... borrowed money from merchant/maltmen of the town, 
+> Duncan Ballantine, John Campbell, James Greenlees,
 > James Reid, and **Samuel Galbreath**, and was still in
 > debt to themm at the time of his death. [[ 1771 or 1772 ]]
+> 
+>  26 Nov 1771, 16 Oct 1772, Argyll Testaments, CC 2/3/11
 
 The Memorial of the Lowland Congregation of Campbeltown 22 Sept 1749
 
