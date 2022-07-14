@@ -26,6 +26,18 @@ isbn: 1-903238-84-6
 * https://www.scotlandspeople.gov.uk/view-image/nrs_wills_testaments/33862?image=1&return_row=0
 * spouse not listed but...
 * Lists children: Margaret, Florance, Agnes, Alexander, James, Robert, Janet
+* [John Armour](https://www.familysearch.org/tree/person/details/K4K8-GZF) m. Isobell Colvill
+    * Margaret 1773
+    * ~~James 1775~~
+    * ~~John 1775 (twins)~~
+    * Agnes 1779
+    * Alexander 1781
+    * James 1781 (twins)
+    * John 1783
+    * Isabell 1785
+    * Robert 1787
+    * Janet (twins) 1787
+* John has a bother James.  Missing Florance.
 
 
 ## Page 16
