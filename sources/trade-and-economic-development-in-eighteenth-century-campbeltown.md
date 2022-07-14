@@ -42,6 +42,29 @@ Referring to the 1700s:
 > 
 >  26 Nov 1771, 16 Oct 1772, Argyll Testaments, CC 2/3/11
 
+* 1771 Ryburn, David (Wills and testaments Reference CC2/3/11, Argyll Commissary Court) Image 403 Last image 434; [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_wills_testaments/780435?image=2&session=200834&return_row=1):  Wow this guy owed money to veryone.  Lists him as David Ryburn Jr.
+    * Page 403- lists Samuel Galbreath and Archibald Galbreath, no additional biographical details
+    * page 407 "William Galbreath maltster in Campbeltown"
+    * page 408 "Samuel Galbreath malster in Campbeltown"
+    * page 410 "The said Samuel Galbreath of Campbeltown", "the said Archibald Galbreath of Campbeltown"
+    * page 412 "Samuel and William Galbreath malsters"
+    * page 413 "The by John Galbraeath, sailor in Ligh?
+    * page 414: "Archibald Galbreath...", "Lachlan Galbreath in Gigha"
+    * Page 415: "More Galbreath"
+    * Page 416: "Flory Galbreath"
+    * Page 417: "Then by William Galbreath cooper...", "tehn by Archibald Galbreath ..."
+    * Page 420: "Then by Mary Galbreath..."
+    * Page 425: "Then by William Galbreath...", "then by Gabriel Galbreath..."
+    * Page 427: "The by James Galbreath...", "then by John Galbreath", then by "Archibald Galbreath" (end of page)
+    * page 428: "Mary Galbreath"
+    * Page 430: "Archibald Galbreath"
+    * Page 431: "Daneil Galbreath"
+    * Page 432: "Angus Galbreath"
+    * Page 433: "Sold to William Galbreath and Company" (2x), "sold to Samuel and William Galbreath"
+    * Page 434: something to with William Galbreath being a commisionerof Campbeltown
+
+---
+
 The Memorial of the Lowland Congregation of Campbeltown 22 Sept 1749
 
 * William Galbreath
