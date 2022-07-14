@@ -2,7 +2,7 @@
 title: William Campbell Galbraith b. m. Mary Keith Mitchell
 findagrave: https://www.findagrave.com/memorial/178048077/william-campbell-galbraith
 ---
-***William Campbell Galbraith***, son of *[William Galbraith](galbraith-william-1846-campbell.md)* and *Helen Campbell*, was born in 1869 at Southend, Argyll.[^birth]   He died 13 Nov 1996 in Campbeltown and buried in Kilkerran Graveyard.[^burial]
+***William Campbell Galbraith***, son of *[William Galbraith](galbraith-william-1846-campbell.md)* and *Helen Campbell*, was born in 11 Feb 1869 at Southend, Argyll.[^birth]   He died 13 Nov 1996 in Campbeltown and buried in Kilkerran Graveyard.[^burial]
 
 He married in 1956 at Campbeltown to **Mary Keith Mitchell**.[^marriage]
 
