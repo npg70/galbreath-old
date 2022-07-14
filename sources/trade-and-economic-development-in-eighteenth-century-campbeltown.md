@@ -20,6 +20,14 @@ Referring to the 1700s:
 > The Harveys or Harvies participated in malting and 
 > traded extensively in grain.  The Orr business passed from father to son to grandson.
 
+## Page 222
+
+> In 1783.. ten maltmen, James Armour, Robert Brown, Edward Ferguson, Hugh Ferguson,
+> Robert Fulton, *William Galbraith*, Andrew Harvey, Peter Langwill, Robert Langwill,
+> and James Park, agreed to stop steeping bear malt and selling malt.
+> 
+> 6 March 1783, TCM, III, 
+
 ## Page 286
 
 >... flared up again in 1762, these same names were the
