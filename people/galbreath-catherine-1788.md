@@ -1,8 +1,9 @@
 ---
 title: Catharine Galbreath b. 1788 m. James Greenlees
 familysearch: https://www.familysearch.org/tree/person/details/KJZW-RSR
+findagrave: https://www.findagrave.com/memorial/114485222/catherine-greenlees
 ---
-**Catharine Galbreath**, daughter of [*Samuel Galbreath*](galbreath-samuel-1736.md) and *Janet McNair*, born Peninver, Argyll, Scotland 16 May 1788, baptized Campbeltown 18 May 1788, and died Moys, Campbeltown, Argyll, Scotland 21 Apr 1878. She married 5 Apr 1810 **James Greenlees**,[^james] born 26 Main St, Campbeltown, Argyll, Scotland 6 Jan 1782, and died Peninver, Campbeltown, Argyll, Scotland, 6 Mar 1848.  James was the son of *James Greenless* b. 1754 and Janet Watson.
+**Catharine Galbreath**, daughter of [*Samuel Galbreath*](galbreath-samuel-1736.md) and *Janet McNair*, born Peninver, Argyll, Scotland 16 May 1788, baptized Campbeltown 18 May 1788, and died Moys, Campbeltown, Argyll, Scotland 21 Apr 1878.[^burial] She married 5 Apr 1810 **James Greenlees**,[^james] born 26 Main St, Campbeltown, Argyll, Scotland 6 Jan 1782, and died Peninver, Campbeltown, Argyll, Scotland, 6 Mar 1848.  James was the son of *James Greenless* b. 1754 and Janet Watson.
 
 Catherine and James, along with some children, are mentioned in 1841 Census, as farmers in Peninver.[^1841]  TODO: check 1851 census.
 
@@ -41,3 +42,6 @@ Children of James and Catharine (Galbreath) Greenlees, all baptized in Campbelto
 [^children]: OPR baptisms of children from [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=greenlees&surname_so=exact&forename_so=starts&from_year=1811&to_year=1833&parent_names=greenlees&parent_names_so=exact&parent_name_two=galbreath&parent_name_two_so=exact&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&rd_real_name%5B0%5D=CAMPBELTOWN%20%28LANDWARD%29%20OR%20CAMPBELTOWN%20%28BURGH%29%20OR%20CAMPBELTOWN&rd_display_name%5B0%5D=CAMPBELTOWN%20%28LANDWARD%29%7CCAMPBELTOWN%20%28BURGH%29%7CCAMPBELTOWN_CAMPBELTOWN&rd_label%5B0%5D=CAMPBELTOWN&rd_name%5B0%5D=CAMPBELTOWN%20%2ALANDWARD%2A%20OR%20CAMPBELTOWN%20%2ABURGH%2A%20OR%20CAMPBELTOWN&sort=asc&order=Date&field=year).
 
 [^1841]: The 1841 census on [FamilySearch](https://www.familysearch.org/ark:/61903/1:1:VYC5-T42)
+
+[^burial]: Find a Grave, database and images (https://www.findagrave.com/memorial/114485222/catherine-greenlees : accessed 14 July 2022), memorial page for Catherine Galbreath Greenlees (16 May 1788–21 Apr 1878), Find a Grave Memorial ID 114485222, citing Kilchousland Graveyard, Argyll and Bute, Scotland ; Maintained by Joelle Colville-Hanson (contributor 48735492) .
+
