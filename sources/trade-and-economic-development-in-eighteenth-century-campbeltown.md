@@ -23,7 +23,7 @@ Referring to the 1700s:
 ## Page 222
 
 > In 1783.. ten maltmen, James Armour, Robert Brown, Edward Ferguson, Hugh Ferguson,
-> Robert Fulton, *William Galbraith*, Andrew Harvey, Peter Langwill, Robert Langwill,
+> Robert Fulton, **William Galbraith**, Andrew Harvey, Peter Langwill, Robert Langwill,
 > and James Park, agreed to stop steeping bear malt and selling malt.
 > 
 > 6 March 1783, TCM, III, 
@@ -37,7 +37,7 @@ Referring to the 1700s:
 
 > He borrowed money from merchant/maltmen of the town, 
 > Duncan Ballantine, John Campbell, James Greenslees,
-> James Reid, and Samuel Galbreath, and was still in
+> James Reid, and **Samuel Galbreath**, and was still in
 > debt to themm at the time of his death. [[ 1771 or 1772 ]]
 
 The Memorial of the Lowland Congregation of Campbeltown 22 Sept 1749
