@@ -2,7 +2,7 @@
 title: William Galbraith b, 1846 m. Ellen Campbell
 findagrave: https://www.findagrave.com/memorial/178695335/william-galbraith
 ---
-***William Galbraith***, son of *[William Galbriath](galbraith-william-1815.md)* and *Grace Glass*,
+***William Galbraith***, son of *[William Galbraith](galbraith-william-1815.md)* and *Grace Glass*,
 born 2 Mar 1846[^birth] and died 21 May 1926,[^death] all in Campbeltown.
 
 He married Southend 22 June 1869[^marriage] to **Helen Campbell**
