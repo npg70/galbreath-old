@@ -42,6 +42,7 @@ Referring to the 1700s:
 > 
 >  26 Nov 1771, 16 Oct 1772, Argyll Testaments, CC 2/3/11
 
+Legal documents on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&dl_cat=legal&dl_rec=legal-wills-testaments&surname=Ryburn&surname_so=exact&forename=David&forename_so=starts&from_year=1771&to_year=1772&record_type=wills_testaments#result_row_1)
 * 1771 Ryburn, David (Wills and testaments Reference CC2/3/11, Argyll Commissary Court) Image 403 Last image 434; [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_wills_testaments/780435?image=2&session=200834&return_row=1):  Wow this guy owed money to veryone.  Lists him as David Ryburn Jr.
     * Page 403- lists Samuel Galbreath and Archibald Galbreath, no additional biographical details
     * page 407 "William Galbreath maltster in Campbeltown"
@@ -62,7 +63,7 @@ Referring to the 1700s:
     * Page 432: "Angus Galbreath"
     * Page 433: "Sold to William Galbreath and Company" (2x), "sold to Samuel and William Galbreath"
     * Page 434: something to with William Galbreath being a commisionerof Campbeltown
-
+* 1772 Ryburn, David (Wills and testaments Reference CC2/3/11, Argyll Commissary Court) Image 441 Last image 442; [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_wills_testaments/780432?image=1&return_row=0)  Not so interesting.
 ---
 
 The Memorial of the Lowland Congregation of Campbeltown 22 Sept 1749
