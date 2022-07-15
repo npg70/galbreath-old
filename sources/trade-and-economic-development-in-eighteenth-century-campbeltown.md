@@ -64,7 +64,8 @@ Legal documents on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-r
     * Page 433: "Sold to William Galbreath and Company" (2x), "sold to Samuel and William Galbreath"
     * Page 434: something to with William Galbreath being a commisionerof Campbeltown
 * 1772 Ryburn, David (Wills and testaments Reference CC2/3/11, Argyll Commissary Court) Image 441 Last image 442; [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_wills_testaments/780432?image=1&return_row=0)  Not so interesting.
----
+
+## Appendix 8
 
 The Memorial of the Lowland Congregation of Campbeltown 22 Sept 1749
 
