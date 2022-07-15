@@ -13,7 +13,7 @@ Children of Archibald and Agnes (O'May) Galbraith:
 1. *[William Galbraith](galbraith-william-1870-mcmillan.md)*, b. 5 Apr 1870[^william-birth], m. *Margaret McMillan*
 2. *[John "China" Galbraith](galbraith-john-china-1871.md)*, b. 4 Dec 1871[^john-birth]; umn.
 3. *Mary Galbraith*, b. 16 Jan 1874
-4. *Archibald Galbreath*, b. 1 Apr 1881,[^archibald-birth] d. 1881, Campbeltown. Unmarried.[^archibald-death]
+4. *Archibald Galbreath*, b. 1 Apr 1881,[^archibald-birth] d. 17 May 1881.[^archibald-death]
 5. *Agnes Leoran Galbraith*, b. 10 Jan 1883[^agnesleoran]
 
 [^birth]: OPR Campbeltown baptism record for [Archibald Galbreath](/sources/opr-campbeltown-births.md#1842-09-25-archibald-galbreath)
@@ -36,5 +36,5 @@ Children of Archibald and Agnes (O'May) Galbraith:
 
 [^archibald-birth]: 1881 GALBRAITH, ARCHIBALD (Statutory registers Births 507/ 92), [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/41867573)
 
-[^archibald-death]: Statutory Records of Campbeltown; 1881 GALBRAITH, ARCHIBALD (Statutory registers Deaths 507/ 76); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/2393123)
+[^archibald-death]: Statutory Records of Campbeltown; 1881 GALBRAITH, ARCHIBALD (Statutory registers Deaths 507/ 76); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/2393123). Died after 1.5 months.  Lists father as a "Distillery Workman"
 
