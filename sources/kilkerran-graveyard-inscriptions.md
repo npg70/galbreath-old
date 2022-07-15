@@ -84,8 +84,10 @@ some children of William Blue and Susan Galbreath: https://www.scotlandspeople.g
 > 
 > Erected by CATHERINE GALBRAITH in memory of her husband DAVID GALBRAITH who died 19 Aug 1855 aged 38 years and of their family MARGARET died 26 Jul 1881 aged 31 years, ISABELLA died 21 Sep 1882 aged 33 years, ROBERT died 18 May 1885 aged 33 years also her uncle DUGALD HAXTON died 1 Dec 1872 aged 87 years, the above CATHERINE GALBRAITH died 5 Mar 1886 aged 68 years, ALEXANDER GALBRAITH Private 72 Highlanders died 4 Dec 1887 aged 42 years took part in the following engagements, Pliwarmotal, Cara …, Cabul, Kandahar and Tel-el-keber.
 
+[David Galbraith](/people/galbreath-david-1819.md), b. 1819, m. Catherine McKinnon in 1844
+
 2021-11-28:
-* nothing on familysearch
+* nothing on familysearch --probably because no living descendants.
 * maybe david birth, son of David farmer Ugalale, and Mary Greenless  https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357356?image=489&return_row=1
 * David death is not in civil records.
 * Catherina Galbraith is in civil records
