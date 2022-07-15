@@ -11,7 +11,7 @@ He was a mason, like his father.
 
 Children of William and Helen (Campbell) Galbraith:
 
-1. *[William Campbell Galbraith](galbraith-william-campbell-1929-mitchell.md)*, b. 11 Feb 1869, Southend, "illegitimate";[^william-birth]  d. 20 Feb 1946
+1. *[William Campbell Galbraith](galbraith-william-campbell-1929-mitchell.md)*, b. 11 Feb 1869, Southend, "illegitimate";[^william-birth]  d. 20 Feb 1946, London.[^william-death]
 2. *Charles Campbell Galbraith*, b. 26 Aug 1888, Campbeltown[^charles-birth] (present at father's death)
 
 [^birth]: OPR Campbeltown, baptism of [William Galbraith](/sources/opr-campbeltown-births.md#1846-03-02-william-galbreath)
@@ -21,5 +21,7 @@ Children of William and Helen (Campbell) Galbraith:
 [^charles-birth]:  1888 GALBRAITH, CHARLES CAMPBEL (Statutory registers Births 507/ 263); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/42797062)
 
 [^william-birth]: Statutory records of Southend, Arygll; 1869 GALBRAITH, WILLIAM (Statutory registers Births 532/ 4); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/40327253)
+
+[^william-death]: England & Wales Government Probate Death Index 1858-2019; [FindMyPast](https://www.findmypast.com/transcript?id=GBOR%2FGOVPROBATE%2FC%2F1946-1946%2F00067380)
 
 [^death]: Statutory records of Campbeltown; 1926 GALBRAITH, WILLIAM (Statutory registers Deaths 507/ 61); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/8011993)
