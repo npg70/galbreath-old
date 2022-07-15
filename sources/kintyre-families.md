@@ -19,7 +19,7 @@ publisher: TBD
 
 * John G-, attacked during a shinty match 1818
 
-    * NOTE: Unable to find any additional info to identify him.  While an interesting story, I'm not I'd lead with this G-.
+    * NOTE: Unable to find any additional info to identify him.  While an interesting story, I'm not I'd lead with it for the Galbraith entry :-) 
 
 ---
 
@@ -66,8 +66,7 @@ TBD
 * [William Campbell G]() (1870-1946)
 * [William G](/people/galbraith-william-1846-campbell.md), d. 1926 age 80 (father of above), m. Helen Campbell
 
-    * BIO: WCG married Mary Keith Mitchell in 1969.
-    * BIO:  William G married Helen Campbell at Southend 22 June 1869
+    * BIO: William G married Helen Campbell at Southend 22 June 1869
 
 ---
 
@@ -78,7 +77,6 @@ TBD
     * NOTE: This section was a bit light on vital data.. perhaps add an age, a (birth-death), or marriage for one of the people.
     * BIO: Samuel Galbraith, son of David Galbreath and Janet Mitchell. baptized at Campbeltown 14 Jan 1827, and died 17 Oct 1860. He married at Campbeltown 8 April 1860 to Margaret Beaton
     * BIO: David Galbreath, son of Samuel Galbreath and Janet Langwill, at Campbeltown was born 16 Sept 1797 and baptised 19 Sep 1797. He died 12 Aug 1884. He married 5 Oct 1824 to Janet Mitchell Janet was the daughter of Archibald Mitchell and Agnes Greenless, born around 1801 and died 4 Oct 1874 in Campbeltown.
- 
 
 ---
 
