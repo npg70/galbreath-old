@@ -2,12 +2,14 @@
 title: David Galbreath b. 1812 m. Catharine McKinnon
 familysearch: https://www.familysearch.org/tree/person/details/KCRW-WZZ
 ---
-***David Galbreath***, son of *Alexander Galbreath* and *Merran Galbreath*[^maybe], was bapitized in Gigha 3 Feb 1812.[^birth] He likely died between 1851 and 1855 since he is present in the 1851 census[^census1851] but there are no statutory records of death which started in 1855.  The death record of his son Robert in 1885 indicates he was deceased by then.
+***David Galbreath***, son of *Alexander Galbreath* and *Merran Galbreath*[^maybe], was bapitized in Gigha 3 Feb 1812.[^birth] He died  19 Aug 1855 in or near Campbeltown and buried in Kilkerran Graveyard.[^burial]
 
-He married, as a fisherman, at Campbeltown 3 Sep 1844 to **Catharine McKinnon**, "daughter of late John McKinnon, seaman."[^marriage]
+He married, as a fisherman, at Campbeltown 3 Sep 1844 to **Catharine McKinnon**, "daughter of late John McKinnon, seaman."[^marriage]   She died  5 Mar 1886 and is burried in Kilkerran.[^burial]
 
 Maybe 1841 Census: South Drimcrow, Gigha https://www.findmypast.com/transcript?id=GBC%2F1841%2F0016661129  has the only david in Gigha.  Also has ALexander (father) at age 60 / ~1781, and Marion age 20 / ~ 1821, and some grandchild? Alex age 5 / 1836.   Ages are all rounded to nearest 5 so who knows.
 
+He is present in the 1851 census[^census1851]
+ 
 Multiple Merrans died in the 1830, with birth in 1780s so this could be ok.
 
 
@@ -27,7 +29,8 @@ Children of David and Catharine (McKinnon) Galbreath, all baptized at Campbeltow
     > daughter of the late John McKinnon, seaman,
     > both of this parish, were married 3 Sep 1844
     
-    
+[^burial]: [Killkerran Graveyard Inscriptions #310](/sources/kilkerran-graveyard-inscriptions.md#310)
+
 [^census1851]: Scotland Census of 1851, Shore Street, Campbeltown; Household of David Galbreath; [page 507-7-21](/sources/scotland-census-1851-campbeltown.md#507-7-21)
 
 [^alexander-birth]: OPR Campbeltown, baptism of [Alexander Galbreath](/sources/opr-campbeltown-births.md#1845-07-15-alexander-galbreath)
