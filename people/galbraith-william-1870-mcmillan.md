@@ -8,9 +8,11 @@ He married at Campbeltown 5 Dec 1892[^marriage] to **Margaret McMillan**, daught
 
 Placeholders for another day:
 
-* Very detailed description of William murdering his wife: https://news.google.com/newspapers?nid=2507&dat=18970617&id=iLtEAAAAIBAJ&sjid=GLYMAAAAIBAJ&pg=847,7100638
+* 1897: Very detailed description of William murdering his wife: https://news.google.com/newspapers?nid=2507&dat=18970617&id=iLtEAAAAIBAJ&sjid=GLYMAAAAIBAJ&pg=847,7100638
 * 1897: Conviction: https://www.britishnewspaperarchive.co.uk/viewer/bl/0000295/18970618/223/0006
 * 1910: Petition for Release: https://www.britishnewspaperarchive.co.uk/viewer/bl/0000728/19100307/038/0003
+
+Supposedly moved to Canada to be with his children.
 
 Children of William and Margaret (McMillan) Galbraith:
 
