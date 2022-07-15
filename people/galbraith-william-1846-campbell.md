@@ -11,7 +11,7 @@ He was a mason, like his father.
 
 Children of William and Helen (Campbell) Galbraith:
 
-1. *[William Campbell Galbraith](galbraith-william-campbell-1929-mitchell.md)*, b. Southend, 11 Feb 1869 "illegitimate";[^william-birth]  d. 20 Feb 1946
+1. *[William Campbell Galbraith](galbraith-william-campbell-1929-mitchell.md)*, b. 11 Feb 1869, Southend, "illegitimate";[^william-birth]  d. 20 Feb 1946
 2. *Charles Campbell Galbraith*, b. 26 Aug 1888, Campbeltown[^charles-birth] (present at father's death)
 
 [^birth]: OPR Campbeltown, baptism of [William Galbraith](/sources/opr-campbeltown-births.md#1846-03-02-william-galbreath)
