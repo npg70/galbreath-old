@@ -19,7 +19,7 @@ publisher: TBD
 
 * John G-, attacked during a shinty match 1818
 
-    * NOTE: Unable to find any additional to identify him.
+    * NOTE: Unable to find any additional info to identify him.  While an interesting story, I'm not I'd lead with this G-.
 
 ---
 
