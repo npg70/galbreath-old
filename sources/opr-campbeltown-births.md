@@ -1247,7 +1247,10 @@ TBD: Neill Galbreath / Isabill McKinlay
 
 ## 1795-03-31 Agnes Galrbeath
 
-TBD: **[James Galbreath](/people/galbreath-james-1768-jean-harvey.md)**  **Jean Harvey**
+[507/40 125 row 8](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357915?image=125); 31/03/1795 GALBREATH, AGNES (Old Parish Registers Births 507/ 40 125 Campbeltown) Page 125 of 504
+
+> Agnes | Lawful daut to  **[James Galbreath](/people/galbreath-james-1768-jean-harvey.md)** & **Jean Harvey**
+> in town born 28th bap 31
 
 ## 1795-10-14 John Galbreath
 
@@ -1277,7 +1280,9 @@ TBD: Neil Galbreath / Grizell Taylor
 
 ## 1796-10-06 Andrew Galbreath
 
-TBD: **[James Galbreath](/people/galbreath-james-1768-jean-harvey.md)**  **Jean Harvey**
+[507/40 143 row 1](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356773?image=143); 06/10/1796 GALBREATH, ANDREW (Old Parish Registers Births 507/ 40 143 Campbeltown) Page 143 of 504
+
+> Andrew | Lawful son to  **[James Galbreath](/people/galbreath-james-1768-jean-harvey.md)** & **Jean Harvey** in Town born 6th.
 
 ## 1796-11-09 John Galbreath
 
@@ -1311,13 +1316,21 @@ TBD: Neil Galbreath / Isabell Mckinlay
 > Agnes | Lawfult daugt to **[Peter Galbreath](/people/galbreath-peter-1749.md)** & **Agnes McMurchy**
 > in Lagan was Born 18th Baptized 21th, Agnes--
 
-## 1798-09-12 MaryAnn? Galbreath
+## 1798-09-12 MaryAnn Galbreath
 
-TBD: **[James Galbreath](/people/galbreath-james-1768-jean-harvey.md)**  **Jean Harvey**
+This is mis-indexed.  Clearly says "Margaret" and a duplicate of the below entry.
+
+[507/40 171 row 13](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357192?image=171); 12/09/1798 GALBREATH, MARAANN (Old Parish Registers Births 507/ 40 171 Campbeltown) Page 171 of 504
+
+> Margaret | Lawful daught to  **[James Galbreath](/people/galbreath-james-1768-jean-harvey.md)** &  **Jean Harvey**
+> in town born 11th baptized 12th ...
 
 ## 1798-09-12 Margaret Galbreath
 
-TBD: **[James Galbreath](/people/galbreath-james-1768-jean-harvey.md)**  **Jean Harvey**
+[507/40 171 row 12](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358301?image=171); 12/09/1798 GALBREATH, MARGARET (Old Parish Registers Births 507/ 40 171 Campbeltown) Page 171 of 504
+
+> Margaret | Lawful daught to  **[James Galbreath](/people/galbreath-james-1768-jean-harvey.md)** &  **Jean Harvey**
+> in town born 11th baptized 12th ...
 
 ## [1798-09-30 Archibald Galbreath](/people/galbreath-archibald-1798.md)
 
@@ -1349,8 +1362,6 @@ TBD: Neil Galbreath / Fineul ??
 
 TBD: NEIL GALBREATH/MARGARET GALBREATH
 
-
-
 ## [1800-02-26 Martha Galbreath](/people/galbreath-martha-1800.md)
 
 [507/40 197 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358384?image=197)
@@ -1362,12 +1373,15 @@ TBD: NEIL GALBREATH/MARGARET GALBREATH
 
 [507/40 197 row 8](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358384?image=197)
 
->  Florence | John Molloy & Katherine Galbreath in town had a lawful dau. A
+>  Florence | **John Molloy** & **Katherine Galbreath** in town had a lawful dau. A
 >  born 27th baptized 28th Feb. The childs name is Florance
 
 ## 1800-10-05 Jean Galbreath
 
-TBD: **[James Galbreath](/people/galbreath-james-1768-jean-harvey.md)**  **Jean Harvey**
+[507/40 233 row 13]](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358187?image=206); 05/09/1802 GALBREATH, HENREY (Old Parish Registers Births 507/ 40 233 Campbeltown) Page 233 of 504
+
+> Jean |  **[James Galbreath](/people/galbreath-james-1768-jean-harvey.md)** & **Jean Harvey** in town had a 
+> lawful daut. born 3rd bapt 5th [1800] Oct named Jean
 
 death: https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/2359939?return_row=13
 
@@ -1410,7 +1424,10 @@ TBD: NEIL GALBREATH/GRIZELL TAYLOR
 
 ## 1802-09-05 Henrey Galbreath
 
-TBD: **[James Galbreath](/people/galbreath-james-1768-jean-harvey.md)**  **Jean Harvey**
+[507/40 233 row 8](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357428?image=233); 05/09/1802 GALBREATH, HENREY (Old Parish Registers Births 507/ 40 233 Campbeltown) Page 233 of 504
+
+> Henrey | Lawful son to **[James Galbreath](/people/galbreath-james-1768-jean-harvey.md)** & **Jean Harvey**
+> in town. Born 1 Sept Bapt 5 Sept. Henrey
 
 ## 1802-09-15 James Galbreath
 
@@ -1461,11 +1478,12 @@ John | Lawful Son to **[William Galbraith](/people/galbreath-william-1780.md)** 
 
 ## 1805-03-06 Florence Galbreath
 
-TBD: **[James Galbreath](/people/galbreath-james-1768-jean-harvey.md)**  **Jean Harvey**
+[507/40 273 row 15](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358058?image=273); 06/03/1805 GALBREATH, FLORENCE (Old Parish Registers Births 507/ 40 273 Campbeltown) Page 273 of 504
+
+> Florence | Lawful Daugher to  **[James Galbreath](/people/galbreath-james-1768-jean-harvey.md)** baker in Campbeltown
+> and **Jean Harvie** born 2nd baptized 6 March 1805. Named Florence.
 
 death: https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/2856442?return_row=11
-
-James listed as a baker.
 
 ## [1805-04-07 Jean Galbreath](/people/galbraith-jean-1805.md)
 
