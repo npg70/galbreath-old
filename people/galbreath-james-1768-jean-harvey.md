@@ -5,6 +5,7 @@ title: James Galbreath b. 1768 m. Jean Harvey
 
 He married at Campbeltown 1794 to **Jean Harvey**. 
 
+He was a baker.
 
 Children of James and Jean (Harvey) Galbreath:[^children]
 
