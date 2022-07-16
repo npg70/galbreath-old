@@ -7,7 +7,7 @@ He married at Campbeltown 1794 to **Jean Harvey**.
 
 He was a baker.
 
-Children of James and Jean (Harvey) Galbreath:[^children]
+Children of James and Jean (Harvey) Galbreath, all baptized in Campbeltown:[^children]
 
 1. *Agnes Galbreath*, bp. 31 Mar 1795[^agnes-birth]
 2. *Andrew Galbreath*, bp. 6 Oct 1796[^andrew-birth]
