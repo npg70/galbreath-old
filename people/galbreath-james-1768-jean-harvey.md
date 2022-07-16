@@ -14,7 +14,7 @@ Children of James and Jean (Harvey) Galbreath, all baptized in Campbeltown:[^chi
 3. *Margaret Galbreath*, bp. 12 Sep 1798[^margaret-birth]
 4. *Jean Galbreath*, bp. 5 Oct 1800[^jean-birth]
 5. *Henrey Galbreath*, bp. 5 Sep 1802[^henry-birth]
-6. *Florence Galbreath*, bp. 6 Mar 1806[^florence-birth]
+6. *[Florence Galbreath](galbreath-florence-1806-mcmurchy.md)*, bp. 6 Mar 1806;[^florence-birth] m. *John McMurchy*
 
 [^james-birth]: OPR Campbeltown, baptism of [James Galbreath](/sources/opr-campbeltown-births.md#1768-12-23-james-galbreath)
 
