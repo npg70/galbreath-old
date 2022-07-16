@@ -9,7 +9,7 @@ He was a baker.[^florence-birth]
 
 Children of James and Jean (Harvey) Galbreath, all baptized in Campbeltown:[^children]
 
-1. *Agnes Galbreath*, bp. 31 Mar 1795[^agnes-birth]
+1. *Agnes Galbreath*, bp. 31 Mar 1795[^agnes-birth]; m. *WILLIAM BLACKNEY*
 2. *Andrew Galbreath*, bp. 6 Oct 1796[^andrew-birth]
 3. *Margaret Galbreath*, bp. 12 Sep 1798[^margaret-birth]; m. *ARCHIBALD MCISAAC*
 4. *Jean Galbreath*, bp. 5 Oct 1800[^jean-birth]; m. *ARCHIBALD MCISAAC*
