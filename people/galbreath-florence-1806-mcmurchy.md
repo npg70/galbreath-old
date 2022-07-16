@@ -1,10 +1,9 @@
 ---
 title: Florence Galbreath b. 1806 m. John McMurchy
 ---
-***Florence Galbreath***, daughter of *[James Galbreath](galbreath-james-1768-jean-harvey.md)* and *Jean Harvey*, .[^birth]
-She died 21 Apr 1886 at Campbeltown.[^death]
+***Florence Galbreath***, daughter of *[James Galbreath](galbreath-james-1768-jean-harvey.md)* and *Jean Harvey*, born 6 Mar 1806 at Campbeltown.[^birth] She died 21 Apr 1886 at Campbeltown.[^death]
 
-
+She married **John McMurchy**
 
 [^birth]: OPR Campbeltown, baptism of [Florence Galbreath](/sources/opr-campbeltown-births.md#1805-03-06-florence-galbreath)
 
