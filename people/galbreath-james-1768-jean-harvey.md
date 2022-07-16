@@ -25,10 +25,10 @@ Children of James and Jean (Harvey) Galbreath, all baptized in Campbeltown:[^chi
 
 [^andrew-birth]: OPR Campbeltown, baptism of [Andrew Galbreath](/sources/opr-campbeltown-births.md#1796-10-06-andrew-galbreath)
 
-[^margaret-birth]: OPR Campbeltown, baptism of
+[^margaret-birth]: OPR Campbeltown, baptism of [Margaret Galbreath](/sources/opr-campbeltown-births.md#1798-09-12-margaret-galbreath)
 
-[^jean-birth]: OPR Campbeltown, baptism of
+[^jean-birth]: OPR Campbeltown, baptism of [Jean Galbreath](/sources/opr-campbeltown-births.md#1800-10-05-jean-galbreath)
 
-[^henry-birth]: OPR Campbeltown, baptism of
+[^henry-birth]: OPR Campbeltown, baptism of [Henrey Galbreath](/sources/opr-campbeltown-births.md#1802-09-05-henrey-galbreath)
 
-[^florance-birth]: OPR Campbeltown, baptism of
+[^florance-birth]: OPR Campbeltown, baptism of [Florence Galbreath](/sources/opr-campbeltown-births.md#1805-03-06-florence-galbreath)
