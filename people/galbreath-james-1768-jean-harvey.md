@@ -23,7 +23,7 @@ Children of James and Jean (Harvey) Galbreath, all baptized in Campbeltown:[^chi
 
 [^agnes-birth]: OPR Campbeltown, baptism of [Agnes Galbreath](/sources/opr-campbeltown-births.md#1795-03-31-agnes-galrbeath)
 
-[^andrew-birth]: OPR Campbeltown, baptism of
+[^andrew-birth]: OPR Campbeltown, baptism of [Andrew Galbreath](/sources/opr-campbeltown-births.md#1796-10-06-andrew-galbreath)
 
 [^margaret-birth]: OPR Campbeltown, baptism of
 
