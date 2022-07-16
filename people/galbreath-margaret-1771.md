@@ -4,6 +4,7 @@ familysearch: https://www.familysearch.org/tree/person/details/L2M9-JSL
 ---
 ***Margaret Galbreath***, daughter of *[Henry Galbreath](galbreath-henry-1739.md)* and  *Agnes Armour*, baptized Campbeltown 1 Nov 1771.[^birth]
 
+She married 26 Apr 1802 to **Nathaniel McNair**.
 
 Immigrated with family to Canada in June 1821.
 
