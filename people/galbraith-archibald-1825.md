@@ -30,6 +30,6 @@ Children of Archibald and Mary (Paterson) Galbraith:
 
 [^archibald-birth]: Statutory records of Campbeltown; 1867 GALBRAITH, ARCHIBALD (Statutory registers Births 507/ 141); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/40048242)
 
-[^archibald-death]; Statutory records of Campbeltown; 
+[^archibald-death]; Statutory records of Campbeltown; 1868 GALBRAITH, ARCHIBALD (Statutory registers Deaths 507/ 59); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/1077021)
 
 [^archibald2-death]: Statutory records of Campbeltown; 1955 GALBREAITH, ARCHIBALD (Statutory registers Deaths 507/ 60); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/10817652)
