@@ -1,9 +1,8 @@
 ---
 title: Donald Galbraith b. 1831 m. Isabella McDermid
-familysearch: XXX
+familysearch: https://www.familysearch.org/tree/person/details/KZ6S-1WF
 ---
 ***Donald Galbraith***, son of *Archibald Galbraith* and *Mary McLean*, baptized at Kilcalmonell in Nov 1831.[^birth]
-
 
 Married in Campbeltown 1858[^marriage] to **Isabella McDermid**.
 
@@ -21,8 +20,14 @@ Family search says he was born NOV 1831, Kilcalmonell And Kilberry, which matche
 
 Children of Donald and Isabella (McDermid) Galbraith:
 
+1. *Mary Galbraith*, b. 16 Feb 1860
 1. *[Jane Galbraith](galbraith-jane-1861-galbraith.md)*, b. 19 Dec 1861,[^jane-birth] m. *Donald Galbraith*
-1. *[Archibald Galbraith](/people/galbraith-archibald-1865-mckay.md)*, b. 1 July 1865,[^archibald-birth] m. *Isabella McKay* 
+2. *Marion Galbraith*, b. 28 Sep 1863
+3. *[Archibald Galbraith](/people/galbraith-archibald-1865-mckay.md)*, b. 1 July 1865,[^archibald-birth] m. *Isabella McKay* 
+4. *Peter Galbraith*, b. 4 Jun 1867
+5. *Agnes Galbraith*, b. 7 Apr 1869
+6. *Christina Galbraith*, b. 3 Mar 1871, d. 10 Aug 1928 NY, m. TBD
+7. *Donald Galbraith*, b. 22 Feb 1873
 
 No doubt many others
 
