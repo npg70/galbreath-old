@@ -54,6 +54,6 @@ Children of Alexander and Mary (Campbell) Galbraith:
 
 [^william-birth]: Statutory records of Saddell, Argyll; 1888 GALBRAITH, WILLIAM COOK (Statutory registers Births 531/1 26); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/42880816)
 
-[^birth-alexander]: Statutory registers Births 531/1 3, Saddel, Argyll, birth of Alexander Galbraith, on [ScotlandPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/42705294)
+[^birth-alexander]: Statutory records of Saddell, Argyll; 1887 GALBRAITH, ALEXANDER (Statutory registers Births 531/1 3); [ScotlandPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/42705294)
 
 
