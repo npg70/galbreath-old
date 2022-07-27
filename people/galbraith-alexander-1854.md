@@ -46,7 +46,7 @@ Children of Alexander and Mary (Campbell) Galbraith:
 
 [^margaret-death]: Death of Margaret Patteron, Civil Registers of Campbeltown, Argyll, transcribed by [MyAinFolk](https://www.myainfolk.ca/records/18688)
 
-[^archibald-birth]; Statutory records of Saddell, Argyll; 1879 GALBRAITH, ARCHIBALD (Statutory registers Births 531/1 16); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/41576059)
+[^archibald-birth]: Statutory records of Saddell, Argyll; 1879 GALBRAITH, ARCHIBALD (Statutory registers Births 531/1 16); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/41576059)
 
 [^archibald-death]: 1905 GALBRAITH, ARCHIBALD (Statutory registers Deaths 531/1 4), [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/5837556).
 
