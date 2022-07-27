@@ -114,8 +114,8 @@ tbd
 ---
 
 * [Jeannie G-](/people/galbraith-jane-1890.md) whiteinch Glasgow in 1914 was 24y.o.   "has many very near relatives in Campbeltown".
-    * NOTE: Her mother was [Jane Galbraith](/people/galbraith-jane-1861-galbraith.md) (another Galbraith/Galbraith marriage)... Jane was  daughter of Donald Galbraith and Isabella McDermid, born Campbeltown 19 Dec 1861.  
-    * NOTE: Her father was Donald Galbraith, but seems un-connected to Kintyre.
+    * NOTE: Her mother was [Jane Galbraith](/people/galbraith-jane-1861-galbraith.md) (another Galbraith/Galbraith marriage)... Jane was  daughter of [Donald Galbraith](/people/galbraith-donald-1831-isabella-mcdermid.md) and Isabella McDermid, born Campbeltown 19 Dec 1861.  
+    * NOTE: Her father was Donald Galbraith (different), but seems un-connected to Kintyre.
 
 ---
 
@@ -129,7 +129,8 @@ tbd
 
 * [Archibald Galbraith](/people/galbraith-archibald-1865-mckay.md), d. 1928,age 62, m. Isabella McKay
 
-    * BIO: Archibald Galbraith, son of Daniel/Donald Galbraith and Isabella McDermid, was born Campbeltown 1 July 18651, and died 25 Mar 1928. He married at Campbeltown 16 Apr 1888 to Isabella McKay
+    * NOTE:  Uncle of [Jeannie G-](/people/galbraith-jane-1890.md) (above)
+    * BIO: Archibald Galbraith, son of [Daniel/Donald Galbraith](/people/galbraith-donald-1831-isabella-mcdermid.md) and Isabella McDermid, was born Campbeltown 1 July 1865, and died 25 Mar 1928. He married at Campbeltown 16 Apr 1888 to Isabella McKay
 
 ---
 
