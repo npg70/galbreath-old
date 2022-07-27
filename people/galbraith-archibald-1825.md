@@ -25,8 +25,8 @@ Children of Archibald and Mary (Paterson) Galbraith:
 
 [^marriage1]: Civil Registers of Campbeltown, Marriage of Archibald Galbreath and Mary Paterson, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/342667)
 
-[^marriage2]: 1881 GALBRAITH, ARCHIBALD (Statutory registers Marriages 507/ 71), [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/10301420)
+[^marriage2]: Statutory records of Campbeltown; 1881 GALBRAITH, ARCHIBALD (Statutory registers Marriages 507/ 71); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/10301420)
 
-[^archibald-birth]: [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/40048242)
+[^archibald-birth]: Statutory records of Campbeltown; 1867 GALBRAITH, ARCHIBALD (Statutory registers Births 507/ 141); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/40048242)
 
 [^archibald-death]: Statutory records of Campbeltown; 1955 GALBREAITH, ARCHIBALD (Statutory registers Deaths 507/ 60); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/10817652)
