@@ -21,7 +21,7 @@ Children of William and Mary (Grieve) Galbraith, all in Dalymple:[^children]
 3. *Peter Galbraith*, bp. 10 Feb 1822, assume died in infancy.
 4. *[John McClannahan Galbraith](galbraith-john-1824-paterson.md)*, bp. 28 Mar 1824; m. *Catharine Paterson*
 5. *Peter Galbraith*, bp. 9 Apr 1826
-6. *Thomas Galbraith*, bp. 24 Jul 1828, d. 1859
+6. *Thomas Galbraith*, bp. 24 Jul 1828, d. 21 Jan 1859 [^thomas-death]; m. TBD
 7. *Janet Galbraith*, bp. 23 Feb 1831, died in infancy
 8. *Isabella Galbraith*. bp. 14 Mar 1833, d. 1855
 9. *Mary Galbraith*, bp. 14 Mar 1833; m. *Thomas Richmond*[^mary-marriage]
@@ -36,3 +36,5 @@ Children of William and Mary (Grieve) Galbraith, all in Dalymple:[^children]
 [^children]: OPR Dalrymple, baptisms [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbraith&surname_so=starts&forename_so=starts&from_year=1815&to_year=1850&parent_names_so=soundex&parent_name_two=grieve&parent_name_two_so=exact&county=AYR&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&rd_real_name%5B0%5D=DALRYMPLE&rd_display_name%5B0%5D=DALRYMPLE_DALRYMPLE&rd_label%5B0%5D=DALRYMPLE&rd_name%5B0%5D=DALRYMPLE&sort=asc&order=Date&field=year)
 
 [^mary-marriage]: from 1851 Census listing "Agnes Richmod" as a granddaughter born 3 Sep 1852: [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=richmon&surname_so=starts&forename=agnes&forename_so=starts&sex=F&from_year=1850&to_year=1854&parent_names_so=soundex&parent_name_two_so=exact&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
+
+[^thomas-death]: Statutory records of Campbeltown; 1859 GALBRAITH, THOMAS (Statutory registers Deaths 507/ 11); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/269238)
