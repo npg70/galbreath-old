@@ -29,8 +29,6 @@ Children of Donald and Isabella (McDermid) Galbraith:
 6. *Christina Galbraith*, b. 3 Mar 1871, d. 10 Aug 1928 NY, m. TBD
 7. *Donald Galbraith*, b. 22 Feb 1873
 
-No doubt many others
-
 Children of Archibald and Mary (McLean) Galbraith, all baptized in Kilcalmonell and Kilberry:[^children]
 
 1. *Ann Galbraith*, bp. 25 Apr 1826
