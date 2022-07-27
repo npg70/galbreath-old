@@ -12,7 +12,7 @@ He was a fisherman.[^census-1891][^margaret-death][^archibald-death]
 Children of Alexander and Mary (Campbell) Galbraith:
 
 1. *Margaret Galbraith*, b. 1878 Skipness, d. 21 May 1952 Campbeltown, m. *John Paterson*[^margaret-death]
-2. *Archibald Galbraith*, b. ~1880 Saddell, d. 7 Jun 1905 [^death][^archibald-death]
+2. *Archibald Galbraith*, b. 8 Aug 1879, Saddell;[^archibald-birth] d. 7 Jun 1905 [^death][^archibald-death]
 3. *Robert Galbraith*, 17 Sep 1881 Saddell, d. 1935, m. *Anne MacIntosh*
 4. *Mary Galbraith*, b. ~1884 Saddell
 5. *John Alexander Galbraith*, b. 1885 Skipness, d. 20 Oct 1960 Glasgow Royal Infirmary, m. *Elizabeth MacDougall*
@@ -45,6 +45,8 @@ Children of Alexander and Mary (Campbell) Galbraith:
 [^marriage]: Statutory records of Saddell; 1877 GALBRAITH, ALEXANDER (Statutory registers Marriages 531/1 3); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/1344069)
 
 [^margaret-death]: Death of Margaret Patteron, Civil Registers of Campbeltown, Argyll, transcribed by [MyAinFolk](https://www.myainfolk.ca/records/18688)
+
+[^archibald-birth]; Statutory records of Saddell, Argyll; 1879 GALBRAITH, ARCHIBALD (Statutory registers Births 531/1 16); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/41576059)
 
 [^archibald-death]: 1905 GALBRAITH, ARCHIBALD (Statutory registers Deaths 531/1 4), [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/5837556).
 
