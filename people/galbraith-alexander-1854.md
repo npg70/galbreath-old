@@ -42,13 +42,13 @@ Children of Alexander and Mary (Campbell) Galbraith:
     Died 18th November 1950
     In Her 92nd Year
 
-[^marriage]: Statutory records of Saddell; 1877 GALBRAITH, ALEXANDER (Statutory registers Marriages 531/1 3); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/1344069)
+[^marriage]: Statutory records of Saddell, Argyll; 1877 GALBRAITH, ALEXANDER (Statutory registers Marriages 531/1 3); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/1344069)
 
 [^margaret-death]: Death of Margaret Patteron, Civil Registers of Campbeltown, Argyll, transcribed by [MyAinFolk](https://www.myainfolk.ca/records/18688)
 
 [^archibald-birth]: Statutory records of Saddell, Argyll; 1879 GALBRAITH, ARCHIBALD (Statutory registers Births 531/1 16); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/41576059)
 
-[^archibald-death]: 1905 GALBRAITH, ARCHIBALD (Statutory registers Deaths 531/1 4), [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/5837556).
+[^archibald-death]: Statutory records of Saddell, Argyll; 1905 GALBRAITH, ARCHIBALD (Statutory registers Deaths 531/1 4); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/5837556).
 
 [^census-1891]: UK Census of 1891, Household of Alexr Galbraith, [FamilySearch](https://www.familysearch.org/ark:/61903/1:1:KSFB-HYH)
 
