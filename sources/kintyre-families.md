@@ -180,13 +180,14 @@ tbd
 * Archibald G- (son of John above), d. 1916 age 71
 * [Elizabeth G-](/people/galbraith-elizabeth-1841.md), m. James Nicol Flemming
 
-    * Seems like more could be said here.
-    * Add correction to Campbeltown Whiskey?
+    * NOTE: Seems like more could be said here.
+    * NOTE: Add correction to Campbeltown Whiskey?  There is was mentioned
 
 ---
 
 * [Robert G-](/people/galbreath-robert-1778.md) immigrated to America in 1818
 
+    * BIO: Robert Galbreath, son of Samuel Galbreath and Janet McNair, born in Peninver, Argyll, Scotland 12 Oct 1778, baptized Campbeltown, Argyll, Scotland 15 Oct 1778,1 died Neville, Clermont, Ohio, USA 19 May 1847. He married at Campbeltown 18 Apr 1805, Katherine Harvie, daugher of James Harvie and Katherine Galbreath, born 29 Jul 1780 and baptized at Campbeltown 30 Jul 1780,2 died Washington Township, Clermont, Ohio, USA 21 Jun 1847.
     * QUESTION: Did Robert sell his farm to his younger sister Catherine Greenlees?
 
 ---
