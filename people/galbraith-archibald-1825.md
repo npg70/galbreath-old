@@ -18,7 +18,7 @@ Children of Archibald and Mary (Paterson) Galbraith:
 2. *James Paterson Galbraith*, b. 1868
 3. *Samuel Galbraith*, b. 1870
 4. *Edward Gordon Galbraith*, b. 1872
-5. *Archibald Galbraith*, b. 1878, d. 14 Sep 1955[^archibald2-death], m. *Mary Gilchrist* 
+5. *Archibald Galbraith*, b. 30 Nov 1877;[^archibald2-birth] d. 14 Sep 1955[^archibald2-death], m. *Mary Gilchrist* 
 
 [^birth]: OPR Campbeltown, baptism of [Archibald Galbreath](/sources/opr-campbeltown-births.md#1825-07-10-archibald-galbreath)
 
@@ -31,5 +31,7 @@ Children of Archibald and Mary (Paterson) Galbraith:
 [^archibald-birth]: Statutory records of Campbeltown; 1867 GALBRAITH, ARCHIBALD (Statutory registers Births 507/ 141); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/40048242)
 
 [^archibald-death]: Statutory records of Campbeltown; 1868 GALBRAITH, ARCHIBALD (Statutory registers Deaths 507/ 59); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/1077021)
+
+[^archibald2-birth]; Statutory records of Campbeltown; 1877 GALBREAITH, ARCHIBALD (Statutory registers Births 507/ 327); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/41327106)
 
 [^archibald2-death]: Statutory records of Campbeltown; 1955 GALBREAITH, ARCHIBALD (Statutory registers Deaths 507/ 60); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/10817652)
