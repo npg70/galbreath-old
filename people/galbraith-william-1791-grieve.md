@@ -37,4 +37,4 @@ Children of William and Mary (Grieve) Galbraith, all in Dalymple:[^children]
 
 [^mary-marriage]: from 1851 Census listing "Agnes Richmod" as a granddaughter born 3 Sep 1852: [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=richmon&surname_so=starts&forename=agnes&forename_so=starts&sex=F&from_year=1850&to_year=1854&parent_names_so=soundex&parent_name_two_so=exact&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
 
-[^thomas-death]: Statutory records of Campbeltown; 1859 GALBRAITH, THOMAS (Statutory registers Deaths 507/ 11); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/269238)
+[^thomas-death]: Statutory records of Campbeltown; 1859 GALBRAITH, THOMAS (Statutory registers Deaths 507/ 11); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/269238).  Listed "married" without name, occupation "Grocer"
