@@ -1,6 +1,7 @@
 ---
 title: Daniel Galbraith b. 1831 m. Jesse McQueen
 familysearch: https://www.familysearch.org/tree/person/details/M1YG-MJH
+findagrave: https://www.findagrave.com/memorial/179309714/daniel-galbraith
 ---
 ***Daniel Galbraith***, son of *[Angus Galbraith](galbraith-angus-1784-mcleod.md)* and *Mary McLeod*, was baptized at Kilcalmonell 8 Jul 1831. He died at Campbeltown 20 Apr 1896.[^death]
 
