@@ -42,10 +42,11 @@ publisher: TBD
 
 ---
 
-* Lachlan G,   "teacher of Enlgish and Gaelic", x-Gigha
-* Edward G, d. 1933, age 77, m. Mary Mclarty 1883, son of John shoemaker, Mary McGeachy
+* Lachlan G, "teacher of Enlgish and Gaelic", x-Gigha
+* [Edward G-](/people/galbraith-edward-1855-mclarty-mckinven.md), d. 1933, age 77, m. Mary Mclarty 1883, son of John shoemaker, Mary McGeachy
 
-tbd
+    * CORRECTION: Edward was the son of *Ann* McGeachy, not *Mary*
+    * 
 
 ---
 
