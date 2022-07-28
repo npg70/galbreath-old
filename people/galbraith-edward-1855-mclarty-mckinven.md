@@ -10,6 +10,11 @@ He married second 4 Jun 1901 at Campbeltown[^marriage2] to **Elizabeth "Betsy" M
 
 He was a carter[^marriage1], a store-keeper[^marriage2], and an insurance agent.[^death]
 
+Children of Edward and Mary (McLarty) Galbraith:
+
+MANY TBD.
+
+
 [^birth]: Statutory records of TBD, Gigha; 1855 GALBREATH, EDWARD (Statutory registers Births 537/ 4); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/38715238)
 
 [^marriage1]: Statutory records of Campbeltown; 1883 GALBRAITH, EDWARD (Statutory registers Marriages 507/ 15); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/5406558)
