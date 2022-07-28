@@ -46,7 +46,7 @@ publisher: TBD
 * [Edward G-](/people/galbraith-edward-1855-mclarty-mckinven.md), d. 1933, age 77, m. Mary Mclarty 1883, son of John shoemaker, Mary McGeachy
 
     * CORRECTION: Edward was the son of *Ann* McGeachy, not *Mary*
-    * 
+    * NOTE: Unable to find any information on Lachlan
 
 ---
 
