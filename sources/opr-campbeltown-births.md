@@ -2025,11 +2025,14 @@ TBD: [DONALD GALBREATH](/people/galbreath-donald-1804-flora-smith.md)/FLORA SMIT
 
 ## 1839-05-16 John Galbreath
 
-**[Archibald Galbreath](/people/galbreath-archibald-1800.md)** **Agnes Henderson**
+[16/05/1839 GALBREATH, JOHN (Old Parish Registers Births 507/ 70 147 Campbeltown) Page 147 of 449](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357551?image=147)
+
+> John | Lawful Son of **[Archibald Galbreath](/people/galbreath-archibald-1800.md)** Mason and
+> **Agnes Henderson** was born the fifth and baptized 16 May 1839
 
 ## 1839-06-02 James Galbreath
 
-TBD: [David Galbreath](/people/galbreath-david-1797.md)/Janet Mitchell
+TBD: **[David Galbreath](/people/galbreath-david-1797.md)**  **Janet Mitchell**
 
 ## 1839-08-22 Archibald Galbreath
 
