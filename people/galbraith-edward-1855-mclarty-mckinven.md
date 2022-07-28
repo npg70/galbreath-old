@@ -1,6 +1,6 @@
 ---
 title: Edward Galbraith b. 1855 m. Mary McLarty, m. Betsy McKinven
-familysearch: [xxx](https://www.familysearch.org/tree/person/details/M1B4-7LV)
+familysearch: https://www.familysearch.org/tree/person/details/M1B4-7LV
 ---
 ***Edward Galbraith***, son of *John Galbreath* and *Ann McGreachy*, was born June 1855 in Gigha.[^birth]  He died 10 Mar 1933 in Campbeltown.[^death]
 
