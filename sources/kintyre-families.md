@@ -19,7 +19,7 @@ publisher: TBD
 
 * John G-, attacked during a shinty match 1818
 
-    * NOTE: Unable to find any additional info to identify him.  While an interesting story, I'm not I'd lead with it for the Galbraith entry :-) 
+    * NOTE: Unable to find any additional info to identify him.
 
 ---
 
@@ -46,6 +46,7 @@ publisher: TBD
 * [Edward G-](/people/galbraith-edward-1855-mclarty-mckinven.md), d. 1933, age 77, m. Mary Mclarty 1883, son of John shoemaker, Mary McGeachy
 
     * CORRECTION: Edward was the son of *Ann* McGeachy, not *Mary*
+    * BIO: Edward married again 4 Jun 1901 to Elizabeth "Betsy" McKinven.
     * NOTE: Unable to find any information on Lachlan
 
 ---
