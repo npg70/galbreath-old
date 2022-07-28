@@ -101,7 +101,8 @@ TBD
 
 * John G, d. 15 Dec 1908 London
 
-tbd
+    * [Additional obit](https://books.google.com/books?id=OV02W1GizPwC&pg=RA24-PA12&lpg=RA24-PA12&dq=John+Galbraith+%22London+Society+of+Compositors%22&source=bl&ots=Xcm8rJeMfg&sig=ACfU3U0giVtAEi0X-5B1HNx9i3bcP8Af5A&hl=en&sa=X&ved=2ahUKEwizpIu-l5z5AhULIEQIHWjAAd0Q6AF6BAgVEAI#v=onepage&q=John%20Galbraith%20%22London%20Society%20of%20Compositors%22&f=false)
+    * BIO: Maybe born 1839, died age 77.  Can't find any parent information, nor in census. Seems unmarried.
 
 ---
 
