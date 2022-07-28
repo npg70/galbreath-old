@@ -90,11 +90,12 @@ TBD
 
 * [Rev. Angus G-](/people/galbraith-angus-1827-smith.md) d. 1901 age 74, m. Smith
 * [Angus G-](/people/galbraith-angus-1784-mcleod.md) (father), d. 1836 age 42, m. Mary McLeod
-* [Daneil Galbreath](/people/galbraith-daniel-1831-mcqueen.md) (brother), b. 1831 d. 1896, m. Jesss McQueen
+* [Daniel Galbreath](/people/galbraith-daniel-1831-mcqueen.md) (brother), b. 1831 d. 1896, m. Jesss MacQueen
 * [William G-](/people/galbraith-william-1833.md) (bother), jeweller/watchmaker, d. 1915, age 81
 * John (brother), TBD
 
-    * TBD: MacQueen vs. McQueen
+    * Correction?: All statutory records list for Jessie *McQueen* not *MacQueen*
+    * BIO: Daniel G- married Jess McQueen in Campbeltown on 5 Nov 1867
     * NOTE: William was a victim of an attempted murder/robbery at his store.  He survived but the damage bankrupted him. 
 
 ---
