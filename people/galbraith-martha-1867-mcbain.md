@@ -4,7 +4,7 @@ familysearch: https://www.familysearch.org/tree/person/details/GMRV-V7V
 ---
 ***Martha Galbraith***, daughter of *[Neil Galbraith](galbraith-neil-1841.md)* and *Martha Stewart*,  born at Saddell on 25 March 1867.[^birth]  She died 31 July 1939 in Campbeltown.
 
-She married **Robert McBain**.
+She married 31 Dec 1884 in Campbeltown to **Robert McBain**.
 
 Children of Robert and Martha (Galbraith) McBain:
 
