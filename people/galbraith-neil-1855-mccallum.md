@@ -12,6 +12,7 @@ Children of Neil and Mary (McCallum) Galbraith:
 2. *Margaret McNair Galbraith*, b. 1887
 3. *John Galbraith*, b. 22 Jan 1890, Campbeltown;[^john-birth]
 4. *[Hugh Galbraith](galbraith-hugh-1892-barbour.md)*, b. 4 Feb 1892,[^hugh-birth] m. *Agnes Barbour* 
+5. *Peter Galbraith*, b. 11 Feb 1897 Campbeltown;[^peter-birth]
 
 
 [^birth]:
@@ -21,3 +22,5 @@ Children of Neil and Mary (McCallum) Galbraith:
 [^john-birth]: Statutory records of Campbeltown; 1890 GALBRAITH, JOHN (Statutory registers Births 507/ 26); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/43177938)
 
 [^hugh-birth]: Statutory records of Campbeltown; 1892 GALBRAITH, HUGH (Statutory registers Births 507/ 38), [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/43504198)
+
+[^peter-birth]: Statutory records of Campbeltown; 1897 GALBRAITH, PETER MCCALLUM (Statutory registers Births 507/ 53); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/44178813)
