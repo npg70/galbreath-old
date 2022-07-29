@@ -94,6 +94,7 @@ TBD
 * [William G-](/people/galbraith-william-1833.md) (bother), jeweller/watchmaker, d. 1915, age 81
 * John (brother), TBD
 
+    * NOTE: Angus d. 1836 has two tombstones, one in [Kilkerran Cemetery](https://www.findagrave.com/memorial/179310014/angus-galbraith), and the other older one in [Largnahension Graveyard, Lochgilphead](https://www.findagrave.com/memorial/160593770/angus-galbraith)
     * Note: All statutory records list for Jessie *McQueen* not *MacQueen*, but [gravestone says MacQueen](https://www.findagrave.com/memorial/179309714/daniel-galbraith).
     * BIO: Daniel G- married Jess McQueen in Campbeltown on 5 Nov 1867
     * NOTE: William was a victim of an attempted murder/robbery at his store.  He survived but the damage bankrupted him. 
