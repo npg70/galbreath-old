@@ -18,6 +18,6 @@ Children of Neil and Mary (McCallum) Galbraith:
 
 [^marriage]:
 
-[^john-birth] Statutory records of Campbeltown; 1890 GALBRAITH, JOHN (Statutory registers Births 507/ 26); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/43177938)
+[^john-birth]: Statutory records of Campbeltown; 1890 GALBRAITH, JOHN (Statutory registers Births 507/ 26); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/43177938)
 
 [^hugh-birth]: Statutory records of Campbeltown; 1892 GALBRAITH, HUGH (Statutory registers Births 507/ 38), [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/43504198)
