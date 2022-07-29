@@ -11,8 +11,8 @@ Children of Neil and Margaret (Stewart) Galbraith:
 1. *Agnes Galbreath*, b. Saddell, 23 Jan 1863; d. 28 Oct 1886 Campbeltown;[^agnes-death] m.
 2. *[John Galbraith](galbraith-john-1864-mctaggart.md)*, b. Saddell, 19 Nov 1864;[^john-birth] m. *Isabella McTaggart*
 3. *[Martha Galbraith](galbraith-martha-1867-mcbain.md)*, b. Saddell, 25 Mar 1867,[^martha-birth] m. *Robert McBain*
-4. *Neil Galbraith*, b. Campbeltown 23 May 1869
-5. *Margaret Galbraith*, b. Campbeltown 28 Oct 1871
+4. *Neil Galbraith*, b. 23 May 1869, Campbeltown
+5. *Margaret Galbraith*, b.  28 Oct 1871, Campbeltown; d. 13 Jul 1873, Campbeltown
 
 [^birth]: OPR Campbeltown, baptism of [Neill Galbreath](/sources/opr-campbeltown-births.md#1841-12-30-neill-galbreath)
 
@@ -30,3 +30,5 @@ Children of Neil and Margaret (Stewart) Galbraith:
 
 
 [^john-birth]: Statutory records of Saddell, Argyll; 1864 GALBREATH, JOHN (Statutory registers Births 531/1 26); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/39647646)
+
+[^margaret-death]: Statutory records of Campbeltown, Argyll; 1873 GALBRAITH, MARGARET (Statutory registers Deaths 507/ 146); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/1543786)
