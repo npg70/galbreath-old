@@ -152,7 +152,7 @@ TBD
 * [John G-](/people/galbraith-john-1864-mctaggart.md) (son), d. 10 May 1932 age 66, jumped from police boat.  m. Isabella McTaggart in 1887
 * [William Cook G](/people/galbraith-william-cook-1888-moss.md) (carradale), (son of Sandy G & Mary Campbell), b. 1888, d. 1969, m. Christina Moss
 
-    * BIO: Martha born at Saddell on 25 March 1867
+    * BIO: Martha G-, daughter of Neil Galbraith and Martha Stewart, born at Saddell on 25 March 1867.1 She died 31 July 1939 in Campbeltown, and burried in Kilkerran Graveyard. She married 31 Dec 1884 in Campbeltown to Robert McBain.
 
 ---
 
