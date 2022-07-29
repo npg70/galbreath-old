@@ -12,7 +12,7 @@ Children of Neil and Margaret (Stewart) Galbraith:
 2. *[John Galbraith](galbraith-john-1864-mctaggart.md)*, b. Saddell, 19 Nov 1864;[^john-birth] m. *Isabella McTaggart*
 3. *[Martha Galbraith](galbraith-martha-1867-mcbain.md)*, b. Saddell, 25 Mar 1867,[^martha-birth] m. *Robert McBain*
 4. *Neil Galbraith*, b. 23 May 1869, Campbeltown
-5. *Margaret Galbraith*, b.  28 Oct 1871, Campbeltown; d. 13 Jul 1873, Campbeltown
+5. *Margaret Galbraith*, b.  28 Oct 1871, Campbeltown; d. 13 Jul 1873, Campbeltown[^margaret-death]
 
 [^birth]: OPR Campbeltown, baptism of [Neill Galbreath](/sources/opr-campbeltown-births.md#1841-12-30-neill-galbreath)
 
