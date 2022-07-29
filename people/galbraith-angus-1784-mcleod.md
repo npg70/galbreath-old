@@ -3,7 +3,7 @@ title: Angus Galbraith b. 1794 m. Mary McLeod
 familysearch: https://www.familysearch.org/tree/person/details/KCFJ-HT2
 findagrave: https://www.findagrave.com/memorial/179310014/angus-galbraith
 ---
-***Angus Galbraith***, of unknown origins, born about 1794, and died 11 Jan 1836, and burried at Kilkerran Cemetary.[^burial]
+***Angus Galbraith***, of unknown origins, born about 1794, and died 14 Jan 1836, and burried at Kilkerran Cemetary.[^burial]
 
 He married at Kilcalmonell 13 May 1826[^marriage] to **Mary McLeod**, also of unknown origin.
 
