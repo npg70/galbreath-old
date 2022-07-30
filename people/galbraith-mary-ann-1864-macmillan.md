@@ -8,6 +8,7 @@ She married at Campbeltown 6 Jan 1896 to **Alexander MacMillan**, son of Robert 
 
 Children of Alexander and Mary Ann (Galbraith) MacMillian:
 
+1. *Helen Galbraith*, b. 10 Jan 1894, illegitimate[^helen-birth]
 1. *Robert Galbraith MacMillan*, b. 31 Mar 1899;  d. 7 April 1966;[^robert-death] m. 24 Mar 1923 *Christina Pater Lustie*
     1. [Hector MacMillian](https://www.familysearch.org/tree/person/details/GXGJ-BL9) -- Playwrite: The Rising (1970), The Sash (1973); b. 29 Sep 1929, d. 1 Apr 2018.[^hector-death][^grandparents]
 
@@ -34,3 +35,5 @@ Her Mother:
 [^robert-marriage]: Statutory records of Cambuslang, Lanark; 1923 MACMILLAN, ROBERT (Statutory registers Marriages 627/ 43); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/9343360)
 
 [^robert-death]: 1966 MACMILLAN, ROBERT GALBRAIT (Statutory registers Deaths 644/2 334); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/11777868)
+
+[^helen-birth]: Statutory records of Campbeltown; 1894 GALBRAITH, HELEN (Statutory registers Births 507/ 19); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/43736395)
