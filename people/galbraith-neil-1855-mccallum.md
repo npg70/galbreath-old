@@ -39,4 +39,4 @@ Children of Neil and Mary (McCallum) Galbraith, in Campbeltown unless noted:
 
 [^peter2-burial]: Find a Grave, database and images (https://www.findagrave.com/memorial/172163957/peter-maccallum-galbraith: accessed 29 July 2022), memorial page for Peter MacCallum Galbraith (1895–1 Dec 1966), Find a Grave Memorial ID 172163957, citing Kilkerran Cemetery, Campbeltown, Argyll and Bute, Scotland; Maintained by Pixturmn (contributor 47729036).
 
-[^hector-brith]: Statutory records of Southend, Argyll; 1899 GALBRAITH, HECTOR (Statutory registers Births 532/ 11); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/44390301)
+[^hector-birth]: Statutory records of Southend, Argyll; 1899 GALBRAITH, HECTOR (Statutory registers Births 532/ 11); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/44390301)
