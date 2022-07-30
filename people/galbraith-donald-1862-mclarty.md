@@ -22,5 +22,9 @@ Children of Donald and Catharine (McLarty) Galbraith:
 1. *Neil Galbraith*, b. 26 Nov 26 1886 • Campbeltown, Argyll, Scotland; d. 26 NOV 1976 • Font Hill, Ontario, Canada; m. *Lily Grace Head*
 2. *Catharine Galbraith*,  b. 1889 • Saddell; d. APRIL 8, 1908 • Kilmarnock, Ayrshire, Scotland
 3. *Isabella Galbraith*, b. 10 Nov 1890, d. 11 Nov 1890
-4. *Mary Galbraith*, b. 1896; d. DEC 4, 1912 • Kilmarnock, Ayrshire, Scotland
-5. *Janet Galbraith*, b. 1901; d. 1989 • Straffordville, Ontario, Canada; m. *William James Partington*
+4. *James Galbraith*, b. 3 Nov 1894[^james-birth]
+5. *Mary Galbraith*, b. 1896; d. DEC 4, 1912 • Kilmarnock, Ayrshire, Scotland
+6. *Janet Galbraith*, b. 1901; d. 1989 • Straffordville, Ontario, Canada; m. *William James Partington*
+
+
+[^james-birth]:  Statutory records of Campbeltown; 1894 GALBRAITH, JAMES (Statutory registers Births 507/ 251); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/43763067).  Day is hard to read, maybe 3rd through 9th.
