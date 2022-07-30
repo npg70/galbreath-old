@@ -28,7 +28,7 @@ Children of Archibald and Isabella (McKay) Galbraith:
 
 [^isabella-marriage]: Statutory records of Campbeltown; 1888 GALBRAITH, ARCHIE (Statutory registers Marriages 507/ 6); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/13550822)
 
-[^neil-birth]; Statutory records of Campbeltown; 1900 GALBRAITH, NEIL (Statutory registers Births 507/ 156); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/44499664)
+[^neil-birth]: Statutory records of Campbeltown; 1900 GALBRAITH, NEIL (Statutory registers Births 507/ 156); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/44499664)
 
 [^wjmg-birth]: Statutory records of Campbeltown; 1895 GALBRAITH, WILLIAM JOHN MC (Statutory registers Births 507/ 211); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/43796501)
 
