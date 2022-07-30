@@ -27,7 +27,7 @@ MANY TBD.
 
 [^death]: Statutory records of Campbeltown; 1933 GALBRAITH, EDWARD (Statutory registers Deaths 507/ 33); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/8645158)
 
-[^donald-birth]: Statutory records of Campbeltown;
+[^donald-birth]: Statutory records of Campbeltown; 1893 GALBRAITH, DONALD (Statutory registers Births 507/ 304); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/43501878)
 
 [^edward-birth]: Statutory records of Campbeltown; 1893 GALBRAITH, EDWARD (Statutory registers Births 507/ 305); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/43502829)
 
