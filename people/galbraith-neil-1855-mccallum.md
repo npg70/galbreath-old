@@ -25,7 +25,7 @@ Children of Neil and Mary (McCallum) Galbraith, in Campbeltown unless noted:
 
 [^burial]: TBD
 
-[^hugh1-birth]; Statutory records of Southend, Argyll; 1888 GALBRAITH, HUGH (Statutory registers Births 532/ 9); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/42918145)
+[^hugh1-birth]: Statutory records of Southend, Argyll; 1888 GALBRAITH, HUGH (Statutory registers Births 532/ 9); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/42918145)
 
 [^hugh1-burial]:  TBD
 
@@ -33,7 +33,7 @@ Children of Neil and Mary (McCallum) Galbraith, in Campbeltown unless noted:
 
 [^hugh2-birth]: Statutory records of Campbeltown; 1892 GALBRAITH, HUGH (Statutory registers Births 507/ 38), [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/43504198)
 
-[^peter1-birth]; Statutory records of Campbeltown; 1894 GALBRAITH, PETER (Statutory registers Births 507/ 50); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/43770940)
+[^peter1-birth]: Statutory records of Campbeltown; 1894 GALBRAITH, PETER (Statutory registers Births 507/ 50); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/43770940)
 
 [^peter2-birth]: Statutory records of Campbeltown; 1897 GALBRAITH, PETER MCCALLUM (Statutory registers Births 507/ 53); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/44178813)
 
