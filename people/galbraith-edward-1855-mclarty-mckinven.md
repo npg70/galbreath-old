@@ -14,6 +14,7 @@ Children of Edward and Mary (McLarty) Galbraith:
 
 MANY TBD.
 
+1. *Hector McLarty Galbraith*, b. 1 Mar 1891[^hector-birth]
 1. *Donald Galbraith*, b. 15 Oct 1893[^donald-birth]
 2. *Edward Galbraith*, b. 15 Oct 1893[^edward-birth]
 
@@ -26,6 +27,8 @@ MANY TBD.
 [^marriage2]: Statutory records of Campbeltown; 1901 GALBRAITH, EDWARD (Statutory registers Marriages 507/ 13); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/3517953)
 
 [^death]: Statutory records of Campbeltown; 1933 GALBRAITH, EDWARD (Statutory registers Deaths 507/ 33); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/8645158)
+
+[^hector-birth]: Statutory records of Campbeltown; 1891 GALBRAITH, HECTOR MCLARTY (Statutory registers Births 507/ 66); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/43281002)
 
 [^donald-birth]: Statutory records of Campbeltown; 1893 GALBRAITH, DONALD (Statutory registers Births 507/ 304); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/43501878)
 
