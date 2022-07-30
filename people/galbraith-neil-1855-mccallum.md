@@ -1,6 +1,7 @@
 ---
 title: Neil Galbraith b. 1855 m. Mary McCallum
 familysearch: https://www.familysearch.org/tree/person/details/M1TB-T43
+findagrave: https://www.findagrave.com/memorial/171954722/neil-galbraith
 ---
 ***Neil Galbraith***, son of *[Hugh Galbreath](galbreath-hugh-1823-mcnair.md)* and *Catharine McNair*, was born 12 May 1855,[^birth] died 22 Aug 1917, burried in Kilkerran graveyard.[^burial]
 
@@ -23,7 +24,7 @@ Children of Neil and Mary (McCallum) Galbraith, in Campbeltown unless noted:
 
 [^marriage]:
 
-[^burial]: TBD
+[^burial]: Find a Grave, database and images (https://www.findagrave.com/memorial/171954722/neil-galbraith: accessed 29 July 2022), memorial page for Neil Galbraith (1855–22 Aug 1917), Find a Grave Memorial ID 171954722, citing Kilkerran Cemetery, Campbeltown, Argyll and Bute, Scotland; Maintained by A Beattie (contributor 48024211).
 
 [^hugh1-birth]: Statutory records of Southend, Argyll; 1888 GALBRAITH, HUGH (Statutory registers Births 532/ 9); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/42918145)
 
