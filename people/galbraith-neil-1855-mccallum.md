@@ -12,7 +12,7 @@ Children of Neil and Mary (McCallum) Galbraith, in Campbeltown unless noted:
 2. *Margaret McNair Galbraith*, b. 1887
 3. *Hugh Galbraith*, b. 25 Mar 1888, Southend[^hugh1-birth], d. 17 Jan 1891; b. Kilkerran[^burial]
 4. *John Galbraith*, b. 22 Jan 1890;[^john-birth]
-5. *Neil Galbraith*, b. TBD 1891/1895?, d. 13 Jun 1902, b. Kilkerran
+5. *Neil Galbraith*, b. 23 Mar 1895;[^neil-birth] d. 13 Jun 1902, b. Kilkerran
 6. *[Hugh Galbraith](galbraith-hugh-1892-barbour.md)*, b. 4 Feb 1892,[^hugh2-birth] m. *Agnes Barbour* 
 7. *Peter Galbraith*, b. 7 Feb 1894[^peter1-birth]; d. 1894[^burial]
 8. *Peter McCallum Galbraith*, b. 11 Feb 1897;[^peter2-birth] d. 1 Dec 1966; b. Kilkerran[^peter2-burial]; m. *Jeannie Ronald*
@@ -31,7 +31,9 @@ Children of Neil and Mary (McCallum) Galbraith, in Campbeltown unless noted:
 
 [^john-birth]: Statutory records of Campbeltown; 1890 GALBRAITH, JOHN (Statutory registers Births 507/ 26); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/43177938)
 
-[^hugh2-birth]: Statutory records of Campbeltown; 1892 GALBRAITH, HUGH (Statutory registers Births 507/ 38), [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/43504198)
+[^neil-birth]: Statutory records of Campbeltown; 1895 GALBRAITH, NEIL (Statutory registers Births 507/ 101); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/43793704) 
+
+[^hugh2-birth]: Statutory records of Campbeltown; 1892 GALBRAITH, HUGH (Statutory registers Births 507/ 38); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/43504198)
 
 [^peter1-birth]: Statutory records of Campbeltown; 1894 GALBRAITH, PETER (Statutory registers Births 507/ 50); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/43770940)
 
