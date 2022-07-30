@@ -17,7 +17,7 @@ Children of Alexander and Flora (Campbell) Galbraith:
 1. *[Alexander Galbraith](galbraith-alexander-1864.md)*, b. 20 Dec 1864, Campbeltown[^alexander-birth], m. *Maggie McIntyre*
 2. *John Galbraith*, b. 19 Jul 1867 Milton, Glasgow, Lanark, Scotland,[^john-birth] d. 12 Feb 1880 Campbeltown[^john-death]
 3. *James Galbraith*, b. 26 Sep 1870, Central District, Glasgow, Lanark, Scotland[^james-birth]
-4. *Archibald Galbraith*, b. 11 Jun 1872, Milton, Glasgow, Lanark, Scotland[^archibald-birth]
+4. *Archibald Galbraith*, b. 11 Jun 1872, Milton, Glasgow, Lanark, Scotland[^archibald-birth]; m. *Mary McArthur*
 5. *Agnes McMillan Galbraith*, b. 26 Aug 1874, Milton, Glasgow, Lanark, Scotland[^agnes-birth]
 
 Children of Alexander and Agnes (Matheson) Galbraith:
