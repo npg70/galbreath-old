@@ -18,7 +18,8 @@ Children of Archibald and Isabella (McKay) Galbraith:
 
 1. *William John McKay Galbraith*, b. 30 Jul 1895, Campbeltown[^wjmg-birth]
 2. *Neil Galbraith*, b. 14 Jul 1900[^neil-birth]
-3. *Peter Galbraith*, b. 1904
+3. *Isabella McDermid Galbraith*, b. [^isabella-birth]
+4. *Peter Galbraith*, b. 1904
 
 [^birth]: Statutory records of Campbeltown; 1865 GALBRAITH, ARCHIBALD (Statutory registers Births 507/ 143); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/39836164).
 
@@ -29,6 +30,8 @@ Children of Archibald and Isabella (McKay) Galbraith:
 [^isabella-marriage]: Statutory records of Campbeltown; 1888 GALBRAITH, ARCHIE (Statutory registers Marriages 507/ 6); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/13550822)
 
 [^neil-birth]: Statutory records of Campbeltown; 1900 GALBRAITH, NEIL (Statutory registers Births 507/ 156); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/44499664)
+
+[^isabella-birth]: Statutory records of Campbeltown; 1891 GALBRAITH, ISABELLA MCDERM (Statutory registers Births 507/ 269); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/43317231)
 
 [^wjmg-birth]: Statutory records of Campbeltown; 1895 GALBRAITH, WILLIAM JOHN MC (Statutory registers Births 507/ 211); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/43796501)
 
