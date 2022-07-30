@@ -11,7 +11,7 @@ Children of Neil and Mary (McCallum) Galbraith, in Campbeltown unless noted:
 
 1. *Catherine McNair Galbraith*, b. 1885
 2. *Margaret McNair Galbraith*, b. 1887
-3. *Hugh Galbraith*, b. 25 Mar 1888, Southend[^hugh1-birth], d. 17 Jan 1891; b. Kilkerran[^burial]
+3. *Hugh Galbraith*, b. 25 Mar 1888, Southend[^hugh1-birth], d. 17 Jan 1891; b. Kilkerran[^hugh1-burial]
 4. *John Galbraith*, b. 22 Jan 1890;[^john-birth]
 5. *Neil Galbraith*, b. 23 Mar 1895;[^neil-birth] d. 13 Jun 1902, b. Kilkerran
 6. *[Hugh Galbraith](galbraith-hugh-1892-barbour.md)*, b. 4 Feb 1892,[^hugh2-birth] m. *Agnes Barbour* 
@@ -28,7 +28,7 @@ Children of Neil and Mary (McCallum) Galbraith, in Campbeltown unless noted:
 
 [^hugh1-birth]: Statutory records of Southend, Argyll; 1888 GALBRAITH, HUGH (Statutory registers Births 532/ 9); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/42918145)
 
-[^hugh1-burial]:  TBD
+[^hugh1-burial]: Find a Grave, database and images (https://www.findagrave.com/memorial/172160881/hugh-galbraith: accessed 29 July 2022), memorial page for Hugh Galbraith (1888–1891), Find a Grave Memorial ID 172160881, citing Kilkerran Cemetery, Campbeltown, Argyll and Bute, Scotland; Maintained by Pixturmn (contributor 47729036).
 
 [^john-birth]: Statutory records of Campbeltown; 1890 GALBRAITH, JOHN (Statutory registers Births 507/ 26); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/43177938)
 
