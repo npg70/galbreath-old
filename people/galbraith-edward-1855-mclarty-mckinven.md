@@ -14,6 +14,9 @@ Children of Edward and Mary (McLarty) Galbraith:
 
 MANY TBD.
 
+1. *Donald Galbraith*, b. 15 Oct 1893[^donald-birth]
+2. *Edward Galbraith*, b. 15 Oct 1893[^edward-birth]
+
 
 [^birth]: Statutory records of TBD, Gigha; 1855 GALBREATH, EDWARD (Statutory registers Births 537/ 4); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/38715238)
 
@@ -23,4 +26,10 @@ MANY TBD.
 [^marriage2]: Statutory records of Campbeltown; 1901 GALBRAITH, EDWARD (Statutory registers Marriages 507/ 13); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/3517953)
 
 [^death]: Statutory records of Campbeltown; 1933 GALBRAITH, EDWARD (Statutory registers Deaths 507/ 33); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/8645158)
+
+[^donald-birth]: Statutory records of Campbeltown;
+
+[^edward-birth]: Statutory records of Campbeltown; 1893 GALBRAITH, EDWARD (Statutory registers Births 507/ 305); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/43502829)
+
+
 
