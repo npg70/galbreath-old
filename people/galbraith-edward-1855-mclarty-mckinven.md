@@ -20,7 +20,7 @@ MANY TBD.
 1. *Hector McLarty Galbraith*, b. 1 Mar 1891[^hector-birth]
 1. *Donald Galbraith*, b. 15 Oct 1893[^donald-birth]
 2. *Edward Galbraith*, b. 15 Oct 1893[^edward-birth], d. 1895
-3. *Edward Galbraith*, b. 1986, d. 1914 
+3. *Edward Galbraith*, b. 1896, d. 1914 
 
 
 [^birth]: Statutory records of TBD, Gigha; 1855 GALBREATH, EDWARD (Statutory registers Births 537/ 4); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/38715238)
