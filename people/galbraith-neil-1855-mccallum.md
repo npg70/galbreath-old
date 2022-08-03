@@ -17,7 +17,7 @@ Children of Neil and Mary (McCallum) Galbraith, in Campbeltown unless noted:
 6. *[Hugh Galbraith](galbraith-hugh-1892-barbour.md)*, b. 4 Feb 1892,[^hugh2-birth] m. *Agnes Barbour* 
 7. *Peter Galbraith*, b. 7 Feb 1894[^peter1-birth]; d. 1894[^burial]
 8. *Peter McCallum Galbraith*, b. 11 Feb 1897;[^peter2-birth] d. 1 Dec 1966; b. Kilkerran[^peter2-burial]; m. *Jeannie Ronald*
-9. *Hector Galbraith*, b. 5 June 1899, Southend[^hector-birth]
+9. *Hector Galbraith*, b. 5 June 1899, Southend[^hector-birth], d. 1975[^hector-death]
 
 
 [^birth]: tbd
@@ -49,3 +49,7 @@ Children of Neil and Mary (McCallum) Galbraith, in Campbeltown unless noted:
 [^peter2-burial]: Find a Grave, database and images (https://www.findagrave.com/memorial/172163957/peter-maccallum-galbraith: accessed 29 July 2022), memorial page for Peter MacCallum Galbraith (1895–1 Dec 1966), Find a Grave Memorial ID 172163957, citing Kilkerran Cemetery, Campbeltown, Argyll and Bute, Scotland; Maintained by Pixturmn (contributor 47729036).
 
 [^hector-birth]: Statutory records of Southend, Argyll; 1899 GALBRAITH, HECTOR (Statutory registers Births 532/ 11); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/44390301)
+
+[^hector-death]: Search on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&dl_cat=statutory&dl_rec=statutory-deaths&surname=Galbraith&surname_so=exact&forename=Hector&forename_so=starts&other_surname_so=exact&mmsurname_so=exact&sex=M&from_year=1975&to_year=1975&birth_year=1899&birth_year_range=1&county=ARGYLL&record_type=stat_deaths)
+
+
