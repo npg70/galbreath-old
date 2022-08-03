@@ -16,7 +16,7 @@ Children of Neil and Mary (McCallum) Galbraith, in Campbeltown unless noted:
 5. *Neil Galbraith*, b. 23 Mar 1895;[^neil-birth] d. 13 Jun 1902, b. Kilkerran[^neil-burial]
 6. *[Hugh Galbraith](galbraith-hugh-1892-barbour.md)*, b. 4 Feb 1892,[^hugh2-birth] m. *Agnes Barbour* 
 7. *Peter Galbraith*, b. 7 Feb 1894[^peter1-birth]; d. 1894[^burial]
-8. *Peter McCallum Galbraith*, b. 11 Feb 1897;[^peter2-birth] d. 1 Dec 1966; b. Kilkerran[^peter2-burial]; m. *Jeannie Ronald*
+8. *Peter McCallum Galbraith*, b. 11 Feb 1897;[^peter2-birth] d. 1 Dec 1966; b. Kilkerran[^peter2-burial]; m. *Jeannie Ronald* (she died in 1971)[^jeanie-death]
 9. *Hector Galbraith*, b. 5 June 1899, Southend[^hector-birth], d. 26 Jan 1975 at Moy Farm[^hector-death], b. Kilkerran[^hector-burial]; m. *Maggie McLatchie* in 1931[^hector-marriage]
 
 
@@ -62,5 +62,7 @@ Children of Neil and Mary (McCallum) Galbraith, in Campbeltown unless noted:
 [^hector-burial]: Find a Grave, database and images (https://www.findagrave.com/memorial/179783610/hector-galbraith: accessed 02 August 2022), memorial page for Hector Galbraith (1900–26 Jan 1975), Find a Grave Memorial ID 179783610, citing Kilkerran Cemetery, Campbeltown, Argyll and Bute, Scotland; Maintained by Pixturmn (contributor 47729036).
 
 [^hector-marriage]: Statutory records of Campbeltown; 1931 GALBRAITH, HECTOR (Statutory registers Marriages 507/ 5); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/5970293)
+
+[^jeanie-death]: [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/12247615?return_row=5)
 
 
