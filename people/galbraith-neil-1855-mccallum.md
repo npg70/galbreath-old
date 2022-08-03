@@ -9,8 +9,8 @@ He married 24 June 1884 to **Mary McCallum**.[^marriage]  She was born about 186
 
 Children of Neil and Mary (McCallum) Galbraith, in Campbeltown unless noted:
 
-1. *Catherine McNair Galbraith*, b. 1885
-2. *Margaret McNair Galbraith*, b. 1887
+1. *Catherine McNair Galbraith*, b. 5 Jan 1885[^catherine-birth]
+2. *Margaret Galbraith*, b. 1 Jan 1886, Southend[^margaret-birth]
 3. *Hugh Galbraith*, b. 25 Mar 1888, Southend[^hugh1-birth], d. 17 Jan 1891; b. Kilkerran[^hugh1-burial]
 4. *John Galbraith*, b. 22 Jan 1890;[^john-birth]
 5. *Neil Galbraith*, b. 23 Mar 1895;[^neil-birth] d. 13 Jun 1902, b. Kilkerran[^neil-burial]
@@ -20,11 +20,15 @@ Children of Neil and Mary (McCallum) Galbraith, in Campbeltown unless noted:
 9. *Hector Galbraith*, b. 5 June 1899, Southend[^hector-birth]
 
 
-[^birth]:
+[^birth]: tbd
 
-[^marriage]:
+[^marriage]: tbd
 
 [^burial]: Find a Grave, database and images (https://www.findagrave.com/memorial/171954722/neil-galbraith: accessed 29 July 2022), memorial page for Neil Galbraith (1855–22 Aug 1917), Find a Grave Memorial ID 171954722, citing Kilkerran Cemetery, Campbeltown, Argyll and Bute, Scotland; Maintained by A Beattie (contributor 48024211).
+
+[^catherine-birth]: Statutory records of Campbeltown; 1885 GALBRAITH, CATHERINE MCNAI (Statutory registers Births 507/ 23); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/42522646)
+
+[^margaret-birth]: Statutory records of Southend, Argyll; 1886 GALBRAITH, MARGARET (Statutory registers Births 532/ 11); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/42649979)
 
 [^hugh1-birth]: Statutory records of Southend, Argyll; 1888 GALBRAITH, HUGH (Statutory registers Births 532/ 9); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/42918145)
 
