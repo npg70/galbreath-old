@@ -31,6 +31,8 @@ Children of Neil and Mary (McCallum) Galbraith, in Campbeltown unless noted:
 
 [^catherine-birth]: Statutory records of Campbeltown; 1885 GALBRAITH, CATHERINE MCNAI (Statutory registers Births 507/ 23); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/42522646)
 
+[^catherine-burial]: Find a Grave, database and images (https://www.findagrave.com/memorial/178794406/catherine-mcnair-taylor: accessed 02 August 2022), memorial page for Catherine McNair Galbraith Taylor (1885–16 Oct 1929), Find a Grave Memorial ID 178794406, citing Kilkerran Cemetery, Campbeltown, Argyll and Bute, Scotland; Maintained by Pixturmn (contributor 47729036).
+
 [^margaret-birth]: Statutory records of Southend, Argyll; 1886 GALBRAITH, MARGARET (Statutory registers Births 532/ 11); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/42649979)
 
 [^hugh1-birth]: Statutory records of Southend, Argyll; 1888 GALBRAITH, HUGH (Statutory registers Births 532/ 9); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/42918145)
