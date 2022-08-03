@@ -1,8 +1,9 @@
 ---
 title: Edward Galbraith b. 1855 m. Mary McLarty, m. Betsy McKinven
 familysearch: https://www.familysearch.org/tree/person/details/M1B4-7LV
+findagrave: https://www.findagrave.com/memorial/241931140/edward-galbraith
 ---
-***Edward Galbraith***, son of *John Galbreath* and *Ann McGreachy*, was born June 1855 in Gigha.[^birth]  He died 10 Mar 1933 in Campbeltown.[^death]
+***Edward Galbraith***, son of *John Galbreath* and *Ann McGreachy*, was born June 1855 in Gigha.[^birth]  He died 10 Mar 1933 in Campbeltown,[^death] and burried at Kilkerran cemetary.[^burial]
 
 He married first 16 Feb 1883 at Campbeltown[^marriage1] to **Mary McLarty**, a domestic servant.
 
@@ -27,6 +28,8 @@ MANY TBD.
 [^marriage2]: Statutory records of Campbeltown; 1901 GALBRAITH, EDWARD (Statutory registers Marriages 507/ 13); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/3517953)
 
 [^death]: Statutory records of Campbeltown; 1933 GALBRAITH, EDWARD (Statutory registers Deaths 507/ 33); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/8645158)
+
+[^burial]: Find a Grave, database and images (https://www.findagrave.com/memorial/241931140/edward-galbraith: accessed 03 August 2022), memorial page for Edward Galbraith (11 Jun 1855–10 Mar 1933), Find a Grave Memorial ID 241931140, citing Kilkerran Cemetery, Campbeltown, Argyll and Bute, Scotland; Maintained by Joelle Colville-Hanson (contributor 48735492).
 
 [^hector-birth]: Statutory records of Campbeltown; 1891 GALBRAITH, HECTOR MCLARTY (Statutory registers Births 507/ 66); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/43281002)
 
