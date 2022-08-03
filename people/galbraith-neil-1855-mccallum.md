@@ -26,6 +26,9 @@ Children of Neil and Mary (McCallum) Galbraith, in Campbeltown unless noted:
 
 [^burial]: Find a Grave, database and images (https://www.findagrave.com/memorial/171954722/neil-galbraith: accessed 29 July 2022), memorial page for Neil Galbraith (1855–22 Aug 1917), Find a Grave Memorial ID 171954722, citing Kilkerran Cemetery, Campbeltown, Argyll and Bute, Scotland; Maintained by A Beattie (contributor 48024211).
 
+[^taylor-marriage]: Search on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&dl_cat=statutory&dl_rec=statutory-marriages&surname=Taylor&surname_so=exact&forename=Alexander&forename_so=starts&spsurname=Galbraith&spsurname_so=exact&spforename_so=exact&sex=M&county=ARGYLL&record_type=stat_marriages&sort=asc&order=Year&field=year)
+
+
 [^catherine-birth]: Statutory records of Campbeltown; 1885 GALBRAITH, CATHERINE MCNAI (Statutory registers Births 507/ 23); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/42522646)
 
 [^margaret-birth]: Statutory records of Southend, Argyll; 1886 GALBRAITH, MARGARET (Statutory registers Births 532/ 11); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/42649979)
