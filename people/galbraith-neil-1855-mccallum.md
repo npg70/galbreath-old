@@ -5,7 +5,7 @@ findagrave: https://www.findagrave.com/memorial/171954722/neil-galbraith
 ---
 ***Neil Galbraith***, son of *[Hugh Galbreath](galbreath-hugh-1823-mcnair.md)* and *Catharine McNair*, was born 12 May 1855,[^birth] died 22 Aug 1917, burried in Kilkerran graveyard.[^burial]
 
-He married 24 June 1884 to **Mary McCallum**.[^marriage]  She was born about 1863, and died at age 69 on 1 Mar 1932, and burried at Kilkerran.
+He married 24 June 1884 to **Mary McCallum**.[^marriage]  She was born about 1863, and died at age 69 on 1 Mar 1932, and burried at Kilkerran.[^mary-burial]
 
 Children of Neil and Mary (McCallum) Galbraith, in Campbeltown unless noted:
 
@@ -25,6 +25,8 @@ Children of Neil and Mary (McCallum) Galbraith, in Campbeltown unless noted:
 [^marriage]: tbd
 
 [^burial]: Find a Grave, database and images (https://www.findagrave.com/memorial/171954722/neil-galbraith: accessed 29 July 2022), memorial page for Neil Galbraith (1855–22 Aug 1917), Find a Grave Memorial ID 171954722, citing Kilkerran Cemetery, Campbeltown, Argyll and Bute, Scotland; Maintained by A Beattie (contributor 48024211).
+
+[^mary-burial]: Find a Grave, database and images (https://www.findagrave.com/memorial/172180775/mary-galbraith: accessed 02 August 2022), memorial page for Mary MacCallum Galbraith (1863–1 Mar 1932), Find a Grave Memorial ID 172180775, citing Kilkerran Cemetery, Campbeltown, Argyll and Bute, Scotland; Maintained by Pixturmn (contributor 47729036).
 
 [^taylor-marriages]: Search on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&dl_cat=statutory&dl_rec=statutory-marriages&surname=Taylor&surname_so=exact&forename=Alexander&forename_so=starts&spsurname=Galbraith&spsurname_so=exact&spforename_so=exact&sex=M&county=ARGYLL&record_type=stat_marriages&sort=asc&order=Year&field=year)
 
