@@ -15,6 +15,7 @@ Children of Edward and Mary (McLarty) Galbraith:
 
 MANY TBD.
 
+1. *Catherine Ferguson Galbraith*, b. 29 May 1883[^catherine-brith], m. *John Harris* in 1907 in Manhattan.
 1. *John Galbraith*, b. 1886, d. 1962
 1. *Mary McLarty Galbraith*, b. 1889, d. 1963, m. *John Smart*
 1. *Hector McLarty Galbraith*, b. 1 Mar 1891[^hector-birth]
@@ -35,6 +36,8 @@ MANY TBD.
 [^burial]: Find a Grave, database and images (https://www.findagrave.com/memorial/241931140/edward-galbraith: accessed 03 August 2022), memorial page for Edward Galbraith (11 Jun 1855–10 Mar 1933), Find a Grave Memorial ID 241931140, citing Kilkerran Cemetery, Campbeltown, Argyll and Bute, Scotland; Maintained by Joelle Colville-Hanson (contributor 48735492).
 
 [^mclarty-burial]: Find a Grave, database and images (https://www.findagrave.com/memorial/180417395/mary-galbraith: accessed 03 August 2022), memorial page for Mary McLarty Galbraith (13 May 1855–30 Mar 1900), Find a Grave Memorial ID 180417395, citing Kilkerran Cemetery, Campbeltown, Argyll and Bute, Scotland; Maintained by Pixturmn (contributor 47729036).
+
+[^catherine-birth]: Statutory records of Campbeltown; 1883 GALBRAITH, CATHERINE FERGU (Statutory registers Births 507/ 189); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/42209046)
 
 [^hector-birth]: Statutory records of Campbeltown; 1891 GALBRAITH, HECTOR MCLARTY (Statutory registers Births 507/ 66); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/43281002)
 
