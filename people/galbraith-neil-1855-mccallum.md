@@ -17,7 +17,7 @@ Children of Neil and Mary (McCallum) Galbraith, in Campbeltown unless noted:
 6. *[Hugh Galbraith](galbraith-hugh-1892-barbour.md)*, b. 4 Feb 1892,[^hugh2-birth] m. *Agnes Barbour* 
 7. *Peter Galbraith*, b. 7 Feb 1894[^peter1-birth]; d. 1894[^burial]
 8. *Peter McCallum Galbraith*, b. 11 Feb 1897;[^peter2-birth] d. 1 Dec 1966; b. Kilkerran[^peter2-burial]; m. *Jeannie Ronald*
-9. *Hector Galbraith*, b. 5 June 1899, Southend[^hector-birth], d. 1975[^hector-death], b. Kilkerran[^hector-burial]
+9. *Hector Galbraith*, b. 5 June 1899, Southend[^hector-birth], d. 26 Jan 1975 at Moy Farm[^hector-death], b. Kilkerran[^hector-burial]; m. *Maggie McLatchie*
 
 
 [^birth]: tbd
