@@ -9,7 +9,7 @@ He married 24 June 1884 to **Mary McCallum**.[^marriage]  She was born about 186
 
 Children of Neil and Mary (McCallum) Galbraith, in Campbeltown unless noted:
 
-1. *Catherine McNair Galbraith*, b. 5 Jan 1885[^catherine-birth]; d. ; m. *Alexander Taylor*[^catherine-burial] in 1918[^taylor-marriages]
+1. *Catherine McNair Galbraith*, b. 5 Jan 1885[^catherine-birth]; d. 16 Oct 1929; m. *Alexander Taylor*[^catherine-burial] in 1918[^taylor-marriages]
 2. *Margaret Galbraith*, b. 1 Jan 1886, Southend[^margaret-birth]; d. 6 Oct 1954; m. *Alexander Taylor*[^margaret-burial], the same as above in 1932[^taylor-marriages]
 3. *Hugh Galbraith*, b. 25 Mar 1888, Southend[^hugh1-birth], d. 17 Jan 1891; b. Kilkerran[^hugh1-burial]
 4. *John Galbraith*, b. 22 Jan 1890;[^john-birth]
