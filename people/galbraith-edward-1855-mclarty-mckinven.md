@@ -15,7 +15,7 @@ Children of Edward and Mary (McLarty) Galbraith:
 
 MANY TBD.
 
-1. *Catherine Ferguson Galbraith*, b. 29 May 1883[^catherine-brith], m. *John Harris* in 1907 in Manhattan.
+1. *Catherine Ferguson Galbraith*, b. 29 May 1883[^catherine-birth], m. *John Harris* in 1907 in Manhattan.
 1. *John Galbraith*, b. 1886, d. 1962
 1. *Mary McLarty Galbraith*, b. 1889, d. 1963, m. *John Smart*
 1. *Hector McLarty Galbraith*, b. 1 Mar 1891[^hector-birth]
