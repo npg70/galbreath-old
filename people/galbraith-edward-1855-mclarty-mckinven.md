@@ -16,7 +16,7 @@ Children of Edward and Mary (McLarty) Galbraith:
 MANY TBD.
 
 1. *John Galbraith*, b. 1886, d. 1962
-1. *Mary McLarty Galbraith*, b. 1889, d. 1963, m. *TBD Smart*
+1. *Mary McLarty Galbraith*, b. 1889, d. 1963, m. *John Smart*
 1. *Hector McLarty Galbraith*, b. 1 Mar 1891[^hector-birth]
 1. *Donald Galbraith*, b. 15 Oct 1893[^donald-birth]
 2. *Edward Galbraith*, b. 15 Oct 1893[^edward-birth], d. 1895
