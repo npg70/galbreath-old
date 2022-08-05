@@ -42,6 +42,9 @@ some children of William Blue and Susan Galbreath: https://www.scotlandspeople.g
 > daughter of the above DONALD and ELIZABETH McPHAIL and beloved wife of HUGH McMILLAN,
 > Oatfield Cottage, Roading, Campbeltown, the above HUGH McMILLAN died 9 Feb 1933 aged 72 years.
 
+Find-A-Grave:
+* [Elizabeth Galbraith](https://www.findagrave.com/memorial/167549678/elizabeth-mcphail)
+
 https://www.familysearch.org/tree/person/details/M1YL-H7P
 
 ## 156.	 Inscribed stone
