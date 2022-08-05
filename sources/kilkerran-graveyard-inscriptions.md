@@ -49,6 +49,10 @@ https://www.familysearch.org/tree/person/details/M1YL-H7P
 > Erected by NEIL GALBREATH in memory of his daughter JEAN who died 
 > in the year 1805 aged 5 years also his granddaughter JEAN GALBREATH who died …
 
+Find-A-Grave:
+* [Neil Galbreath](https://www.findagrave.com/memorial/167549361/neil-galbreath)
+* [Jean Galbreath](https://www.findagrave.com/memorial/167549462/jean-galbreath)
+* Jean Galbreath, grandaughter
 
 2022-08-05: Closest match is [Jean Galbreath](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358193?image=163) born 21 Apr 1798 in Campbeltown, daughter of Neil Galbreath and Isobell McKinney
 
