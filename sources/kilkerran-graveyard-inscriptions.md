@@ -45,8 +45,7 @@ some children of William Blue and Susan Galbreath: https://www.scotlandspeople.g
 * Find-A-Grave: [Elizabeth Galbraith](https://www.findagrave.com/memorial/167549678/elizabeth-mcphail)
 * Canidates of baptism on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=Galbraith&surname_so=soundex&forename=E&forename_so=starts&sex=F&from_year=1800&to_year=1801&parent_names_so=exact&parent_name_two_so=exact&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
 * Marriage of Betty: [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=M&record_type%5B0%5D=opr_marriages&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-banns-marriages&surname=McPhail&surname_so=exact&forename=D&forename_so=starts&sex=M&spouse_name=Galbraith&spouse_name_so=soundex&from_year=1815&to_year=1830&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
-
-https://www.familysearch.org/tree/person/details/M1YL-H7P
+* [FamilySearch](https://www.familysearch.org/tree/person/details/M1YL-H7P)
 
 ## 156.	 Inscribed stone
 
