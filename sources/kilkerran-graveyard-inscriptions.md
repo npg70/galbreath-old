@@ -42,10 +42,15 @@ some children of William Blue and Susan Galbreath: https://www.scotlandspeople.g
 > daughter of the above DONALD and ELIZABETH McPHAIL and beloved wife of HUGH McMILLAN,
 > Oatfield Cottage, Roading, Campbeltown, the above HUGH McMILLAN died 9 Feb 1933 aged 72 years.
 
+https://www.familysearch.org/tree/person/details/M1YL-H7P
+
 ## 156.	 Inscribed stone
 
 > Erected by NEIL GALBREATH in memory of his daughter JEAN who died 
 > in the year 1805 aged 5 years also his granddaughter JEAN GALBREATH who died …
+
+
+2022-08-05: Closest match is [Jean Galbreath](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358193?image=163) born 21 Apr 1798 in Campbeltown, daughter of Neil Galbreath and Isobell McKinney
 
 ## 170
 
@@ -128,7 +133,7 @@ Canidates of Janet on [ScotlandPeoples](https://www.scotlandspeople.gov.uk/recor
 > 
 > In memory of DONALD CAMPBELL of Clachan late provost of Campbeltown  obt March 1727 aged 83.  MARGARET McFARLAN his spouse died August 1706 aged 46 and MARY CLARK their grand daughter obt 17 ….  By permission of CHARLES ROWATT, Surgeon, grandson of DONALD CAMPBELL, MARGARET PHILIPS HILL and AGNES GALBRAITH, wives of the Rev. Jas PINKERTON, lie here with ROBERT, CHARLES and WILLIAM his sons also the Rev JAMES PINKERTON first minister of the relief congregation in Campbeltown the duties of his office he discharged with fidelity he lived respected and died lamented 22 May 1805 in the 62 year of his age and 37 of his marriage remarried Jan 1843 
 
-[James Pinkerton](people/pinkerton-james-1740.md)'s second wife Agnes, was the daughter of Archibald Galbreath, shipmaster, and Janet Robison/Robertson, of the Glasgow/Greenock area.
+[James Pinkerton](/people/pinkerton-james-1740.md)'s second wife Agnes, was the daughter of Archibald Galbreath, shipmaster, and Janet Robison/Robertson, of the Glasgow/Greenock area.
 
 ## 541
 
@@ -136,7 +141,7 @@ Canidates of Janet on [ScotlandPeoples](https://www.scotlandspeople.gov.uk/recor
 >
 > By MALCOM McMILLAN ship carpenter in Campbeltown and MARTHA GALBRAITH his wife in memory of their children MALCOM MONTGOMERY McMILLAN who died 2 September 1838 aged 6 months, NEIL died 2 March 1840 aged 6 years, MARGARET died 1 May 1853 aged 11 years and 11 months, MARTHA GALBRAITH died 20 March 1871 aged 71 years and the above MALCOM McMILLAN died 7 June 1873 aged 76 years.
 
-[Martha Galbreath](/people/galbreath-martha-1800.md), daughter of Samuel Galbreath and Janet Langwill.
+[Martha Galbreath](/people/galbreath-martha-1800.md), daughter of Samuel Galbreath and Janet Langwill, b. 1800.
 
 2021-11-28: Martha McMillian death records: https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/1382101?return_row=1
 * Married to Malcom McMillan, Innkeeper
@@ -212,7 +217,7 @@ Same Archibald as above.
 
 [Janet Galbreath](/people/galbreath-janet-1735.md), daughter of [*William Galbreath*](galbreath-william-1701.md) and *Margaret Kilpatrick*, baptised at Campbeltown 27 Apr 1735.
 
-Oddly can find no record of James Ryburn.
+Oddly can not find any records of James Ryburn.
 
 ## 1009
 
