@@ -95,7 +95,6 @@ TBD
 * John (brother), TBD
 
     * NOTE: Angus d. 1836 has two tombstones, one in [Kilkerran Cemetery](https://www.findagrave.com/memorial/179310014/angus-galbraith), and the other older one in [Largnahension Graveyard, Lochgilphead](https://www.findagrave.com/memorial/160593770/angus-galbraith)
-    * Note: All statutory records list for Jessie *McQueen* not *MacQueen*, but [gravestone says MacQueen](https://www.findagrave.com/memorial/179309714/daniel-galbraith).
     * BIO: Daniel G- married Jess McQueen in Campbeltown on 5 Nov 1867
     * NOTE: William was a victim of an attempted murder/robbery at his store.  He survived but the damage bankrupted him. 
 
@@ -204,7 +203,7 @@ TBD
 
     * QUESTION: James & Martha - lowland?
     * CORRECTION:  For Archibald, maybe just mention Margaret was 2nd wife as you did with a previous entry. 
-    * CORRECTION?: Samuel - Can't find reference to Samuel being boring in Ugadale or in 1856.  His birth isn't in OPR or Statutory records.
+    * CORRECTION?: Samuel - Can't find reference to Samuel being born in Ugadale or in 1856.  His birth isn't in OPR or Statutory records.
 He is listed in 1851 Census as being "5M", so 1850 or 1851.   But all subsequent records have him in 1852-1856 range.
 
 ---
