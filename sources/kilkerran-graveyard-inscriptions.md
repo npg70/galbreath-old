@@ -145,13 +145,6 @@ Canidates of Janet on [ScotlandPeoples](https://www.scotlandspeople.gov.uk/recor
 
 [Martha Galbreath](/people/galbreath-martha-1800.md), daughter of Samuel Galbreath and Janet Langwill, b. 1800.
 
-2021-11-28: Martha McMillian death records: https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/1382101?return_row=1
-* Married to Malcom McMillan, Innkeeper
-* died 20 Mar 1871 in Campbeltown
-* Age 71
-* Father: Samuel Galbreath, sawyer, deceased
-* Mother: Janet Langwill, deceased
-
 ## 563
 
 > 563.	Erected by JAMES GALBREATH baker, in memory of his father HENDRY GALBREATH Shoemaker in Campbeltown who died 15 July 1789 aged 46 years also FLORANCE and MARY his children and this is the place designed for AGNES ARMOUR his spouse and family.
