@@ -10,25 +10,18 @@ publisher: unpublished
 > aged 4  …? …, SUSANNAH GALBRAITH who died 9 Mar 1888 aged 70 and of their son
 > DUNCAN and of WILLIAM BLUE father of the above WILLIAM reported lost at sea.
 
-2021-11-28:  Didn't check FamilySearch
-
-Death of Susanna Blue: https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/3047971?return_row=0
-* Widow of William Blue, slater
-* Death, 9 March 1888, age 48 (b ~ 1840)
-* Father: Duncan Galbraith, ?? workman, deceased
-* Mother: Mary Kelly, deceased
-* Present: William Blue, son
-
-
-marriage of Duncan and Mary Kelly, 1794: https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=M&record_type%5B0%5D=opr_marriages&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-banns-marriages&surname=galbreath&surname_so=fuzzy&forename_so=starts&sex=M&spouse_name=kelly&spouse_name_so=exact&from_year=1790&to_year=1795&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches
-
-chlldren of Duncan and Mary Kelly, first is 1795 https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=fuzzy&forename_so=starts&from_year=1790&to_year=1815&parent_names=kelly&parent_names_so=fuzzy&parent_name_two_so=fuzzy&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&sort=asc&order=Date&field=year
-
-birth of susanna galbreath 10 Aug 1809: https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=exact&forename=susanna&forename_so=starts&sex=F&from_year=1809&to_year=1809&parent_names_so=fuzzy&parent_name_two_so=fuzzy&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches
-
-
-some children of William Blue and Susan Galbreath: https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=blue&surname_so=fuzzy&forename_so=fuzzy&from_year=1820&to_year=1855&parent_names=william&parent_names_so=fuzzy&parent_name_two=susan&parent_name_two_so=fuzzy&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&sort=asc&order=Date&field=year
-
+Susannah:
+* [FindAGrave](https://www.findagrave.com/memorial/167549500/susanna-blue)
+* [Birth](birth of susanna galbreath 10 Aug 1809: https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=exact&forename=susanna&forename_so=starts&sex=F&from_year=1809&to_year=1809&parent_names_so=fuzzy&parent_name_two_so=fuzzy&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
+* [Death](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/3047971)
+    * Widow of William Blue, slater
+    * Death, 9 March 1888, age 48 (b ~ 1840)
+    * Father: Duncan Galbraith, ?? workman, deceased
+    * Mother: Mary Kelly, deceased
+    * Present: William Blue, son
+* marriage of Duncan and Mary Kelly, 1794: [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=M&record_type%5B0%5D=opr_marriages&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-banns-marriages&surname=galbreath&surname_so=fuzzy&forename_so=starts&sex=M&spouse_name=kelly&spouse_name_so=exact&from_year=1790&to_year=1795&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
+* chlldren of Duncan and Mary Kelly, first is 1795 [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=fuzzy&forename_so=starts&from_year=1790&to_year=1815&parent_names=kelly&parent_names_so=fuzzy&parent_name_two_so=fuzzy&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&sort=asc&order=Date&field=year)
+* some children of William Blue and Susan Galbreath: [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=blue&surname_so=fuzzy&forename_so=fuzzy&from_year=1820&to_year=1855&parent_names=william&parent_names_so=fuzzy&parent_name_two=susan&parent_name_two_so=fuzzy&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&sort=asc&order=Date&field=year)
 
 ## 95
 
