@@ -186,7 +186,10 @@ TBD
 * [Elizabeth G-](/people/galbraith-elizabeth-1841.md), m. James Nicol Flemming
 
     * NOTE: Seems like more could be said here.
-    * NOTE: Add correction to Campbeltown Whiskey?  There is was mentioned
+    * NOTE: Add correction to Campbeltown Whiskey?  There is was mentioned in "Campbeltown Whisky: An Encyclopaedia", page 77:
+      > His Galbraith family was not native Kintyre stock, but descended from 17th century Lowland settlers. John's parents were Archibald    Galbreath, merchant, and Jean Corbet. His grandfather, Archibald Galbreath, was a merchant in Campbeltown, and his great-grandfather, William, was a maltster. Each of these, like his father, married into a Plantation family: Langwill and Dunlop, respectively
+        * The two "Archibald Galbreath" are the same person. He married twice, first to Margaret Langwill, then to Jean Corbet.
+        *Using this correction, the grand-father is William Galbreath who married Margaret Dunlop
 
 ---
 
