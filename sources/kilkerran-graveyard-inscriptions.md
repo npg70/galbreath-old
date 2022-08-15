@@ -131,6 +131,7 @@ Daughter of [William Galbreath](/people/galbreath-william-1780.md).
 * Marriage of William Kelly and Janet Galbreath on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/9531561?image=298).   "07/12/1830 GALBREATH, JANET (Old Parish Registers Marriages 507/ 60 298 Campbeltown) Page 298 of 478"  Unfortunately the only biographical detail for Janet is that she was "of this parish."
 * OPR Death of Janet on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/6829068?image=471).  Doesn't say much.
 * Janet on [FamilySearch](https://www.familysearch.org/tree/person/details/K4FB-D65).  2022-08-14: no parents.
+* 1841 Cenus of William & Janet, and son Archibald via [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1841/0016601892).  List him as b. 1807, and her b. 1809 (and archibald 1834).  However the ages in this census are rounded.
 
 ## 531
 
