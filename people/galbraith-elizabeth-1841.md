@@ -1,6 +1,7 @@
 ---
 title: Elizabeth Galbraith b 1841 m. James Nicol Fleming
 familysearch: https://www.familysearch.org/tree/person/details/M1TD-WMJ
+findagrave: https://www.findagrave.com/memorial/167874666/elizabeth-fleming
 ---
 ***Elizabeth Galbraith***, daughter of *[John Galbraith](galbraith-john-1809.md)* and *Mary Colville McEwing*,
 born 25 Apr 1841, baptized 10 May 1841,[^birth] and died 10 January 1931,[^death] all in Campbeltown.
