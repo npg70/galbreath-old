@@ -15,6 +15,8 @@ Pages not summarized are distillery business or  personal, non-genealogical deta
 
 ## Page 34
 
+Reference to [Elizabeth Galbraith](/people/galbraith-elizabeth-1841.md), b. 1841.
+
 > James Nichol Fleming was a Glasgow merchant who married Elizabeth Galbraith daughter of John Galbreath in 1859
 
 
