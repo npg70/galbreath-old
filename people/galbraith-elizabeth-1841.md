@@ -3,9 +3,9 @@ title: Elizabeth Galbraith b 1841 m. James Nicol Fleming
 familysearch: https://www.familysearch.org/tree/person/details/M1TD-WMJ
 ---
 ***Elizabeth Galbraith***, daughter of *[John Galbraith](galbraith-john-1809.md)* and *Mary Colville McEwing*,
-born 25 APR 1841, baptized 10 MAY 1841,[^birth] and died 10 January 1931,[^death] all in Campbeltown.
+born 25 Apr 1841, baptized 10 May 1841,[^birth] and died 10 January 1931,[^death] all in Campbeltown.
 
-She married in 1859[^marriage] to **James Nicol Fleming** TBD Vitals.  He was director at the City of Glasgow Bank, which collpased in 1878.   He was convicted of fraud, served 8 months in prison, and died in Campbeltown in 1904.
+She married on 27 Oct 1859 in Campbeltown[^marriage] to **James Nicol Fleming** TBD Vitals.  He was director at the City of Glasgow Bank, which collpased in 1878. He was convicted of fraud, served 8 months in prison, and died in Campbeltown in 1904.
 
 * 1878 - rumoured to have fled to Spain.
 * 1882 - Convicted
