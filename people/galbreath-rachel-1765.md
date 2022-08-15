@@ -1,8 +1,10 @@
 ---
 title: Rachel Galbreath b. 1765 m. Robert Johnston
+familysearch: https://www.familysearch.org/tree/person/details/KDSG-NX7
 ---
 ***Rachel Galbreath***, daughter of *[William Galbreath](galbreath-william-1736.md)* and *Margaret Dunlop*, born 27 Aug 1765 and baptised Campbeltown 29 Aug 1765.[^birth]
-Married Campbeltown Oct 1788[^marriage] **Robert Johnston**.
+
+She married in Oct 1788 at Campbeltown[^marriage] to **Robert Johnston**.
 
 Children of Robert and Rachel (Galbreath) Johnston, all baptised in Campbeltown:[^children]
 
