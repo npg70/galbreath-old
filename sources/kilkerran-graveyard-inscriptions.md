@@ -126,8 +126,9 @@ Daughter of [William Galbreath](/people/galbreath-william-1780.md).
 >
 > Erected by ARCHIBALD KELLY in memory of his mother JANET GALBREATH who died 25 Jul 1842 aged 37 years and of his father WILLIAM KELLY who died 11 Jan 1844 aged 41 years and of his aunt MARY KELLY died 22 Jan 1887 aged 86 years.
 
-2021-11-28: Look at [distillery notes](/sources/campbeltown-whisky-an-encyclopaedia.md#page-125) for another reference to Janet.
-Canidates of Janet on [ScotlandPeoples](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=fuzzy&forename=janet&forename_so=syn&sex=F&from_year=1800&to_year=1806&parent_names_so=exact&parent_name_two_so=exact&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&sort=asc&order=Date&field=year)
+* 2021-11-28: Look at [distillery notes](/sources/campbeltown-whisky-an-encyclopaedia.md#page-125) for another reference to Janet.
+* Canidates of Janet on [ScotlandPeoples](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=fuzzy&forename=janet&forename_so=syn&sex=F&from_year=1800&to_year=1806&parent_names_so=exact&parent_name_two_so=exact&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&sort=asc&order=Date&field=year)
+* Marriage of William Kelly and Janet Galbreath on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/9531561?image=298).   "07/12/1830 GALBREATH, JANET (Old Parish Registers Marriages 507/ 60 298 Campbeltown) Page 298 of 478"  Unfortunately the only biographical detail for Janet is that she was "of thiss parish."
 
 ## 531
 
