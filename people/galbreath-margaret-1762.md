@@ -1,6 +1,7 @@
 ---
 title: Margaret Galbreath b. 1762 m. William Johnson
 familysearch: https://www.familysearch.org/tree/person/details/M1TG-QLK
+findagrave: https://www.findagrave.com/memorial/167549450/margaret-johnston
 ---
 ***Margaret Galbreath***, daughter of *[William Galbreath](galbreath-william-1736.md)* and *Margaret Dunlop*, born 5 Dec 1762 and baptised Campbeltown 9 Dec 1762.[^birth] She died 9 September 1821 and burried in Kilkerran graveyard.[^death]
 
