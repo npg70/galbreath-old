@@ -1,6 +1,7 @@
 ---
 title: Rachel Galbreath b. 1765 m. Robert Johnston
 familysearch: https://www.familysearch.org/tree/person/details/KDSG-NX7
+findagrave: https://www.findagrave.com/memorial/114485217/rachel-galbraith
 ---
 ***Rachel Galbreath***, daughter of *[William Galbreath](galbreath-william-1736.md)* and *Margaret Dunlop*, born 27 Aug 1765 and baptised Campbeltown 29 Aug 1765.[^birth]
 
