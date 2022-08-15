@@ -7,6 +7,9 @@ findagrave: https://www.findagrave.com/memorial/202954276/archibald-galbraith
 
 He went into business with his older brother Andrew to form _A&A Galbraith_, cotton manufacturer in Glasgow.
 
+https://arlingtonbathshistory.wordpress.com/2020/06/02/archibald-colville/
+
+
 [^birth]: OPR Campbeltown, baptism of [Archibald Galbreath](/sources/opr-campbeltown-births.md#1807-05-31-archibald-galbreath)
 
 [^death]: 1887 GALBRAITH, ARCHIBALD (Statutory registers Deaths 475/ 71) on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/2882425), list occupation as "Cotton Spinner & Manufacturer, Single" and father was a farmer.
