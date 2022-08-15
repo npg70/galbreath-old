@@ -220,7 +220,7 @@ Oddly can not find any records of James Ryburn.
 >
 > By WILLIAM JOHNSTON, Wright in Campbeltown, in memory of MARGARET GALBREATH his mother who died 9 September 1821 aged 58 years.
 
-This is [Margaret Galbreath](/people/galbreath-margaret-1762.md), born 1762, daughter of William Galbreath and Margaret Dunlop.
+This is [Margaret Galbreath](/people/galbreath-margaret-1762.md), born 1762, daughter of William Galbreath and Margaret Dunlop.  Marker on [FindAGrave](https://www.findagrave.com/memorial/167549450/margaret-johnston)
 
 ## 1103
 
