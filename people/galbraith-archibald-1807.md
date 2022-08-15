@@ -3,7 +3,7 @@ title: Archibald Galbreath b 1807
 familysearch: https://www.familysearch.org/tree/person/details/KHGS-TGQ
 findagrave: https://www.findagrave.com/memorial/202954276/archibald-galbraith
 ---
-***Archibald Galbreath***, son of *[Archibald Galbreath](galbreath-archibald-1760.md)* and *Jean Corbet*, born Campbeltown 29 May 1807, baptised 31 May 1807[^birth] and died 19 Aug 1887 at Kincaid House, Campsie, Stirling, Scotland.[^death]
+***Archibald Galbreath***, son of *[Archibald Galbreath](galbreath-archibald-1760.md)* and *Jean Corbet*, born Campbeltown 29 May 1807, baptised 31 May 1807[^birth] and died 19 Aug 1887 at Kincaid House, Campsie, Stirling, Scotland.[^death]  He never married.[^death]
 
 Cotton Merchant & Manufacturer.
 
