@@ -1,5 +1,6 @@
 ---
 title: "Kintye Magazine #55"
+year: 2004
 author: Elizabeth Marrison
 name: TEN MILES SOUTH OF CAMPBELTOWN
 link: http://www.ralstongenealogy.com/number55kintmag.htm#first
