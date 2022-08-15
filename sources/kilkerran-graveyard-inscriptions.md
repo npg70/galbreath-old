@@ -128,7 +128,9 @@ Daughter of [William Galbreath](/people/galbreath-william-1780.md).
 
 * 2021-11-28: Look at [distillery notes](/sources/campbeltown-whisky-an-encyclopaedia.md#page-125) for another reference to Janet.
 * Canidates of Janet on [ScotlandPeoples](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=fuzzy&forename=janet&forename_so=syn&sex=F&from_year=1800&to_year=1806&parent_names_so=exact&parent_name_two_so=exact&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&sort=asc&order=Date&field=year)
-* Marriage of William Kelly and Janet Galbreath on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/9531561?image=298).   "07/12/1830 GALBREATH, JANET (Old Parish Registers Marriages 507/ 60 298 Campbeltown) Page 298 of 478"  Unfortunately the only biographical detail for Janet is that she was "of thiss parish."
+* Marriage of William Kelly and Janet Galbreath on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/9531561?image=298).   "07/12/1830 GALBREATH, JANET (Old Parish Registers Marriages 507/ 60 298 Campbeltown) Page 298 of 478"  Unfortunately the only biographical detail for Janet is that she was "of this parish."
+* OPR Death of Janet on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/6829068?image=471).  Doesn't say much.
+* Janet on [FamilySearch](https://www.familysearch.org/tree/person/details/K4FB-D65).  2022-08-14: no parents.
 
 ## 531
 
