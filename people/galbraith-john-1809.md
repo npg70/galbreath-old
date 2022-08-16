@@ -12,7 +12,7 @@ wikitree: https://www.wikitree.com/wiki/Galbraith-2404
 Children of John and Mary (McEwing) Galbraith:
 
 1. *[Elizabeth Galbraith](galbraith-elizabeth-1841.md)*, bp. 10 May 1841,[^birth-elizabeth] m. *James Nicol Fleming* 
-2. *Archibald Galbraith*, bp. 6 Oct 1845[^birth-archibald], m. *Florence Eliza Carr*, no known children.
+2. *[Archibald Galbraith](galbreath-archibald-1845-carr.md)*, bp. 6 Oct 1845[^birth-archibald], m. *Florence Eliza Carr*, no known children.
 
 # Sources
 
