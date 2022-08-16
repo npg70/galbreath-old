@@ -6,7 +6,7 @@ wikitree: https://www.wikitree.com/wiki/Galbraith-1662
 ---
 ***Jean Galbraith***, daughter of [Archibald Galbreath](galbreath-archibald-1760.md) and *Jean Corbet*, born 7 Apr 1805 and died 3 Jun 1864.[^death]
 
-She married at Campbeltown 28 Jun 1824[^marraige] to **John Coville Jr**, son of *Archibald Coville*, *Janet Clark*. [^whisky]
+She married at Campbeltown 28 Jun 1824[^marriage] to **John Coville Jr**, son of *Archibald Coville*, *Janet Clark*. [^whisky]
 
 John was the Provost of Campbeltown 1842-1848, and died 5 Dec 1851.
 
