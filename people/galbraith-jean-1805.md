@@ -4,7 +4,7 @@ familysearch: https://www.familysearch.org/tree/person/details/KHWP-PG9
 findagrave: https://www.findagrave.com/memorial/167549655/jean-colvill
 wikitree: https://www.wikitree.com/wiki/Galbraith-1662
 ---
-***Jean Galbraith***, daughter of [Archibald Galbreath](galbreath-archibald-1760.md) and *Jean Corbet*, born 7 Apr 1805 and died 3 Jun 1864.[^death]
+***Jean Galbraith***, daughter of [Archibald Galbreath](galbreath-archibald-1760.md) and *Jean Corbet*, born 7 Apr 1805 and died 3 Jun 1864.[^death][^obit1]
 
 She married at Campbeltown 28 Jun 1824[^marriage] to **John Coville Jr**, son of *Archibald Coville*, *Janet Clark*. [^whisky]
 
@@ -44,5 +44,8 @@ Children of John and Jean (Galbraith) Coville:[^children]
     > JEAN GALBRAITH his wife died 3 June 1864 in her 59th year,
     > ANDREW GALBRAITH her son died at Bournemouth 19 April 1881 aged 34 years,
     > ARCHIBALD her son died 16 May 1905 aged 65 years.
+    
+[^obit1]: Glasgow Herald - Monday 06 June 1864; [British Newspaper Archive](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000060/18640606/015/0005)
+    > At Campbeltown, on the 3d inst,, Jane Galbraith, widow of John Colville, jun., Esq.
 
 [^johncoville3]: [Scottish Industrial History Volume 17](https://busarchscot.org.uk/wp-content/uploads/2019/11/Scottish-Industrial-History-Vol-17-1994-compressed.pdf) 1994 ISSN 0226-7428.  Business Archvies Counsil of Scottland. page 78: " John Colville (1844-1924), partner of A & A Galbraith, cotton spinners in Glasgow;", page 81: "...John Coville joined the partnership of A & A Galbraith in 1874, a firm established by his uncles Archibald and Andrew Galbraith."
