@@ -4,7 +4,7 @@ familysearch: https://www.familysearch.org/tree/person/details/KZ2Z-P49
 ---
 ***Archibald Galbreath***, son of *Duncan Galbreath* and *Mary Kelly*, baptized 29 Oct 1800 at Killean and Kilchenzie.[^birth]  He died at 13 Feb 1855 in Campbeltown.[^death]
 
-He married **Barbra Wilkinson**
+He married **Barbra Wilkinson**, perhaps namned McCuikan, maybe in 1827 at Killean and Kilchenzie.
 
 Mashman listed in 1851
 
