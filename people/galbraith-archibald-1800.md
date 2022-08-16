@@ -6,10 +6,10 @@ familysearch: https://www.familysearch.org/tree/person/details/KZ2Z-P49
 
 He married **Barbra Wilkinson**, perhaps namned McCuikan, maybe in 1827 at Killean and Kilchenzie.
 
-Mashman listed in 1851
 
-1861 - Barbra https://www.findmypast.com/transcript?id=GBC%2F1861%2F0023675920
-1871 - Barbra https://www.findmypast.com/transcript?id=GBC%2F1871%2F0024730641
+* 1851 Archibald listed as Mashman
+* 1861 - Barbra https://www.findmypast.com/transcript?id=GBC%2F1861%2F0023675920
+* 1871 - Barbra https://www.findmypast.com/transcript?id=GBC%2F1871%2F0024730641
 
 Children of Archibald and Barbra (Wilkinson) Galbraith:[^children]
 
