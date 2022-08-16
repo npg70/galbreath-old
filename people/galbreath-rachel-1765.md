@@ -23,7 +23,5 @@ Children of Robert and Rachel (Galbreath) Johnston, all baptised in Campbeltown:
 
 [^children]: Search of children listed OPR on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=johnston&surname_so=fuzzy&forename_so=starts&from_year=1788&to_year=1810&parent_names=johnston&parent_names_so=exact&parent_name_two=galbreath&parent_name_two_so=exact&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&sort=asc&order=Date&field=year).  Note children of William Johnston and Margaret Galbreath are mixed in.
 
-[^death]: xxx
-
 [^burial]: Find a Grave, database and images (https://www.findagrave.com/memorial/114485217/rachel-galbraith: accessed 15 August 2022), memorial page for Rachel Galbraith (1775–7 May 1850), Find a Grave Memorial ID 114485217, citing Kilchousland Graveyard, Argyll and Bute, Scotland; Maintained by Pixturmn (contributor 47729036).
 
