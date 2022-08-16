@@ -38,7 +38,7 @@ Children of James and Elizabeth (Galbraith) Fleming:
 
 [^marriage]: Civil records of Campbeltown; 1859 GALBRAITH, ELIZABETH (Statutory registers Marriages 507/ 33); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/6917248)
 
-[^cylde1]: Sailing Vessel James Nicol Fleming on [ClydeShips.co.uk](http://clydeships.co.uk/view.php?official_number=&imo=&builder=&builder_eng=&year_built=&launch_after=&launch_before=&role=&propulsion=&category=&owner=&port=&flag=&disposal=&lost=&ref=5561&vessel=JAMES+NICOL+FLEMING)
+[^clyde1]: Sailing Vessel James Nicol Fleming on [ClydeShips.co.uk](http://clydeships.co.uk/view.php?official_number=&imo=&builder=&builder_eng=&year_built=&launch_after=&launch_before=&role=&propulsion=&category=&owner=&port=&flag=&disposal=&lost=&ref=5561&vessel=JAMES+NICOL+FLEMING)
 
 [^clyde2]: Saling Vessel Margaret Galbraith on [ClydeShips.co.uk](http://clydeships.co.uk/view.php?official_number=&imo=&builder=&builder_eng=&year_built=&launch_after=&launch_before=&role=&propulsion=&category=&owner=&port=&flag=&disposal=&lost=&ref=5551&vessel=MARGARET+GALBRAITH)
 
