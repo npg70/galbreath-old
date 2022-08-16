@@ -2,10 +2,12 @@
 title: Margaret Galbraith b. 1837 m. William Wilson
 familysearch: xxx
 ---
-***Margaret Galbraith***, son of *[Archibald Galbreath](galbraith-archibald-1800.md)* and *Barbara Wilkenson*, was X
+***Margaret Galbraith***, son of *[Archibald Galbreath](galbraith-archibald-1800.md)* and *Barbara Wilkenson*, was baptized 6 Jul 1837 in Campbeltown.[^margaret-birth]
 
 
 She married on 15 June 1865 in Milton, Glasgow[^marriage1][^marriage2] to *William Wilson*.
+
+[^margaret-birth]: OPR Campbeltown, baptism of [Margaret Galbreath](/sources/opr-campbeltown-births.md#1837-07-06-margaret-galbreath)
 
 [^marriage1]: Civil records of Milton, Glasgow; 1865 GALBRAITH, MARGARET (Statutory registers Marriages 644/7 125); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/8679208)
 
