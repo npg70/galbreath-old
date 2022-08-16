@@ -2,7 +2,7 @@
 title: Archibald Galbreath b. 1800 m. Barbra Wilkinson
 familysearch: XXX
 ---
-***Archibald Galbreath***, son of Duncan Galbreath and Mary Kelly, baptized at Killean and Kilchenzie 29 Oct 1800.[^birth]  He died at Campbeltown, 13 Feb 1855.[^death]
+***Archibald Galbreath***, son of *Duncan Galbreath* and *Mary Kelly*, baptized 29 Oct 1800 at Killean and Kilchenzie.[^birth]  He died at 13 Feb 1855 in Campbeltown.[^death]
 
 He married **Barbra Wilkinson**
 
@@ -15,7 +15,7 @@ Children of Archibald and Barbra (Wilkinson) Galbraith:[^children]
 
 1. *Alexander Galbreath*, bp. 11 Nov 1832[^alexander-birth]
 2. *Angus Galbreath*, bp. 14 Feb 1835[^angus1-birth]
-3. *[Margaret Galbraith](galbraith-margaret-1837-wilson.md)*, bp. 6 Jul 1837[^margaret-birth], m. William Wilson
+3. *[Margaret Galbraith](galbraith-margaret-1837-wilson.md)*, bp. 6 Jul 1837[^margaret-birth], m. *William Wilson*
 4. *Archibald Galbreath*, bp. 22 Aug 1839[^archibald-birth]
 5. *Angus Galbreath*, bp. 5 Dec 1841[^angus2-birth]
 
