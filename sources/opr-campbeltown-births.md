@@ -2015,9 +2015,12 @@ TBD: ARCHIBALD GALBREATH/ANN HENDERSON
 
 TBD: [DAVID STEWART GALBREATH](/people/galbraith-david-stewart-1782.md)/ ELIZABETH FRAZER
 
-## 1837-07-06 Margaret Galbreath
+## [1837-07-06 Margaret Galbreath](/people/galbraith-margaret-1837-wilson.md)
 
-TBD: [ARCHIBALD GALBREATH](/people/galbraith-archibald-1800.md)/BARBRA WILKINSON
+[06/07/1837 GALBREATH, MARGARET (Old Parish Registers Births 507/ 70 105 Campbeltown) Page 105 of 449](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358310?image=105)
+
+> Margaret | Lawful daughter of **[Archibald Galbreath](/people/galbraith-archibald-1800.md)** laborer and
+> **Barbra Wilkinson** was born 21th June & Bapt 6 July 1837
 
 ## 1838-01-25 Ugenia Galbreath
 
