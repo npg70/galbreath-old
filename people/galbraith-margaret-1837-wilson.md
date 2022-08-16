@@ -2,7 +2,7 @@
 title: Margaret Galbraith b. 1837 m. William Wilson
 familysearch: xxx
 ---
-***Margaret Galbraith***, son of X and Y, was X
+***Margaret Galbraith***, son of *[Archibald Galbreath](galbraith-archibald-1800.md)* and *Barbara Wilkenson*, was X
 
 
 She married on 15 June 1865 in Milton, Glasgow[^marriage1][^marriage2] to *William Wilson*.
