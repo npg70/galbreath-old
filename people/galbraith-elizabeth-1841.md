@@ -34,7 +34,7 @@ Children of James and Elizabeth (Galbraith) Fleming:
 
 [^birth]: OPR Campbeltown, baptism of [Elizabeth Galbraith](/sources/opr-campbeltown-births.md#1841-05-10-elizabeth-galbreath)
 
-[^death]: https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/8488179
+[^death]: Civil Records of Campbeltown; 1931 GALBRAITH, ELIZABETH (Statutory registers Deaths 507/ 5); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/8488179).  "Elizabeth Fleming, widow of James Nicol Fleming, merchant", "1931 January Tenth [time unreadable] North Park, Campbeltown", "F 89 Years", "John Galbraith distiller (deceased), Mary Colville Galbraith M.S. McEwing (deceased)".   A "son-in-law" was present but name is unreadbale.
 
 [^marriage]: Civil records of Campbeltown; 1859 GALBRAITH, ELIZABETH (Statutory registers Marriages 507/ 33); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/6917248)
 
