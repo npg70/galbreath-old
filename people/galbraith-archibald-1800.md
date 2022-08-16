@@ -15,7 +15,7 @@ Children of Archibald and Barbra (Wilkinson) Galbraith:[^children]
 
 1. *Alexander Galbreath*, bp. 11 Nov 1832[^alexander-birth]
 2. *Angus Galbreath*, bp. 14 Feb 1835[^angus1-birth]
-3. *Margaret Galbreath*, bp. 6 Jul 1837[^margaret-birth]
+3. *[Margaret Galbraith](galbraith-margaret-1837-wilson.md)*, bp. 6 Jul 1837[^margaret-birth], m. William Wilson
 4. *Archibald Galbreath*, bp. 22 Aug 1839[^archibald-birth]
 5. *Angus Galbreath*, bp. 5 Dec 1841[^angus2-birth]
 
