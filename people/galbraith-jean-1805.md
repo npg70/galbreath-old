@@ -8,15 +8,13 @@ wikitree: https://www.wikitree.com/wiki/Galbraith-1662
 
 She married at Campbeltown 28 Jun 1824[^marriage] to **John Coville Jr**, son of *Archibald Coville*, *Janet Clark*. [^whisky]
 
-John was the Provost of Campbeltown 1842-1848, and died 5 Dec 1851.
-
 Children of John and Jean (Galbraith) Coville:[^children]
 
 1. *Jean Colville*, bp. 19 Jun 1825, d. 1906
 2. *Archibald Colville*, bp. 28 May 1827
 3. *Mary Colville*, bp. 13 May 1829
 4. *Martha Colville*, bp. 9 May 1831
-5. *John Colville*, bp. 4 Apr 1833
+5. *John Colville*, bp. 4 Apr 1833, d. 5 Dec 1851. Provost of Campbeltown 1842-1848.
 6. *Elizabeth Colville*, bp. 6 Aug 1835, d. 1916
 7. *Margaret Scott Colville*, bp. 28 Jun 1837[^margaret], d. 1863
 8. *Archibald Colville*, bp. 14 Oct 1839, d. 16 May 1905
@@ -24,7 +22,7 @@ Children of John and Jean (Galbraith) Coville:[^children]
 10. *John Colville*, bp. 4 Dec 1843, d. 10 Apr 1924 at Polmont, Stirlingshire.  This John became a partner A & A Galbraith cotton spinners.[^johncoville3]
 11. *Andrew Galbraith Colville*, bp. 31 Jan 1847, d. 19 Apr 1881
 
-[^whisky]: basic vitals of John Coville Jr are in [Campbeltown Whisky. An Encyclopaedia](https://github.com/npg70/galbreath/blob/main/sources/campbeltown-whisky-an-encyclopaedia.md#page-44).
+[^whisky]: basic vitals of John Coville Jr are in [Campbeltown Whisky. An Encyclopaedia](https://github.com/npg70/galbreath/blob/main/sources/campbeltown-whisky-an-encyclopaedia.md#page-44), page 44.
 
 [^marriage]: OPR Campbeltown; 28/06/1824 GALBREATH, JEAN (Old Parish Registers Marriages 507/ 60 261 Campbeltown) Page 261 of 478; [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/9531624?image=261)
     > John Colvill [jr?] Merchant & Jean Galbreath daughter of Arch Galbreath 
