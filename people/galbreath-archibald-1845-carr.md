@@ -1,6 +1,6 @@
 ---
 title: Archibald Galbraith b. 1845 m. Florence Eliza Carr
-familysearch: xxx
+familysearch: https://www.familysearch.org/tree/person/details/M1YS-Y2Q
 findagrave: https://www.findagrave.com/memorial/177759917/archibald-galbraith
 ---
 ***Atchibald Galbraith***. son of *[John Galbraith](galbraith-john-1809.md)* and *Mary Colville McEwing*, [^archibald-birth]
