@@ -25,5 +25,5 @@ Children of Robert and Rachel (Galbreath) Johnston, all baptised in Campbeltown:
 
 [^death]: xxx
 
-[^burial]: xxx
+[^burial]: Find a Grave, database and images (https://www.findagrave.com/memorial/114485217/rachel-galbraith: accessed 15 August 2022), memorial page for Rachel Galbraith (1775–7 May 1850), Find a Grave Memorial ID 114485217, citing Kilchousland Graveyard, Argyll and Bute, Scotland; Maintained by Pixturmn (contributor 47729036).
 
