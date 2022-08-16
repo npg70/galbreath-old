@@ -17,7 +17,7 @@ Children of Andrew and Margaret (Scott) Galbraith, all baptised at the Barony Pa
 
 [^birth]: OPR Campbeltown, baptsim of [Andrew Galbreath](/sources/opr-campbeltown-births.md#1799-02-10-andrew-galbreath)
 
-[^marriage]: OPR record of marriage on [ScotlandsPeoples](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=M&record_type%5B0%5D=opr_marriages&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-banns-marriages&surname=Galbraith&surname_so=exact&forename=Andrew&forename_so=starts&sex=M&spouse_name=Scott&spouse_name_so=exact&from_year=1826&to_year=1826&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
+[^marriage]: OPR Glasgow; 21/02/1826 GALBRAITH, ANDREW (Old Parish Registers Marriages 644/1 400 397 Glasgow) Page 397 of 557; [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/8088000?image=397)
 
 [^children]: OPR baptism records for all children on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=Galbr&surname_so=starts&forename_so=starts&from_year=1826&to_year=1838&parent_names=andrew&parent_names_so=starts&parent_name_two=scot&parent_name_two_so=starts&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&sort=asc&order=Date&field=year)
 
