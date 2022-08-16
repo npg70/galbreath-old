@@ -3,7 +3,7 @@ title: Rachel Galbreath b. 1765 m. Robert Johnston
 familysearch: https://www.familysearch.org/tree/person/details/KDSG-NX7
 findagrave: https://www.findagrave.com/memorial/114485217/rachel-galbraith
 ---
-***Rachel Galbreath***, daughter of *[William Galbreath](galbreath-william-1736.md)* and *Margaret Dunlop*, born 27 Aug 1765 and baptised  29 Aug 1765 in Campbeltown.[^birth]  She died 
+***Rachel Galbreath***, daughter of *[William Galbreath](galbreath-william-1736.md)* and *Margaret Dunlop*, born 27 Aug 1765 and baptised  29 Aug 1765 in Campbeltown.[^birth]  She died 7 May 1850 and was buried in Kilchousland Cemetery[^burial]
 
 She married in Oct 1788 at Campbeltown[^marriage] to **Robert Johnston**.
 
