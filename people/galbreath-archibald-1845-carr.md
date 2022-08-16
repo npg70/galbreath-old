@@ -3,7 +3,7 @@ title: Archibald Galbraith b. 1845 m. Florence Eliza Carr
 familysearch: xxx
 findagrave: https://www.findagrave.com/memorial/177759917/archibald-galbraith
 ---
-***Atchibald Galbraith***. son of *[John Galbraith](galbraith-john-1809.md)* and *Mary Colville McEwing*.
+***Atchibald Galbraith***. son of *[John Galbraith](galbraith-john-1809.md)* and *Mary Colville McEwing*, [^archibald-birth]
 
 
 
@@ -23,3 +23,6 @@ findagrave: https://www.findagrave.com/memorial/177759917/archibald-galbraith
 1911 - no
 
 1916 - Death https://www.findmypast.com/transcript?id=BMD%2FD%2F1916%2F4%2FAZ%2F000369%2F083 Newton Abbot, Devon, England
+
+
+[^birth-archibald]: OPR Campbeltown, baptism of [Archibald Galbreath](/sources/opr-campbeltown-births.md#1845-10-06-archibald-galbreath)
