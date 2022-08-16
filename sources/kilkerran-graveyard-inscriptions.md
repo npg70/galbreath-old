@@ -197,7 +197,8 @@ https://www.familysearch.org/tree/person/details/KC3N-971
 >
 > 970.1	Here lie the remains of MARY DUNLOP who died 26 September 1773 aged 45, spouse of WM. GALBRAITH, Maltster, Campbeltown.   Here lie MARY, JAS and ANN GALBRAITH their children.  This is the place designed for the family.  WM GALBRAITH died April 1799 aged 63
 
-* [William Galbraith](/people/galbreath-william-1736.md), born 1736.
+* Mary Dunlop, born ~1728
+* [William Galbraith](/people/galbreath-william-1736.md), born 1736.  Perhaps not "63" but "83"?
 * Mary Galbraith
 * James Galbraith
 * "ANN" is likely "Andrew", the last child, Andrew Galbreath, bp. 7 May 1769
