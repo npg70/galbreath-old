@@ -4,7 +4,9 @@ familysearch: https://www.familysearch.org/tree/person/details/KHWP-PG9
 findagrave: https://www.findagrave.com/memorial/167549655/jean-colvill
 wikitree: https://www.wikitree.com/wiki/Galbraith-1662
 ---
-***Jean Galbraith***, daughter of [Archibald Galbreath](galbreath-archibald-1760.md) and *Jean Corbet*, born 7 Apr 1805 and died 3 Jun 1864.[^death] Married at Campbeltown 28 Jun 1824 to **John Coville Jr**, son of *Archibald Coville*, *Janet Clark*. [^whisky]
+***Jean Galbraith***, daughter of [Archibald Galbreath](galbreath-archibald-1760.md) and *Jean Corbet*, born 7 Apr 1805 and died 3 Jun 1864.[^death]
+
+She married at Campbeltown 28 Jun 1824[^marraige] to **John Coville Jr**, son of *Archibald Coville*, *Janet Clark*. [^whisky]
 
 John was the Provost of Campbeltown 1842-1848, and died 5 Dec 1851.
 
@@ -23,6 +25,10 @@ Children of John and Jean (Galbraith) Coville:[^children]
 11. *Andrew Galbraith Colville*, bp. 31 Jan 1847, d. 19 Apr 1881
 
 [^whisky]: basic vitals of John Coville Jr are in [Campbeltown Whisky. An Encyclopaedia](https://github.com/npg70/galbreath/blob/main/sources/campbeltown-whisky-an-encyclopaedia.md#page-44).
+
+[^marriage]: OPR Campbeltown; 28/06/1824 GALBREATH, JEAN (Old Parish Registers Marriages 507/ 60 261 Campbeltown) Page 261 of 478; [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/9531624?image=261)
+    > John Colvill [jr?] Merchant & Jean Galbreath daughter of Arch Galbreath 
+    > Merch of Campbeltown was married 20th June 1824
 
 [^children]: Bapitsm records for the 10 of 11 children on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=colville&surname_so=fuzzy&forename_so=starts&from_year=1824&to_year=1847&parent_names_so=exact&parent_name_two=galbreath&parent_name_two_so=fuzzy&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&sort=asc&order=Date&field=year)
 
