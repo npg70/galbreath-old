@@ -1953,7 +1953,10 @@ TBD: [David Galbreath](/people/galbreath-david-1797.md)/Janet Mitchell
 
 ## 1832-11-11 Alexander Galbreath
 
-TBD: [ARCHIBALD GALBREATH](/people/galbraith-archibald-1800.md)/BARBRA WILKINSON
+[11/11/1832 GALBREATH, ALEXANDER (Old Parish Registers Births 507/ 70 18 Campbeltown) Page 18 of 449](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357209?image=18)
+
+> Alexander | Lawful son of **[Archd. Galbreath](/people/galbraith-archibald-1800.md)** laborer & **Barbra Wilkinson**,
+> was born 1st & bapt 11 Nov 1832  Alexander
 
 ## 1833-03-14 Margaret Galbreath
 
