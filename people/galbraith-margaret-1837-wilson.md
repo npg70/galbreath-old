@@ -1,6 +1,6 @@
 ---
 title: Margaret Galbraith b. 1837 m. William Wilson
-familysearch: xxx
+familysearch: https://www.familysearch.org/tree/person/details/KHCC-YB2
 ---
 ***Margaret Galbraith***, son of *[Archibald Galbreath](galbraith-archibald-1800.md)* and *Barbara Wilkenson*, was baptized 6 Jul 1837 in Campbeltown.[^margaret-birth]
 
