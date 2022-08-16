@@ -1922,7 +1922,9 @@ TBD: [DAVID STEWART GALBREATH](/people/galbraith-david-stewart-1782.md)/ELIZABET
 
 ## 1830-04-29 Archibald Galbreath
 
-TBD: ARCHIBALD GALBREATH/BARBRA MCQUILKAN
+[29/04/1830 GALBREATH, ARCHIBALD (Old Parish Registers Births 507/ 60 203 Campbeltown) Page 203 of 478](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357292?image=203)
+
+> Archibald | Lawful son of **Archibald Galbreath** laborer & **Barbra McQuilkan** was born 26th & bapt 29th Apr
 
 ## 1830-05-06 Janet Galbreath
 
