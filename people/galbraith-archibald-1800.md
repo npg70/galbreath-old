@@ -2,7 +2,7 @@
 title: Archibald Galbreath b. 1800 m. Barbra Wilkinson
 familysearch: XXX
 ---
-***Archibald Galbreath***, son of Duncan Galbreath and Mary Kelly, baptized at Killean and Kilchenzie 29 Oct 1800.[^birth]  Died at Campbeltown, 13 Feb 1855.[^death]
+***Archibald Galbreath***, son of Duncan Galbreath and Mary Kelly, baptized at Killean and Kilchenzie 29 Oct 1800.[^birth]  He died at Campbeltown, 13 Feb 1855.[^death]
 
 He married **Barbra Wilkinson**
 
@@ -21,7 +21,7 @@ Children of Archibald and Barbra (Wilkinson) Galbraith:[^children]
 
 [^birth]: [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=exact&forename=archibald&forename_so=starts&sex=M&from_year=1800&to_year=1806&parent_names_so=exact&parent_name_two=kelly&parent_name_two_so=exact&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
 
-[^death]: [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/23055)
+[^death]: Civil records of Campbeltown; ;[ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/23055)
 
 [^children]: OPR Campbeltown, baptism of children, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=galbreath&surname_so=exact&forename_so=starts&from_year=1832&to_year=1841&parent_names_so=exact&parent_name_two=WILKINSON&parent_name_two_so=fuzzy&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&rd_real_name%5B0%5D=CAMPBELTOWN%20%28LANDWARD%29%20OR%20CAMPBELTOWN%20%28BURGH%29%20OR%20CAMPBELTOWN&rd_display_name%5B0%5D=CAMPBELTOWN%20%28LANDWARD%29%7CCAMPBELTOWN%20%28BURGH%29%7CCAMPBELTOWN_CAMPBELTOWN&rd_label%5B0%5D=CAMPBELTOWN&rd_name%5B0%5D=CAMPBELTOWN%20%2ALANDWARD%2A%20OR%20CAMPBELTOWN%20%2ABURGH%2A%20OR%20CAMPBELTOWN&sort=asc&order=Date&field=year)
 
