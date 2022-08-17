@@ -9,7 +9,7 @@ bio goes here.
 
 * Left town at age 14 to go to Glasgow
 * Listed as Malster in 1843
-* Provost Glasgow X-Y
+* Provost Glasgow 1857-1860
 * 
 
 Children of Andrew and Margaret (Scott) Galbraith, all baptised at the Barony Parish (near Glasgow):[^children]
