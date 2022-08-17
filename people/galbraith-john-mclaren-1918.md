@@ -9,7 +9,7 @@ was born  21 April 1918.  He died 14 May 1961.
 Mentioned in [The Campbeltown Book](/sources/campbeltown.md) as "probably the first Kintyre man to cross the Atlantic by air."[^campbeltown-book]
 
 
-Not sure of origina source, but found https://www.arrse.co.uk/community/threads/namesake-uncle-gracie-and-monty.305827/page-2
+Not sure of original source, but found https://www.arrse.co.uk/community/threads/namesake-uncle-gracie-and-monty.305827/page-2
 
 > 2 Sep 2021
 > 
