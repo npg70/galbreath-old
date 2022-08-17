@@ -8,8 +8,8 @@ wikitree: https://www.wikitree.com/wiki/Galbraith-2404
 
 He married at Campbeltown 25 Jun 1838 to **Mary Colville McEwing**, the daughter of Captain John Townley McEwing R.N. and Elizabeth Colvill, bord ?, died 13 Dec 1900.
 
+- 1832 founded Scotia Distillery[^scotia1]
 - Provost of Campbeltown 1860-66
-- Founder Scotia Distillery[^scotia1]
 
 Children of John and Mary (McEwing) Galbraith:
 
