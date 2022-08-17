@@ -14,7 +14,7 @@ Children of John and Jean (Galbraith) Coville:[^children]
 2. *Archibald Colville*, bp. 28 May 1827
 3. *Mary Colville*, bp. 13 May 1829
 4. *Martha Colville*, bp. 9 May 1831
-5. *John Colville*, bp. 4 Apr 1833, d. 5 Dec 1851. Provost of Campbeltown 1842-1848.
+5. *John Colville*, bp. 4 Apr 1833, d. 5 Dec 1851. treasurer? of Campbeltown 1842-1848.
 6. *Elizabeth Colville*, bp. 6 Aug 1835, d. 1916
 7. *Margaret Scott Colville*, bp. 28 Jun 1837[^margaret], d. 1863
 8. *Archibald Colville*, bp. 14 Oct 1839, d. 16 May 1905  See also https://arlingtonbathshistory.wordpress.com/2020/06/02/archibald-colville/
