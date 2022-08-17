@@ -17,7 +17,7 @@ Children of John and Jean (Galbraith) Coville:[^children]
 5. *John Colville*, bp. 4 Apr 1833, d. 5 Dec 1851. Provost of Campbeltown 1842-1848.
 6. *Elizabeth Colville*, bp. 6 Aug 1835, d. 1916
 7. *Margaret Scott Colville*, bp. 28 Jun 1837[^margaret], d. 1863
-8. *Archibald Colville*, bp. 14 Oct 1839, d. 16 May 1905
+8. *Archibald Colville*, bp. 14 Oct 1839, d. 16 May 1905  See also https://arlingtonbathshistory.wordpress.com/2020/06/02/archibald-colville/
 9. *Janet Colville*, bp. 1 Aug 1841
 10. *John Colville*, bp. 4 Dec 1843, d. 10 Apr 1924 at Polmont, Stirlingshire.  This John became a partner A & A Galbraith cotton spinners.[^johncoville3]
 11. *Andrew Galbraith Colville*, bp. 31 Jan 1847, d. 19 Apr 1881
