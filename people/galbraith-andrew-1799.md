@@ -12,6 +12,9 @@ bio goes here.
 * Dead of Guilds, Glasgow 1848-1850
 * Provost Glasgow 1857-1860
 * Formed Johnson, Galbraith & Co... trade house with Havana and Hondouras., with Alexander Johnson
+* Form A&A Galbraith, power loom company with his brother [Archibald](xxx)
+
+
 
 Children of Andrew and Margaret (Scott) Galbraith, all baptised at the Barony Parish (near Glasgow):[^children]
 
