@@ -11,7 +11,7 @@ bio goes here.
 * Listed as Malster in 1843
 * Dead of Guilds, Glasgow 1848-1850
 * Provost Glasgow 1857-1860
-* 
+* Formed Johnson, Galbraith & Co... trade house with Havana and Hondouras., with Alexander Johnson
 
 Children of Andrew and Margaret (Scott) Galbraith, all baptised at the Barony Parish (near Glasgow):[^children]
 
