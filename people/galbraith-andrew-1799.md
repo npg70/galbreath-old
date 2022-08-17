@@ -7,6 +7,11 @@ findagrave: https://www.findagrave.com/memorial/202954277/andrew-galbraith
 
 bio goes here.  
 
+* Left town at age 14 to go to Glasgow
+* Listed as Malster in 1843
+* Provost Glasgow X-Y
+* 
+
 Children of Andrew and Margaret (Scott) Galbraith, all baptised at the Barony Parish (near Glasgow):[^children]
 
 1. *Janet Galbraith*,  b. 7 Dec 1826, bp. 10 Jan 1827 (note: indexed as "Galbreath")
