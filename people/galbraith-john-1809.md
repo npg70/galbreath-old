@@ -6,7 +6,7 @@ wikitree: https://www.wikitree.com/wiki/Galbraith-2404
 ---
 ***John Galbraith***, son of *[Archibald Galbreath](galbreath-archibald-1760.md)* and *Jean Corbet*, born Campbeltown 3 Sep 1809,[^birth] died 12 Sep 1881, Didsbury Manchester Lancashire, United Kingdom. 
 
-He married at Campbeltown 25 Jun 1838 to **Mary Colville McEwing**, the daughter of John McEwing and Elizabeth Colvill, bord ?, died 13 Dec 1900.
+He married at Campbeltown 25 Jun 1838 to **Mary Colville McEwing**, the daughter of Captain John Townley McEwing R.N. and Elizabeth Colvill, bord ?, died 13 Dec 1900.
 
 - Provost of Campbeltown 1860-66
 - Founder Scotia Distillery[^scotia1]
