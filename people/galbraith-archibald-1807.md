@@ -7,6 +7,8 @@ findagrave: https://www.findagrave.com/memorial/202954276/archibald-galbraith
 
 He went into business with his older brother Andrew to form _A&A Galbraith_, cotton manufacturer in Glasgow.
 
+- 1856 Elected director of Merchanht house of Glasgow
+
 https://arlingtonbathshistory.wordpress.com/2020/06/02/archibald-colville/
 
 
