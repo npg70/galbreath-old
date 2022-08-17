@@ -2075,7 +2075,10 @@ TBD: [DONALD GALBREATH](/people/galbreath-donald-1804-flora-smith.md)/FLORA SMIT
 
 ## [1841-05-10 Elizabeth Galbreath](/people/galbraith-elizabeth-1841.md)
 
-TBD: [John Galbraith](/people/galbraith-john-1809.md) / Mary Coville McEwing
+[10/05/1841 GALBREATH, ELIZABETH (Old Parish Registers Births 507/ 70 196 Campbeltown) Page 196 of 449](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358020?image=196)
+
+> Elizabeth | Lawful daughter of **[John Galbraith](/people/galbraith-john-1809.md)** merchant of Campbeltown
+> and **Mary Coville McEwing** [indexed as "MARY COLVILL MCEOWN"] was born fifth April & bapt 10 April 1841
 
 ## 1841-11-07 James Galbreath
 
