@@ -7,8 +7,9 @@ findagrave: https://www.findagrave.com/memorial/202954277/andrew-galbraith
 
 bio goes here.  
 
-* Left town at age 14 to go to Glasgow
+* Left town at age 1814 (age 14) to go to Glasgow
 * Listed as Malster in 1843
+* Dead of Guilds, Glasgow 1848-1850
 * Provost Glasgow 1857-1860
 * 
 
