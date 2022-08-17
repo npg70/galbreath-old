@@ -199,7 +199,7 @@ https://www.familysearch.org/tree/person/details/KC3N-971
 
 * Mary Dunlop, born ~1728
 * [William Galbraith](/people/galbreath-william-1736.md), born 1736.  Perhaps not "63" but "83"?
-* Mary Galbraith
+* Mary Galbraith, bp. 23 Aug 1764
 * James Galbraith
 * "ANN" is likely "Andrew", the last child, Andrew Galbreath, bp. 7 May 1769
 
