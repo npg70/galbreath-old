@@ -1161,7 +1161,10 @@ TBD: Neil Galbreath / Flora Paterson
 
 ## 1791-11-06 James Galbreath
 
-TBD: James Galbreath / Janet Langwill
+[06/11/1791 GALBREATH, JAMES (Old Parish Registers Births 507/ 20 135 Campbeltown) Page 135 of 197](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357475?image=135)
+
+> James | Lawful son to **James Galbreath** Sailor in town & **Janet Langwill**
+> was born 5th & bapt 6th Nov.
 
 ## 1792-01-04 John Galbreath
 
