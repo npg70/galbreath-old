@@ -227,7 +227,7 @@ He is listed in 1851 Census as being "5M", so 1850 or 1851.   But all subsequent
 
 * [William G-](/people/galbraith-william-1833.md) (bother), jeweller/watchmaker, d. 1915, age 81.  Already mentioned, but the arson/theft/attempted murder story is good.
 
-* Archibald Alexander Galbraith, also nicknamed Sandy, and X-grandson of the other Archibald Sandy.
+* Archibald Alexander Galbraith, also nicknamed Sandy, and great-grandson of the other Archibald Sandy, and son of Alexander and Marion (McDougall) Galbraith.  *If I got this correct.*
     * b. 1945, d. 2022. m. Doreen Allen in 1971
     * Campbeltown Courier Obit:
         > Annoucements Feburary 4 2022
