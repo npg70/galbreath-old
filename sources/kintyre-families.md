@@ -133,7 +133,7 @@ TBD
 
 * [Archibald Galbraith](/people/galbraith-archibald-1865-mckay.md), d. 1928,age 62, m. Isabella McKay
 
-    * NOTE: Uncle of [Jeannie G-](/people/galbraith-jane-1890.md) (above)
+    * NOTE: Uncle of [Jeannie G-](/people/galbraith-jane-1890.md) (above, the one with "many near relatives in Campbeltown)
     * BIO: Archibald Galbraith, son of [Daniel/Donald Galbraith](/people/galbraith-donald-1831-isabella-mcdermid.md) and Isabella McDermid, was born Campbeltown 1 July 1865, and died 25 Mar 1928. He married at Campbeltown 16 Apr 1888 to Isabella McKay
 
 ---
@@ -216,6 +216,6 @@ He is listed in 1851 Census as being "5M", so 1850 or 1851.   But all subsequent
 * [William G-](/people/galbraith-william-1791-grieve.md) b. Ayrshire, moved to Southend in 1851
 * [John G-](/people/galbraith-john-1824-paterson.md) (son) got another lease in 1861.
     * BIO: William is the son of *Peter Galbraith* and *Jean Logan*, baptized in Dalrymple, Ayr on 9 Dec 1791. He married in Dalrymple 25 Aug 1818 to Mary Grieve.
-    * BIO: John Galbraith, son of *William Galbraith* and *Mary Grieve*, was baptized in Dalrymple, Ayr 28 Mar 1824. He married Stewarton, Ayr 18711 to Catharine Paterson.
+    * BIO: John Galbraith, son of *William Galbraith* and *Mary Grieve*, was baptized in Dalrymple, Ayr 28 Mar 1824. He married Stewarton, Ayr 1871 to Catharine Paterson.
 
 ---
