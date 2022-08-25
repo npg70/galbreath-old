@@ -234,6 +234,6 @@ He is listed in 1851 Census as being "5M", so 1850 or 1851.   But all subsequent
         > GALBRAITH – Peacefully at home, Dunolly, Carradale, on January 25, 2022, Alexander Galbraith (Sandy) in his 77th year, a very   beloved husband of Doreen, much loved dad of Lesley, Linda and Alex, loving papa of Lara, Carly, Alex, Cameron, Connor, Emma and James.
     *  Listed on page 62 of the Campbeltown book
         > The modern shipyard at Trench Point ... built only two fishing boats for Campbeltown owners... The Aquarian was launched in spring [of 1971] for Archibald Galbraith.
-    * Perhaps the same Archibald involved in the 1966 of the rescue of 10 people from the motor yacht Quesada on the night of 22nd/23rd May, 1966.
+    * Perhaps the same Archibald involved in the rescue of 10 people from the motor yacht Quesada on the night of 22nd/23rd May, 1966.
 https://lifeboatmagazinearchive.rnli.org/volume/40/419/award-for-scottish-skipper?searchterm=Yacht+Gan&page=691
 
