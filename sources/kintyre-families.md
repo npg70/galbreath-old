@@ -219,3 +219,12 @@ He is listed in 1851 Census as being "5M", so 1850 or 1851.   But all subsequent
     * BIO: John Galbraith, son of *William Galbraith* and *Mary Grieve*, was baptized in Dalrymple, Ayr 28 Mar 1824. He married Stewarton, Ayr 1871 to Catharine Paterson.
 
 ---
+
+## Possible Additions
+
+* [John McLaren Galbraith](/people/galbraith-john-mclaren-1918.md)
+
+* [William G-](/people/galbraith-william-1833.md) (bother), jeweller/watchmaker, d. 1915, age 81.  Already mentioned, but the arson/theft/attempted murder story is good.
+
+
+
