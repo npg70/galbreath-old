@@ -222,7 +222,7 @@ He is listed in 1851 Census as being "5M", so 1850 or 1851.   But all subsequent
 
 ## Possible Additions
 
-* [John McLaren Galbraith](/people/galbraith-john-mclaren-1918.md)
+* [John McLaren Galbraith](/people/galbraith-john-mclaren-1918.md), son of John McCorkindale Galbraith and Margaret Hardie Young, was born 21 April 1918. He died 14 May 1961. Mentioned in The Campbeltown Book as "probably the first Kintyre man to cross the Atlantic by air."  but the full story is quite interesting (click in to see it)
 
 * [William G-](/people/galbraith-william-1833.md) (bother), jeweller/watchmaker, d. 1915, age 81.  Already mentioned, but the arson/theft/attempted murder story is good.
 
