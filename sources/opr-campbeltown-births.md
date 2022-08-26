@@ -972,21 +972,21 @@ TBD --Maybe 1782-12-28 -- two records
 
 [507/20 62 row 7](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358334?image=62)
 
-> Margaret | Lawful daugt to [David Galbreath](/people/galbreath-david-1755.md) Farmer in Arndacrosh and  Mary Fleeming
+> Margaret | Lawful daugt to **[David Galbreath](/people/galbreath-david-1755.md)** Farmer in Arndacrosh and **Mary Fleeming**
 > born 1st and bapt 3rd Nov.
 
 ## 1783-06-10 Archibald Galbreath
 
 [507/20 67 row 9](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357268?image=67)
 
-> Archibald | Lawful son to [Samuel Galbreath](/people/galbreath-samuel-1736.md) in Peninver & Jean McNair
+> Archibald | Lawful son to **[Samuel Galbreath](/people/galbreath-samuel-1736.md)** in Peninver & **Jean McNair**
 > was born 8th & bapt. 10th June [1783]
 
 ## 1783-06-26 Ann Galbreath
 
 [507/40 50 row 10](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357934?image=50)
 
-Ann | Natural Daughter to Neill Galbreath & Isabell McKinlay in Drumord (?) born 19th Bapt 26
+Ann | Natural Daughter to **Neill Galbreath** & **Isabell McKinlay** in Drumord (?) born 19th Bapt 26
 
 ## 1783-09-03 Mary Galbreath
 
@@ -996,14 +996,14 @@ Ann | Natural Daughter to Neill Galbreath & Isabell McKinlay in Drumord (?) born
 
 ## 1783-11-02 Archibald Galbreath
 
-TBD: [Peter Galbreath](/people/galbreath-peter-1749.md) / Agnes McMurchy
+TBD: **[Peter Galbreath](/people/galbreath-peter-1749.md)** / **Agnes McMurchy**
 
 ## 1784-01-08 John Galbreath
 
 [507/ 20 71 row 12](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357565?image=71)
 
-> John | Lawful son to [Alexr Galbreath](/people/galbreath-alexander-1753.md) Mercht [merchant] in Campbeltown
-> Agnes Flemming was born 7th & bapt 8th Feb
+> John | Lawful son to **[Alexr Galbreath](/people/galbreath-alexander-1753.md)** Mercht [merchant] in Campbeltown
+> **Agnes Flemming** was born 7th & bapt 8th Feb
 
 ## 1784-02-03 David Galbreath
 
@@ -1057,7 +1057,7 @@ TBD: James Galbraith / Janet McVicar
 
 [507/40 64 row 7](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358167?image=64)
 
-> Janet | Lawful Dau. to [John Galbreath](/people/galbreath-john-1760.md) & Marion Mclean, Knockanly born 9th [Jan 1786]
+> Janet | Lawful Dau. to **[John Galbreath](/people/galbreath-john-1760.md)** & **Marion Mclean**, Knockanly born 9th [Jan 1786]
 
 ## 1786-03-14 John Galbreath
 
@@ -1070,12 +1070,12 @@ TBD: James Galbraith / Janet McVicar
 
 [507/ 20 94 row 8](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/913?image=94), Father indexed as "David or Samuel Galbraith"
 
-> James | Lawful son to ~Samuel~ [David Galbraith](/people/galbreath-david-1755.md) in Ardnacross & Mary Fleeming
+> James | Lawful son to ~Samuel~ **[David Galbraith](/people/galbreath-david-1755.md)** in Ardnacross & **Mary Fleeming**
 > was born 30th & bapt 31th Dec.
 
 ## 1787-10-27 James Galbreath
 
-TBD: [Peter Galbreath](/people/galbreath-peter-1749.md) / Agnes MacMurchy
+TBD: **[Peter Galbreath](/people/galbreath-peter-1749.md)** / **Agnes MacMurchy**
 
 ## [1788-05-18 Catharine Galbreath](/people/galbreath-catherine-1788.md)
 
@@ -1088,7 +1088,7 @@ TBD: [Peter Galbreath](/people/galbreath-peter-1749.md) / Agnes MacMurchy
 
 [507/ 20 107 row 9](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358483?image=107)
 
-> Mary | Lawdful dau to [David Galbreath](/people/galbreath-david-1755.md) in Ardnacross & Mary Fleeming
+> Mary | Lawdful dau to **[David Galbreath](/people/galbreath-david-1755.md)** in Ardnacross & **Mary Fleeming**
 > was born 28th & Bapt 29th Aug
 
 ## 1788-10-06 Alexander Galbreath
@@ -1106,7 +1106,7 @@ TBD: Neill Galbreath / Isabell McKinlay
 
 [507/40 78 row 3](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357711?image=78)
 
-> Neill | Lawful son to [John Galbreath](/people/galbreath-john-1760.md) & Marion McLean in Knockanly born 16th bapt 18th
+> Neill | Lawful son to **[John Galbreath](/people/galbreath-john-1760.md)** & **Marion McLean** in Knockanly born 16th bapt 18th
 
 ## 1789-02-12 William Galbreath
 
@@ -1131,8 +1131,8 @@ TBD: Peter Galbreath / Agnes MacFarlane
 
 [507/20 126 row 13](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358138?image=126)
 
-> Janet | Lawful daut. to [David Galbreath](/people/galbreath-david-1755.md) Farmer in Ardnacrosh & 
->  Mary Fleeming was born 23rd bapt 24th Dec.
+> Janet | Lawful daut. to **[David Galbreath](/people/galbreath-david-1755.md)** Farmer in Ardnacrosh & 
+>  **Mary Fleeming** was born 23rd bapt 24th Dec.
 
 ## 1791-01-03 John Galbreath
 
@@ -1146,14 +1146,14 @@ TBD: John Galbreath / Katherin Hagan
 
 [507/40 90 row 7](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358315?image=90)
 
-> Margaret | Lawful Dau to [John Galbreath](/people/galbreath-john-1760.md) & Marion McLean in Knockanly born 28th bapt 31st
+> Margaret | Lawful Dau to **[John Galbreath](/people/galbreath-john-1760.md)** & **Marion McLean** in Knockanly born 28th bapt 31st
 
 ## 1791-04-18 James Galbreath
 
 [507/20 130 row 8](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357528?image=130)
 
-> James | Lawful Son to [Samuel Galbreath](/people/galbreath-samuel-1736.md) farmer in Peninver &
-> Janet MacNair was born 16th & Bapt. 18th [April 1791]
+> James | Lawful Son to **[Samuel Galbreath](/people/galbreath-samuel-1736.md)** farmer in Peninver &
+> **Janet MacNair** was born 16th & Bapt. 18th [April 1791]
 
 ## 1791-05-05 Margaret Galbreath
 
@@ -1169,12 +1169,13 @@ TBD: Neil Galbreath / Flora Paterson
 ## 1792-01-04 John Galbreath
 
 [507/20 138 row 2](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357581?image=138)
+
 > John | Lawful son to **[Peter Galbreath](/people/galbreath-peter-1766.md)** Sailor in town & 
 > **Margt Galbreath** was born 2nd & Bapts 4 January 1792
 
 ## 1792-03-19 Martha Galbreath
 
-TBD: [Archibald Galbreath](/people/galbreath-archibald-1760.md) / Jean Corbet
+TBD: **[Archibald Galbreath](/people/galbreath-archibald-1760.md)** / **Jean Corbet**
 
 ## 1792-06-23 Orslay Galbreath 
 
@@ -1204,13 +1205,13 @@ TBD: Neil Galbreath / Florance Paterson
 
 [507/40 109 row 17](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357343?image=109)
 
-> David | Lawful son to [David Galbreath](/people/galbreath-david-1755.md) & Mary Fleeming in [unreadable] 27th bapt 28th.
+> David | Lawful son to **[David Galbreath](/people/galbreath-david-1755.md)** & **Mary Fleeming** in [unreadable] 27th bapt 28th.
 
 ## 1793-11-25 Archibald Galbreath 
 
 [507/40 111 row 13](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357780?image=111)
 
-> Archibald Lawful son to Samuel Galbreath and Janet Langwill in Town, 25th [Nov 1793]
+> Archibald Lawful son to **Samuel Galbreath** and **Janet Langwill** in Town, 25th [Nov 1793]
 
 ## 1793-12-05 Samuel Galbreath 
 
@@ -1222,17 +1223,17 @@ TBD: Neil Galbreath / Florance Paterson
 
 [507/40 114 row 19](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358253?image=114)
 
-> Katherin | Lawful Dau to Neil Galbreath & Grizell Taylor in Town, born 14th, Baptized 16
+> Katherin | Lawful Dau to **Neil Galbreath** & **Grizell Taylor** in Town, born 14th, Baptized 16
 
 ## 1794-03-18 Ann Galbreath
 
 [507/40 114 row 22](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357933?image=114)
 
-> Ann | Lawful Dau to [John Galbreath](/people/galbreath-john-1760.md) & More McLean Toleclach (??) born 16 bapt 18
+> Ann | Lawful Dau to **[John Galbreath](/people/galbreath-john-1760.md)** & **More McLean** in Toleclach (??) born 16 bapt 18
 
 ## 1794-07-02 Jean Galbreath
 
-TBD: [Peter Galbreath](/people/galbreath-peter-1766.md) / Margaret Galbreath
+TBD: **[Peter Galbreath](/people/galbreath-peter-1766.md)** / **Margaret Galbreath**
 
 ## 1794-11-09 William Galbreath
 
@@ -1242,7 +1243,7 @@ TBD: [Archibald Galbreath](/people/galbreath-archibald-1760.md) / Jean Corbett
 
 [507/40 123 row 14](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357167?image=123)
 
-Orslay | Lawful daut to [David Galbreath](/people/galbreath-david-1755.md) & Mary Fleeming in August 4
+Orslay | Lawful daut to **[David Galbreath](/people/galbreath-david-1755.md)** & **Mary Fleeming** in August 4
 
 ## 1795-02-08 Elizabeth Galbreath
 
