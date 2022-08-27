@@ -24,4 +24,4 @@ Children of Archibald and Orsla Galbreath:[^children]
 
 [^archibald-birth]: OPR Campbeltown, baptism of [Archibald Galbreath](/sources/opr-campbeltown-births.md#1776-11-01-archibald-galbreath)
 
-[^john-birth]: OPR Campbeltown, baptism of [John Galbraith](/sources/opr-campbeltown-births.md#1779-12-27-john-galbraith)
+[^john-birth]: OPR Campbeltown, baptism of [John Galbreath](/sources/opr-campbeltown-births.md#1779-12-27-john-galbreath)
