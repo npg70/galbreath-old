@@ -7,7 +7,7 @@ familysearch: https://www.familysearch.org/tree/person/details/G3PJ-D5Z
 Children of James and Margaret (Adam) Galbreath, all baptized at Campbeltown:[^children]
 
 1. *Mary Galbreath*, bp. 18 Mar 1740,[^mary1-birth] assumed died in childhood
-2. *Archibald Galbreath*, bp. Dec 1743[^archibald-birth]
+2. *Archibald Galbreath*, bp. Dec 1743[^archibald-birth], maybe married [Orsla Galbreath](galbreath-orsla-1745-galbreath.md)
 3. *James Galbreath*, bp. 15 Jan 1746,[^james1-birth] assumed died in childhood
 4. *\_\_\_\_\_ Galbreath*, bp. 13 July 1748.[^unknown-birth] First name unknown.
 5. *James Galbreath*, bp. 3 June 1750[^james2-birth]
