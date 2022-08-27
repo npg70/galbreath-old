@@ -837,7 +837,10 @@ TBD: John Galbreath / Margaret Clark, two records
 
 ## 1773-11-03 James Galbreath
 
-TBD: Archibald Galbreath / **[Orsla Galbraith](/people/galbreath-orsla-1745-galbreath.md)**
+[03/11/1773 GALBREATH, JAMES (Old Parish Registers Births 507/ 11 390 Campbeltown) Page 390 of 473](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357481?image=390)
+
+> James | **Arch Galbreath** & **[Orsla Galbraith](/people/galbreath-orsla-1745-galbreath.md)** had a son
+> born 1st and bapt 3rd November named James.
 
 ## 1773-12-23 Peter Galbreath
 
@@ -859,7 +862,10 @@ TBD: William Galbreath / Mary Campbell
 
 ## 1776-11-01 Archibald Galbreath
 
-TBD: Archibald Galbreath / **[Orsla Galbraith](/people/galbreath-orsla-1745-galbreath.md)**
+[01/11/1776 GALBREATH, ARCHIBALD (Old Parish Registers Births 507/ 20 29 Campbeltown) Page 29 of 197](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357311?image=29)
+
+> Archd | Lawful son of **Archd Galbreath** and **[Orsla Galbraith](/people/galbreath-orsla-1745-galbreath.md)**
+> Born Oct 30th. Baptized 1st November
 
 ## 1777-08-21 Elisabeth Galbreath
 
@@ -902,9 +908,14 @@ TBD: William Galbreath / Mary Campbell
 
 > Robert | Lawful son to **[Samuel Galbreath](/people/galbreath-samuel-1736.md)** & **Janet McNair** born 12th ??? bapt 15th Oct 1778
 
-## 1779-12-27 John Galbraith
+## 1779-12-27 John Galbreath
 
-TBD: **Archibald Galbraith** / **[Orsla Galbraith](/people/galbreath-orsla-1745-galbreath.md)**
+[27/12/1779 GALBRIATH, JOHN (Old Parish Registers Births 507/ 20 46 Campbeltown) Page 46 of 197](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/4113038?image=46)
+
+Misindexed under "Galbriath"
+
+> John | Lawful son to **Archibald Galbraith** & **[OrselyGalbraith](/people/galbreath-orsla-1745-galbreath.md)**
+> born 25th was baptd 27th Dec 1779
 
 ## 1780-01-16 William Galbreath
 
