@@ -9,7 +9,7 @@ Children of Patrick and Jean (Watson) Galbreath, all baptized at Campbeltown:[^c
 
 1. *John Galbreath*, bp. 13 Apr 1740[^birth-john]
 2. *Mary Galbreath*, bp. 14 Dec 1742[^birth-mary]
-3. *Orsla Galbreath*, bp. 22 Sep 1745[^birth-orsla], maybe married *Archibald Galbreath* Campbeltown, 22 DEC 1772[^orsla-marriage]
+3. *[Orsla Galbreath](galbreath-orsla-1745-galbreath.md)*, bp. 22 Sep 1745[^birth-orsla], maybe married *Archibald Galbreath* Campbeltown, 22 DEC 1772[^orsla-marriage]
 4. *James Galbreath*, bp. 20 Dec 1747[^birth-james]
 5. *William Galbreath*, bp. 25 May 1750[^birth-william]
 6. *Archibald Galbreath*, bp. 03 Feb 1753[^birth-archibald]
