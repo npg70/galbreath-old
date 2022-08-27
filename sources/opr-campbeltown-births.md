@@ -747,7 +747,7 @@ tbd: Neill Galbraith / Ann Campbell
 
 [507/10 295 row 8](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2086?image=295)
 
-> Rachel | [William Galbraith](/people/galbreath-william-1736.md) & Margaret Dunlop had a daughter born 27th & baptised 29th Aug named Rachel
+> Rachel | **[William Galbraith](/people/galbreath-william-1736.md)** & **Margaret Dunlop** had a daughter born 27th & baptised 29th Aug named Rachel
 
 ## 1765-11-28 Mary Galbreath
 
@@ -755,7 +755,7 @@ TBD: [James Galbreath](/people/galbreath-james-1713.md) / Margaret Adam, two rec
 
 ## 1765-12-29 William Galbreath
 
-TBD: [James Galbreath](/people/galbreath-james-1726.md) / Margaret Anderson, two records Galbreath / Galbraith
+TBD: **[James Galbreath](/people/galbreath-james-1726.md)** / **Margaret Anderson**, two records Galbreath / Galbraith
 
 ## 1766-01-29 Peter Galbratih
 
@@ -765,7 +765,8 @@ TBD: John Galbreath / Jean Clark, two records Galbreath / Galbraith
 
 [507/10 309 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/1344?image=309)
 
-> William | [William Galbraith](/people/galbreath-william-1736.md) and Marg Dunlop had a son born the 13th baptized the 16th Nov called Andrew
+> William | **[William Galbraith](/people/galbreath-william-1736.md)** and **Marg Dunlop**
+> had a son born the 13th baptized the 16th Nov called Andrew
 
 ## 1767-01-22 John Galbraith
 
@@ -779,7 +780,7 @@ TBD: John Galbreath / Katharine Clark, two records Galbreath / Galbraith
 
 [507/ 11 363 row 3](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357461?image=363)
 
-> James | [William Galbraith](/people/galbreath-william-1736.md) and Margt Dunlop had a son
+> James | **[William Galbraith](/people/galbreath-william-1736.md)** and **Margt Dunlop** had a son
 > born the 9th baptized the 10th Feb named James
 
 ## 1768-02-22 Matthew Galbreath
@@ -800,11 +801,11 @@ TBD: Lachlan Galbreath, no mother
 
 [507/11 370 row 13](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356772?image=370)
 
-> Andrew | [William Galbreath](/people/galbreath-william-1736.md) and Margt Dunlop had a son the 7th May named Andrew
+> Andrew | **[William Galbreath](/people/galbreath-william-1736.md)** and **Margt Dunlop** had a son the 7th May named Andrew
 
 [507/10 333 row 12](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/89?image=333), under "Andrew Galbraith"
 
-> Andrew | [William Galbraith](/people/galbreath-william-1736.md) and Marg Dunlop had a son born the 7th May called Andrew
+> Andrew | **[William Galbraith](/people/galbreath-william-1736.md)** and **Marg Dunlop** had a son born the 7th May called Andrew
 
 ## 1769-07-11  John Galbreath
 
@@ -836,7 +837,7 @@ TBD: John Galbreath / Margaret Clark, two records
 
 ## 1773-11-03 James Galbreath
 
-TBD: Archibald Galbreath / Orsla Galbreath
+TBD: Archibald Galbreath / **[Orsla Galbraith](/people/galbreath-orsla-1745-galbreath.md)**
 
 ## 1773-12-23 Peter Galbreath
 
@@ -846,7 +847,7 @@ TBD: Neill Galbreath / Ann Campbell
 
 [507/ 20 15 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357284?image=15)
 
-> Arch | Son to **John Galbreath** and Jean Clark born 21st bapt 22nd
+> Arch | Son to **John Galbreath** and **Jean Clark** born 21st bapt 22nd
 
 ## 1775-07-10 James Galbreath
 
@@ -858,7 +859,7 @@ TBD: William Galbreath / Mary Campbell
 
 ## 1776-11-01 Archibald Galbreath
 
-TBD: Archibald Galbreath / Orsla Galbreath
+TBD: Archibald Galbreath / **[Orsla Galbraith](/people/galbreath-orsla-1745-galbreath.md)**
 
 ## 1777-08-21 Elisabeth Galbreath
 
@@ -868,63 +869,63 @@ TBD: William Galbreath / Mary Campbell
 
 [507/20 35 row 3](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356969?image=35)
 
-> Agnes | Lawful Daughter to Alexdr Dunlop and Mary Galbreath. Born 7th Sept. Baptised the same
+> Agnes | Lawful Daughter to **Alexdr Dunlop** and **Mary Galbreath**. Born 7th Sept. Baptised the same
 
 ## 1777-09-14 Florance Galbreath
 
 [507/20 35 row 6](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356969?image=35)
 
-> Florence | Lawful Daughter to [Henry Galbreath](/people/galbreath-henry-1739.md) and Agnes Armour Born 11th Sept Bap 14
+> Florence | Lawful Daughter to **[Henry Galbreath](/people/galbreath-henry-1739.md)** and **Agnes Armour** Born 11th Sept Bap 14
 
 ## 1777-09-14 Robert Galbreath
 
 [507/20 35 row 7](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356969?image=35), twins
 
-> Robt. & Arch. | Lawful Sons to [Samuel Galbreath](/people/galbreath-samuel-1736.md) and Janet McNair born 14 Sept 
+> Robt. & Arch. | Lawful Sons to **[Samuel Galbreath](/people/galbreath-samuel-1736.md)** and **Janet McNair** born 14 Sept 
 
 ## 1777-09-14 Archibald Galbreath
 
 [507/20 35 row 7](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356969?image=35), twins
 
-> Robt. & Arch. | Lawful Sons to [Samuel Galbreath](/people/galbreath-samuel-1736.md) and Janet McNair born 14 Sept 
+> Robt. & Arch. | Lawful Sons to **[Samuel Galbreath](/people/galbreath-samuel-1736.md)** and **Janet McNair** born 14 Sept 
 
 ## 1778-01-20 William Gilbreath
  
-[507/20 38 row ](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2785816?image=38&return_row=0), indexed as "Gilbreath" but is clearly "Galbreath"
+[507/20 38 row ](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2785816?image=38), indexed as "Gilbreath" but is clearly "Galbreath"
 
-> William | Lawful son of [Peter Galbreath](/people/galbreath-peter-1749.md) & Agnes McMurchy
+> William | Lawful son of **[Peter Galbreath](/people/galbreath-peter-1749.md)** & **Agnes McMurchy**
 > born 19th Janry was bapts 20th 1778
 
 ## [1778-10-15 Robert Galbreath](/people/galbreath-robert-1778.md)
 
 [507/20 40 row 15](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357746?image=40)
 
-> Robert | Lawful son to [Samuel Galbreath](/people/galbreath-samuel-1736.md) & Janet McNair born 12th ??? bapt 15th Oct 1778
+> Robert | Lawful son to **[Samuel Galbreath](/people/galbreath-samuel-1736.md)** & **Janet McNair** born 12th ??? bapt 15th Oct 1778
 
 ## 1779-12-27 John Galbraith
 
-TBD: Archibald Galbraith / Orsla Galbraith
+TBD: **Archibald Galbraith** / **[Orsla Galbraith](/people/galbreath-orsla-1745-galbreath.md)**
 
 ## 1780-01-16 William Galbreath
 
-TBD: [Henry Galbreath](/people/galbreath-henry-1739.md) / Agnes Armour
+TBD: **[Henry Galbreath](/people/galbreath-henry-1739.md)** / **Agnes Armour**
 
 ## 1780-12-06 John Galbreath
 
-TBD: [Peter Galbreath](/people/galbreath-peter-1749.md) / Agnes McMurchy
+TBD: **[Peter Galbreath](/people/galbreath-peter-1749.md)** / **Agnes McMurchy**
 
 ## 1781-01-25 John Galbreath
 
 [507/20 51 row 10](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357564?image=51)
 
-> John | Lawful son to [Alexr Galbreath](/people/galbreath-alexander-1753.md) & Agnes Fleeming,
+> John | Lawful son to **[Alexr Galbreath](/people/galbreath-alexander-1753.md)** & **Agnes Fleeming**,
 > born 22nd was bapt 25th Jan 1781
 
 ## 1781-01-28 Martha Galbreath
 
 [507/20 51 row 11](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358385?image=51)
 
-> Martha | Lawful Dau to [Samuel Galbreath](/people/galbreath-samuel-1736.md) & Janet McNair
+> Martha | Lawful Dau to **[Samuel Galbreath](/people/galbreath-samuel-1736.md)** & **Janet McNair**
 > born 27th was bapt. 28th Jan 1781
 
 ## 1781-06-29 Rachell Galbreath
@@ -933,7 +934,7 @@ TBD: Donald Galbreath / Mary Kelly
 
 ## 1781-09-16 Robert Galbreath
 
-TBD: [Peter Galbreath](/people/galbreath-peter-1749.md) / Agnes McMurchy
+TBD: **[Peter Galbreath](/people/galbreath-peter-1749.md)** / **Agnes McMurchy**
 
 ## 1781-12-12 Mary Galbreath
 
@@ -947,12 +948,12 @@ TBD: Patrick Galbreath / Ann McLellan
 
 [507/ 20 57 row 14](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357506?image=57)
 
-> James | Lawful son to  [Alexr Galbreath](/people/galbreath-alexander-1753.md) & Agnes Flemming
+> James | Lawful son to  [Alexr Galbreath](/people/galbreath-alexander-1753.md) & **Agnes Flemming**
 > born 18th, bapt 19th March 1782
 
 ## 1782-05-12 Mary Galbreath
 
-> Mary | Lawful daut to **[John Galbreath](/people/galbreath-john-1754-galbreath.md)** & Agnes Galbreath
+> Mary | Lawful daut to **[John Galbreath](/people/galbreath-john-1754-galbreath.md)** & **Agnes Galbreath**
 > born & bapt 12 May
 
 ## 1782-10-03 Sarrah Galbreath
