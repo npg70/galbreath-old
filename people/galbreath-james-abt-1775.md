@@ -10,6 +10,8 @@ Martha Galbreath and their youngest daughter Mary are recorded in the 1841 Censu
 
 For baptism records of children, he was a farmer in Skebolin.
 
+He won a prize for turnip growning in 1804[^ref-campbeltown-book]
+
 Children of James and Martha Galbreath, all baptized in Campbeltown:[^children]
 
 1. *Janet Galbreath*, bp. 31 Sep 1801[^birth-janet]
@@ -58,3 +60,5 @@ Children of James and Martha Galbreath, all baptized in Campbeltown:[^children]
 [^jean-death]: Civil Records of Campbeltown Argyll; 1900 GALBRAITH, JEAN (Statutory registers Deaths 507/ 63); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/5311016). "Widow of Robert Kelly shipmaster", 
 
 [^birth-mary2]: OPR Campbeltown record of baptism for [Mary Galbreath](/sources/opr-campbeltown-births.md#1821-03-13-mary-galbreath)
+
+[^ref-campbeltown-book]: Page 41 of the [Campbeltown Book](/sources/campbeltown.md#page-41)
