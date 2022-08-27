@@ -12,6 +12,9 @@ Unfortunately most data is circumstantial
 * The baptism records of the children provide no biographical or geographical details. 
 * The children appeared to have died before 1855 as they do not appear in civil records.
 * No one appears in the [1792 Census](/sources/list-of-inhabitants-upon-the-duke-of-argylls-property-in-kintyre-1792.md)
+* No one in 1841 Census
+* No one in 1851 Census
+* No markers found on Find A Grave.
 
 Children of Archibald and Orsla Galbreath:[^children]
 
