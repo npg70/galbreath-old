@@ -26,6 +26,8 @@ isbn: "0-9545845-0-3"
 > acre of turnips. This was claimed by Jas. Galbraith of Skeroblin who grew
 > one and a half acres.
 
+[James Galbreath](/sources/galbreath-james-abt-1775.md), born ~ 1775, married to Martha Galbreath.
+
 ## Page 62
 
 > The modern shipyard at Trench Point ... built only two fishing boats for
