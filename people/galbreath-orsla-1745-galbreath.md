@@ -11,7 +11,7 @@ Children of Archibald and Orsla Galbreath:[^children]
 
 1. *James Galbreath*, bp. 3 Nov 1773[^james-birth]
 2. *Archibald Galbreath*, bp. 1 Nov 1776[^archibald-birth]
-3. *John Galbraith*, bp. 27 Dec 1779[^john-birth]
+3. *John Galbreath*, bp. 27 Dec 1779[^john-birth]
 
 [^orsla-birth]: OPR Campbeltown, baptism of [Orsla Galbreath](/sources/opr-campbeltown-births.md#1745-09-22-orsla-galbreath)
 
