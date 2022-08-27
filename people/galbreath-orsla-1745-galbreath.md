@@ -7,6 +7,11 @@ baptized 22 Sep 1745 in Campbeltown[^orsla-birth].
 
 She married 22 Dec 1772 in Campbeltown[^orsla-marriage] to **Archibald Galbreath**, perhaps son of [James Galbreath](galbreath-james-1713.md) and Margaret Adam, born in 1743.
 
+Unfortunately most data is circumstantial
+* The marriage record provide no additional details
+* The baptism records of the children provide no biographical or geographical details. 
+* The children appeared to have died before 1855 as they do not appear in civil records.
+
 Children of Archibald and Orsla Galbreath:[^children]
 
 1. *James Galbreath*, bp. 3 Nov 1773[^james-birth]
