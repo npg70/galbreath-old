@@ -5,7 +5,7 @@ familysearch: https://www.familysearch.org/tree/person/details/9M98-LGG
 ***Orsla Galbreath***, daughter of [Patrick Galbreath](galbreath-patrick-1712.md) and *Jean Watson*,
 baptized 22 Sep 1745 in Campbeltown[^orsla-birth].
 
-She married in Campbeltown[^orsla-marriage] to **Archibald Galbreath**.
+She married 22 Dec 1772 in Campbeltown[^orsla-marriage] to **Archibald Galbreath**, perhaps son of [James Galbreath](galbreath-james-1713.md) and Margaret Adam, born in 1743.
 
 Children of Archibald and Orsla Galbreath:[^children]
 
