@@ -116,3 +116,8 @@ From Campbeltown War Memorial, World War 2:
 > GALBRAITH, William John -- Lt. A. & S.H., 14 Smith Drive
 
 
+William John Galbraith, b. 19 Mar 1915, son of William John Galbraith and Janet Spence, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/46762723)
+
+
+
+
