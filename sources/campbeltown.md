@@ -34,7 +34,7 @@ isbn: "0-9545845-0-3"
 > Campbeltown owners... The _Aquarian_ was launched in spring [of 1971] for
 > Archibald Galbraith.
 
-**[Alexander Archibald Galbraith](galbraith-alexander-archibald-1945-allen.md)***, b. 1945, d. 2022, m. Doreen Allen.
+**[Alexander Archibald Galbraith](/people/galbraith-alexander-archibald-1945-allen.md)***, b. 1945, d. 2022, m. Doreen Allen.
 
 Archibald and the ship is listed in [Clyde Ships](http://clydeships.co.uk/view.php?ref=4172), and gives his address as "Carradale".
 
