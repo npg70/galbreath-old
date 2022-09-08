@@ -16,6 +16,7 @@ Isabella birth on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-re
 
 Children of Archibald and Isabella (McKay) Galbraith:
 
+1. *Daneil Galbraith*, b. 29 Oct 1888, m. *Margaret Sinclair McMichael*
 1. *William John McKay Galbraith*, b. 30 Jul 1895, Campbeltown[^wjmg-birth]
 2. *James Duncan Galbraith*, b. 20 Mar 1897, d. 25 Aug 1918 France. [^james-burial]
 3. *Neil Galbraith*, b. 14 Jul 1900[^neil-birth], d. 24 Jul 1974; m. *Elizabeth McMillan*. At least one child *Isobel*.[^neil-burial]
