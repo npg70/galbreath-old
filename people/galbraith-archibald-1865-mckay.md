@@ -1,6 +1,7 @@
 ---
 title: Archibald Galbraith b. 1865 m. Isabella McKay
 findagrave: https://www.findagrave.com/memorial/179352175/archibald-galbraith
+wikitree: https://www.wikitree.com/wiki/Galbraith-2459
 ---
 ***Archibald Galbraith***, son of *[Daniel/Donald Galbraith](galbraith-donald-1831-isabella-mcdermid.md)* and *Isabella McDermid*,
 was born Campbeltown 1 July 1865[^birth],
@@ -16,12 +17,15 @@ Isabella birth on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-re
 
 Children of Archibald and Isabella (McKay) Galbraith:
 
-1. *Daneil Galbraith*, b. 29 Oct 1888, m. *Margaret Sinclair McMichael*
-1. *William John McKay Galbraith*, b. 30 Jul 1895, Campbeltown[^wjmg-birth]
-2. *James Duncan Galbraith*, b. 20 Mar 1897, d. 25 Aug 1918 France. [^james-burial]
-3. *Neil Galbraith*, b. 14 Jul 1900[^neil-birth], d. 24 Jul 1974; m. *Elizabeth McMillan*. At least one child *Isobel*.[^neil-burial]
-4. *Isabella McDermid Galbraith*, b. 7 Oct 1901[^isabella-birth], d. 9 Oct 1967, m. *Neil McMillan*[^isabella-burial]
-5. *Peter Galbraith*, b. 1904, d. 12 Jun 1975[^peter-burial]
+1. *Daniel Galbraith*, b. 29 Oct 1888, m. *Margaret Sinclair McMichael*
+2. *Mary Galbraith*, b. 1890, d. 1970
+3. *Isabella McDermid Galbraith*, b. 7 Oct 1891[^isabella-birth], d. 9 Oct 1967, m. *Neil McMillan*[^isabella-burial]
+4. *Archibald Galbriath*, b. 1893, 
+5. *William John McKay Galbraith*, b. 30 Jul 1895, Campbeltown[^wjmg-birth]
+6. *James Duncan Galbraith*, b. 20 Mar 1897, d. 25 Aug 1918 France. [^james-burial]
+7. *Allen Galbraith*, b. 1899
+8. *Neil Galbraith*, b. 14 Jul 1900[^neil-birth], d. 24 Jul 1974; m. *Elizabeth McMillan*. At least one child *Isobel*.[^neil-burial]
+9. *Peter Galbraith*, b. 1904, d. 12 Jun 1975[^peter-burial]
 
 [^birth]: Statutory records of Campbeltown; 1865 GALBRAITH, ARCHIBALD (Statutory registers Births 507/ 143); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/39836164).
 
