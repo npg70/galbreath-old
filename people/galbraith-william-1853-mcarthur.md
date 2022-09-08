@@ -8,7 +8,9 @@ He married 7 Oct 1879 in Campbeltown[^marriage] to **Elizabeth Sillars McArthur*
 
 Children of William and Elizabeth (McArthur) Galbraith:
 
-1. *William John Galbraith*, b. 3 May 1892[^wj-birth], m. *Jane Spence*
+1. *Janet Galbraith*, b. 1881
+2. *Katherine Sillars Galbraith*, 
+3. *William John Galbraith*, b. 3 May 1892[^wj-birth], m. *Jane Spence*
 
 
 
