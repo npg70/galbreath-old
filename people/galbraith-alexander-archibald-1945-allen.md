@@ -9,6 +9,9 @@ He married in 1971[^marriage] to **Doreen Allen**.
 
 See also notes from [The Campbeltown Book](/sources/campbeltown.md#page-62)
 
+Perhaps the same Archibald involved in the rescue of 10 people from the motor yacht Quesada on the night of 22nd/23rd May, 1966.
+https://lifeboatmagazinearchive.rnli.org/volume/40/419/award-for-scottish-skipper?searchterm=Yacht+Gan&page=691
+
 
 [^birth]: Civil records of Campbeltown; restricted record on [ScotlandsPeople].
 
