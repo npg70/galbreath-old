@@ -123,9 +123,9 @@ From Campbeltown War Memorial, World War 2:
 **William John Galbraith**
 * d. 11 Jul 1944, Assam India. "x 2n Lt. (W.S./Lt.) The Argyll and Sutherland Highlanders, Age 29. Killed due to wounds in action"  [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/9805908?return_row=19)
 * b. 19 Mar 1915, son of William John Galbraith and Janet Spence, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/46762723).
+* 
 * They married in 1914.  William was the son of William Galbraith and Elizabeth McArthur (according the marriage record on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/3123703)
-* William Galbraith and & Elizabeth mcArthur, married 7 Oct 1879, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/9747677?return_row=1)
-* Son of John Galbraith (distillery workman) and Janet Watson
+* [William Galbraith](/people/galbraith-william-1853-mcarthur.md) and & Elizabeth McArthur
 
 
 
