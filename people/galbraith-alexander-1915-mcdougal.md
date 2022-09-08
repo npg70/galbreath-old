@@ -8,7 +8,7 @@ He married **Marion Torrance Semple McDougall**.
 
 Children of Alexander and Marion (McDougall) Galbraith:
 
-1. *Alexander Archibald Galbraith*, b. 1945, d. 2022. m. *Dorren Allen*
+1. *Alexander Archibald Galbraith*, b. 1945, d. 2022. m. *Doreen Allen*
 
 Other children TBD.
 
