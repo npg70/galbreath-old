@@ -6,7 +6,7 @@ findagrave: https://www.findagrave.com/memorial/172200084/alexander-galbraith
 ***Alexander Galbraith***, son of *[Alexander Galbraith](galbraith-alexander-1887.md)* and *Eliza Tina Campbell*,
 b. 1 Jun 1914, d. 2 Jan 2000.[^burial]
 
-He married **Marion Torrance Semple McDougall**.
+He married **Marion Torrance Semple MacDougall**.
 
 Children of Alexander and Marion (McDougall) Galbraith:
 
