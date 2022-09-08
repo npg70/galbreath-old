@@ -7,6 +7,8 @@ born in 1945.  He died in 2022.[^death][^obit]
 
 He married in 1971[^marriage] to **Doreen Allen**.
 
+See also notes from [The Campbeltown Book](/sources/campbeltown.md#page-62)
+
 
 [^birth]: TBD.
 
