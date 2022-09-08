@@ -15,8 +15,8 @@ He married in 1971[^marriage] to **Doreen Allen**.
 [^death]: Civil records of Campbeltown;  [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=People&surname=galbraith&forename=alexander&forename_so=starts&from_year=2022&to_year=&surname_so=exact&record_type=stat_deaths).  A restricted record missing exact day, but says mothers maiden name was "MCDOUGALL"
 
 [^obit]: Obit: [Campbeltown Courier](https://www.campbeltowncourier.co.uk/2022/02/04/announcements-february-4-2022/)
-> Annoucements Feburary 4 2022
->
-> GALBRAITH – Peacefully at home, Dunolly, Carradale, on January 25, 2022, Alexander Galbraith (Sandy) in his 77th year,
-> a very beloved husband of Doreen, much loved dad of Lesley, Linda and Alex, loving papa of Lara, Carly, Alex, Cameron, Connor, Emma and James.
-> 
+    > Annoucements Feburary 4 2022
+    >
+    > GALBRAITH – Peacefully at home, Dunolly, Carradale, on January 25, 2022, Alexander Galbraith (Sandy) in his 77th year,
+    > a very beloved husband of Doreen, much loved dad of Lesley, Linda and Alex, loving papa of Lara, Carly, Alex, Cameron, Connor, Emma and James.
+
