@@ -1,5 +1,5 @@
 ---
-title: Alexander Archibald Galbraith b. m. Doreen Allen
+title: Alexander Archibald Galbraith b. 1945 m. Doreen Allen
 familysearch: XXX
 ---
 ***Alexander Archibald Galbraith***, son of [Alexander Galbraith](galbraith-alexander-1915-mcdougal.md) and *Mary McDougal*,
