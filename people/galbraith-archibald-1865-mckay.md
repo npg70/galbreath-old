@@ -19,7 +19,7 @@ Children of Archibald and Isabella (McKay) Galbraith:
 1. *William John McKay Galbraith*, b. 30 Jul 1895, Campbeltown[^wjmg-birth]
 2. *Neil Galbraith*, b. 14 Jul 1900[^neil-birth]
 3. *Isabella McDermid Galbraith*, b. 7 Oct 1901[^isabella-birth]
-4. *Peter Galbraith*, b. 1904
+4. *Peter Galbraith*, b. 1904, d. 12 Jun 1975[^peter-burial]
 
 [^birth]: Statutory records of Campbeltown; 1865 GALBRAITH, ARCHIBALD (Statutory registers Births 507/ 143); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/39836164).
 
@@ -34,4 +34,6 @@ Children of Archibald and Isabella (McKay) Galbraith:
 [^isabella-birth]: Statutory records of Campbeltown; 1891 GALBRAITH, ISABELLA MCDERM (Statutory registers Births 507/ 269); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/43317231)
 
 [^wjmg-birth]: Statutory records of Campbeltown; 1895 GALBRAITH, WILLIAM JOHN MC (Statutory registers Births 507/ 211); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/43796501)
+
+[^peter-burial]: Find a Grave, database and images (https://www.findagrave.com/memorial/179352225/peter-galbraith: accessed 08 September 2022), memorial page for Peter Galbraith (1904–12 Jun 1975), Find a Grave Memorial ID 179352225, citing Kilkerran Cemetery, Campbeltown, Argyll and Bute, Scotland; Maintained by Pixturmn (contributor 47729036) 
 
