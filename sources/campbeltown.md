@@ -34,13 +34,13 @@ isbn: "0-9545845-0-3"
 > Campbeltown owners... The _Aquarian_ was launched in spring [of 1971] for
 > Archibald Galbraith.
 
+**[Alexander Archibald Galbraith](galbraith-alexander-archibald-1945-allen.md)***, b. 1945, d. 2022, m. Doreen Allen.
+
 Archibald and the ship is listed in [Clyde Ships](http://clydeships.co.uk/view.php?ref=4172), and gives his address as "Carradale".
 
 It appears the holding company was "Ocean Shells", and the director was "Alexander Archibald Galbraith", born in Oct 1945, according to [Check Company](http://www.checkcompany.co.uk/director/6130352/ALEXANDER-ARCHIBALD-GALBRAITH)
 
 Looks like Archibald was part of rescue operation, [Scotland's Cruel Sea](https://www.google.com/books/edition/Scotland_s_Cruel_Sea/eX8vBgAAQBAJ?hl=en&gbpv=1&bsq=%20Galbraith)
-
-Maybe the son of  [Alexander Galbraith b. 1915](/people/galbraith-alexander-1915-mcdougal.md)
 
 ## Page 78
 
