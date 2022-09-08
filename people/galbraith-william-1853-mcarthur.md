@@ -11,7 +11,7 @@ Children of William and Elizabeth (McArthur) Galbraith:
 1. *Janet Galbraith*, b. 12 Sep 1881
 2. *Elizabeth Galbraith*, b. 1887
 3. *Katherine Sillars Galbraith*, b. 21 Jun 1889; d. 22 May 1970, Sioux City, Woodbury, Iowa, USA; m. *Berthel Edward Anderson*.  [^catherine-burial]
-5. *William John Galbraith*, b. 3 May 1892[^wj-birth], m. *Jane Spence*
+5. *[William John Galbraith](galbraith-william-john-1892-spence.md)*, b. 3 May 1892[^wj-birth], m. *Jane Spence*
 6. *Agnes Galbraith*, 1899
 
 
