@@ -1,6 +1,6 @@
 ---
 title: William John Galbraith b. 1892 m. Jane Spence
-familysearch: XXX
+familysearch: https://www.familysearch.org/tree/person/details/GF5Z-6SP
 ---
 ***William John Galbraith***, son of *[William Galbraith](galbraith-william-1853-mcarthur.md)* and *Elizabeth McArthur*,
 was born 3 May 1892[^birth] and died in 1984[^death]
