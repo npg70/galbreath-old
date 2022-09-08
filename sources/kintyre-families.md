@@ -227,8 +227,8 @@ He is listed in 1851 Census as being "5M", so 1850 or 1851.   But all subsequent
 
 * [William G-](/people/galbraith-william-1833.md) (bother), jeweller/watchmaker, d. 1915, age 81.  Already mentioned, but the arson/theft/attempted murder story is good.
 
-* Archibald Alexander Galbraith, also nicknamed Sandy, and great-grandson of the other Archibald Sandy, and son of Alexander and Marion (McDougall) Galbraith.  *If I got this correct.*
-    * b. 1945, d. 2022. m. Doreen Allen in 1971
+* [Archibald Alexander Galbraith](/people/galbraith-alexander-archibald-1945-allen.md), also nicknamed Sandy, and great-grandson of the other Archibald Sandy, and son of Alexander and Marion (McDougall) Galbraith.  *If I got this correct.*
+    * b. 1945, d. 25 Jan 2022. m. Doreen Allen in 1971
     * Campbeltown Courier Obit:
         > Annoucements Feburary 4 2022
         > GALBRAITH – Peacefully at home, Dunolly, Carradale, on January 25, 2022, Alexander Galbraith (Sandy) in his 77th year, a very   beloved husband of Doreen, much loved dad of Lesley, Linda and Alex, loving papa of Lara, Carly, Alex, Cameron, Connor, Emma and James.
