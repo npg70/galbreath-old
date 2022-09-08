@@ -1,0 +1,15 @@
+---
+title: Alexander Archibald Galbraith b. m. Doreen Allen
+familysearch: XXX
+---
+***Alexander Archibald Galbraith***, son of [Alexander Galbraith](galbraith-alexander-1915-mcdougal.md) and *Mary McDougal*,
+born in 1945.  He died in 2022.[^obit]
+
+He married in 1971[^marriage] to **Doreen Allen**.
+
+
+[^birth]: TBD.
+
+[^marriage]: Civil records of Campbeltown; Marriage in 1971 to **Doreen Inglis[h?] Allen**, on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&dl_cat=statutory&dl_rec=statutory-marriages&surname=Galbraith&surname_so=exact&forename=Alexander%20A&forename_so=exact&spsurname_so=exact&spforename_so=starts&sex=M&from_year=1971&to_year=1971&county=ARGYLL&rd_real_name%5B0%5D=ARGYLL%20AND%20BUTE%20%28CAMPBELTOWN%29%20OR%20CAMPBELTOWN%20%28LANDWARD%29%20OR%20CAMPBELTOWN%20%28BURGH%29%20OR%20CAMPBELTOWN&rd_display_name%5B0%5D=ARGYLL%20AND%20BUTE%20%28CAMPBELTOWN%29%7CCAMPBELTOWN%20%28LANDWARD%29%7CCAMPBELTOWN%20%28BURGH%29%7CCAMPBELTOWN_CAMPBELTOWN&rdno%5B0%5D=ARGYLL%20AND%20BUTE%20%2ACAMPBELTOWN%2A%20OR%20CAMPBELTOWN%20%2ALANDWARD%2A%20OR%20CAMPBELTOWN%20%2ABURGH%2A%20OR%20CAMPBELTOWN&record_type=stat_marriages) (restricted)
+
+[^obit]: TBD
