@@ -2,7 +2,7 @@
 title: Alexander Archibald Galbraith b. 1945 m. Doreen Allen
 familysearch: XXX
 ---
-***Alexander Archibald Galbraith***, son of [Alexander Galbraith](galbraith-alexander-1915-mcdougal.md) and *Mary McDougal*,
+***Alexander Archibald Galbraith***, son of [Alexander Galbraith](galbraith-alexander-1914-mcdougal.md) and *Mary McDougal*,
 born in 1945.  He died in 25 Jan 2022.[^death][^obit]
 
 He married in 1971[^marriage] to **Doreen Allen**.
