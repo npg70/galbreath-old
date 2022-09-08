@@ -115,8 +115,11 @@ From Campbeltown War Memorial, World War 2:
 > 
 > GALBRAITH, William John -- Lt. A. & S.H., 14 Smith Drive
 
-
-William John Galbraith, b. 19 Mar 1915, son of William John Galbraith and Janet Spence, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/46762723).  They married in 1914.  William was the son of William Galbraith and Elizabeth McArthur (according the marriage record on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/3123703)
+**Daniel Galbraith**
+    * Died "W/O 1344926 102 Sqdn", Age 22, died 16 Jan 1945, near Langensheim, Germany, Air Operations  [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/9827996?return_row=24)
+    * Born 1923, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=People&surname=Galbraith&forename=Dan&forename_so=starts&from_year=1922&to_year=1924&surname_so=exact&record_type=stat_births)   records should be released in 2023 or 2024.
+    
+**William John Galbraith**, b. 19 Mar 1915, son of William John Galbraith and Janet Spence, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/46762723).  They married in 1914.  William was the son of William Galbraith and Elizabeth McArthur (according the marriage record on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/3123703)
 
 
 
