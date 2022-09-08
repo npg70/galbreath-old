@@ -1,5 +1,6 @@
 ---
 title: Alexander Galbraith b. 1914 m. McDougall
+familysearch: https://www.familysearch.org/tree/person/details/G8CD-K58
 ---
 ***Alexander Galbraith***, son of *[Alexander Galbraith](galbraith-alexander-1887.md)* and *Eliza Tina Campbell*,
 b. 1 Jun 1914, d. 2 Jan 2000.
