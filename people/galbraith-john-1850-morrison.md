@@ -2,7 +2,7 @@
 title: John Galbraith b. 1850 m. Maggie Morrison
 familysearch: https://www.familysearch.org/tree/person/details/K4XX-PNH
 ---
-***John Galbraith***, son of *[Duncan Galbraith](galbreath-duncan-1815-mcfater.md)* and *Catherine McFater*, based 5 May 1850 in Campbeltown.[^birth].  He died in Xxx[^death]
+***John Galbraith***, son of *[Duncan Galbraith](galbreath-duncan-1815-mcfater.md)* and *Catherine McFater*, based 5 May 1850 in Campbeltown.[^birth].  He died in 20 Feb 1898.[^death]
 
 He married XX 1881[^marriage] to **Maggie Morrison**.
 
