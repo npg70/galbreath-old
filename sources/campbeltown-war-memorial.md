@@ -9,7 +9,7 @@ From the [Campbeltown Courier](https://www.campbeltowncourier.co.uk/2022/08/04/h
 
 > Before family members laid their wreaths at the foot of the memorial in 1922, the first wreath was placed by Mrs Archibald Galbraith, two of whose sons were included in the fallen. This was followed by a march past of ex-servicemen.
 
-Would appear to be Margaret McCallum whose sons Archibald and Donald died.
+Would appear to be [Margaret McCallum](/people/galbraith-archibald-1856-mccallum.md) whose sons Archibald and Donald died.
 
 ## World War I
 
