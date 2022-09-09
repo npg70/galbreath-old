@@ -91,11 +91,9 @@ continues on next page
 
 Starts on 2/20.. has multiple blank pages, then continues on 23.
 
-TBD: DUNCAN GALBRAITH/CATHARINE MCFAYTER
-
 | Name             | Relation | Age  | Occupation | Birthplace   |
 |------------------|----------|------|------------|--------------|
-| Duncan Galbraith | Head     | 31   | Farm Laborer | Killean    |
+| [Duncan Galbraith](/people/galbreath-duncan-1815-mcfater.md) | Head     | 31   | Farm Laborer | Killean    |
 | Catherine Galbraith [McFayter] | Wife  | 29   |            |  Killean     |
 | Peggt McFalter    | Visitor   | 37  |           | Killean      |
 | Archibald Galbraith | Son   | 5    |            | Killean      |
