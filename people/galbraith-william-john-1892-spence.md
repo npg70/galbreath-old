@@ -9,7 +9,7 @@ He married 20 Nov 1914[^marriage] to **Jane Spence**.
 
 Children of William and Jane (Spence) Galbraith:
 
-1. *William John Galbraith (jr)*, b. 19 Mar 1915[^wjg-birth]. d. 11 Jul 1944, Assam India. "x 2n Lt. (W.S./Lt.) The Argyll and Sutherland Highlanders, Age 29. Killed due to wounds in action.[^wjg-death]  Mentioned in the [Campbeltown Book](/sources/campbeltown.md#page-365)
+1. *William John Galbraith (jr)*, b. 19 Mar 1915[^wjg-birth]. d. 11 Jul 1944, Assam India. "x 2n Lt. (W.S./Lt.) The Argyll and Sutherland Highlanders, Age 29. Killed due to wounds in action.[^wjg-death]  Mentioned in the [Campbeltown Book](/sources/campbeltown.md#page-365) and the [Campbeltown War Memorial](/sources/campbeltown-war-memorial.md)
 
 [^birth]: Civil records of Campbeltown; 1892 GALBRAITH, WILLIAM JOHN (Statutory registers Births 507/ 134); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/43434921)
 
