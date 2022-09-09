@@ -2,7 +2,7 @@
 title: Duncan Galbreath b 1815 m. Catherine McFater
 familysearch: https://www.familysearch.org/tree/person/details/M1TZ-CG7
 ---
-***Duncan Galbreath***, son of [Archibald Galbreath](/people/galbreath-archibald-1775.md) and Jean Black, was baptized at Killean and Kilchenzie 7 Oct 1815, and died at Campbeltown 17 Mar 1880.[^duncan-death]
+***Duncan Galbreath***, son of *[Archibald Galbreath](/people/galbreath-archibald-1775.md)* and *Jean Black*, was baptized at Killean and Kilchenzie 7 Oct 1815, and died at Campbeltown 17 Mar 1880.[^duncan-death]
 
 He married 12 Dec 1844 at Killean and Kilchenzie[^marriage] to **Catherine McFater**.
 
