@@ -22,7 +22,7 @@ Children of Archibald and Isabella (McKay) Galbraith:
 3. *Isabella McDermid Galbraith*, b. 7 Oct 1891[^isabella-birth], d. 9 Oct 1967, m. *Neil McMillan*[^isabella-burial]
 4. *Archibald Galbriath*, b. 1893, 
 5. *William John McKay Galbraith*, b. 30 Jul 1895, Campbeltown[^wjmg-birth]
-6. *James Duncan Galbraith*, b. 20 Mar 1897, d. 25 Aug 1918 France. [^james-burial]
+6. *James Duncan Galbraith*, b. 20 Mar 1897, d. 25 Aug 1918 France. [^james-burial]. Honored in the [Campbeltown War Memorial](/sources/campbeltown-war-memorial.md)
 7. *Allen Galbraith*, b. 1899
 8. *Neil Galbraith*, b. 14 Jul 1900[^neil-birth], d. 24 Jul 1974; m. *Elizabeth McMillan*. At least one child *Isobel*.[^neil-burial]
 9. *Peter Galbraith*, b. 1904, d. 12 Jun 1975[^peter-burial]
