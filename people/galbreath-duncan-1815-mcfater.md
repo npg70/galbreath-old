@@ -3,11 +3,12 @@ title: Duncan Galbreath b 1815 m. Catherine McFater
 ---
 ***Duncan Galbreath***, son of [Archibald Galbreath](/people/galbreath-archibald-1775.md) and Jean Black, was baptized at Killean and Kilchenzie 7 Oct 1815, and died at Campbeltown 17 Mar 1880.[^duncan-death]
 
+He married 12 Dec 1844 at Killean and Kilchenzie to Catherine McFater.
 
 Children of Duncan and Catherine (McFater) Galbreath, all in Campbeltown:
 
 1. *Angus Galbreath*, bp. 19 Mar 1848[^angus-birth], d. unmarried.[^angus-death]
-2. *John Galbraith*, bp. 5 Mar 1850[^john-birth], m. *Maggie Morrison*[^john-death]
+2. *[John Galbraith](galbraith-john-1850-morrison.md)*, bp. 5 Mar 1850[^john-birth], m. *Maggie Morrison*[^john-death]
     1. *Archibald Galbraith*, b. 9 Apr 1889 [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/42980643) 
     2. *Kate Galbraith*, b. 4 Apr 1891 [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/43281002)
     3. *Dan Galbraith*, b. 1894 [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/43648925) 
