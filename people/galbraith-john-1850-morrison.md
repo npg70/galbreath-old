@@ -14,6 +14,7 @@ Children of John and Maggie (Morrison) Galbraith:
 4. *Archibald Galbraith*, b. 9 Apr 1889 [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/42980643) 
 5. *Kate Galbraith*, b. 4 Apr 1891 [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/43281002)
 6. *Dan Galbraith*, b. 1894 [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/43648925) 
+7. *Andrew Jamieson Galbraith*, b. 1898
 
 [^birth]: OPR Campbeltown, baptism of [John Galbraith](/sources/opr-campbeltown-births.md#1850-05-05-john-galbraith)
 
