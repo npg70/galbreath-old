@@ -15,7 +15,7 @@ Children of John and Maggie (Morrison) Galbraith:
 5. *Kate Galbraith*, b. 4 Apr 1891[^kate-birth]
 6. *Dan Galbraith*, b. 1894[^dan-birth]; d. 25 Apr 1917, France
 7. *Jane Galbraith*, b. 1896
-8. *Andrew Jamieson Galbraith*, b. 14 Jul 1898; d. 16 May 1918 France
+8. *Andrew Jamieson Galbraith*, b. 14 Jul 1898[^aj-birth]; d. 16 May 1918 France
 
 [^birth]: OPR Campbeltown, baptism of [John Galbraith](/sources/opr-campbeltown-births.md#1850-05-05-john-galbraith)
 
@@ -28,3 +28,5 @@ Children of John and Maggie (Morrison) Galbraith:
 [^kate-birth]: Civil records of Campbeltown; [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/43281002)
 
 [^dan-birth]: Civil records of Campbeltown; ; [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/43648925) 
+
+[^aj-birth]: Civil records of Campbeltown; 1898 GALBRAITH, ANDREW JAMIESON (Statutory registers Births 507/ 157); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/44222018)
