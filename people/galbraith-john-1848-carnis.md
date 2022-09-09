@@ -19,7 +19,7 @@ Children of John and Helen (Carnis) Galbraith:
 4. *Alexander Cook Galbraith*, b. 11 Apr 1879, Saddell, d. 21 Dec 1952 Carradale, m. Flora Mitchell.  unlikely to have children
 5. *Helen Mary Galbraith*, b. 1881
 6. *Archibald Cairn Galbraith*, b. 1883
-7. *Neil Galbraith*, b. 1886 Carradale,  d. 21 May 1915 France
+7. *Neil Galbraith*, b. 1886 Carradale,  d. 21 May 1915 France, honored in [Campbeltown War Memorial](/sources/campbeltown-war-memorial.md)
 8. *Janet Galbraith*, 1889–Deceased 
 9. *Margaret Cook Galbraith*, b. 1890–Deceased
 10. *Alice Cairns Galbraith*, b. 1892
