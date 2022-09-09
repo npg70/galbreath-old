@@ -11,9 +11,9 @@ Children of John and Maggie (Morrison) Galbraith:
 1. *Maggie Galbraith*, b.
 2. *Duncan Galbraith*, b.
 3. *John Galbraith*, b.
-4. *Archibald Galbraith*, b. 9 Apr 1889
-5. *Kate Galbraith*, b. 4 Apr 1891
-6. *Dan Galbraith*, b. 1894
+4. *Archibald Galbraith*, b. 9 Apr 1889[^archibald-birth]
+5. *Kate Galbraith*, b. 4 Apr 1891[^kate-birth]
+6. *Dan Galbraith*, b. 1894[^dan-birth]
 7. *Jane Galbraith*, b. 1896
 8. *Andrew Jamieson Galbraith*, b. 1898
 
