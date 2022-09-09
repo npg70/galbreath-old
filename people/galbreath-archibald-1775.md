@@ -1,5 +1,6 @@
 ---
 title: Archibald Galbreath b. ~1775 m. Jean Black
+familysearch: https://www.familysearch.org/tree/person/details/K8VW-HKP
 ---
 ***Archibald Galbreath***, of unknown origin, was born say 1775.  He married 23 Jul 1800 Killean and Kilchenzie[^marriage] to 
 **Jean Black**.
