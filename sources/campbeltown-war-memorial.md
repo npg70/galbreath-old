@@ -18,3 +18,4 @@ The best source is the one on [Wikitree](https://www.wikitree.com/wiki/Space:Cam
 
 - Galbraith Daniel Royal Air Force W.O.
 - Galbraith William J. Argyll & Sutherland Highlanders Lieutenant
+    - William John Galbraith, son of [William John Galbraith](/people/galbraith-william-john-1892-spence.md) and Janet Spence
