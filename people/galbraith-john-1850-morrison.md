@@ -8,6 +8,7 @@ He married XX 1881[^marriage] to **Maggie Morrison**.
 
 Children of John and Maggie (Morrison) Galbraith:
 
+1. *Maggie Galbraith*
 1. *Archibald Galbraith*, b. 9 Apr 1889 [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/42980643) 
 2. *Kate Galbraith*, b. 4 Apr 1891 [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/43281002)
 3. *Dan Galbraith*, b. 1894 [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/43648925) 
