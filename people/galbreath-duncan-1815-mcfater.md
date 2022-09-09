@@ -6,6 +6,8 @@ familysearch: https://www.familysearch.org/tree/person/details/M1TZ-CG7
 
 He married 12 Dec 1844 at Killean and Kilchenzie[^marriage] to **Catherine McFater**.
 
+In the 1851 Census, he was listed as a farm laborer.[^census1851]
+
 Children of Duncan and Catherine (McFater) Galbreath, all in Campbeltown unless noted:
 
 1. *Archibald Galbraith*, bp. 4 May 1846, Killean and Kilchenzie[^archibald-birth]
@@ -35,3 +37,5 @@ Children of Duncan and Catherine (McFater) Galbreath, all in Campbeltown unless 
 [^john-marriage]: 1881 GALBRAITH, JOHN (Statutory registers Marriages 507/ 3), [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/3386032)
 
 [^catharine-birth]: OPR Campbeltown, baptism of [Catharine Galbraith](/sources/opr-campbeltown-births.md#1853-04-05-catharine-galbraith)
+
+[^census1851]: Census of 1851, Household of [Duncan Galbraith](/sources/scotland-census-1851-campbeltown.md#507-2-23)
