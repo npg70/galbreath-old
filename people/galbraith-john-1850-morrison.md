@@ -21,7 +21,7 @@ Children of John and Maggie (Morrison) Galbraith:
 
 [^death]:  Civil Records of Campbeltown, Argyll; [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/5028407)
 
-[^marriage]: 1881 GALBRAITH, JOHN (Statutory registers Marriages 507/ 3), [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/3386032)
+[^marriage]: Civil records of Campbeltown; 1881 GALBRAITH, JOHN (Statutory registers Marriages 507/ 3); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/3386032).  Note that marriage was registered in 1881.
 
 [^archibald-birth]: Civil records of Campbeltown; [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/42980643) 
 
