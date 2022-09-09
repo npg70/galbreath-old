@@ -2376,7 +2376,10 @@ TBD: [WILLIAM GALBRAITH](/people/galbraith-william-1815.md)/GRACE GLASS
 
 ## 1853-04-05 Catharine Galbraith
 
-TBD: DUNCAN GALBRAITH/CATHARINE MCPATON
+[05/04/1853 GALBRAITH, CATHARINE (Old Parish Registers Births 507/ 70 412 Campbeltown) Page 412 of 449](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/1526?image=412)
+
+> Catharine | Lawful Daughter of **Duncan Galbraith** Distillery-man [workman] & **Catharine McPaton**
+> was born 22nd February and baptized 5th April 1853
 
 ## 1853-07-10 Margaret Galbraith
 
