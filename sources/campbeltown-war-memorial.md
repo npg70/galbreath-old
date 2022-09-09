@@ -8,6 +8,7 @@ The best source is the one on [Wikitree](https://www.wikitree.com/wiki/Space:Cam
 
 
 - Galbraith A.J. Machine Gun Corps Private
+    - Andrew Jameison Galbraith, son of [John Galbraith](/people/galbraith-john-1850-morrison.md) and Maggie Morrison.
 - Galbraith Archibald Argyle & Sutherland Highlanders L/Sergeant
 - Galbraith Daniel Highland Light Infantry Private
 - Galbraith Donald Argyle & Sutherland Highlanders Private
