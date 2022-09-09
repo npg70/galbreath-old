@@ -17,6 +17,12 @@ The best source is the one on [Wikitree](https://www.wikitree.com/wiki/Space:Cam
     - Son of Archibald Galbreath and Margaret McCallum
 - Galbraith James D. McD. Argyle & Sutherland Highlanders Private
     - James Duncan Galbraith, son of [Archibald Galbraith](/people/galbraith-archibald-1865-mckay.md) and Isabella McKay. 
+- Galbraith Malcolm Royal Scots Private
+- Galbraith Malcolm Canadians Private
+- Galbraith Neil Canadians Private
+    - Son of [John Galbraith](/people/galbraith-john-1848-carnis.md) and Helen Carnis
+
+Info on the Malcolms on [cwgc.org](https://www.cwgc.org/find-records/find-war-dead/search-results/?Surname=Galbraith&SurnameExact=true&Forename=Malcolm&ForenameExact=true&Initials=&ServiceNum=&Regiment=&CountryCommemoratedIn=null&Cemetery=&Unit=&Rank=&SecondaryRegiment=&AgeOfDeath=0&DateDeathFromDay=1&DateDeathFromMonth=January&DateDeathFromYear=&DateDeathToDay=1&DateDeathToMonth=January&DateDeathToYear=&DateOfDeath=&Honours=null&AdditionalInfo=).  From outside of Campbeltown area.
 
 ## World War 2
 
