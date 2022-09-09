@@ -5,17 +5,21 @@ title: Duncan Galbreath b 1815 m. Catherine McFater
 
 He married 12 Dec 1844 at Killean and Kilchenzie to Catherine McFater.
 
-Children of Duncan and Catherine (McFater) Galbreath, all in Campbeltown:
+Children of Duncan and Catherine (McFater) Galbreath, all in Campbeltown unless noted:
 
+1. *Archibald Galbraith*, bp. 4 May 1846, Killean and Kilchenzie[^archibald-birth]
 1. *Angus Galbreath*, bp. 19 Mar 1848[^angus-birth], d. unmarried.[^angus-death]
 2. *[John Galbraith](galbraith-john-1850-morrison.md)*, bp. 5 Mar 1850[^john-birth], m. *Maggie Morrison*[^john-death]
     1. *Archibald Galbraith*, b. 9 Apr 1889 [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/42980643) 
     2. *Kate Galbraith*, b. 4 Apr 1891 [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/43281002)
     3. *Dan Galbraith*, b. 1894 [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/43648925) 
 3. *Catharine Galbraith*, bp. 5 Apr 1853[^catharine-birth]
+4. *Jean Galbraith*, b. 1855
 
 
 [^duncan-death]: Civil Records of Campbeltown, Argyll; 1880 GALBRAITH, DUNCAN (Statutory registers Deaths 507/ 57) on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/2239855). Listed as a "distillery workman, married to Catharne McP???", listed father as a "shoemaker", and John Galbraith, son, present.
+
+[^archibald-birth]: OPR Killean and Kilchenzie; 04/05/1846 GALBREATH, ARCHIBALD (Old Parish Registers Births 519/ 20 161 Killean and Kilchenzie) Page 161 of 275;[ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357271?image=161)
 
 [^angus-birth]: OPR Campbeltown, baptism of [Angus Galbreath](/sources/opr-campbeltown-births.md#1848-03-19-angus-galbreath)
 
