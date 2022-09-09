@@ -98,7 +98,7 @@ Starts on 2/20.. has multiple blank pages, then continues on 23.
 | Peggt McFalter    | Visitor   | 37  |           | Killean      |
 | Archibald Galbraith | Son   | 5    |            | Killean      |
 | Agnus Galbraith     | Son   | 3    |            | Campbeltown  |
-| John Galbraith      | Son   | 4m   |            | Campbeltown  |
+| [John Galbraith](/people/galbraith-john-1850-morrison.md') | Son   | 4m   |            | Campbeltown  |
 
 ## 507-2-25
 
