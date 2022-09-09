@@ -13,9 +13,6 @@ Children of Duncan and Catherine (McFater) Galbreath, all in Campbeltown unless 
 1. *Archibald Galbraith*, bp. 4 May 1846, Killean and Kilchenzie[^archibald-birth]
 1. *Angus Galbreath*, bp. 19 Mar 1848[^angus-birth], d. unmarried.[^angus-death]
 2. *[John Galbraith](galbraith-john-1850-morrison.md)*, bp. 5 Mar 1850[^john-birth], m. *Maggie Morrison*[^john-death]
-    1. *Archibald Galbraith*, b. 9 Apr 1889 [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/42980643) 
-    2. *Kate Galbraith*, b. 4 Apr 1891 [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/43281002)
-    3. *Dan Galbraith*, b. 1894 [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/43648925) 
 3. *Catharine Galbraith*, bp. 5 Apr 1853[^catharine-birth]
 4. *Jean Galbraith*, b. 1855
 
