@@ -3,8 +3,7 @@ title: Archibald Galbraith b. 1858 m. Margaret McCallum
 familysearch: https://www.familysearch.org/tree/person/details/M1BQ-K4S
 findagrave: https://www.findagrave.com/memorial/161421341/archibald-galbraith
 ---
-***Archibald Galbraith***
-
+***Archibald Galbraith***, son of *Donald Galbraith* and *Margaret McNeil*, was born 24 Apr 1856 at Killean and Kilchenzie.  He died 28 Apr 1936.
 
 He married 30 January 1885 at Killean and Kilchenzie to **Margaret McCallum**.
 
