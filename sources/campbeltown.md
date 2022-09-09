@@ -109,7 +109,7 @@ From [Google Maps](https://goo.gl/maps/6NDDFRmokQXXab288), Polliwilline Farm is 
 
 ## Page 365
 
-From Campbeltown War Memorial, World War 2:
+From [Campbeltown War Memorial](/sources/campbeltown-war-memorial.md), World War 2:
 
 > GALBRAITH, Daniel -- W/O R.A.F.V.R., 19 Victoria Place
 > 
