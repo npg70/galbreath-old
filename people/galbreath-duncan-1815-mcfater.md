@@ -12,7 +12,7 @@ Children of Duncan and Catherine (McFater) Galbreath, all in Campbeltown:
     1. *Archibald Galbraith*, b. 9 Apr 1889 [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/42980643) 
     2. *Kate Galbraith*, b. 4 Apr 1891 [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/43281002)
     3. *Dan Galbraith*, b. 1894 [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/43648925) 
-3. *Catharine Galbraith*, bp. 5 April 1853[^catharine-birth]
+3. *Catharine Galbraith*, bp. 5 Apr 1853[^catharine-birth]
 
 
 [^duncan-death]: Civil Records of Campbeltown, Argyll; 1880 GALBRAITH, DUNCAN (Statutory registers Deaths 507/ 57) on [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/2239855). Listed as a "distillery workman, married to Catharne McP???", listed father as a "shoemaker", and John Galbraith, son, present.
@@ -27,4 +27,4 @@ Children of Duncan and Catherine (McFater) Galbreath, all in Campbeltown:
 
 [^john-marriage]: 1881 GALBRAITH, JOHN (Statutory registers Marriages 507/ 3), [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/3386032)
 
-[^catharine-birth]: OPR Campbeltown, baptism of [Catharine Galbraith]()
+[^catharine-birth]: OPR Campbeltown, baptism of [Catharine Galbraith](/sources/opr-campbeltown-births.md#1853-04-05-catharine-galbraith)
