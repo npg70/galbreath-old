@@ -2324,7 +2324,10 @@ TBD: [DAVID GALBRAITH](/people/galbreath-david-1819.md)/CATHARINE MCKINNON
 
 ## 1850-05-05 John Galbraith
 
-TBD: **[Duncan Galbreath](/people/galbreath-duncan-1815-mcfater.md)** / CATHARINE MCFAYTER
+[05/05/1850 GALBRAITH, JOHN (Old Parish Registers Births 507/ 70 368 Campbeltown) Page 368 of 449](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/1061?image=368)
+
+> John | Lawful Son of  **[Duncan Galbreath](/people/galbreath-duncan-1815-mcfater.md)** Maltster &
+> **Catharine McFayter**, born 21st April & baptized 5th May 1850
 
 ## 1850-05-26 Jane Galbraith
 
