@@ -17,11 +17,11 @@ Would appear to be Margaret McCallum whose sons Archibald and Donald died.
 - Galbraith A.J. Machine Gun Corps Private
     - Andrew Jameison Galbraith, son of [John Galbraith](/people/galbraith-john-1850-morrison.md) and Maggie Morrison.
 - Galbraith Archibald Argyle & Sutherland Highlanders L/Sergeant
-    - son of Archibald Galbraith and Margaret McCallum. 
+    - son of [Archibald Galbraith](/people/galbraith-archibald-1856-mccallum.md) and Margaret McCallum. 
 - Galbraith Daniel Highland Light Infantry Private
     - Dan Galbraith, son of [John Galbraith](/people/galbraith-john-1850-morrison.md) and Maggie Morrison. 
 - Galbraith Donald Argyle & Sutherland Highlanders Private
-    - Son of Archibald Galbreath and Margaret McCallum
+    - Son of [Archibald Galbreath](/people/galbraith-archibald-1856-mccallum.md) and Margaret McCallum
 - Galbraith James D. McD. Argyle & Sutherland Highlanders Private
     - James Duncan Galbraith, son of [Archibald Galbraith](/people/galbraith-archibald-1865-mckay.md) and Isabella McKay. 
 - Galbraith Malcolm Royal Scots Private
