@@ -237,3 +237,17 @@ He is listed in 1851 Census as being "5M", so 1850 or 1851.   But all subsequent
     * Perhaps the same Archibald involved in the rescue of 10 people from the motor yacht Quesada on the night of 22nd/23rd May, 1966.
 https://lifeboatmagazinearchive.rnli.org/volume/40/419/award-for-scottish-skipper?searchterm=Yacht+Gan&page=691
 
+* [Archibald Galbreath](/people/galbraith-archibald-1856-mccallum.md) son of *Donald Galbraith* and *Margaret McNeil*, was born 24 Apr 1856 at Killean and Kilchenzie.  He died 28 Apr 1936. He married 30 January 1885 at Killean and Kilchenzie to **Margaret McCallum**.
+
+Margaret was mentioned in   the [Campbeltown Courier](https://www.campbeltowncourier.co.uk/2022/08/04/honouring-killean-and-kilchenzies-fallen-100-years-on/), *Honouring Killean and Kilchenzie’s fallen 100 years on*, Updated: 04/08/22, 4:31 pm.   Her's sons Donald and Archibald were killed in WWI, in Bulgaria and France respectively.
+
+> Before family members laid their wreaths at the foot of the memorial in 1922, the first wreath was placed by Mrs Archibald Galbraith, two of whose sons were included in the fallen. This was followed by a march past of ex-servicemen.
+
+Children of Archibald and Margaret (McCallum) Galbraith:
+
+1. *Donald Galbraith*, b. 12 Jan 1886; d. 9 May 1917, Bulgaria. Honored at the [Campbeltown War Memorial](/sources/campbeltown-war-memorial.md).
+2. *Jeanie Galbraith*, b. 1887; d. 14 Jun 1963, Campbeltown
+3. *Archibald Galbraith*, b. 9 April 1890; d. 24 April 1917, France.  Honored at the [Campbeltown War Memorial](/sources/campbeltown-war-memorial.md).
+4. *Neil Galbraith*, b. 24 Feb 1894; m. *Catherine McSporran*
+
+
