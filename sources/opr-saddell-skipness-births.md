@@ -6,9 +6,7 @@ title: OPR Saddell and Skipness Baptisms
 
 [21/04/1831 GALBRAITH, ARCHIBALD (Old Parish Registers Births 531/ 20 16 Saddell and Skipness) Page 16 of 94](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/799?image=16)
 
-
-
-## 1837-12-31 Angus Galbraith
+## [1837-12-31 Angus Galbraith](/people/galbraith-angus-1837-sutherland.md)
 
 [31/12/1837 GALBRAITH, ANGUS (Old Parish Registers Births 531/ 20 30 Saddell and Skipness) Page 30 of 94](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/801?image=30)
 
