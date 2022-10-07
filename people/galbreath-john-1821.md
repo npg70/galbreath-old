@@ -21,7 +21,7 @@ Children of John and Margaret (Cook) Galbreath:[^oprchildren]
 7. *Archibald Galbreath*, b. 19 Aug 1856, Dalintober, Campbeltown[^archibald-birth]
 7. *Mary Galbreath*, b. 1 Nov 1858, Saddell and Skipness
 8. *[Elizabeth Galbraith](galbraith-elizabeth-1860-mcintosh.md)*, b. 1 Oct 1860,Saddell and Skipness[^elizabeth-birth]; m. *John McIntosh*
-9. *Jemimina Galbreath*, b. 13 Dec 1862, Campbeltown
+9. *Jemimina Galbreath*, b. 13 Dec 1862, Campbeltown; d. 22 May 1888, Saddell;[^jemima-death] m. *Duncan Gilchrist*
 
 [^birth]: OPR Campbeltown, baptism of [John Galbreath](/sources/opr-campbeltown-births.md#1821-02-02-john-galbreath)
 
@@ -50,5 +50,7 @@ Children of John and Margaret (Cook) Galbreath:[^oprchildren]
 [^archibald-birth]: Statutory records of Campbeltown; 1856 GALBRAITH, ARCHIBALD (Statutory registers Births 507/1 112); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/38771094)
 
 [^elizabeth-birth]: Statutory records of Saddell; 1860 GALBREATH, ELIZABETH (Statutory registers Births 531/1 17); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/39249480)
+
+[^gemima-death]; Statutory records of Saddell; 1888 GALBRAITH, JEMIMA (Statutory registers Deaths 531/1 10); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/3080797)
 
 [^census1851]: 1851 England, Wales & Scotland Census; Queen Street, Campbeltown, Cantyre, Argyllshire, Scotland; Household of John Galbreath. [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1851/0019254769&expand=true)
