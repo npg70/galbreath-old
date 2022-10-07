@@ -9,8 +9,8 @@ familysearch: https://www.familysearch.org/tree/person/details/273X-NNN
 Children of Neil and Janet (McQuilkan) Galbraith:
 
 1. *John Galbraith*, bp. 4 Oct 1825, Kilcalmonell and Kilberry[^john-birth], d. 29 July 1870, Tarbert, Argyll, a fishermanm and unmarried.[^john-death]
-2. *Malcolm Galbraith*, bp. 29 Apr 1828, Kilcalmonell and Kilberry[^malcolm-birth]
-3. *Archibald Galbraith*, bp. 21 Apr 1831, Saddell and Skipnes
+2. *[Malcolm Galbraith](gallbraith-malcolm-1828-bell.md)*, bp. 29 Apr 1828, Kilcalmonell and Kilberry[^malcolm-birth], m. *Catherine Bell*
+3. *Archibald Galbraith*, bp. 21 Apr 1831, Saddell and Skipness
 4. *[Angus Galbraith](galbraith-angus-1837-sutherland.md)*, bp. 31 Dec 1837, Saddell and Skipness[^angus-birth]
 5. *Elizabeth Galbraith*, bp. 27 Nov 1841, Saddell and Skipness
 
