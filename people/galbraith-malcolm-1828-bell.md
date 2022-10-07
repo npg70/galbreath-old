@@ -2,7 +2,7 @@
 title: Malcolm Galbraith b. 1828 m. Catherine Bell
 familysearch: XXX
 ---
-***Malcolm Galbraith***, son of *Neil Galbraith* and *Janet McQuilkan*, ...
+***Malcolm Galbraith***, son of *[Neil Galbraith](galbraith-neil-1797-mcquilkan.md)* and *Janet McQuilkan*, ...
 
 Married: https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/1513908?return_row=8
 
