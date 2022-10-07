@@ -2,7 +2,7 @@
 title: Angus Galbraith b. 1837 m. Jemina Sutherland
 familysearch: https://www.familysearch.org/tree/person/details/M1RX-H19
 ---
-***Angus Galbraith***, son of *Neil Galbraith* and *Janet McQuiklen*, baptized at Saddell 31 Dec 1837.[^birth]
+***Angus Galbraith***, son of *Niel Galbraith* and *Janet McQuiklen*, baptized at Saddell 31 Dec 1837.[^birth]
 
 He married at Edinburgh 22 Dec 1876[^marriage] to **Jemina Sutherland**.
 
