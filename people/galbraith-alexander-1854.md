@@ -13,7 +13,7 @@ Children of Alexander and Mary (Campbell) Galbraith:
 
 1. *Margaret Galbraith*, b. 1878 Skipness, d. 21 May 1952 Campbeltown, m. *John Paterson*[^margaret-death]
 2. *Archibald Galbraith*, b. 8 Aug 1879, Saddell;[^archibald-birth] d. 7 Jun 1905 [^death][^archibald-death]
-3. *[Robert Galbraith](galbraith-robert-1881-mcinthosh.md)*, 17 Sep 1881 Saddell,[^robert-birth] d. 1935, m. *Anne McIntosh*
+3. *[Robert Galbraith](galbraith-robert-1881-mcinthosh.md)*, b. 17 Sep 1881 Saddell,[^robert-birth] d. 1935, m. *Anne McIntosh*
 4. *Mary Galbraith*, b. ~1884 Saddell
 5. *John Alexander Galbraith*, b. 1885 Skipness, d. 20 Oct 1960 Glasgow Royal Infirmary, m. *Elizabeth MacDougall*
 6. *[Alexander Galbraith](galbraith-alexander-1887.md)*, b. 19 Mar 1887 Shore Cottages, Carradale, Saddell,[^birth-alexander] m. *Eliza Tina Campbell*
