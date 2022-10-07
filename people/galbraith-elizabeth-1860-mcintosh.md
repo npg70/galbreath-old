@@ -1,6 +1,6 @@
 ---
 title: Elizabeth Galbraith b. 1860 m. John McIntosh
-familysearch: XXX
+familysearch: https://www.familysearch.org/tree/person/details/M1R6-MHR
 ---
 ***Elizabeth Galbraith***, daughter of *[John Galbraith](galbreath-john-1821.md)* and *Margaret Cook*, was born 1 Oct 1860 at Saddell.[^birth]  She died 18 Feb 1919 at Saddell.[^death]
 
