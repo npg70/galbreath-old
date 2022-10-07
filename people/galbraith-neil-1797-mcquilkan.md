@@ -9,7 +9,7 @@ familysearch: XXX
 Children of Neil and Janet (McQuilkan) Galbraith:
 
 1. *John Galbraith*, bp. 4 Oct 1825[^john-birth]
-2. *Malcolm Galbraith*,
+2. *Malcolm Galbraith*, bp. 29 Apr 1828[^malcolm-birth]
 
 
 [^john-birth]: OPR 
