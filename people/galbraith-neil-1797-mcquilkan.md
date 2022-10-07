@@ -1,6 +1,6 @@
 ---
 title: Neil Galbraith b. 1797 m. Janet McQuilkan
-familysearch: XXX
+familysearch: https://www.familysearch.org/tree/person/details/273X-NNN
 ---
 
 ***Neil Galbraith***, son of perhaps John Galbraith and unknown mother, was born.
