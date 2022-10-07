@@ -51,6 +51,6 @@ Children of John and Margaret (Cook) Galbreath:[^oprchildren]
 
 [^elizabeth-birth]: Statutory records of Saddell; 1860 GALBREATH, ELIZABETH (Statutory registers Births 531/1 17); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/39249480)
 
-[^gemima-death]; Statutory records of Saddell; 1888 GALBRAITH, JEMIMA (Statutory registers Deaths 531/1 10); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/3080797)
+[^jemima-death]; Statutory records of Saddell; 1888 GALBRAITH, JEMIMA (Statutory registers Deaths 531/1 10); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/3080797)
 
 [^census1851]: 1851 England, Wales & Scotland Census; Queen Street, Campbeltown, Cantyre, Argyllshire, Scotland; Household of John Galbreath. [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1851/0019254769&expand=true)
