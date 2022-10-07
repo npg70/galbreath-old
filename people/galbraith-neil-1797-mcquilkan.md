@@ -11,7 +11,7 @@ Children of Neil and Janet (McQuilkan) Galbraith:
 1. *John Galbraith*, bp. 4 Oct 1825, Kilcalmonell and Kilberry[^john-birth]
 2. *Malcolm Galbraith*, bp. 29 Apr 1828, Kilcalmonell and Kilberry[^malcolm-birth]
 3. *Archibald Galbraith*, bp. 21 Apr 1831, Saddell and Skipnes
-4. *Angus Galbraith*, bp. 31 Dec 1837, Saddell and Skipness[^angus-birth]
+4. *[Angus Galbraith](galbraith-angus-1837-sutherland.md)*, bp. 31 Dec 1837, Saddell and Skipness[^angus-birth]
 5. *Elizabeth Galbraith*, bp. 27 Nov 1841, Saddell and Skipness
 
 
