@@ -10,6 +10,9 @@ Children of Neil and Janet (McQuilkan) Galbraith:
 
 1. *John Galbraith*, bp. 4 Oct 1825[^john-birth]
 2. *Malcolm Galbraith*, bp. 29 Apr 1828[^malcolm-birth]
+3. *Archibald Galbraith*, bp. 21 Apr 1831
+4. *Angus Galbraith*, bp. 31 Dec 1837
+5. *Elizabeth Galbraith*, bp. 27 Nov 1841
 
 
 [^john-birth]: OPR Kilcalmonell and Kilberry, baptism of [John Galbraith](/sources/opr-kilcalmonell-kilberry-births.md#1825-10-04-john-galbraith)
