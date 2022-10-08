@@ -5,7 +5,7 @@ familysearch: https://www.familysearch.org/tree/person/details/KHMS-7WX
 ***Donald Galbreath***, son of *John Galbreath* and *Catharine McTaggart*, was baptized at Gigha 10 Jul 1804. 
 At Gigha 7 Jun 1832, he married **Flora Smith**.[^marriage]
 
-Donald moved to the Campbeltowna area in 1835 or 1836, and is present in the 1841 Census[^census1841] and 1851 Census[^census1851] where he is listed as a fisherman.  He died on Shore Street in Campbeltown, 29 Nov 1859.[^death]
+Donald moved to the Campbeltown area in 1835 or 1836, and is present in the 1841 Census[^census1841] and 1851 Census[^census1851] where he is listed as a fisherman.  He died on Shore Street in Campbeltown, 29 Nov 1859.[^death]
 
 The 1861 Census[^census1861] for Shore Street, Campbeltown lists Flora ("formally a domestic servant"), along with children Duncan and Archibald, and grandchild Donald Ferguson.
 
