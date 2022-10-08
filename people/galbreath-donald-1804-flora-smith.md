@@ -14,7 +14,7 @@ Children of Donald and Flora (Smith) Galbreath:[^children]
 1. *John Galbreath*, bp. 21 Feb 1833 Gigha, m. [1855 GALBREATH, JOHN (Statutory registers Marriages 507/1 20)](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/12147166?return_row=1)
     1. [1855 GALBRAITH, JAMES MCLACHLAN (Statutory registers Births 507/1 93)](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/38719936)
 3. *Neill Galbreath*, bp. 5 Mar 1835 Gigha
-4. *Malcolm Galbreath*, bp. 27 Dec 1836, Campbeltown;[^malcolm-birth] d. 6 Feb 1901, Perth;[^malcolm-death] m. *Christina Farrie?*
+4. *Malcolm Galbreath*, bp. 27 Dec 1836, Campbeltown;[^malcolm-birth] d. 6 Feb 1901, Perth;[^malcolm-death] m. *Christina Garrie?*
 5. *Margaret Galbreath*, bp. 28 Nov 1838, Campbeltown[^margaret-birth]
 6. *Duncan Galbreath*, bp. 27 Apr 1841, Campbeltown;[^duncan-birth] d. 14 Feb 1890, Campbeltown;[^duncan-death] m. *Jessie Mitchell* 24 Jan 1878, Campbeltown[^duncan-marriage]
 7. *Donald Galbreath*, bp. 30 Sep 1845, Campbeltown;[^donald-birth] 
