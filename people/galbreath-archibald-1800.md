@@ -18,7 +18,7 @@ There are other children according 1851 and 1861 census[^census-1851][^census-18
 
 Children of Archibald and Agnes (Henderson) Galbreath:[^children]
 
-1. *Neill Galbreath*, bp. 28 Nov 1833[^neil-birth]
+1. *Neill Galbreath*, bp. 28 Nov 1833;[^neil-birth] d. 22 July 1911, Poorhouse, Campbeltown;[^neil-death] m. *Catherine Thomson*.  Listed as a mason/Journeyman.
 2. *Margaret Galbreath*, bp 23 Mar 1837[^margaret-birth]
 3. *John Galbreath*, bp. 16 May 1839[^john-birth]
 4. *Catherine Galbraith*, b. 1844, d. 21 Nov 1879; m. *John Muir/Munn*[^catherine-death]
@@ -35,7 +35,7 @@ Children of Archibald and Agnes (Henderson) Galbreath:[^children]
 
 [^neil-birth]: OPR Campbeltown, baptism of [Neill Galbreath](/sources/opr-campbeltown-births.md#1833-11-28-neill-galbreath)
 
-[^margaret-birth]: OPR Campbeltown,baptism of [Margaret Galbreath](/sources/opr-campbeltown-births.md#1837-03-23-margaret-galbreath)
+[^margaret-birth]: OPR Campbeltown, baptism of [Margaret Galbreath](/sources/opr-campbeltown-births.md#1837-03-23-margaret-galbreath)
 
 [^john-birth]: OPR Campbeltown, baptism of [John Galbreath](/sources/opr-campbeltown-births.md#1839-05-16-john-galbreath)
 
