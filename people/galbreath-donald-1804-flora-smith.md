@@ -16,7 +16,7 @@ Children of Donald and Flora (Smith) Galbreath:[^children]
 3. *Neill Galbreath*, bp. 5 Mar 1835 Gigha
 4. *Malcom Galbreath*, bp. 27 Dec 1836, Campbeltown[^malcom-birth]
 5. *Margaret Galbreath*, bp. 28 Nov 1838, Campbeltown[^margaret-birth]
-6. *Duncan Galbreath*, bp. 27 Apr 1841, Campbeltown;[^duncan-birth] d. 14 Feb 1890, Campbeltown;[^duncan-death] m. *Jessie TBD*
+6. *Duncan Galbreath*, bp. 27 Apr 1841, Campbeltown;[^duncan-birth] d. 14 Feb 1890, Campbeltown;[^duncan-death] m. *Jessie Mitchell* 24 Jan 1878, Campbeltown[^duncan-marriage]
 7. *Donald Galbreath*, bp. 30 Sep 1845, Campbeltown;[^donald-birth] 
 8. *Archibald Galbreath*, bp. 20 Dec 1847, Campbeltown[^archibald-birth]
  
@@ -37,6 +37,8 @@ Children of Donald and Flora (Smith) Galbreath:[^children]
 [^margaret-birth]: OPR Campbeltown, baptism of [Margaret Galbreath](/sources/opr-campbeltown-births.md#1838-11-28-margaret-galbreath)
 
 [^duncan-birth]: OPR Campbeltown, baptism of [Duncan Galbreath](/sources/opr-campbeltown-births.md#1841-04-27-duncan-galbreath)
+
+[^duncan-marriage]: Statutory records of Campbeltown; 1878 GALBRAITH, DUNCAN (Statutory registers Marriages 507/ 6); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/5649542)
 
 [^duncan-death]: Statutory records of Campbeltown; 1890 GALBRAITH, DUNCAN (Statutory registers Deaths 507/ 25); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/4295216).  Listed as a tinsmith.
 
