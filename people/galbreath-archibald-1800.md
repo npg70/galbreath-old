@@ -1,7 +1,7 @@
 ---
 title: Archibald Galbreath b 1800 m Agnes Henderson
 ---
-***Archibald Galbreath***, son of *Neil Galbreath* and *Margaret Galbreath*, baptized 5 Feb 1800 and died 16 May 1869, all in Campbeltown.
+***Archibald Galbreath***, son of *Neil Galbreath* and *Margaret Galbreath*, baptized 5 Feb 1800[^birth] and died 16 May 1869,[^death] all in Campbeltown.
 
 He married at Campbeltown 24 May 1831 **Ann Henderson** (sometimes known as "Agnes").  Ann was from the Southend Parish.[^marriage]
 
@@ -25,7 +25,7 @@ Children of Archibald and Agnes (Henderson) Galbreath:[^children]
 5. *Archibald Galbraith*, b. 1846
 6. *Alexander Galbraith*, b. 1848, d. 13 Dec 1890; m. *Catherine Shaw*[^alexander-death]
 
-[^birth]: OPR Campbeltown, baptism of [Archibald Galbreath](/sources/opr-campbeltown-births.md#1803-09-11-archibald-galbreath-1)  TBD CHECK DATE
+[^birth]: OPR Campbeltown, baptism of [Archibald Galbreath](/sources/opr-campbeltown-births.md#1800-02-05-archibald-galbreath)
 
 [^death]: Civil records of Campbeltown; 1869 GALBRAITH, ARCHIBALD (Statutory registers Deaths 507/ 81); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/1185032)
 
