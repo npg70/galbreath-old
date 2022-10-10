@@ -22,7 +22,7 @@ Children of Alexander and Flora (Campbell) Galbraith:
 
 Children of Alexander and Agnes (Matheson) Galbraith:
 
-1. *Angus Galbraith*, b. 1877
+1. *Angus Galbraith*, b. 4 Mar 1877, Campbeltown[^angus-birth]
 2. *Mary Galbraith*, b. 1879, d. 9 Apr 1932, m. *William Armour*[^mary-death]
 3. *Agnes Galbraith*, b. 16 May 1882, Campbeltown[^agnes-1882]
 
@@ -43,6 +43,8 @@ Children of Alexander and Agnes (Matheson) Galbraith:
 [^james-birth]: "Scotland Births and Baptisms, 1564-1950", database, FamilySearch (https://familysearch.org/ark:/61903/1:1:FQY1-BWL : 12 February 2020), James Galbraith, 1870.
 
 [^archibald-birth]: "Scotland Births and Baptisms, 1564-1950", database, FamilySearch (https://familysearch.org/ark:/61903/1:1:FQJY-TRH : 12 February 2020), Archibald Galbraith, 1872.
+
+[^angus-birth]: Statutory records of Campbeltown;1877 GALBRAITH, ANGUS (Statutory registers Births 507/ 83); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/41325936)
 
 [^agnes-birth]: "Scotland Births and Baptisms, 1564-1950", database, FamilySearch (https://familysearch.org/ark:/61903/1:1:FQD1-JC9 : 12 February 2020), Agnes McMillan Galbraith, 1874.
 
