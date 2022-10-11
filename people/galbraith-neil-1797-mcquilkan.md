@@ -3,7 +3,7 @@ title: Neil Galbraith b. 1797 m. Janet McQuilkan
 familysearch: https://www.familysearch.org/tree/person/details/273X-NNN
 ---
 
-***Neil Galbraith***, son of John Galbraith and unknown mother, was born in 1797[^birth]. He died 22 Jun 1882 at Kilcalmonell.[^death]
+***Neil Galbraith***, son of John Galbraith and unknown mother, was bapitized on 4 Jun 1797 in Kilcalmonell[^birth]. He died 22 Jun 1882 at Kilcalmonell.[^death]
 
 He married 25 Dec 1824 at Kilcolmonell[^marriage] to **Janet McQuilkan** (MacQuilkan)
 
