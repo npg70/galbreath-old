@@ -8,7 +8,7 @@ He died between 1829 and 1837 due to marriage records of his daughters Orsella a
 
 Martha Galbreath and their youngest daughter Mary are recorded in the 1841 Census as being in Long Row, Campbeltown.[^census-1841] Later records for either of them have not been found.
 
-For baptism records of children, he was a farmer in Skebolin.
+From the baptism records of children, he was a farmer in Skebolin.
 
 He won a prize for turnip growning in 1804[^ref-campbeltown-book]
 
