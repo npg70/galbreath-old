@@ -10,4 +10,4 @@ He married [^marriage] to **Catherine Bell**.
 
 [^marriage]: Statutory records of ;  ; [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/1513908)
 
-[^death] Statutory records of Death; ; [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/6074476)
+[^death]: Statutory records of Death; 1908 GALBRAITH, MALCOLM (Statutory registers Deaths 502/2 3); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/6074476)
