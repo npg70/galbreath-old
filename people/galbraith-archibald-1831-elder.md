@@ -8,6 +8,16 @@ Fodderty, Highland.[^burial]
 
 He married 23 Jan 1865 in Enzie, Banff[^marriage] to **Elizabeth "Betsy" Elder**, daughter of William Elder and Jessie Shand[?].
 
+Notes;
+
+* 1901 Census @ Anchtertyne, Lochalsh, Ross and Cromarty, Scotland; [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1901/0034285059&expand=true)
+* 1891 Census @ Debaig Sch, Applecross, Shieldaig, Ross and Cromarty, Scotland; [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1891/0031922858&expand=true).  Angus listed at age 14, born 1877.
+
+Children of Archibald and Betsy (Elder) Galbraith:
+
+
+
+
 [^birth]: OPR Saddell and Skipness, baptism of [Archibald Galbraith](/sources/opr-saddell-skipness-births.md#1831-04-21-archibald-galbraith)
 
 [^marriage]: Statutory records of Enzie, Banff, Scotland ;1865 GALBRAITH, ARCHIBALD (Statutory registers Marriages 152/ 1); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/9958148). It lists Archibald as a schoolmaster, and residing in Barony, Glasgow.  The parents are listed as Neil Galbraith, farmer, and Janet Wilkenson.  It's unclear if Wilkenson is an error, of if it's Angelized version of McQuilkan.
