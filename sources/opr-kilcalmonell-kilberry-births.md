@@ -13,7 +13,7 @@ title: OPR Baptisms Kilcalmonell and Kilberry
 > John lawful son to **[Niel Galbraith](/people/galbraith-neil-1797-mcquilkan.md)** and **Jannet Macquilkan** in Ariecrequck 
 > born 4th Oct 1825 Registered [??] 14th Oct 1825
 	
-## 1828-04-29 Malcolm Galbraith
+## [1828-04-29 Malcolm Galbraith](/people/galbraith-malcolm-1828-bell.md)
 
 [29/04/1828 GALBRAITH, MALCOLM (Old Parish Registers Births 516/ 20 310 Kilcalmonell and Kilberry) Page 310 of 405](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/236?image=310)
 
