@@ -8,6 +8,6 @@ He died in 1908 at Dumbarton[^death].
 
 He married [^marriage] to **Catherine Bell**.
 
-[^marriage]: Statutory records of ;  ; [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/1513908)
+[^marriage]: Statutory records of ; 1859 GALBRAITH, MALCOLM (Statutory registers Marriages 516/2 3); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/1513908)
 
 [^death]: Statutory records of TBD, Dumbarton; 1908 GALBRAITH, MALCOLM (Statutory registers Deaths 502/2 3); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/6074476)
