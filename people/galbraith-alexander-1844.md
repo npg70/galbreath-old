@@ -12,6 +12,7 @@ He was a distillery workman or maltster[^mary-marriage][^marriage2]
 
 Notes:
 * 1881 Census @ [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1881/0029347549&expand=true).  Listed Arcibald, Agnes (Maggie), Angus and Mary.
+* 1991 Census @ [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1891/0035188093&expand=true).  Alexander has died, but rest of family and even grandchildren are listed.
 
 It would appear that Alexander and Flora moved from Campbeltown to Glasgow after their first child.  And then moved backed after the birth of *Agnes McMillian* (the same name as Flora's mother).
 
