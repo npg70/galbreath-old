@@ -5,6 +5,8 @@ familysearch: https://www.familysearch.org/tree/person/details/273X-NNN
 
 ***Neil Galbraith***, son of perhaps John Galbraith and unknown mother, was born.
 
+He married 25 Dec 1824 at Kilcolmonell[^marriage] to **Janet McQuilkan** (MacQuilkan)
+
 
 Children of Neil and Janet (McQuilkan) Galbraith:
 
@@ -14,6 +16,8 @@ Children of Neil and Janet (McQuilkan) Galbraith:
 4. *[Angus Galbraith](galbraith-angus-1837-sutherland.md)*, bp. 31 Dec 1837, Saddell and Skipness,[^angus-birth] m. *Jemina Sutherland*
 5. *Elizabeth Galbraith*, bp. 27 Nov 1841, Saddell and Skipness
 
+
+[^marriage]: OPR Kilcalmonell and Kilbery; marriage of Niel Galbraith and Janet MacQuilkan; 25/12/1824 GALBRAITH, NIEL (Old Parish Registers Marriages 516/ 20 372 Kilcalmonell and Kilberry) Page 372 of 405; [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/8088390?image=372).  Transcript TBD - contains some geographical info, but nothing on ages or parents.
 
 [^john-birth]: OPR Kilcalmonell and Kilberry, baptism of [John Galbraith](/sources/opr-kilcalmonell-kilberry-births.md#1825-10-04-john-galbraith)
 
