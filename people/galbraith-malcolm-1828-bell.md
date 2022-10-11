@@ -4,7 +4,7 @@ familysearch: https://www.familysearch.org/tree/person/details/273X-NLG
 ---
 ***Malcolm Galbraith***, son of *[Neil Galbraith](galbraith-neil-1797-mcquilkan.md)* and *Janet McQuilkan*, ...
 
-He died in 1908 at .
+He died in 1908 at [^death].
 
 He married [^marriage] to **Catherine Bell**.
 
