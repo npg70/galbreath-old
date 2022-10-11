@@ -6,6 +6,8 @@ familysearch: https://www.familysearch.org/tree/person/details/M1RX-H19
 
 He married at Edinburgh 22 Dec 1876[^marriage] to **Jemina Sutherland**.
 
+* 1901 Census, Lochalsh, Ross and Cromarty, Scotland; 1901 GALBRAITH, ANGUS (Census 074/ 7/ 4) Page 4 of 6; [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_census/23069951?image=4).  Listed as Minister of Lochalsh Free Church.
+
 Children of Angus and Jemina (Sutherland) Galbraith, both in Inverness:
 
 1. *James John Galbraith*, b. 6 Nov 1877[^jj-birth]
