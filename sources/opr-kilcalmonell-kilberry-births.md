@@ -2,6 +2,9 @@
 title: OPR Baptisms Kilcalmonell and Kilberry
 ---
 
+## 1797-06-04 Neill Galbreath
+
+
 
 ## 1825-10-04 John Galbraith
 
