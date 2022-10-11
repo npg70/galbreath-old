@@ -14,4 +14,4 @@ He married 23 Jan 1865 in Enzie, Banff[^marriage] to **Betsy Elder**, daughter o
 
 [^death]: Statutory records of Dingwall, Ross and Cromarty; 1913 GALBRAITH, ARCHIBALD (Statutory registers Deaths 062/ 31); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/6618849). Listing him a a retired school master, married to Betsy Elder, age 82.  His parents are listed as Neil Galbraith, shepherd, and Janet McQuilkan, both deceased.  His son XXX was present.
 
-[^burial]:
+[^burial]: Find a Grave, database and images (https://www.findagrave.com/memorial/158333816/archibald-galbraith: accessed 10 October 2022), memorial page for Archibald Galbraith (1831–27 Jul 1913), Find a Grave Memorial ID 158333816, citing Fodderty Cemetery Strathpeffer, Fodderty, Highland, Scotland; Maintained by Beensker (contributor 47625231) .
