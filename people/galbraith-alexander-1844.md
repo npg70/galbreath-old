@@ -10,6 +10,9 @@ He married second at Campbeltown 3 Oct 1876[^marriage2] to **Agnes Matheson**.
 
 He was a distillery workman or maltster[^mary-marriage][^marriage2]
 
+Notes:
+* 1881 Census @ [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1881/0029347549&expand=true).  Listed Arcibald, Agnes (Maggie), Angus and Mary.
+
 It would appear that Alexander and Flora moved from Campbeltown to Glasgow after their first child.  And then moved backed after the birth of *Agnes McMillian* (the same name as Flora's mother).
 
 Children of Alexander and Flora (Campbell) Galbraith:
@@ -18,7 +21,7 @@ Children of Alexander and Flora (Campbell) Galbraith:
 2. *John Galbraith*, b. 19 Jul 1867 Milton, Glasgow, Lanark, Scotland,[^john-birth] d. 12 Feb 1880 Campbeltown[^john-death]
 3. *James Galbraith*, b. 26 Sep 1870, Central District, Glasgow, Lanark, Scotland[^james-birth]
 4. *Archibald Galbraith*, b. 11 Jun 1872, Milton, Glasgow, Lanark, Scotland[^archibald-birth]; m. *Mary McArthur*
-5. *Agnes McMillan Galbraith*, b. 26 Aug 1874, Milton, Glasgow, Lanark, Scotland[^agnes-birth]
+5. *Agnes McMillan "Maggie" Galbraith*, b. 26 Aug 1874, Milton, Glasgow, Lanark, Scotland[^agnes-birth]
 
 Children of Alexander and Agnes (Matheson) Galbraith:
 
