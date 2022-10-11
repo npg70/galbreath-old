@@ -4,7 +4,7 @@ title: OPR Baptisms Kilcalmonell and Kilberry
 
 ## [1797-06-04 Neill Galbreath](/people/galbraith-neil-1797-mcquilkan.md)
 
-https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357710?image=105
+[04/06/1797 GALBREATH, NEILL (Old Parish Registers Births 516/ 10 105 Kilcalmonell and Kilberry) Page 105 of 429](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357710?image=105)
 
 ## 1825-10-04 John Galbraith
 
