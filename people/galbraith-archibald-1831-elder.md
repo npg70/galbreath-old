@@ -13,7 +13,8 @@ Notes:
 * 1871 Census -- TBD
 * 1881 Census @ Whitehouse, Kilcalmonell, Argyllshire, Scotland; [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1881/0029366053&expand=true).  Angus lised at age 4, born 1877.
 * 1891 Census @ Debaig Sch, Applecross, Shieldaig, Ross and Cromarty, Scotland; [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1891/0031922858&expand=true).  Angus listed at age 14, born 1877.
-* 1901 Census @ Anchtertyne, Lochalsh, Ross and Cromarty, Scotland; [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1901/0034285059&expand=true)
+* Archibald - 1901 Census @ Anchtertyne, Lochalsh, Ross and Cromarty, Scotland; [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1901/0034285059&expand=true)
+* Angus - 1901 Census @ Ardelve, Lochalsh, Ross and Cromarty, Scotland; [FindMyPast](https://www.findmypast.com/transcript?id=GBC%2F1901%2F0034285324)
 * 1911 Census -- need to find.
 
 Children of Archibald and Betsy (Elder) Galbraith:
