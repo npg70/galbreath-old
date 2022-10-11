@@ -4,10 +4,10 @@ familysearch: https://www.familysearch.org/tree/person/details/273X-NLG
 ---
 ***Malcolm Galbraith***, son of *[Neil Galbraith](galbraith-neil-1797-mcquilkan.md)* and *Janet McQuilkan*, ...
 
-He died in 1908 at [^death].
+He died in 1908 at Dumbarton[^death].
 
 He married [^marriage] to **Catherine Bell**.
 
 [^marriage]: Statutory records of ;  ; [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/1513908)
 
-[^death]: Statutory records of Death; 1908 GALBRAITH, MALCOLM (Statutory registers Deaths 502/2 3); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/6074476)
+[^death]: Statutory records of TBD, Dumbarton; 1908 GALBRAITH, MALCOLM (Statutory registers Deaths 502/2 3); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/6074476)
