@@ -6,7 +6,7 @@ familysearch: https://www.familysearch.org/tree/person/details/273X-NLG
 
 He died in 1908 at Dumbarton[^death].
 
-He married  at Kilberry, Argyll [^marriage] to **Catherine Bell**.
+He married 6 Dec 1859 at Kilberry, Argyll[^marriage] to **Catherine Bell**.
 
 Children of Malcolm and Catherine (Bell) Galbraith:
 
