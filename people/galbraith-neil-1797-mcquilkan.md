@@ -3,7 +3,7 @@ title: Neil Galbraith b. 1797 m. Janet McQuilkan
 familysearch: https://www.familysearch.org/tree/person/details/273X-NNN
 ---
 
-***Neil Galbraith***, son of John Galbraith and unknown mother, was born in 1797?.  He died 22 Jun 1882 at Kilcalmonell.[^death]
+***Neil Galbraith***, son of John Galbraith and unknown mother, was born in 1797[^birth]. He died 22 Jun 1882 at Kilcalmonell.[^death]
 
 He married 25 Dec 1824 at Kilcolmonell[^marriage] to **Janet McQuilkan** (MacQuilkan)
 
@@ -17,6 +17,8 @@ Children of Neil and Janet (McQuilkan) Galbraith:
 4. *[Angus Galbraith](galbraith-angus-1837-sutherland.md)*, bp. 31 Dec 1837, Saddell and Skipness,[^angus-birth] m. *Jemina Sutherland*
 5. *Elizabeth Galbraith*, bp. 27 Nov 1841, Saddell and Skipness
 
+
+[^birth]: Statutory records of Kilcalmonell and Kilberry; 04/06/1797 GALBREATH, NEILL (Old Parish Registers Births 516/ 10 105 Kilcalmonell and Kilberry) Page 105 of 429; [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357710?image=105)
 
 [^death]: Statutory records of Kilcalmonell, Argyll; 1882 GALBRAITH, NEIL (Statutory registers Deaths 516/1 7); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/2471336).  Age 85 (b. ~1797), widow of Janet McQuilkan. Listed parents as John Galbraith, crofter, and an unknown mother.  Son Archibald present.
 
