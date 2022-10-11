@@ -2,7 +2,7 @@
 title: Malcolm Galbraith b. 1828 m. Catherine Bell
 familysearch: https://www.familysearch.org/tree/person/details/273X-NLG
 ---
-***Malcolm Galbraith***, son of *[Neil Galbraith](galbraith-neil-1797-mcquilkan.md)* and *Janet McQuilkan*, was born .[^birth]
+***Malcolm Galbraith***, son of *[Neil Galbraith](galbraith-neil-1797-mcquilkan.md)* and *Janet McQuilkan*, was born 1828.[^birth]
 
 He died in 8 Mar 1908 at Dumbarton[^death].
 
@@ -12,7 +12,7 @@ Children of Malcolm and Catherine (Bell) Galbraith:
 
 1. TBD Many
 
-[^birth]: xxx
+[^birth]: OPR Kilcalmonell and Kilberry, baptism of [Malcolm Galbraith](/sources/opr-kilcalmonell-kilberry-births.md#1828-04-29-malcolm-galbraith)
 
 [^marriage]: Statutory records of Kilberry, Argyll; 1859 GALBRAITH, MALCOLM (Statutory registers Marriages 516/2 3); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/1513908)
 
