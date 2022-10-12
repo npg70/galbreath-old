@@ -17,8 +17,11 @@ In 1861, Eugina's older sister Martha joined the household,[^census1861].  The r
 
 Recalling that her marriage listed her as being from Kilcalmonell and her father's name is John.
 
-
 - Stuff on Eugina: http://clark-debisschop.co.uk/tng/getperson.php?personID=I8117&tree=Clark
+
+Children of James and Eugina (Galbraith) Wotherspoon:
+
+
 
 [^birth]: OPR Campbeltown, baptism of [Ugenia Galbreath]()
 
