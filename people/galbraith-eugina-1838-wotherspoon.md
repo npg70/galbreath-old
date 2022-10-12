@@ -19,8 +19,14 @@ Recalling that her marriage listed her as being from Kilcalmonell and her father
 
 - Stuff on Eugina: http://clark-debisschop.co.uk/tng/getperson.php?personID=I8117&tree=Clark
 
-Children of James and Eugina (Galbraith) Wotherspoon:
+Children of James and Eugina (Galbraith) Wotherspoon, born in Gigha:
 
+1. *Archibald Wotherspoon*, b. 2 Jul 1866
+2. *John Wothersppon*, b. 10 Dec 1868
+3. *Eugina Wotherspoon*, b. 5 Nov 1870
+4. *Mary Wotherspoon*, b. 21 Dec 1871
+5. *James Wotherspoon*, b. 30 Apr 1874
+6. *Helen Wotherspoon*, b. 8 Aug 1875, d. , m. Galbraith  TBD.
 
 
 [^birth]: OPR Campbeltown, baptism of [Ugenia Galbreath]()
