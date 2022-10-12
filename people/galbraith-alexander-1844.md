@@ -27,7 +27,7 @@ Children of Alexander and Flora (Campbell) Galbraith:
 
 Children of Alexander and Agnes (Matheson) Galbraith:
 
-1. *Angus Galbraith*, b. 4 Mar 1877, Campbeltown;[^angus-birth] d. 10 Jul 1946, Galashiels, Falkirk;[^angus-death] m. *Mary Johnstone* 3 Aug 1931 in St. Giles, Edinburgh[^angus-marriage].  Children unlikely.
+1. *Angus Galbraith*, b. 4 Mar 1877, Campbeltown;[^angus-birth] d. 10 Jul 1946, Galashiels, Falkirk;[^angus-death] m. *Mary Johnstone* 3 Aug 1931 in St. Giles, Edinburgh[^angus-marriage].
 2. *Mary Galbraith*, b. 1879, d. 9 Apr 1932; m. *William Armour*[^mary-death]
 3. *Agnes Galbraith*, b. 16 May 1882, Campbeltown[^agnes-1882]
 
