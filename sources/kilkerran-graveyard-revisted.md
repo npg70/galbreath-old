@@ -33,7 +33,7 @@ Agnes Galbraith is mentioned:
 > This sandstone momument, which is eroding badly, was raised by Malcolm McNeilage to
 > his wife Agnes Galbraith, who died of tuberculosis at age 23 on 28/10/1886.
 
-There are some other minor details in the book, but her parents are unknown.
+There are some other minor details in the book.
 
 https://www.findagrave.com/memorial/157161848/agnes-mcneilage
 
