@@ -259,13 +259,13 @@ Three houses next to each other.  Unclear what the connection is.
 | name                | age | occupation |
 |---------------------|----|--------|
 | Norman Galbreath    | 30 | Fisher |
-| Euphemia Galbreath  | 35 |        |
+| Euphemia Galbreath [McKillop]  | 35 |        |
 | Margaret Galbreath  | 4  |        |
 | Mary Galbreath      | 9m |        |
 
 | name                | age | occupation |
 |---------------------|----|--------|
-| Christina Galbreath | 16 |        |
+| [Christina Galbreath](/people//galbraith-christina-1824-brodie.md) | 16 |        |
 
 ## 507-15-5
 
