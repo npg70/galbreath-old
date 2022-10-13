@@ -370,14 +370,14 @@ TBD: [John Galbreath](/people/galbreath-john-abt-1710.md) / Isobell Clark
 
 [507/11 233 row 4](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358304?image=233)
 
-> Margt | James Galbreath & Margt Kilpatrick had a 
+> Margt | **James Galbreath** & **Margt Kilpatrick** had a 
 > daugt. baptized 3rd May named Margaret
 
 ## 1741-04-03 Katharine Galbreath
 
 [507/11 236 row 4](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358250?image=236)
 
-> Katharine | [Archd Galbreath](/people/galbreath-archibald-1708.md) & Martha White had a 
+> Katharine | **[Archd Galbreath](/people/galbreath-archibald-1708.md)** & **Martha White** had a 
 > Daughter. baptized 1st Sept named Katharine
 
 ## 1742-12-14 Mary Galbreath
@@ -400,21 +400,21 @@ TBD: [John Galbreath](/people/galbreath-john-abt-1710.md) / Isobell Clark
 
 [507/11 244 row 6](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358297?image=244)
 
-> Margt | [Archd Galbreath](/people/galbreath-archibald-1708.md) & Martha White had a 
+> Margt | **[Archd Galbreath](/people/galbreath-archibald-1708.md)** & **Martha White** had a 
 > Daughter baptized 27th Oct named Margt
 
 ## 1743-12-00 Archibald Galbreath
 
 [507/11 24 row 17](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357303?image=244)
 
-> Archd |  [James Galbreath](/people/galbreath-james-1713.md) & Margt Adam
+> Archd | **[James Galbreath](/people/galbreath-james-1713.md)** & **Margt Adam**
 > had a son baptized [blank] Dec named Archd.
 
 ## 1745-06-25 James Galbreath
 
 [507/11 252 row 10](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357835?image=252)
 
-> James | [David Galbreath](/people/galbreath-david-1719.md) & Jean Langwill had a 
+> James | **[David Galbreath](/people/galbreath-david-1719.md)** & **Jean Langwill** had a 
 > son baptized 25th June named James
 
 There is another record [507/10 181](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/5609111?image=181)
@@ -423,7 +423,7 @@ There is another record [507/10 181](https://www.scotlandspeople.gov.uk/view-ima
 
 [507/11 252 row 10](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357835?image=252)
 
-> William | [John Galbreath](/people/galbreath-john-abt-1710.md) & Isobell Clark had a 
+> William | **[John Galbreath](/people/galbreath-john-abt-1710.md)** & **Isobell Clark** had a 
 > son baptized 4th Augt named William
 
 There is another record of "William Calbreath" on [507/10 181](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/5609111?image=181)
@@ -460,14 +460,14 @@ TBD: [John Galbreath](/people/galbreath-john-abt-1710.md) / Isobell Clark
 
 [507/11 262 row 6](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358428?image=262&viewed_images=true)
 
-> Mary | [Archibald Galbreath](/people/galbreath-archibald-1708.md) and Martha White had a 
+> Mary | **[Archibald Galbreath](/people/galbreath-archibald-1708.md)** and **Martha White** had a 
 > Daughter baptized 29th Oct named Mary
 
 ## 1747-12-20 James Galbreath
 
 [507/11 262 row 6](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358428?image=262&viewed_images=true)
 
-> James | [Patrick Galbreath](/people/galbreath-patrick-1712.md) and Jean Watson had a 
+> James | **[Patrick Galbreath](/people/galbreath-patrick-1712.md)** and **Jean Watson** had a 
 > son baptized 20th Dec named Mary
 
 Also on  [507/10 181](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/5609111?image=181)
@@ -496,7 +496,7 @@ TBD: William Galbreath / Margaret Watson
 
 [507/11 267 row 9](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357739?image=267)
 
-> Peter | [David Galbreath](/people/galbreath-david-1718.md) and Mary Langwill had
+> Peter | **[David Galbreath](/people/galbreath-david-1718.md)** and **Mary Langwill** had
 > had a son baptized 5th April named Peter
 
 ## 1749-09-17 Isobell Galbreath
@@ -507,7 +507,7 @@ TBD: [John Galbreath](/people/galbreath-john-abt-1710.md) / Isobell Clark
 
 [507/11 271 row 13](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357930?image=271)
 
-> Ann | [Archibald Galbreath](/people/galbreath-archibald-1708.md) and Martha White had a 
+> Ann | **[Archibald Galbreath](/people/galbreath-archibald-1708.md)** and **Martha White** had a 
 > Daughter baptized 15th April named Ann
 
 On same page is a note how John McAlpine became a minister of the Lowland Congregation
@@ -560,17 +560,17 @@ tbd: William Galbreath / Margaret Watson, two records Galbreath/Galbraith
 
 [507/ 11 284 row 2](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358176?image=284)
 
-Janet |  [Archibald Galbreath](/people/galbreath-archibald-1708.md) and Martha White had a Daughter baptized 26th Nov named Janet
+Janet | **[Archibald Galbreath](/people/galbreath-archibald-1708.md)** and **Martha White** had a Daughter baptized 26th Nov named Janet
 
 ## 1752-12-17 Archibald Galbreath
 
 [507/11 284 row 8] TBD link
 
-> Archibald | [Patrick Galbraith](/people/galbreath-patrick-1712.md) and Jean Watson had a son baptized 17th Dec named Archibald
+> Archibald | **[Patrick Galbraith](/people/galbreath-patrick-1712.md)** and **Jean Watson** had a son baptized 17th Dec named Archibald
 
 [507/10 210 row 12](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/712?image=210)
 
-> Archibald | [Patrick Galbraith](/people/galbreath-patrick-1712.md) & Jean Watson had a (??) bap 17th
+> Archibald | **[Patrick Galbraith](/people/galbreath-patrick-1712.md)** & **Jean Watson** had a (??) bap 17th
 
 ## 1753-02-03 John Galbreath
 
@@ -594,12 +594,12 @@ TBD: Link needs updating.
 
 [507/ 11 286 row 12](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357221?image=286)
 
-> Alexander | [John Galbreath](/people/galbreath-john-1721.md) & Agnes Langwill had
+> Alexander | **[John Galbreath](/people/galbreath-john-1721.md)** & **Agnes Langwill** had
 > a son baptized 25th June named Alexander.
 
 [507/ 10 213 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/672?image=213)
 
-> [John Galbraith](/people/galbreath-john-1721.md) & Agnes Languill had a [??] bapt Alex [June] 25th
+> **[John Galbraith](/people/galbreath-john-1721.md)** & **Agnes Languill** had a [??] bapt Alex [June] 25th
 
 ## 1754-00-00 Isobel Galbreath
 
@@ -641,13 +641,13 @@ tbd: Peter Galbraith / Jean Watson, two records
 
 [507/11 299 row 1](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358392?image=299)
 
-> Martha | [Archibald Galbreath](/people/galbreath-archibald-1708.md) and Martha White had a daugt baptized 22nd Febry named Martha
+> Martha | **[Archibald Galbreath](/people/galbreath-archibald-1708.md)** and **Martha White** had a daugt baptized 22nd Febry named Martha
 
 ## 1756-03-13 Ann Galbreath
 
 [507/11 299 row 8] TBD
 
-> Ann | [James Galbreath](/people/galbreath-james-1726.md) and Margt Anderson had a daugt baptized 13th March named Ann
+> Ann | **[James Galbreath](/people/galbreath-james-1726.md)** and **Margt Anderson** had a daugt baptized 13th March named Ann
 
 ## 1756-06-06 John Galbreath
 
@@ -697,7 +697,7 @@ tbd: James Galbreath / Mary Anderson
 
 [507/11 319 row 15](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357663?image=319)
 
-> John | [John Galbreath](/galbreath-john-abt-1710.md) and Isobell Clark had a son 
+> John | **[John Galbreath](/galbreath-john-abt-1710.md)** and **Isobell Clark** had a son 
 > bapt 2nd May named John
 
 tbd: another record
@@ -729,7 +729,7 @@ tbd: [James Galbreath](/people/galbreath-james-1713.md) / Margaret Adam
 
 [507/11 333 row 3](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358332?image=333)
 
-> Margt | [William Galbreath](/people/galbreath-william-1736.md) and Margaret Dunlop had a Daughter born 5th and baptised 8th Dec named Margt
+> Margt | **[William Galbreath](/people/galbreath-william-1736.md)** and **Margaret Dunlop** had a Daughter born 5th and baptised 8th Dec named Margt
 
 ## 1763-11-11 Katharine Galbreath
 
@@ -959,7 +959,7 @@ TBD: Patrick Galbreath / Ann McLellan
 
 [507/ 20 57 row 14](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357506?image=57)
 
-> James | Lawful son to  [Alexr Galbreath](/people/galbreath-alexander-1753.md) & **Agnes Flemming**
+> James | Lawful son to **[Alexr Galbreath](/people/galbreath-alexander-1753.md)** & **Agnes Flemming**
 > born 18th, bapt 19th March 1782
 
 ## 1782-05-12 Mary Galbreath
@@ -1872,9 +1872,12 @@ TBD: [NEILL GALBREATH](/people/galbraith-neil-1788.md)/MARY MCMILLAN
 
 TBD: [DAVID GALBREATH](/people/galbreath-david-1793.md)/MARY GREENLEES
 
-## 1824-08-15 Christian Galbreath
+## [1824-08-15 Christian Galbreath](/people/galbraith-christina-1824-brodie.md)
 
-TBD: HUGH GALBREATH/CHRISTIAN MCDONALD
+[15/08/1824 GALBREATH, CHRISTIAN (Old Parish Registers Births 507/ 60 93 Campbeltown) Page 93 of 478](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357994?image=93)
+
+> Christian | Lawful daughter of **Hugh Galbreath** mariner and **Christian McDonald**
+> was born 10th & bapt 15th Aug [illegible]
 
 ## 1825-03-27 Janet Galbreath
 
