@@ -18,7 +18,7 @@ Children of Hugh and Christina (McDonald) Galbreath, all baptized in Campbeltown
 5. *Jean Galbreath*, b. 13 Apr 1816[^jean2-birth]
 6. *Catherine Galbreath*, b. 31 Aug 1819 [^catherine-birth]
 7. *[Christian (Christina) Galbreath](galbraith-christina-1824-brodie.md)*, b. 15 Aug 1824[^christina-birth]
-8. *Donald Galbreath*, b. 15 Jul 1828[^donald-birth]
+8. *Donald Galbreath*, b. 15 Jul 1828.[^donald-birth]  Present in 1841 Census, but then no other records (census or statutory) found.
 
 [^marriage]: XXX
 
