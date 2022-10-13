@@ -61,7 +61,7 @@ WHT is Work Horse Tax Records.
 
 > Christina Galbraith, Back Street, Campbeltown, aged 30 in 1861, 'bates (sic) fishing lines' (C/d8/p18);
 
-Don't see any Christina from Campbeltown in OPR.  Census 1861 on [FindMyPast](https://www.findmypast.com/transcript?id=GBC%2F1861%2F0022165439)
+[Christina Galbraith](/people/galbraith-christina-1824-brodie.md), daughter of Hugh Galbraith and Christina McDonald, was baptized 15 Aug 1824 in Campbeltown.
 
 > John G, fisherman at Point House, Carradale, aged 40 in 1861 - born Cam Par (C/d3/p1);
 
