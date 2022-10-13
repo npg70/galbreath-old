@@ -28,7 +28,7 @@ Children of Neil and Margaret (Stewart) Galbraith:
 
 [^agnes-burial]: Kilkerran Graveyard Revisited, [page 27](/sources/kilkerran-graveyard-revisted.md#page-27)
 
-[^anges-findagrave]: Find a Grave, database and images (https://www.findagrave.com/memorial/157161848/agnes-mcneilage: accessed 13 October 2022), memorial page for Agnes Galbraith Mcneilage (1843–29 Oct 1886), Find a Grave Memorial ID 157161848, citing Kilkerran Cemetery, Campbeltown, Argyll and Bute, Scotland; Maintained by My Family and other People (contributor 47975249) .
+[^agnes-findagrave]: Find a Grave, database and images (https://www.findagrave.com/memorial/157161848/agnes-mcneilage: accessed 13 October 2022), memorial page for Agnes Galbraith Mcneilage (1843–29 Oct 1886), Find a Grave Memorial ID 157161848, citing Kilkerran Cemetery, Campbeltown, Argyll and Bute, Scotland; Maintained by My Family and other People (contributor 47975249) .
 
 [^martha-birth]: Statutory records of Saddell, Argyll; 1867 GALBREATH, MARTHA (Statutory registers Births 531/1 5); [ScotlandsPeople]
 
