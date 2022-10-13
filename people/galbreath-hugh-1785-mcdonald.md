@@ -1,6 +1,6 @@
 ---
 title: Hugh Galbreath b. abt 1785 m. Christina McDonald
-familysearch: XXX
+familysearch: https://www.familysearch.org/tree/person/details/K8KC-YQG
 ---
 ***Hugh Galbreath***, of unknown origin, was born around 1785.  He died before 1841.
 
