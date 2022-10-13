@@ -22,7 +22,7 @@ Children of Hugh and Christina (McDonald) Galbreath:
 
 [^census1841]: XXX
 
-[^mary-birth]:
+[^mary-birth]: OPR Campbeltown, baptism of [Mary Galbreath](/sources/opr-campbeltown-births.md#1808-02-06-mary-galbreath)
 
 [^margaret-birth]: 
 
