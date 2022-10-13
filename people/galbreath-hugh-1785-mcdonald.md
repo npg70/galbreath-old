@@ -26,7 +26,7 @@ Children of Hugh and Christina (McDonald) Galbreath, all baptized in Campbeltown
 
 [^margaret-birth]: OPR Campbeltown, baptism of 
 
-[^norman-birth]: OPR Campbeltown, baptism of 
+[^norman-birth]: OPR Campbeltown, baptism of [Norman Galbreath](/sources/opr-campbeltown-births.md#1811-03-17-norman-galbreath)
 
 [^jean1-birth]: OPR Campbeltown, baptism of 
 
