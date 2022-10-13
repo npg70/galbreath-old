@@ -11,7 +11,9 @@ He married 2 Feb 1836 in Campbeltown[^marriage] to **Euphemia McKillop**, daught
 
 Children of Norman and Euphiam (McKillop) Galbreath:
 
-1. *Ann Galbraith*,  d. 12 Mar 1911[^ann-death]
+1. *Margaret Galbraith*, b. 1837?
+2. *Mary Galbraith*, b. 1850?
+3. *Ann Galbraith*,  d. 12 Mar 1911[^ann-death]
 
 [^census1841]: 1841 Census; [Section 507-15-1](/sources/scotland-census-1841-campbeltown.md#507-15-1)
 
