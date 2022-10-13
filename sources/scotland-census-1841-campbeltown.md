@@ -249,16 +249,16 @@ Burnside St, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs
 
 Main Street, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_census/1186908?image=1)
 
-Three houses next to each other.  Unclear what the connection is.
+Three houses next to each other, with the family of the late [Hugh Galbreath](/people/galbreath-hugh-1785-mcdonald.md)
 
 | name                | age | occupation |
 |---------------------|----|--------|
-| Christina Galbreath | 55 | Pauper |
+| [Christina Galbreath](/people/galbreath-hugh-1785-mcdonald.md) | 55 | Pauper |
 | Donald Galbreath    | 19 |        |
 
 | name                | age | occupation |
 |---------------------|----|--------|
-| Norman Galbreath    | 30 | Fisher |
+| [Norman Galbreath](/people/galbreath-norman-1811-mckillop.md)    | 30 | Fisher |
 | Euphemia Galbreath [McKillop]  | 35 |        |
 | Margaret Galbreath  | 4  |        |
 | Mary Galbreath      | 9m |        |
