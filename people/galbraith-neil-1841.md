@@ -26,7 +26,7 @@ Children of Neil and Margaret (Stewart) Galbraith:
 
 [^agnes-death]: Statutory records of Campbeltown, Argyll; 1886 GALBRAITH, AGNES (Statutory registers Deaths 507/ 138); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/2889871)
 
-[^agnes-burial]: 
+[^agnes-burial]: Kilkerran Graveyard Revisited, [page 27](/sources/kilkerran-graveyard-revisted.md#page-27)
 
 [^anges-findagrave]: 
 
