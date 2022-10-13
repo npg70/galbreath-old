@@ -2,7 +2,7 @@
 title: Christina Galbraith b. 1824
 familysearch: https://www.familysearch.org/tree/person/details/KCXN-79J
 ---
-***Christina Galbraith***, daughter of *Hugh Galbraith* and *Christina McDonald*, was baptized 15 Aug 1824 in Campbeltown.[^birth]
+***Christina Galbraith***, daughter of *[Hugh Galbreath](galbreath-hugh-1785-mcdonald.md)* and *Christina McDonald*, was baptized 15 Aug 1824 in Campbeltown.[^birth]
 She died 10 Apr 1878 in Campbeltown.[^death]
 
 Her 1861 Census occupation of "bates (sic) fishing lines" was mentioned in _Kintyre: The Hidden Past_[^census1861][^hiddenpast]
