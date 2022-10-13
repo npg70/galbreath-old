@@ -108,3 +108,8 @@ Need cleanup.
 [Donald Galbreath](/people/galbreath-donald-1804-flora-smith.md) and Flora Smith, both from Gigha, got married, had a few children, then moved to Campbeltown.
 
 Descendants uninvestigated.
+
+## Hugh Galbreath b. 1785 / Christina MacDonald
+
+[Hugh Galbreath](/people/galbreath-hugh-1785-mcdonald.md) and Christina MacDonald, both of unknown origin, had 8 children in Campbeltown from 1808 to 1828.  Daughtered out.
+
