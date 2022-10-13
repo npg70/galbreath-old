@@ -22,7 +22,7 @@ Children of Hugh and Christina (McDonald) Galbreath, all baptized in Campbeltown
 
 [^marriage]: XXX
 
-[^census1841]: 1841 Census; Households of the late Hugh Galbreath; Section [507-15-1](/sources/scotland-census-1841-campbeltown.md#507-15-1
+[^census1841]: 1841 Census; Households of the late Hugh Galbreath; Section [507-15-1](/sources/scotland-census-1841-campbeltown.md#507-15-1)
 
 [^mary-birth]: OPR Campbeltown, baptism of [Mary Galbreath](/sources/opr-campbeltown-births.md#1808-02-06-mary-galbreath)
 
