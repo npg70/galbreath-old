@@ -8,12 +8,16 @@ He married 2 Feb 1836 in Campbeltown[^marriage] to **Euphemia McKillop**, daught
 
 - 1841 Census[^census1841]
 - 1851 Census[^census1851]
+- 1861 Census on [FindMyPast](https://www.findmypast.com/transcript?id=GBC%2F1861%2F0022167019). Daughters Margaret (23), Mary (16), and Ann (10) listed.
+- 1871 Census on [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1871/0023448656). Only Norman and Euphemia listed.
+- 1881 Census TBD
+- 1891 Census on [FindMyPast](https://www.findmypast.com/transcript?id=GBC%2F1891%2F0035187005).  In poor house.
 
 Children of Norman and Euphiam (McKillop) Galbreath:
 
-1. *Margaret Galbraith*, b. 1837?
-2. *Mary Galbraith*, b. 1850?
-3. *Ann Galbraith*,  d. 12 Mar 1911[^ann-death]
+1. *Margaret Galbraith*, b. Abt 1837;[^margaret-birth] d. 17 Mar 1882; Unmarried.[^margaret-death]
+2. *Mary Galbraith*, b. 1845?
+3. *Ann Galbraith*, b. Abt 1850; d. 12 Mar 1911[^ann-death]
 
 [^census1841]: 1841 Census; [Section 507-15-1](/sources/scotland-census-1841-campbeltown.md#507-15-1)
 
@@ -33,6 +37,10 @@ Children of Norman and Euphiam (McKillop) Galbreath:
 [^euphemia-death]: Statutory records of Campbeltown; 1876 GALBRAITH, EUPHEMIA (Statutory registers Deaths 507/ 65); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/1921684). Age 74 years.
 
 [^ann-death]: Statutory records of Campbeltown; 1911 GALBRAITH, ANNIE (Statutory registers Deaths 626/A1 12); [ScotlandsPeople]( https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/6445779).  Age 60; Married to Hector McMillan; Mary Ann Scott, daughter, present.
+
+[^margaret-birth]: Baptism was not recorded (or performed). Age estimated from census records and death certificate.
+
+[^margaret-death]: Statutory records of Campebeltown; 1882 GALBRAITH, MARGARET (Statutory registers Deaths 507/ 39); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/2463153).  Age 44.
 
 
 
