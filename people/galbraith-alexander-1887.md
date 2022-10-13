@@ -8,7 +8,7 @@ He married **Eliza Tina Campbell**, d. 29 Nov 1972.[^death]
 
 Children of Alexander and Eliza (Campbell) Galbraith, all events in Carradale, Argyll, Scotland:
 
-1. *John Collin Campbell Galbraith*, b. 1910, d. 13 Feb 1988, m. *Mary McKinlay MacDougall*
+1. *John Collin Campbell Galbraith*, b. 23 Aug 1910, Saddell;[^john-birth] d. 13 Feb 1988, m. *Mary McKinlay MacDougall*
 2. *[Alexander Galbraith](galbraith-alexander-1914-mcdougal.md)*, b. 1 Jun 1914, d. 2 Jan 2000, m. *Marion Torrance Semple McDougall*
 3. *Richard Harris Galbraith*, b. 17 Apr 1918, d. 30 Jul 1995, m. *Mary Rooney*
 4. *Colin Campbell Galbraith*, b. 11 Aug 1921, Saddell[^colin-birth]
@@ -32,5 +32,7 @@ Children of Alexander and Eliza (Campbell) Galbraith, all events in Carradale, A
     Eliza Tina Campbell
     Who Died 29th November 1972
     Aged 86 Years
+
+[^john-birth]: Statutory records of Saddell, Argyll; 1910 GALBRAITH, JOHN COLIN CAMP (Statutory registers Births 531/1 15); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/45947816).  However, this the record itself lists John as "John Campbell" only, and parents as Colin Campbell and Lizzie Patterson.
 
 [^colin-birth]: Statutory records of Saddell, Argyll; 1921 GALBRAITH, COLIN CAMPBELL (Statutory registers Births 531/1 4); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/47378609)
