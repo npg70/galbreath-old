@@ -11,4 +11,7 @@ Children of Norman and Euphiam (McKillop) Galbreath:
 [^birth]: OPR Campbeltown, baptism of [Norman Galbreath](/sources/opr-campbeltown-births.md#1811-03-17-norman-galbreath)
 
 [^marriage]: OPR Campbeltown; 02/02/1836 GALBREATH, NORMAN (Old Parish Registers Marriages 507/ 60 327 Campbeltown) Page 327 of 478; [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/9531226?image=327)
+    Norman Galbreath sailor and Euphemia McKillop daughter of the late John McKillop [illegible] 
+    both of this parish were married 2nd February 1836
+
 
