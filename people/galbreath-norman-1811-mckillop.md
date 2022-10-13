@@ -2,17 +2,29 @@
 title: Norman Galbreath b. 1811 m. Euphemia McKillop
 familysearch: https://www.familysearch.org/tree/person/details/KZ41-385
 ---
-**Norman Galbreath**, son of *[Hugh Galbreath](galbreath-hugh-1785-mcdonald.md)* and *Christian McDonald*, was baptized 17 Mar 1811 in Campbeltown.[^birth] He died 
+**Norman Galbreath**, son of *[Hugh Galbreath](galbreath-hugh-1785-mcdonald.md)* and *Christian McDonald*, was baptized 17 Mar 1811 in Campbeltown.[^birth] He died 2 Feb 1892 in the poorhouse of Campbeltown.[^death]
 
-He married 2 Feb 1836 in Campbeltown[^marriage] to **Euphemia McKillop**
+He married 2 Feb 1836 in Campbeltown[^marriage] to **Euphemia McKillop**, daughter of John McKillop and Margaret Watson. Her birth name was Agnes, and born 15 Mar 1802,[^euphemia-birth] but apparently adopted Euphiema. She died 10 Mar 1911 in Campbeltown[^euphemia-death]
 
 Children of Norman and Euphiam (McKillop) Galbreath:
 
+1. *Ann Galbraith*,  d. 12 Mar 1911[^ann-death]
+
 [^birth]: OPR Campbeltown, baptism of [Norman Galbreath](/sources/opr-campbeltown-births.md#1811-03-17-norman-galbreath)
+
+[^death]: Statutory records of Campbeltown; 1892 GALBRAITH, NORMAN (Statutory registers Deaths 507/ 32); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/4397043)
 
 [^marriage]: OPR Campbeltown; 02/02/1836 GALBREATH, NORMAN (Old Parish Registers Marriages 507/ 60 327 Campbeltown) Page 327 of 478; [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/9531226?image=327)
 
     > Norman Galbreath sailor and Euphemia McKillop daughter of the late John McKillop [illegible] 
     > both of this parish were married 2nd February 1836
+
+[^euphemia-birth]: OPR Campbeltown; 15/03/1802 MCKILLIP, AGNES (Old Parish Registers Births 507/ 40 225 Campbeltown) Page 225 of 504; [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/110615?image=225)
+
+[^euphemia-death]: Statutory records of Campbeltown; 1876 GALBRAITH, EUPHEMIA (Statutory registers Deaths 507/ 65); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/1921684). Age 74 years.
+
+[^ann-death]: Statutory records of Campbeltown; 1911 GALBRAITH, ANNIE (Statutory registers Deaths 626/A1 12); [ScotlandsPeople]( https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/6445779).  Age 60; Married to Hector McMillan; Mary Ann Scott, daughter, present.
+
+
 
 
