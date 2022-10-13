@@ -23,108 +23,108 @@ Gaps:
 
 [507/11 6 row 4](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356839?image=6)
 
-> James | Lawful Son to Archd Galbreath Taylor and Margt Johnstone, Born 3rd April in Trogidal 1659
+> James | Lawful Son to **Archd Galbreath** Taylor and **Margt Johnstone**, Born 3rd April in Trogidal 1659
 
 ## [1672-08-25 James Galbreath](/people/galbreath-james-1672.md)
 
 [507/11 15 row 4](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357494?image=15)
 
-> James | Lawful son to [James Galbreath](/people/galbreath-james-1659.md) and Mary Neilsone his spouse in Ardnacross, Born Aug 22nd, baptised 25th
+> James | Lawful son to **[James Galbreath](/people/galbreath-james-1659.md)** and **Mary Neilsone** his spouse in Ardnacross, Born Aug 22nd, baptised 25th
 
 ## 1674-10-28 Patrick Galbreath
 
 [507/11 23 row 10](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356958?image=23)
 
-> Patrick | Lawful son to [James Galbreath](/people/galbreath-james-1672.md) and Mary Neilson his spouse in Kilkedan, Born Oct 28th
+> Patrick | Lawful son to **[James Galbreath](/people/galbreath-james-1672.md)** and **Mary Neilson** his spouse in Kilkedan, Born Oct 28th
 
 ## 1678-07-17 Archibald Galbreath
 
 [507/11 31 row 13](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357265?image=31)
 
-> Archd | Lawful son to [James Galbreath](/people/galbreath-james-1672.md) and Mary Neilson his spouse in Killkeddan, baptised July 17th named Archibald
+> Archd | Lawful son to **[James Galbreath](/people/galbreath-james-1672.md)** and **Mary Neilson** his spouse in Killkeddan, baptised July 17th named Archibald
  
 ## [1680-05-30 John Galbreath](/people/galbreath-john-1680.md)
 
 [507/11 37 row 3](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357606?image=37)
 
-> John | Lawful son to [James Galbreath](/people/galbreath-james-1672.md) and Mary Nielson his spouse in Kilkedan, Baptised May 17th John
+> John | Lawful son to **[James Galbreath](/people/galbreath-james-1672.md)** and **Mary Nielson** his spouse in Kilkedan, Baptised May 17th John
 
 ## 1691-03-15 Matthew Galbreath
 
 [507/11 56 row 17](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356938?image=56)
 
-> Matthew | Lawful son to [James Galbreath](/people/galbreath-james-1672.md) and Mary Nielson his lawful spouse, Born 15th March Matthew
+> Matthew | Lawful son to **[James Galbreath](/people/galbreath-james-1672.md)** and **Mary Nielson** his lawful spouse, Born 15th March Matthew
 
 ## [1698-02-24 Jenat Galbreath](/people/galbreath-janet-1698.md)
 
 [507/11 76 row 6](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357093?image=76)
 
-> Jenat | Lawful Daughter to [James Galbreath](/people/galbreath-james-1672.md) and Mary Fleeming his lawful spouse, Born February 24th Named Jenat
+> Jenat | Lawful Daughter to **[James Galbreath](/people/galbreath-james-1672.md)** and **Mary Fleeming** his lawful spouse, Born February 24th Named Jenat
 
 ## [1701-11-16 William Galbreath](/people/galbreath-william-1701.md)
 
 [507/11 86 row 11](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356992?image=86)
 
-> William | Lawful son to [James Galbreath](/people/galbreath-james-1672.md) and Mary Fleeming his lawful spouse, Born November 16th
+> William | Lawful son to **[James Galbreath](/people/galbreath-james-1672.md)** and **Mary Fleeming** his lawful spouse, Born November 16th
 
 ## [1704-04-30 Mary Galbreath](people/galbreath-mary-1704.md)
 
 [507/11 93 row 12](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357143?image=93)
 
-> William | Lawful Daughter to [James Galbreath](/people/galbreath-james-1672.md) and Mary Fleeming his lawful spouse, Born April 30th
+> William | Lawful Daughter to **[James Galbreath](/people/galbreath-james-1672.md)** and **Mary Fleeming** his lawful spouse, Born April 30th
 
 ## 1706-08-04 James Galbreath
 
 [507/11 99 row 3](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356859?image=99)
 
-> James | Lawful son to [James Galbreath](/people/galbreath-james-1672.md) and Marion Fleeming
+> James | Lawful son to **[James Galbreath](/people/galbreath-james-1672.md)** and **Marion Fleeming**
 > his lawful spouse. Born August 4th & Named James
 
 ## [1708-05-30 Archibald Galbreath](/people/galbreath-archibald-1708.md)
 
 [507/11 104 row 5](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356794?image=104)
 
-> Archd lawfull son to [John Galbreath](/people/galbreath-john-1680.md) and Mary Mitchell his lawful spouse. Born May 30th named Archd
+> Archd lawfull son to **[John Galbreath](/people/galbreath-john-1680.md)** and **Mary Mitchell** his lawful spouse. Born May 30th named Archd
 
 [507/10 47 row 1](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/706?image=47)
 
-> Archibald son lawfull to [John Galbraith](/people/galbreath-john-1680.md) and Mary Mitchell
+> Archibald son lawfull to **[John Galbraith](/people/galbreath-john-1680.md)** and **Mary Mitchell**
 
 ## 1709-12-25 Mary Galbreath
 
 [507/11 106 row 12](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357150?image=106)
 
-> Mary | Lawful Daughter to [John Galbreath](/people/galbreath-john-1680.md) and Mary Mitchell his lawful spouse, Born December 25th Named Mary
+> Mary | Lawful Daughter to **[John Galbreath](/people/galbreath-john-1680.md)** and **Mary Mitchell** his lawful spouse, Born December 25th Named Mary
 
 ## 1711-08-14 Margaret Galbreath
 
 [507/11 111 row 6](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357123?image=111)
 
-> Margt | Lawful daughter to [James Galbreath](/people/galbreath-james-1672.md) and Mary Fleeming his lawful spouse, Born August 14th Named Margt.
+> Margt | Lawful daughter to **[James Galbreath](/people/galbreath-james-1672.md)** and **Mary Fleeming** his lawful spouse, Born August 14th Named Margt.
 
 ## [1711-10-14 Janet Galbreath](/people/galbreath-janet-1711.md)
 
 [507/11 111 row 15](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357076?image=111)
 
-> Janet | Lawful Daughter to [John Galbreath](/people/galbreath-john-1680.md) and Mary Mitchell his lawful spouse, Born October 14th Named Janet
+> Janet | Lawful Daughter to **[John Galbreath](/people/galbreath-john-1680.md)** and **Mary Mitchell** his lawful spouse, Born October 14th Named Janet
 
 ## 1713-03-22 James Galbreath 
 
 [507/11 116 row 4](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356841?image=116)
 
-> James | Lawfull son to [John Galbreath](/people/galbreath-john-1680.md) and Mary Mitchell his lawful spouse, Born March 22nd named James
+> James | Lawfull son to **[John Galbreath](/people/galbreath-john-1680.md)** and **Mary Mitchell** his lawful spouse, Born March 22nd named James
 
 ## [1713-08-20 Patrick Galbreath](/people/galbreath-patrick-1713.md)
 
 [507/11 117 row 7](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356959?image=117), twins
 
-> Patrick & James | Lawful children to [James Galbreath](/people/galbreath-james-1672.md) and Mary Flemming his lawful spouse Born 20th August Named Patrick and James
+> Patrick & James | Lawful children to **[James Galbreath](/people/galbreath-james-1672.md)** and **Mary Flemming** his lawful spouse Born 20th August Named Patrick and James
 
 ## [1713-08-20 James Galbreath](/people/galbreath-james-1713.md)
 
 [507/11 117 row 7](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356959?image=117), twins
 
-> Patrick & James | Lawful children to [James Galbreath](/people/galbreath-james-1672.md) and Mary Flemming his lawful spouse Born 20th August Named Patrick and James
+> Patrick & James | Lawful children to **[James Galbreath](/people/galbreath-james-1672.md)** and **Mary Flemming** his lawful spouse Born 20th August Named Patrick and James
 
 ## 1713-11-26 Mary Galbreath
 
@@ -137,17 +137,17 @@ Gaps:
 
 [507/11 119](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357095?image=119)
 
-> Katharine | [John Galbreath](/people/galbreath-john-1680.md) and Mary Mitchell his lawfull spouse had a Daughter born 8th August named Katherine
+> Katharine | **[John Galbreath](/people/galbreath-john-1680.md)** and **Mary Mitchell** his lawfull spouse had a Daughter born 8th August named Katherine
 
 ## 1715-08-13 Janet Galbreath
 
-TBD: Daughter of [David Galbreath](/people/galbreath-david-1684.md) / Isobell Watson, 2 record
+TBD: Daughter of **[David Galbreath](/people/galbreath-david-1684.md)** / **Isobell Watson**, 2 record
 
 ## 1715-09-09 Archibald Galbreath
 
 [507/11 123 row 3](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356791?image=123)
 
-> Archd | [James Galbreath](/people/galbreath-james-1672.md) and Mary Fleeming his lawfull spouse has a son Born 9th September named Archibald
+> Archd | **[James Galbreath](/people/galbreath-james-1672.md)** and **Mary Fleeming** his lawfull spouse has a son Born 9th September named Archibald
 
 TBD: another record under Calbreath
 
@@ -1565,7 +1565,7 @@ TBD: [Archibald Galbreath](/people/galbreath-archibald-1760.md) / Jean Corbet
 
 ## 1808-02-06 Mary Galbreath
 
-TBD: HUGH GALBREATH/CHRISTIAN MACDONALD 
+TBD: **[Hugh Galbreath](/people/galbreath-hugh-1785-mcdonald.md)** and **Christian MacDonald**
 
 ## 1808-03-22 Samuel Galbreath
 
@@ -1610,7 +1610,7 @@ TBD: ARCHIBALD GALBREATH/JEAN CORBERT
 
 ## 1809-11-07 Margaret Galbreath
 
-TBD: HUGH GALBREATH/CHRISTAN MACDONALD 
+TBD: **[Hugh Galbreath](/people/galbreath-hugh-1785-mcdonald.md)** and **Christan MacDonald**
 
 ## [1809-12-27 James Galbreath](/people/galbreath-james-1809.md)
 
@@ -1635,7 +1635,7 @@ TBD: JAMES GALBREATH/CATHARINE MACNEILL
 
 ## 1811-03-17 Norman Galbreath
 
-TBD: HUGH GALBREATH/CHRISTIAN MACDONALD
+TBD: **[Hugh Galbreath](/people/galbreath-hugh-1785-mcdonald.md)** and **Christian MacDonald**
 
 TWO RECORDS (same names, maybe just copied over on to next page)
 
@@ -1698,7 +1698,7 @@ TBD: [DAVID STEWART GALBREATH](/people/galbraith-david-stewart-1782.md) / ELIZAB
 
 ## 1813-09-22 Jean Galbreath
 
-TBD: HUGH GALBREATH/CHRISTIAN MACDONALD
+TBD: **[Hugh Galbreath](/people/galbreath-hugh-1785-mcdonald.md)** and **Christian MacDonald**
 
 ## 1814-01-16 Mary Galbreath
 
@@ -1742,7 +1742,7 @@ TBD: NEILL GALBREATH/MORE BROWN
 
 ## 1816-04-13 Jean Galbreath
 
-TBD: HUGH GALBREATH/CHRISTIAN MACDONALD
+TBD: **[Hugh Galbreath](/people/galbreath-hugh-1785-mcdonald.md)** and **Christian MacDonald**
 
 ## 1816-06-19 Mary Galbreath
 
@@ -1812,7 +1812,7 @@ TBD: NEILL GALBREATH/MARION BROWN
 
 ## 1819-08-31 Catharine Galbreath
 
-TBD: HUGH GALBREATH/CHRISTIAN MCDONALD
+TBD: **[Hugh Galbreath](/people/galbreath-hugh-1785-mcdonald.md)** and **Christian McDonald**
 
 ## 1819-09-16 Alexander Macdonald Galbreath
 
@@ -1917,7 +1917,7 @@ TWO records, same date
 
 ## 1828-07-15 Donald Galbreath
 
-TBD: HUGH GALBREATH/CHRISTIAN MCDONALD
+TBD: **[Hugh Galbreath](/people/galbreath-hugh-1785-mcdonald.md)** and **Christian McDonald**
 
 ## 1828-08-03 Agnes Galbreath
 
