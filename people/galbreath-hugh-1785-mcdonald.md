@@ -11,7 +11,7 @@ Children of Hugh and Christina (McDonald) Galbreath, all baptized in Campbeltown
 
 1. *Mary Galbreath*, b. 6 Feb 1808[^mary-birth]
 2. *Margaret Galbreath*, b. 7 Nov 1809[^margaret-birth]
-3. *Norman Galbreath*, b. 17 Mar 1811[^norman-birth], m. *Euphmia McKillop*
+3. *[Norman Galbreath](galbreath-norman-1811-mckillop.md)*, b. 17 Mar 1811[^norman-birth], m. *Euphmia McKillop*
 4. *Jean Galbreath*, b. 22 Sep 1813[^jean1-birth]
 5. *Jean Galbreath*, b. 13 Apr 1816[^jean2-birth]
 6. *Catherine Galbreath*, b. 31 Aug 1819 [^catherine-birth]
