@@ -6,9 +6,16 @@ familysearch: https://www.familysearch.org/tree/person/details/KZ41-385
 
 He married 2 Feb 1836 in Campbeltown[^marriage] to **Euphemia McKillop**, daughter of John McKillop and Margaret Watson. Her birth name was Agnes, and born 15 Mar 1802,[^euphemia-birth] but apparently adopted Euphiema. She died 10 Mar 1911 in Campbeltown[^euphemia-death]
 
+- 1841 Census[^census1841]
+- 1851 Census[^census1851]
+
 Children of Norman and Euphiam (McKillop) Galbreath:
 
 1. *Ann Galbraith*,  d. 12 Mar 1911[^ann-death]
+
+[^census1841]: 1841 Census; [Section 507-15-1](/sources/scotland-census-1841-campbeltown.md#507-15-1)
+
+[^census1851]: 1851 Census; [Section 507-11-29](/sources/scotland-census-1851-campbeltown.md#507-11-29)
 
 [^birth]: OPR Campbeltown, baptism of [Norman Galbreath](/sources/opr-campbeltown-births.md#1811-03-17-norman-galbreath)
 
