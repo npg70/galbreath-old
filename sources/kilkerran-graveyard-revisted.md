@@ -28,12 +28,10 @@ But not the third stone with Robert Clark and Mary Galbraith.  Humph.
 
 ## Page 27
 
-Agnes Galbraith is mentioned:
-
 > This sandstone momument, which is eroding badly, was raised by Malcolm McNeilage to
 > his wife Agnes Galbraith, who died of tuberculosis at age 23 on 28/10/1886.
 
-Agnes Galbraith, daughter of [Neil Galbreath](/people/galbraith-neil-1841.md) and Martha Stewart, 
+Agnes Galbraith, daughter of [Neil Galbreath](/people/galbraith-neil-1841.md) and Martha Stewart, born 23 Jan 1863, Saddell.
 
 There are some other minor details in the book.
 
