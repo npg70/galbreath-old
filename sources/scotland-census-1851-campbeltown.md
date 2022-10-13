@@ -520,8 +520,8 @@ Shore St, West side, [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-i
 
 | Name               | Relation | Age  | Occupation | Birthplace  |
 |--------------------|----------|------|------------|-------------|
-| Norman Galbreath   | Head     | 35   | Fisherman  | Campbeltown |
-| Euphemia Galbreath | Wife     | 43   |            | Campbeltown  |
+| [Norman Galbreath](/people/galbreath-norman-1811-mckillop.md)   | Head     | 35   | Fisherman  | Campbeltown |
+| Euphemia Galbreath [McKillop] | Wife     | 43   |            | Campbeltown  |
 | Mary Galbreath     | Dau      |  6   | Errand girl [???] | Campbeltown |
 | Margaret Galbreath | Dau      | 14   |            | Campbeltown |
 | Ann Galbreath      | Dau      |  1   |            | Campbeltown |
