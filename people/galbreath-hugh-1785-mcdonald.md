@@ -7,6 +7,8 @@ familysearch: https://www.familysearch.org/tree/person/details/K8KC-YQG
 He married 1807 in Campbeltown[^marriage] to **Christina (Christian) McDonald**.  Her death is not listed in statutory records indicated she died before 1855.
 She is also not in the 1851 Census, so perhaps died before that.
 
+Much of family is listed in the 1841 Census.[^census1841]
+
 Children of Hugh and Christina (McDonald) Galbreath, all baptized in Campbeltown:
 
 1. *Mary Galbreath*, b. 6 Feb 1808[^mary-birth]
@@ -20,7 +22,7 @@ Children of Hugh and Christina (McDonald) Galbreath, all baptized in Campbeltown
 
 [^marriage]: XXX
 
-[^census1841]: XXX
+[^census1841]: 1841 Census; Households of the late Hugh Galbreath; Section [507-15-1](/sources/scotland-census-1841-campbeltown.md#507-15-1
 
 [^mary-birth]: OPR Campbeltown, baptism of [Mary Galbreath](/sources/opr-campbeltown-births.md#1808-02-06-mary-galbreath)
 
