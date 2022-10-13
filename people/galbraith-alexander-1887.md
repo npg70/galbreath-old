@@ -11,7 +11,8 @@ Children of Alexander and Eliza (Campbell) Galbraith, all events in Carradale, A
 1. *John Collin Campbell Galbraith*, b. 1910, d. 13 Feb 1988, m. *Mary McKinlay MacDougall*
 2. *[Alexander Galbraith](galbraith-alexander-1914-mcdougal.md)*, b. 1 Jun 1914, d. 2 Jan 2000, m. *Marion Torrance Semple McDougall*
 3. *Richard Harris Galbraith*, b. 17 Apr 1918, d. 30 Jul 1995, m. *Mary Rooney*
-4. *Archibald Galbraith*, b ~1927, d. 24 Apr 1946[^death]
+4. *Colin Campbell Galbraith*, b. 11 Aug 1921, Saddell[^colin-birth]
+5. *Archibald Galbraith*, b ~1927, d. 24 Apr 1946[^death]
 
 [^birth]: Statutory registers Births 531/1 3, Saddel, Argyll, birth of Alexander Galbraith, on [ScotlandPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/42705294)
 
@@ -31,3 +32,5 @@ Children of Alexander and Eliza (Campbell) Galbraith, all events in Carradale, A
     Eliza Tina Campbell
     Who Died 29th November 1972
     Aged 86 Years
+
+[^colin-birth]: Statutory records of Saddell, Argyll; 1921 GALBRAITH, COLIN CAMPBELL (Statutory registers Births 531/1 4); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/47378609)
