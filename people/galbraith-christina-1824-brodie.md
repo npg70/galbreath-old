@@ -1,6 +1,6 @@
 ---
 title: Christina Galbraith b. 1824
-familysearch: XXX
+familysearch: https://www.familysearch.org/tree/person/details/KCXN-79J
 ---
 ***Christina Galbraith***, daughter of *Hugh Galbraith* and *Christina McDonald*, was baptized 15 Aug 1824 in Campbeltown.[^birth]
 She died 10 Apr 1878 in Campbeltown.[^death].
