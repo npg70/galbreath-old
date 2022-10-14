@@ -20,7 +20,7 @@ Children of Hugh and Christina (McDonald) Galbreath, all baptized in Campbeltown
 7. *[Christian (Christina) Galbreath](galbraith-christina-1824-brodie.md)*, b. 15 Aug 1824[^christina-birth]
 8. *Donald Galbreath*, b. 15 Jul 1828.[^donald-birth]  Present in 1841 Census, but then no other records (census or statutory) found.
 
-[^marriage]: XXX
+[^marriage]: Statutory records of Campbeltown; 11/05/1807 GALBREATH, HUGH (Old Parish Registers Marriages 507/ 50 77 Campbeltown) Page 77 of 131; [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/9531014?image=77)
 
 [^census1841]: 1841 Census; Households of the late Hugh Galbreath; Section [507-15-1](/sources/scotland-census-1841-campbeltown.md#507-15-1)
 
