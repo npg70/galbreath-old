@@ -1622,7 +1622,7 @@ TBD: **[Hugh Galbreath](/people/galbreath-hugh-1785-mcdonald.md)** and **Christa
 
 TBD: JOHN GALBREATH/MARGARET COLVILL
 
-## 1811-01-05 Margaret Galbreath
+## [1811-01-05 Margaret Galbreath](/people/galbreath-margaret-1811-beaton.md)
 
 [05/01/1811 GALBREATH, MARGARET (Old Parish Registers Births 507/ 40 364 Campbeltown) Page 364 of 504](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358339?image=364)
 
