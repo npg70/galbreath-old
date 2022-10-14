@@ -174,7 +174,7 @@ Daughter of [William Galbreath](/people/galbreath-william-1780.md).
 > 816.	Erected by LACH. McNEIL your. Of Kilchrist in memory of CATHARIN CLARK his spouse who died 10 November 1732 her age 17.  By CATHERINE McNEILL in memory of her husband JAMES GALBRAITH, Mariner, who died 6 February 1817 aged 37 years and of her mother CATHERINE McNEILL who died 26 May 1845 aged 74 years, MARGARET GALBRAITH daughter of the above JAMES GALBRAITH and CATHERINE McNEILL and spouse of the late EDWARD REATON, Mariner, who died 10 May 1890 aged 79 years.
 
 * James Galbreath.  Marker on [FindAGrave](https://www.findagrave.com/memorial/167549470/james-galbreath)
-* [Margaret Galbreath](/people/galbreath-margaret-1811-beaton.md), daughter of James Galbreath and Catherine McNeil, born 1811.  Marker on [FindAGrave]() 
+* [Margaret Galbreath](/people/galbreath-margaret-1811-beaton.md), daughter of James Galbreath and Catherine McNeil (above), born 1811.  Marker on [FindAGrave](https://www.findagrave.com/memorial/167549653/margaret-beaton) 
 
 ## 833.2
 
