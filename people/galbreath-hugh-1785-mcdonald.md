@@ -8,7 +8,7 @@ He married 1807 in Campbeltown[^marriage] to **Christina (Christian) McDonald**,
 08/02/1788 in Campbeltown[^mcdonald-birth]. Her death is not listed in statutory records indicating she died before 1855.
 She is also not in the 1851 Census, so perhaps died before that.
 
-Much of family is listed in the 1841 Census.[^census1841]
+Much of family, minus Hugh, is listed in the 1841 Census.[^census1841]
 
 Children of Hugh and Christina (McDonald) Galbreath, all baptized in Campbeltown:
 
