@@ -1624,7 +1624,10 @@ TBD: JOHN GALBREATH/MARGARET COLVILL
 
 ## 1811-01-05 Margaret Galbreath
 
-TBD: JAMES GALBREATH/CATHARINE MACNEILL
+[05/01/1811 GALBREATH, MARGARET (Old Parish Registers Births 507/ 40 364 Campbeltown) Page 364 of 504](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358339?image=364)
+
+> Margaret | Lawful Daughter to **James Galbreath** Sailor Campbeltown and 
+> **Catherine MacNeil** born 3rd baptized 5th January 1811 named Margaret
 
 ## 1811-02-20 Samuel Galbreath
 
@@ -1641,7 +1644,7 @@ TWO RECORDS (same names, maybe just copied over on to next page)
 
 ## 1811-03-30 Anne Galbreath
 
-TBD: [Neill Galbreath](/people/galbraith-neil-1788.md) / Mary MacMillan
+TBD: **[Neill Galbreath](/people/galbraith-neil-1788.md)** / **Mary MacMillan**
 
 ## [1811-05-31 Peter Galbreath](/people/galbraith-peter-1811.md)
 
