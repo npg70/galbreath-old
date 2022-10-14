@@ -4,7 +4,8 @@ familysearch: https://www.familysearch.org/tree/person/details/K8KC-YQG
 ---
 ***Hugh Galbreath***, of unknown origin, was born around 1785.  He died before 1841.
 
-He married 1807 in Campbeltown[^marriage] to **Christina (Christian) McDonald**.  Her death is not listed in statutory records indicated she died before 1855.
+He married 1807 in Campbeltown[^marriage] to **Christina (Christian) McDonald**, was daughter of Norman MacDonald and Mary Beeth, baptized 	
+08/02/1788 in Campbeltown[^mcdonald-birth]. Her death is not listed in statutory records indicating she died before 1855.
 She is also not in the 1851 Census, so perhaps died before that.
 
 Much of family is listed in the 1841 Census.[^census1841]
@@ -23,6 +24,8 @@ Children of Hugh and Christina (McDonald) Galbreath, all baptized in Campbeltown
 [^marriage]: Statutory records of Campbeltown; 11/05/1807 GALBREATH, HUGH (Old Parish Registers Marriages 507/ 50 77 Campbeltown) Page 77 of 131; [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/9531014?image=77)
 
 [^census1841]: 1841 Census; Households of the late Hugh Galbreath; Section [507-15-1](/sources/scotland-census-1841-campbeltown.md#507-15-1)
+
+[^mcdonald-birth]: See [ScotlandsPeople](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=Macdonald&surname_so=soundex&forename=Chris&forename_so=starts&sex=F&from_year=1770&to_year=1790&parent_names=Norman&parent_names_so=exact&parent_name_two_so=exact&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches)
 
 [^mary-birth]: OPR Campbeltown, baptism of [Mary Galbreath](/sources/opr-campbeltown-births.md#1808-02-06-mary-galbreath)
 
