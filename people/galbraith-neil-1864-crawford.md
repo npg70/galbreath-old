@@ -17,4 +17,4 @@ Children of Neil and Mary (Crawford) Galbraith:
 
 [^marriage]: Statutory records of Greenock, Renfrew; 1887 GALBRAITH, NEIL (Statutory registers Marriages 564/2 106); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_marriages/1066312)
 
-[^duncan-birth]: Statutory records of 
+[^duncan-birth]: Statutory records of East Greenock, Renfrew; 1885 GALBRAITH, DUNCAN (Statutory registers Births 564/2 310); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_births/42462021)
