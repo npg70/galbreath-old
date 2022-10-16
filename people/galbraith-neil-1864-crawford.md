@@ -9,7 +9,7 @@ He married 30 December 1887 in Greenock, Renfrewshire,[^marriage] to **Mary Craw
 
 Children of Neil and Mary (Crawford) Galbraith:
 
-1. *Duncan Galbraith*, b. 12 May 1885, Greenock[^duncan-birth], m. *Sarah Graham Wasson*
+1. *[Duncan Galbraith](galbraith-duncan-1885-wasson.md)*, b. 12 May 1885, Greenock[^duncan-birth], m. *Sarah Graham Wasson*
 
 [^birth]: Staturory records of 
 
