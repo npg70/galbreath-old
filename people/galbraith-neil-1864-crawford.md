@@ -2,7 +2,7 @@
 title: Neil Galbraith b. 1864 m. Mary Crawford
 familysearch: https://www.familysearch.org/tree/person/details/M15J-1P4
 ---
-***Neil Galbraith***, son of , was born 18 May 1864 in Lochgilphead,[^birth] and died 8 Apr 1946
+***Neil Galbraith***, son of *[Duncan Galbraith](galbraith-duncan-1832-walker.md)* and *Anne Walker*, was born 18 May 1864 in Lochgilphead,[^birth] and died 8 Apr 1946
 in Greenock, Renfrew.[^death]
 
 He married 30 December 1887 in Greenock, Renfrewshire,[^marriage] to **Mary Crawford**.
