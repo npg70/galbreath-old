@@ -39,12 +39,13 @@ He married in 2 Jun 1823 in North Knapdale[^marriage] to **Christian McGilp**.
 Children of Duncan and Christian (McGilp) Galbreath, all baptized in North Knapdale:
 
 1. *Mary Galbreath*, bp. 3 Apr 1824; d. 22 Oct 1903, North Knapdale;[^mary-death]; m. *Duncan McNicol*
-2. *John Galbreath*, bp. 26 Feb 1826; m1. *Christina Campbell*; m2. *Mary McNeil*
+2. *[John Galbreath](galbreath-john-1826-campbell-mcneil.md)*, bp. 26 Feb 1826; m1. *Christina Campbell*; m2. *Mary McNeil*
 3. *Archibald Galbreath*, bp. 7 Jun 1828; d. 27 Mar 1865; Lochgilphead[^archibald-death] unmarried
 4. *Alexander Galbreath*, bp. 6 Jun 1830; d. 30 May 1857; Lochgilphead[^alexander-death] unmarried
 5. *[Duncan Galbraith](galbraith-duncan-1832-walker.md)*, bp. 7 Sep 1832;[^duncan-birth] m. *Anne Walker*
-6. *Neil Galbraith*, bp. 17 Jul 1834
-7. *Nancy Galbraith*, bp. 12 Jan 1837
+6. *[Neil Galbraith](galbraith-neil-1834-cameron.md)*, bp. 17 Jul 1834
+7. *Nancy Galbraith*, bp. 12 Jan 1837; perhaps died between 1851-1855
+8. *Flora Galbreath*, TBD, appears in Census
 
 [^birth]: Parents and birth year are inferred from death record.
 
