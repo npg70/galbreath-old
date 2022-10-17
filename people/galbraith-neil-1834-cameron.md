@@ -1,6 +1,6 @@
 ---
 title: Neil Galbraith b. 1834 m. Christine Cameron
-familysearch:
+familysearch: https://www.familysearch.org/tree/person/details/M1R1-KB3
 ---
 ***Neil Galbraith***, son of *[Duncan Galbreath](galbreath-duncan-1793-mcgilp.md)* and *Christian McGilp*,
 was baptized 17 Jul 1834 in North Knapdale.  He died at 5 May 1917 at Lochgilphead.[^death]
