@@ -30,6 +30,7 @@ He married in 2 Jun 1823 in North Knapdale[^marriage] to **Christian McGilp**.
     * Alexander, age 7 / ~1854, grandson, born in Greenock
     * Archibald , age 5/ ~1856, grandson, born in Greenock  
 * 1871 Census[^census1871]
+* 1881 Census[^census1881]
      
 Children of Duncan and Christian (McGilp) Galbreath, all baptized in North Knapdale:
 
@@ -59,6 +60,5 @@ Children of Duncan and Christian (McGilp) Galbreath, all baptized in North Knapd
 
 [^census1881]: 1881 Census on [FindMyPast](https://www.findmypast.com/transcript?id=GBC%2F1881%2F0029389491)
 
-[^census1891]: TBD
 
 
