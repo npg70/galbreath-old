@@ -12,9 +12,9 @@ Children of Duncan and Anne (Walker) Galbraith:
 
 [^birth]: OPR North Knapdale; 07/09/1832 GALBREATH, DUNCAN (Old Parish Registers Births 530/ 20 62 North Knapdale) Page 62 of 320; [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357402?image=62)
 
-[^death1]: Statutory records of Lochgilphead; 1864 GALBRAITH, DUNCAN (Statutory registers Deaths 526/ 32); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/10660101)
+[^death1]: Statutory records of Lochgilphead; 1864 GALBRAITH, DUNCAN (Statutory registers Deaths 526/ 32); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/711945)
 
-[^death2]: add correction doco from above.
+[^death2]: Statutory records of Lochgilphead; 1864 GALBRAITH, DUNCAN (Statutory registers Corrected Entries 526/00 001 8) (RCE); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_rce/439922?record_type=nrs_stat_deaths&record_id=711945)
 
 [^marriage]:  XXX
 
