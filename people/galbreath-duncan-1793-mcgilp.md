@@ -6,6 +6,16 @@ familysearch: https://www.familysearch.org/tree/person/details/K4XW-TFP
 
 He married in 2 Jun 1823 in North Knapdale[^marriage] to **Christian McGilp**.
 
+* 1841 Census[^census1841] - Lists the family in North Knapdale as:
+    * Duncan - Age 45 / ~ 1796
+    * Christian - Age 40 / ~1801
+    * Archibald - Age 13 / ~1828
+    * Alexander - Age 11 / ~1830
+    * Duncan - Age 9 / ~1832
+    * Neil - Age 6 / ~1835
+    * Nancy - Age 4 / ~1837
+    * Flora - Age 1 / ~1840 
+
 Children of Duncan and Christian (McGilp) Galbreath, all baptized in North Knapdale:
 
 1. *Mary Galbreath*, bp. 3 Apr 1824
@@ -25,3 +35,4 @@ Children of Duncan and Christian (McGilp) Galbreath, all baptized in North Knapd
 [^duncan-birth]: OPR North Knapdale; 07/09/1832 GALBREATH, DUNCAN (Old Parish Registers Births 530/ 20 62 North Knapdale) Page 62 of 320; [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357402?image=62)
 
 
+[^census1841]: 1841 Census on [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1841/0016652133&expand=true)
