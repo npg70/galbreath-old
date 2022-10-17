@@ -22,6 +22,13 @@ He married in 2 Jun 1823 in North Knapdale[^marriage] to **Christian McGilp**.
     * Neil - Age 15 / / ~1836
     * Flory - Age 10 / ~1841
     * Chrisitan - Age 8 / ~1843
+* 1861 Census[^census1861] - Family in South Knapdale, Lochgilphead
+    * Duncan - Age 66 / ~1795
+    * Christina - Age 65 / ~1796
+    * Archibald - Age 30 / ~1831
+    * Neil - Age 23 / ~1838
+    * Alexander, age 7 / ~1854, grandson, born in Greenock
+    * Archibald , age 5/ ~1856, grandson, born in Greenock  
      
 Children of Duncan and Christian (McGilp) Galbreath, all baptized in North Knapdale:
 
@@ -44,4 +51,7 @@ Children of Duncan and Christian (McGilp) Galbreath, all baptized in North Knapd
 [^census1841]: 1841 Census on [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1841/0016652133&expand=true)
 
 [^census1851]: 1851 Census on [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1851/0019314959&expand=true)
+
+[^census1861]: 1861 Census on [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1861/0022526473&expand=true)
+
 
