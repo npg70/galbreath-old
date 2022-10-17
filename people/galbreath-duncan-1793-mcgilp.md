@@ -13,7 +13,7 @@ Children of Duncan and Christian (McGilp) Galbreath:
 
 [^birth]: Parents and birth year are inferred from death record.
 
-[^marriage]:
+[^marriage]: OPR North Knapdale; 02/06/1823 GALBREATH, DUNCAN (Old Parish Registers Marriages 530/ 20 197 North Knapdale) Page 197 of 320; [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/9530984?image=197)
 
 [^death]:
 
