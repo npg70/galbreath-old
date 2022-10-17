@@ -11,6 +11,9 @@ He married second to **Mary McNeil**
 
 Children of John and Christina (Campbell) Galbreath:
 
+1. *Archibald Galbreath*
+2. *Alexander Galbreath*
+
 Children of John and Mary (McNeil) Galbreath:
 
 [^death]: Statutory records of East District, Greenock, Renfrew; 1901 GALBREATH, JOHN (Statutory registers Deaths 564/1 185); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/5357915)
