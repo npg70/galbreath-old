@@ -12,7 +12,7 @@ Children of Duncan and Christian (McGilp) Galbreath:
 2. *John Galbreath*, bp. 26 Feb 1826
 3. *Archibald Galbreath*, bp. 7 Jun 1828
 4. *Alexander Galbreath*, bp. 6 Jun 1830
-5. *[Duncan Galbraith](galbraith-duncan-1832-walker.md)*, b. 7 Sep 1832, North Knapdale[^duncan-birth]
+5. *[Duncan Galbraith](galbraith-duncan-1832-walker.md)*, bp. 7 Sep 1832, North Knapdale[^duncan-birth]
 6. *Neil Galbraith*, bp. 17 Jul 1834
 7. *Nancy Galbraith*, bp. 12 Jan 1837
 
