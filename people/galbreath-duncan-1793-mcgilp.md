@@ -15,7 +15,14 @@ He married in 2 Jun 1823 in North Knapdale[^marriage] to **Christian McGilp**.
     * Neil - Age 6 / ~1835
     * Nancy - Age 4 / ~1837
     * Flora - Age 1 / ~1840 
-
+* 1851 Census[^census1851] - Family in Lochgilphead:
+    * Duncan - Age 56 / ~ 1795 
+    * Christian - Age 32 / ~1819
+    * Duncan - Age 17 / ~1834
+    * Neil - Age 15 / / ~1836
+    * Flory - Age 10 / ~1841
+    * Chrisitan - Age 8 / ~1843
+     
 Children of Duncan and Christian (McGilp) Galbreath, all baptized in North Knapdale:
 
 1. *Mary Galbreath*, bp. 3 Apr 1824
@@ -34,5 +41,7 @@ Children of Duncan and Christian (McGilp) Galbreath, all baptized in North Knapd
 
 [^duncan-birth]: OPR North Knapdale; 07/09/1832 GALBREATH, DUNCAN (Old Parish Registers Births 530/ 20 62 North Knapdale) Page 62 of 320; [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357402?image=62)
 
-
 [^census1841]: 1841 Census on [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1841/0016652133&expand=true)
+
+[^census1851]: 1851 Census on [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1851/0019314959&expand=true)
+
