@@ -4,7 +4,7 @@ familysearch: https://www.familysearch.org/tree/person/details/K4XW-TFP
 ---
 ***Duncan Galbreath***, son of *Alexander Galbreath* and *Mary Leitch*, was born around 1793 in North Knapdale.[^birth]  He died in
 
-He married in 1823 to **Christian McGilp**
+He married in 2 Jun 1823 in North Knapdale[^marriage] to **Christian McGilp**.
 
 Children of Duncan and Christian (McGilp) Galbreath:
 
