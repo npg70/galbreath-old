@@ -38,9 +38,9 @@ He married in 2 Jun 1823 in North Knapdale[^marriage] to **Christian McGilp**.
      
 Children of Duncan and Christian (McGilp) Galbreath, all baptized in North Knapdale:
 
-1. *Mary Galbreath*, bp. 3 Apr 1824
+1. *Mary Galbreath*, bp. 3 Apr 1824; d. 22 Oct 1903, North Knapdale;[^mary-death]; m. *Duncan McNicol*
 2. *John Galbreath*, bp. 26 Feb 1826
-3. *Archibald Galbreath*, bp. 7 Jun 1828
+3. *Archibald Galbreath*, bp. 7 Jun 1828; d. 27 Mar 1865, Lochgilphead[^archibald-death]; unmarried
 4. *Alexander Galbreath*, bp. 6 Jun 1830
 5. *[Duncan Galbraith](galbraith-duncan-1832-walker.md)*, bp. 7 Sep 1832;[^duncan-birth] m. *Anne Walker*
 6. *Neil Galbraith*, bp. 17 Jul 1834
@@ -50,7 +50,11 @@ Children of Duncan and Christian (McGilp) Galbreath, all baptized in North Knapd
 
 [^marriage]: OPR North Knapdale; 02/06/1823 GALBREATH, DUNCAN (Old Parish Registers Marriages 530/ 20 197 North Knapdale) Page 197 of 320; [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/9530984?image=197)
 
-[^death]: Statutory records of Lochgilphead, Argyll; 1885 GALBRAITH, DUNCAN (Statutory registers Deaths 526/ 30); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/2744898)
+[^death]: Statutory records of Lochgilphead, Argyll; 1885 GALBRAITH, DUNCAN (Statutory registers Deaths 526/ 30); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image7 Mat 1/nrs_stat_deaths/2744898)
+
+[^mary-death]: Statutory records of North Knapdale; 1903 GALBRAITH, MARY (Statutory registers Deaths 530/ 12); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/5613398)
+
+[^archibald-death]: Statatory records of Lochgilphead; 1865 GALBRAITH, ARCHIBALD (Statutory registers Deaths 526/ 25); [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_stat_deaths/776999)
 
 [^duncan-birth]: OPR North Knapdale; 07/09/1832 GALBREATH, DUNCAN (Old Parish Registers Births 530/ 20 62 North Knapdale) Page 62 of 320; [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357402?image=62)
 
