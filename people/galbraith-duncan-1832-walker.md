@@ -4,7 +4,7 @@ familysearch: https://www.familysearch.org/tree/person/details/K4KF-NWJ
 ---
 ***Duncan Galbraith***, son of *Duncan Galbraith* and *Christian McGilp*, was baptized 7 Sep 1832 in North Knapdale.[^birth]  He died 8 Jun 1864 in Lochgilphead, due to suspected drowning[^death1][^death2]
 
-He married **Anne Walker**.
+He married [^marriage] **Anne Walker**.
 
 Children of Duncan and Anne (Walker) Galbraith:
 
@@ -16,6 +16,6 @@ Children of Duncan and Anne (Walker) Galbraith:
 
 [^death2]: add correction doco from above.
 
-[^marriage]: 
+[^marriage]:  XXX
 
 [^neil-birth]: xxx
