@@ -43,7 +43,7 @@ Children of Duncan and Christian (McGilp) Galbreath, all baptized in North Knapd
 3. *Archibald Galbreath*, bp. 7 Jun 1828; d. 27 Mar 1865; Lochgilphead[^archibald-death] unmarried
 4. *Alexander Galbreath*, bp. 6 Jun 1830; d. 30 May 1857; Lochgilphead[^alexander-death] unmarried
 5. *[Duncan Galbraith](galbraith-duncan-1832-walker.md)*, bp. 7 Sep 1832;[^duncan-birth] m. *Anne Walker*
-6. *[Neil Galbraith](galbraith-neil-1834-cameron.md)*, bp. 17 Jul 1834
+6. *[Neil Galbraith](galbraith-neil-1834-cameron.md)*, bp. 17 Jul 1834; m. *Christina Cameron*
 7. *Nancy Galbraith*, bp. 12 Jan 1837; perhaps died between 1851-1855
 8. *Flora Galbreath*, TBD, appears in Census
 
