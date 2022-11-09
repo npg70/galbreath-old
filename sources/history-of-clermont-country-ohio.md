@@ -33,7 +33,7 @@ No other Kintyre-sounding names mentioned except:
 
 > Washington
 > 
-> Washington lies on the Ohio [river], easy of the
+> Washington lies on the Ohio [river], east of the
 > southern central part of the county. It was one of the original
 > townships, and its area has been reduced by the formation
 > of Franklin and Monroe townships on the easy and the 
@@ -45,4 +45,4 @@ No other Kintyre-sounding names mentioned except:
 > In the following carefully-prepared list appear the names
 > of all property-owners in the township in 1826
 >
-> Galbreath, Robert, No 659; Daniel Morgan, orig. prop.
+> **Galbreath, Robert**, No 659; Daniel Morgan, orig. prop.
