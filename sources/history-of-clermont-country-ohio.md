@@ -33,6 +33,13 @@ No other Kintyre-sounding names mentioned except:
 
 > Washington
 > 
+> Washington lies on the Ohio [river], easy of the
+> southern central part of the county. It was one of the original
+> townships, and its area has been reduced by the formation
+> of Franklin and Monroe townships on the easy and the 
+> west respectively. On the north is the township of Tate.
+> ...
+>
 > Property-Holders in 1826
 >
 > In the following carefully-prepared list appear the names
