@@ -63,3 +63,17 @@ No other Kintyre-sounding names mentioned except:
 > 1859. -- Joseph Barkley, Thomas Flectcher, **Andrew Galbreath**
 
 
+## [Page 389](https://babel.hathitrust.org/cgi/pt?id=yale.39002054234126&view=1up&seq=484&q1=Galbreath)
+
+> POINT PLEASANT.
+>
+> This is the oldest and most historic village in the town-
+> ship. It was laid out in 1813, to contain 62 7/16 acres, at
+> the mouth of Indian Creek, on the Ohio [river]...  
+> In 1815 the place contained only two houses
+
+Not dated, but discussion is about early Point Pleasant 1820s, 1830s.
+
+> Among the ordinary mechanics where John Wheeler,
+> William and Elnathan Sherwin, and A. Galbreath, coopers;
+> ...
