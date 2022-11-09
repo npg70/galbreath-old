@@ -1,9 +1,13 @@
 ---
 title: "History of Clermont County, Ohio"
-
+date: 1880
 ---
 
-# History of Clermont County, Ohio
+# History of Clermont County, Ohio, with illustrations and biographical sketches of its prominent men and pioneers
+
+https://catalog.hathitrust.org/Record/008726760
+
+Bancroft, R. J., Rockey, J. L. (John L.)., L.H. Everts & Co. (1880). History of Clermont County, Ohio, with illustrations and biographical sketches of its prominent men and pioneers. Philadelphia: L.H. Everts.
 
 
 ## [Page 344](https://babel.hathitrust.org/cgi/pt?id=yale.39002054234126&view=1up&seq=402&q1=Galbreath)
@@ -79,6 +83,21 @@ No other Kintyre-sounding names mentioned except:
 > The present trustees are John Drake, **Harvey Galbreath**,
 > Samuel McMath, Ashley Williams, and Lewis Morris...
 
+## [Page 385]
+
+McNair and Argylshire reference:
+
+> Monroe Township
+>
+> Of the settlements made at a later day, the one so favor-
+> ably known as " the Scotch settlement" is the most prom-
+> inent. In 1821, John Porter, Alexander Porter, Janet Johnston, John Johnston, and John McNair, natives of Argyleshire, Scotland, landed at Philadelphia, and crossing the mountains, purchased a flat-boat at Pittsburgh, de-
+> scended the river to Neville, where they temporarily lived.
+> In 1823 they settled just north of Nicholsville, where one of the party, Alex. Porter, yet resides, nearly eighty eight years old.
+> The Clark, Campbell, McKown, and other Scotch families were added to the settlement in time, which extended itself northward and into Tate.
+> Almost without exception the descendants of the above have become among the most useful citizens of the township, distinguished for their industry, intelligence, and integrity.
+> Their well-kept farms, fine buildings, and improved stock have given the settlement a merited reputation and words of praise from all who visit that part of the county, which is one of the
+most desirable in all Clermont.
 
 ## [Page 387](https://babel.hathitrust.org/cgi/pt?id=yale.39002054234126&view=1up&seq=480&q1=Galbreath)
 
