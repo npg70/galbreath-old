@@ -29,3 +29,13 @@ No other Kintyre-sounding names mentioned except:
 > Crawford, but the precise time cannot be determined; prob-
 > ably soon after the village was laid out.
 
+## [Page 367](https://babel.hathitrust.org/cgi/pt?id=yale.39002054234126&view=1up&seq=441&q1=Galbreath)
+
+> Washington
+> 
+> Property-Holders in 1826
+>
+> In the following carefully-prepared list appear the names
+> of all property-owners in the township in 1826
+>
+> Galbreath, Robert, No 659; Daniel Morgan, orig. prop.
