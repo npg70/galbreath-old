@@ -46,3 +46,20 @@ No other Kintyre-sounding names mentioned except:
 > of all property-owners in the township in 1826
 >
 > **Galbreath, Robert**, No 659; Daniel Morgan, orig. prop.
+
+## [Page  369](https://babel.hathitrust.org/cgi/pt?id=yale.39002054234126&view=1up&seq=445&q1=Galbreath)
+
+> Washington [continued]
+>
+> Civil Organization.
+>
+> Washington is one of the original townships of the
+> county, and the first election was held in 1802; but the
+> records pertaining to the annual meetings which were held
+> prior to 1809 have not been preserved.
+>
+> Trustees
+>
+> 1859. -- Joseph Barkley, Thomas Flectcher, **Andrew Galbreath**
+
+
