@@ -8,8 +8,7 @@ title: "History of Clermont County, Ohio"
 
 ## [Page 344](https://babel.hathitrust.org/cgi/pt?id=yale.39002054234126&view=1up&seq=402&q1=Galbreath)
 
-[Chilo, Ohio](Chilo
-https://maps.app.goo.gl/5MMJPZQMw5giZ7c56) is just down(? up?) the Ohio river from Point Pleasant, Moscow, and Neville.
+[Chilo, Ohio](https://maps.app.goo.gl/5MMJPZQMw5giZ7c56) is just down(? up?) the Ohio river from Point Pleasant, Moscow, and Neville.
 
 > Chilo
 >
