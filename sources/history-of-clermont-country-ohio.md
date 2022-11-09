@@ -62,6 +62,31 @@ No other Kintyre-sounding names mentioned except:
 >
 > 1859. -- Joseph Barkley, Thomas Flectcher, **Andrew Galbreath**
 
+## [Page 377](https://babel.hathitrust.org/cgi/pt?id=yale.39002054234126&view=1up&seq=463&q1=Galbreath)
+
+> Washington Township
+>
+> Methodist Episcopal Church of Neville
+>
+> Before 1820 there was a flourishing class at this point,
+> which had among its members Israel Foster, James Kain,
+> John Miller, Mathew Hastings, Hiram Manning, Elijah
+> Larkin, Jacob Iler, William Primmer, John Drake, Wesley
+> Larkin, James McMath, John Howell, and a number of
+> families, who worshiped in a brick house, which also served
+> as a school building. Connected with the grounds of the 
+> house was the first grave-yard of the village....
+> The present trustees are John Drake, **Harvey Galbreath**,
+> Samuel McMath, Ashley Williams, and Lewis Morris...
+
+
+## [Page 387](https://babel.hathitrust.org/cgi/pt?id=yale.39002054234126&view=1up&seq=480&q1=Galbreath)
+
+> Monroe Township
+> 
+> Assessors
+> 
+> 1878-79, **S. N. Galbreath**
 
 ## [Page 389](https://babel.hathitrust.org/cgi/pt?id=yale.39002054234126&view=1up&seq=484&q1=Galbreath)
 
@@ -70,10 +95,11 @@ No other Kintyre-sounding names mentioned except:
 > This is the oldest and most historic village in the town-
 > ship. It was laid out in 1813, to contain 62 7/16 acres, at
 > the mouth of Indian Creek, on the Ohio [river]...  
-> In 1815 the place contained only two houses
+> In 1815 the place contained only two houses...
 
-Not dated, but discussion is about early Point Pleasant 1820s, 1830s.
+The following is not dated,
+but discussion is about early Point Pleasant 1820s, 1830s.
 
 > Among the ordinary mechanics where John Wheeler,
-> William and Elnathan Sherwin, and A. Galbreath, coopers;
+> William and Elnathan Sherwin, and **A. Galbreath**, coopers;
 > ...
