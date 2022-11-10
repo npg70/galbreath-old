@@ -21,3 +21,4 @@ First record
 - 1812 in Clinton, co: https://www.familysearch.org/ark:/61903/1:1:74QF-43W2
 - 1814 in Franklin Co:  https://www.familysearch.org/ark:/61903/1:1:76PF-1LT2
 - 1816 https://www.familysearch.org/ark:/61903/1:1:748J-FB6Z
+- 1820 in Licking Co: https://www.familysearch.org/ark:/61903/1:1:7NW2-7GT2
