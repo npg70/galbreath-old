@@ -16,7 +16,8 @@ Samuel Gilbreath
 
 # Galbreath & Elm
 
-First record 
+First record
+- 1800 listed in PA newspaper https://www.newspapers.com/image/593170372/?terms=%22Galbreath%20%26%20Elm%22&match=1
 - 1800 in Washington Co, Ohio: https://www.familysearch.org/ark:/61903/1:1:J9FR-4PX
 - 1812 in Clinton, co: https://www.familysearch.org/ark:/61903/1:1:74QF-43W2
 - 1814 in Franklin Co:  https://www.familysearch.org/ark:/61903/1:1:76PF-1LT2
