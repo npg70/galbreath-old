@@ -20,3 +20,4 @@ First record
 - 1800 in Washington Co, Ohio: https://www.familysearch.org/ark:/61903/1:1:J9FR-4PX
 - 1812 in Clinton, co: https://www.familysearch.org/ark:/61903/1:1:74QF-43W2
 - 1814 in Franklin Co:  https://www.familysearch.org/ark:/61903/1:1:76PF-1LT2
+- 1816 https://www.familysearch.org/ark:/61903/1:1:748J-FB6Z
