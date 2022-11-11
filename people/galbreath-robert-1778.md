@@ -25,7 +25,7 @@ The date of entry at the Port of Baltimore has not been confirmed since:
 
 Children of Robert and Katharine (Harvie) Galbreath, baptized in Campbeltown except the last two:[^children]
 
-1. *Jane Galbreath*, bp. 11 Mar 1806[^jane-birth], unmarried.
+1. *Jane Galbreath*, bp. 11 Mar 1806[^jane-birth], d. 18 Oct 1891, Clermont Co, Ohio, USA. Unmarried.
 2. *Samuel Galbreath*, bp. 22 Mar 1808[^samuel-birth], unmarried.
 3. *[James Galbreath](galbreath-james-1809.md)*, bp. 27 Dec 1809,[^james-birth] m. *Nancy Cole*.
 4. *Robert Galbreath*, bp. 25 Feb 1812,[^robert-birth] d. 24 Aug 1842 in Clermont County.
