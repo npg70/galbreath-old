@@ -143,6 +143,8 @@ June 4th | **John Galbreath** in [???] has a lawful son baptized Neill
 > Parochial Schoolmaster in Clachan & **Mary MacLeod**
 > born 8 June 1829 registered 8 July
 
+## 1830-08-03 Archibald Galbrith
+
 ## 1831-01-02 Robert Galbraith
 
 [02/01/1831 GALBRAITH, ROBERT (Old Parish Registers Births 516/ 20 321 Kilcalmonell and Kilberry) Page 321 of 405](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/258?image=321)
@@ -213,6 +215,10 @@ June 4th | **John Galbreath** in [???] has a lawful son baptized Neill
 > Duncan Lawful son to **John Galbraith** Tenant in Firehgam
 > and **Mary MacPhaile** there Born 7th February 1845 Registered
 > 30th June 1845 years
+
+in 1851 census https://www.scotlandspeople.gov.uk/view-image/nrs_census/3016050?image=22&return_row=0
+
+Father missing, only mother
 
 ## 1845-05-22 Donald Galbraith
 
