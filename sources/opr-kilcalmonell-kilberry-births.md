@@ -11,7 +11,7 @@ title: OPR Baptisms Kilcalmonell and Kilberry
 
 [04/06/1797 GALBREATH, NEILL (Old Parish Registers Births 516/ 10 105 Kilcalmonell and Kilberry) Page 105 of 429](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357710?image=105)
 
-June 4th | Neill Galbreath in [???] has a lawful son baptized Neill
+June 4th | **John Galbreath** in [???] has a lawful son baptized Neill
 
 ## 1802-08-00 Elizabeth Galbreath
 
