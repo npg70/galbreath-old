@@ -124,24 +124,54 @@ June 4th | Neill Galbreath in [???] has a lawful son baptized Neill
 [08/06/1829 GALBRAITH, JEAN (Old Parish Registers Births 516/ 20 65 Kilcalmonell and Kilberry) Page 65 of 405](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/496?image=65)
 
 > Jean lawful daughter to **Angus Galbraith**
-> Parochial Schoolmaster in Clachan &  **Mary MacLeod**
+> Parochial Schoolmaster in Clachan & **Mary MacLeod**
 > born 8 June 1829 registered 8 July
 
-## 1831-01-02
+## 1831-01-02 Robert Galbraith
+
+[02/01/1831 GALBRAITH, ROBERT (Old Parish Registers Births 516/ 20 321 Kilcalmonell and Kilberry) Page 321 of 405](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/258?image=321)
+
+> Robert lawful son to **Hector Galbraith** and **Ann Campbell**
+> in Culghailtra born the 2nd Jan 1831 Registered the 8th inst.
+
+## 1831-07-08 Daniel Galbraith
+
+[08/07/1831 GALBRAITH, DANIEL (Old Parish Registers Births 516/ 20 80 Kilcalmonell and Kilberry) Page 80 of 405](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/108?image=80)
+
+> Daniel lawful son of **Angus Galbraith** schoolmaster of this parish & **Mary MacLeod** his spouse 
+> born 8 July 1831 registered 13 August
 
 ## 1831-11-00 Donald Galbraith
 
+[00/11/1831 GALBRAITH, DONALD (Old Parish Registers Births 516/ 20 328 Kilcalmonell and Kilberry) Page 328 of 405](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/120?image=328)
+
+> Donald lawful son to **Archibald Galbraith**
+> and **Mary MacLean** in Crotchegan born in
+> Nov. 1831 Registered the 14th March 1832
+
 ## 1833-02-14 Donald Galbraith
 
-> Donald **John Galbraith** **Mary MacPhaile**
+[14/02/1833 GALBRAITH, DONALD (Old Parish Registers Births 516/ 20 333 Kilcalmonell and Kilberry) Page 333 of 405](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/117?image=333)
+
+> Donald lawful son of **John Galbraith**
+> tenant Terilgay and **Mary MacPhaile** there
+> Born 14th Feby Registered 18th 1833
 
 ## 1833-02-15 John Galbraith
 
-> John **John Galbraith** **Mary Sinclair**
+[15/02/1833 GALBRAITH, JOHN (Old Parish Registers Births 516/ 20 333 Kilcalmonell and Kilberry) Page 333 of 405](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/190?image=333)
+
+> John lawful son of **John Galbraith** Fisherman
+> North Kilberry and **Mary Sinclair** there. Born 15th Feb 1833
+> Reg 12th March 1833
 
 ## 1833-04-10 John Galbraith
 
-> John **Hector Galbraith** **Annie Campbell**
+[10/04/1833 GALBRAITH, JOHN (Old Parish Registers Births 516/ 20 333 Kilcalmonell and Kilberry) Page 333 of 405](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/200?image=333)
+
+> John lawful son of **Hector Galbraith** Cooper at
+> South Couighatro and **Annie Campbell** there.
+> Born 10th April 1833 Regd 27th April 1833
 
 ## 1836-09-05 Archibald Galbreath
 
