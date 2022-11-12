@@ -13,12 +13,36 @@ title: OPR Baptisms Kilcalmonell and Kilberry
 
 June 4th | **John Galbreath** in [???] has a lawful son baptized Neill
 
+## 1800-01-00 Donald Galbreath
+
+**Lachlane Galbreath**
+
 ## 1802-08-00 Elizabeth Galbreath
 
 [00/08/1802 GALBREATH, ELIZABETH (Old Parish Registers Births 516/ 10 134 Kilcalmonell and Kilberry) Page 134 of 429](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357045?image=134)
 
 > Angus Galbreath in Seppochha[definitely not right] his
 > lawful Daughter born Elizabeth
+
+## 1804-01-22 Lauchlane Galbreath
+
+**Lauchlane Galbreath**
+
+## 1804-01-22 Christine Galbreath
+
+**Lauchlane Galbreath**
+
+## 1806-10-08 Margaret Galbreath
+
+**Lachlin Galbreath**
+
+## 1809-05-29 John Galbreath
+
+**Lachlin Galbreath**
+
+## 1811-07-11 Duncan Galbreath
+
+**Lachlan Galbreath**
 
 ## 1820-03-00 Archibald Galbreath
 
@@ -84,6 +108,10 @@ June 4th | **John Galbreath** in [???] has a lawful son baptized Neill
 > Angus lawful son to **John Galbraith** & **Mary McPhail**
 > in Culghailure born th 20th Oct 1825 Registered the 8th Nov.
 
+## 1827-01-27 Mary Galbraith
+
+**John Galbriath** **Mary Sinclair**
+
 ## 1827-01-30 Mary Galbraith
 
 [30/01/1827 GALBRAITH, MARY (Old Parish Registers Births 516/ 20 64 Kilcalmonell and Kilberry) Page 64 of 405](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/565?image=64)
@@ -135,6 +163,11 @@ June 4th | **John Galbreath** in [???] has a lawful son baptized Neill
 > Donald lawful son to **Archd Galbraith** & **Mary Crawford**
 > in Clachan born 21 March 1829 registered 8th May
 
+## 1829-06-00 Lachlan Galbraith
+
+**Donald Galbraith**
+
+
 ## 1829-06-08 Jean Galbraith
 
 [08/06/1829 GALBRAITH, JEAN (Old Parish Registers Births 516/ 20 65 Kilcalmonell and Kilberry) Page 65 of 405](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/496?image=65)
@@ -144,6 +177,8 @@ June 4th | **John Galbreath** in [???] has a lawful son baptized Neill
 > born 8 June 1829 registered 8 July
 
 ## 1830-08-03 Archibald Galbrith
+
+**John Galbrith** & **Mary MacPhail**
 
 ## 1831-01-02 Robert Galbraith
 
@@ -192,6 +227,18 @@ June 4th | **John Galbreath** in [???] has a lawful son baptized Neill
 > South Couighatro and **Annie Campbell** there.
 > Born 10th April 1833 Regd 27th April 1833
 
+## 1833-08-09 Willielmus Galbraith
+
+**Angus Galbraith** & **Mary MacLeod**
+
+## 1833-11-07 Angus Galbraith
+
+**Hector Galbraith** & **Flory Livingstin**
+
+## 1834-11-23 John Galbreath
+
+**Lachlin Galbreath** & **Mary Glen**
+
 ## 1836-09-05 Archibald Galbreath
 
 [05/09/1836 GALBREATH, ARCHIBALD (Old Parish Registers Births 516/ 20 115 Kilcalmonell and Kilberry) Page 115 of 405](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356779?image=115)
@@ -207,6 +254,14 @@ June 4th | **John Galbreath** in [???] has a lawful son baptized Neill
 > Archibald Lawfull Son to **Hector Galbraith** Cooper in 
 > South Cuigactho and **Nancy Campbell** [??] Born
 > 18th May regd 14th June 1840 years[?]
+
+## 1841-03-02 Robert Galbreath
+
+**Lachlan Galbreath** & **Mary Glen**
+
+## 1841-09-09 Mary Galbraith
+
+**John Galbraith** & **Margarate McMillan**
 
 ## 1845-02-07 Duncan Galbraith
 
