@@ -24,7 +24,7 @@ June 4th | **John Galbreath** in [???] has a lawful son baptized Neill
 
 [00/03/1820 GALBREATH, ARCHIBALD (Old Parish Registers Births 516/ 20 11 Kilcalmonell and Kilberry) Page 11 of 405](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356787?image=11)
 
-> Archd lawful son to **Angus Galbreath** & **Isabell Thomson***
+> Archd lawful son to **Angus Galbreath** & **Isabell Thomson**
 > in Lerganahuisin[sic] born about beginning of march last reg
 > 27th Oct 1820
 
@@ -88,8 +88,16 @@ June 4th | **John Galbreath** in [???] has a lawful son baptized Neill
 
 [30/01/1827 GALBRAITH, MARY (Old Parish Registers Births 516/ 20 64 Kilcalmonell and Kilberry) Page 64 of 405](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/565?image=64)
 
-> Mary lawful daut to **Archd Galbraith*** and **Mary Crawford** 
+> Mary lawful daut to **Archd Galbraith** and **Mary Crawford** 
 > in Clachan born 30 Jan 1827 registered 8 May 1829
+
+## 1827-02-18 Angus Galbraith
+
+[18/02/1827 GALBRAITH, ANGUS (Old Parish Registers Births 516/ 20 53 Kilcalmonell and Kilberry) Page 53 of 405](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/97?image=53)
+
+> Angus lawful son to **[Angus Galbraith](/people/galbraith-angus-1784-mcleod.md)**
+> Parochial Schoolmst Clachan & **Mary MacLeod**
+> born 18th Julu 1827 registed 28th February
 
 ## 1828-03-08 Neil Galbraith
 
@@ -104,6 +112,14 @@ June 4th | **John Galbreath** in [???] has a lawful son baptized Neill
 
 > Malcolm | Lawful son to **[Niel Galbraith](/people/galbraith-neil-1797-mcquilkan.md)** and **Janet Macquilkan** in Crear[??] 
 > born the 29th of April 1828.  Registered 9th May
+
+## 1828-08-20 Allan Galbraith
+
+[20/08/1828 GALBRAITH, ALLAN (Old Parish Registers Births 516/ 20 311 Kilcalmonell and Kilberry) Page 311 of 405](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/88?image=311)
+
+> Allan lawful son to **Archibald Galbraith** and **Mary MacLean**
+> in Culghailtro born the 20th August 1828 Registered the 18th
+> October 1828
 
 ## 1828-11-03 Dugald Galbraith
 
