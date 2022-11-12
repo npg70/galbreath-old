@@ -12,7 +12,7 @@ He was a school teacher.
 Children of Angus and Mary (McLeod) Galbraith, all baptized at Kilcalmonell:
 
 1. *[Angus Galbraith](galbraith-angus-1827-smith.md)*, bp. 18 Feb 1827; m. *Agnes Mackie Smith*
-2. *Jean/Jane Galbraith*, bp. 8 Jun 1829, d. 12 Mar 1891[^burial]
+2. *Jean/Jane Galbraith*, bp. 8 Jun 1829, d. 12 Mar 1891[^burial1]
 3. *[Daniel Galbreath](galbraith-daniel-1831-mcqueen.md)*, b. 8 Jul 1831; m. *Jess MacQueen*
 4. *[William Galbraith](galbraith-william-1833.md)*, b. 9 Aug 1833; umn; watchmaker/jeweler
 5. John Galbraith, b. 25 Mar 1836
