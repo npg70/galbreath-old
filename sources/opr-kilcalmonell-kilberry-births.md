@@ -123,7 +123,7 @@ June 4th | **John Galbreath** in [???] has a lawful son baptized Neill
 
 [08/06/1829 GALBRAITH, JEAN (Old Parish Registers Births 516/ 20 65 Kilcalmonell and Kilberry) Page 65 of 405](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/496?image=65)
 
-> Jean lawful daughter to **Angus Galbraith**
+> Jean lawful daughter to **[Angus Galbraith](/people/galbraith-angus-1784-mcleod.md)**
 > Parochial Schoolmaster in Clachan & **Mary MacLeod**
 > born 8 June 1829 registered 8 July
 
@@ -138,7 +138,7 @@ June 4th | **John Galbreath** in [???] has a lawful son baptized Neill
 
 [08/07/1831 GALBRAITH, DANIEL (Old Parish Registers Births 516/ 20 80 Kilcalmonell and Kilberry) Page 80 of 405](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/108?image=80)
 
-> Daniel lawful son of **Angus Galbraith** schoolmaster of this parish & **Mary MacLeod** his spouse 
+> Daniel lawful son of **[Angus Galbraith](/people/galbraith-angus-1784-mcleod.md)** schoolmaster of this parish & **Mary MacLeod** his spouse 
 > born 8 July 1831 registered 13 August
 
 ## 1831-11-00 Donald Galbraith
