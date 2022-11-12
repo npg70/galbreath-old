@@ -1,6 +1,7 @@
 ---
 title: Zella Viola Galbreath b. 1898 m. Robert Calvin Dunbar
 familysearch: https://www.familysearch.org/tree/person/details/LC2F-KLN
+findagrave: https://www.findagrave.com/memorial/157980146/zella-viola-dunbar
 ---
 **Zella Viola Galbreath**, daughter of [Samuel Newton Galbreath](galbreath-samuel-newton-1852.md) and *Jennie Holmes Johnson*, borb 29 Dec 1898.  She married **Robert Calvin Dunbar**.
 
