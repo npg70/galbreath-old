@@ -1,6 +1,7 @@
 ---
 title: Samuel Newton Galbreath b. 1852 m. Jennie Holmes Johnson
 familysearch: https://www.familysearch.org/tree/person/details/LVXX-S1R
+findagrave: https://www.findagrave.com/memorial/133958480/samuel-newton-galbreath
 ---
 **Samuel Newton Galbreath**, son of [*Archibald Galbreath*](galbreath-archibald-1815.md) and *Eliza Rice*, lived his entire live at Point Pleasant Clermont, Ohio, USA, born 20 May 1852, and died 13 Oct 1918.  He was burried Point Pleasant Cemetery, Point Pleasant, Clermont, Ohio, United States.[^burial-samuel]  He married at Columbus, Bartholomew Co, Indiana, United States  12 Sept 1888 to **Jennie Holmes Johnson**, born Brownstown, Jackson, Indiana, USA 11 Dec 1861, and died at Point Pleasant 29 Feb 1960, and burried Laurel Cemetery, Laurel, Clermont County, Ohio, USA.[^burial-jennie]  She was the daughter of *James Johnson* and *Ada Benton*.
 
