@@ -1,5 +1,6 @@
 ---
 title: Ralph Turner Galbreath b.1911 m. Evelyn Stancombe
+familysearch: https://www.familysearch.org/tree/person/details/9HK1-5B7
 ---
 **Ralph Turner Galbreath**, son of [*Bernard Harris Galbreath*](galbreath-bernard-harris-1889.md) and *Effie May Turner*, was born at Ohio County, Indiana, United States, and died at Cincinnati, Hamiliton, Ohio, United States 16 July 1983. He married **Evelyn Stancombe**.
 
