@@ -206,4 +206,19 @@ June 4th | **John Galbreath** in [???] has a lawful son baptized Neill
 > South Cuigactho and **Nancy Campbell** [??] Born
 > 18th May regd 14th June 1840 years[?]
 
+## 1845-02-07 Duncan Galbraith
+
+[07/02/1845 GALBRAITH, DUNCAN (Old Parish Registers Births 516/ 20 359 Kilcalmonell and Kilberry) Page 359 of 405](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/125?image=359)
+
+> Duncan Lawful son to **John Galbraith** Tenant in Firehgam
+> and **Mary MacPhaile** there Born 7th February 1845 Registered
+> 30th June 1845 years
+
+## 1845-05-22 Donald Galbraith
+
+[22/05/1845 GALBRAITH, DONALD (Old Parish Registers Births 516/ 20 359 Kilcalmonell and Kilberry) Page 359 of 405](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/119?image=359)
+
+> Donald Lawfull son to **John Galbraith** Tenant in Baluire
+> and **Margaret MacMillan** there Born 22nd May 1845
+> Registered 17th July 1845 years
 
