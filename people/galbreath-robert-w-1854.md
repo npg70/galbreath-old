@@ -1,5 +1,6 @@
 ---
 title: Robert W Galbreath b. 1854 m. Effie Blanch Harris
+familysearch: https://www.familysearch.org/tree/person/details/LKNB-QNN
 ---
 **Robert W Galbreath**, son of [*John Galbreath*](galbreath-john-1817.md) and *Jane McMath*, born 13 Nov 1854, died at Ohio County, Indiana 4 Nov 1947.  He married **Effie Blanch Harris**.
 
