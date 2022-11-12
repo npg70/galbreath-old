@@ -134,11 +134,12 @@ June 4th | **John Galbreath** in [???] has a lawful son baptized Neill
 > Robert lawful son to **Hector Galbraith** and **Ann Campbell**
 > in Culghailtra born the 2nd Jan 1831 Registered the 8th inst.
 
-## 1831-07-08 Daniel Galbraith
+## [1831-07-08 Daniel Galbraith](/people/galbraith-daniel-1831-mcqueen.md)
 
 [08/07/1831 GALBRAITH, DANIEL (Old Parish Registers Births 516/ 20 80 Kilcalmonell and Kilberry) Page 80 of 405](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/108?image=80)
 
-> Daniel lawful son of **[Angus Galbraith](/people/galbraith-angus-1784-mcleod.md)** schoolmaster of this parish & **Mary MacLeod** his spouse 
+> Daniel lawful son of **[Angus Galbraith](/people/galbraith-angus-1784-mcleod.md)**
+> schoolmaster of this parish & **Mary MacLeod** his spouse 
 > born 8 July 1831 registered 13 August
 
 ## 1831-11-00 Donald Galbraith
