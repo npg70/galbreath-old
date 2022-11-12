@@ -91,7 +91,7 @@ June 4th | **John Galbreath** in [???] has a lawful son baptized Neill
 > Mary lawful daut to **Archd Galbraith** and **Mary Crawford** 
 > in Clachan born 30 Jan 1827 registered 8 May 1829
 
-## 1827-02-18 Angus Galbraith
+## [1827-02-18 Angus Galbraith](/people/galbraith-angus-1827-smith.md)
 
 [18/02/1827 GALBRAITH, ANGUS (Old Parish Registers Births 516/ 20 53 Kilcalmonell and Kilberry) Page 53 of 405](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/97?image=53)
 
