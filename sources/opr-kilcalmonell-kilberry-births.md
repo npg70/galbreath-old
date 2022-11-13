@@ -279,6 +279,14 @@ June 4th | **John Galbreath** in [???] has a lawful son baptized Neill
 
 **Lachlin Galbreath** & **Mary Glen**
 
+## 1834-12-06 Lachlin Galbreath
+
+**Lachlin Galbreath** & **Mary Galbreath**
+
+## 1836-01-19 Catharine Galbreath
+
+**John Galbreath** & **Mary McPhail**
+
 ## 1836-09-05 Archibald Galbreath
 
 [05/09/1836 GALBREATH, ARCHIBALD (Old Parish Registers Births 516/ 20 115 Kilcalmonell and Kilberry) Page 115 of 405](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356779?image=115)
@@ -286,6 +294,26 @@ June 4th | **John Galbreath** in [???] has a lawful son baptized Neill
 > Archd lawful son to **Archd Galbreath** Weaver Clachan & 
 > **Mary Crawford** his spouse born the 5th day of Sept 1836
 > registered the 6th day of December 1836
+
+## 1836-11-18 Angus Galbraith
+
+**Niel Galbraith** **Margarate Galbraith**
+
+## 1837-11-08 Jean Galbraith
+
+[08/11/1837 GALBRAITH, JEAN (Old Parish Registers Births 516/ 20 346 Kilcalmonell and Kilberry) Page 346 of 405](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/498?image=346)
+
+> Jean | lawful daughter to **Hector Galbraith** Cooper in 
+> South Cuilguillire and Nancy Campbell
+> there Born 8th Nov 1837 and regd 9th 1837
+
+## 1838-11-14 Archibald Galbraith
+
+**Archibald Galbraith**  **Margrate Walker**
+
+## 1839-08-16 Betty Galbraith
+
+**John Galbraith**  **Mary McPhail**
 
 ## 1840-05-18 Archibald Galbraith
 
@@ -301,7 +329,7 @@ June 4th | **John Galbreath** in [???] has a lawful son baptized Neill
 
 ## 1841-09-09 Mary Galbraith
 
-**John Galbraith** & **Margarate McMillan**
+**[John Galbraith](/poeple/galbraith-john-1809-mcmillan.md)** & **Margarate McMillan**
 
 ## 1845-02-07 Duncan Galbraith
 
@@ -319,7 +347,7 @@ Father missing, only mother
 
 [22/05/1845 GALBRAITH, DONALD (Old Parish Registers Births 516/ 20 359 Kilcalmonell and Kilberry) Page 359 of 405](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/119?image=359)
 
-> Donald Lawfull son to **John Galbraith** Tenant in Baluire
+> Donald Lawfull son to **[John Galbraith](/people/galbraith-john-1809-mcmillan.md)** Tenant in Baluire
 > and **Margaret MacMillan** there Born 22nd May 1845
 > Registered 17th July 1845 years
 
