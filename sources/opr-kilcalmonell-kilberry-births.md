@@ -291,6 +291,11 @@ June 4th | **John Galbreath** in [???] has a lawful son baptized Neill
 
 [25/03/1836 GALBRAITH, JOHN (Old Parish Registers Births 516/ 20 113 Kilcalmonell and Kilberry) Page 113 of 405](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/198?image=113)
 
+> John lawful son to the deceased *[Angus Galbraith](/people/galbraith-angus-1784-mcleod.md)* 
+> late schoolmaster of Kilcalmonell & *Widow Galbraith* [Mary McLeod] 
+> his spouse born the 25th day of March 1836 registered
+> the 21st day of July 1836
+
 ## 1836-09-05 Archibald Galbreath
 
 [05/09/1836 GALBREATH, ARCHIBALD (Old Parish Registers Births 516/ 20 115 Kilcalmonell and Kilberry) Page 115 of 405](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356779?image=115)
