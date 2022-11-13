@@ -277,7 +277,7 @@ June 4th | **John Galbreath** in [???] has a lawful son baptized Neill
 
 ## 1834-11-23 John Galbreath
 
-**Lachlin Galbreath** & **Mary Glen**
+**[Lachlin Galbreath](/people/galbraith-lachlan-1804-glen.md)** & **Mary Glen**
 
 ## 1834-12-06 Lachlin Galbreath
 
@@ -325,7 +325,7 @@ June 4th | **John Galbreath** in [???] has a lawful son baptized Neill
 
 ## 1841-03-02 Robert Galbreath
 
-**Lachlan Galbreath** & **Mary Glen**
+**[Lachlan Galbreath](/people/galbraith-lachlan-1804-glen.md)** & **Mary Glen**
 
 ## 1841-09-09 Mary Galbraith
 
