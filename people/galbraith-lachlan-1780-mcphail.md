@@ -13,14 +13,26 @@ Children of Lachlan and Mary (McPhail) Galbraith:
 1. *Donald Galbraith*, b. 1800;[^donald-birth] d. 1839.
 2. *[Lachlan Galbraith](galbraith-lachlan-1804-glen.md)*, b. 22 Jan 1804;[^lachlan-birth] m. *Mary Glen*
 3. *Christina Galbraith*, b. 22 Jan 1804;[^christina-birth] d. Bute, Scotland; m. *John McKeich*
-4. *Margaret Galbraith*, ; d. 1864; m. *Neil Galbraith*
-5. *Isabella Galbraith*, d. ; m. *John McKenzie*
+4. *Margaret Galbraith*, b. 8 Oct 1806;[^margaret-birth] d. 1864; m. *Neil Galbraith*, b. [^neil-birth]
+5. *Isabella Galbraith*, b. ;[^isabella-brith] m. *John McKenzie*
 6. *John Galbraith*, b. May 1809; m. *Margaret McMillan*
-7. *Mary Galbraith*, b. ; d. May 1885; m. *Alexander McLeish*
-8. *Duncan Galbraith*, b. 1811.  d. 1839, Glasgow.
+7. *Mary Galbraith*, b. ; d. May 1885;[^mary-birth] m. *Alexander McLeish*
+8. *Duncan Galbraith*, b. 1811;[^duncan-birth]  d. 1839, Glasgow.
 
 [^donald-birth]: OPR [Donald Galbreath](/sources/opr-kilcalmonell-kilberry-births.md#1800-01-00-donald-galbreath)
 
 [^lachlan-birth]: OPR [Lauchlane Galbreath](/sources/opr-kilcalmonell-kilberry-births.md#1804-01-22-lauchlane-galbreath)
 
 [^christina-birth]: OPR [Christina Galbreath](/sources/opr-kilcalmonell-kilberry-births.md#1804-01-22-christine-galbreath)
+
+[^margaret-brith]: OPR [Margaret Galbreath](/sources/opr-kilcalmonell-kilberry-births.md#1806-10-08-margaret-galbreath)
+
+[^neil-birth]: XX
+
+[^isabella-birth]: xx
+
+[^john-birth]: XXX
+
+[^mary-birth]: XXX
+
+[^duncan-birth]: XX
