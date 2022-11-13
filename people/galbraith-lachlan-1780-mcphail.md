@@ -15,7 +15,7 @@ Children of Lachlan and Mary (McPhail) Galbraith:
 3. *Christina Galbraith*, b. 22 Jan 1804;[^christina-birth] d. Bute, Scotland; m. *John McKeich*
 4. *Margaret Galbraith*, b. 8 Oct 1806;[^margaret-birth] d. 1864; m. *Neil Galbraith*, b. [^neil-birth]
 5. *Isabella Galbraith*, b. ;[^isabella-birth] m. *John McKenzie*
-6. *John Galbraith*, b. May 1809; m. *Margaret McMillan*
+6. *John Galbraith*, b. May 1809;[^john-birth] m. *Margaret McMillan*
 7. *Mary Galbraith*, b. ; d. May 1885;[^mary-birth] m. *Alexander McLeish*
 8. *Duncan Galbraith*, b. 1811;[^duncan-birth]  d. 1839, Glasgow.
 
@@ -31,7 +31,7 @@ Children of Lachlan and Mary (McPhail) Galbraith:
 
 [^isabella-birth]: xx
 
-[^john-birth]: XXX
+[^john-birth]: OPR [John Galbreath](/sources/opr-kilcalmonell-kilberry-births.md#1809-05-29-john-galbreath)
 
 [^mary-birth]: XXX
 
