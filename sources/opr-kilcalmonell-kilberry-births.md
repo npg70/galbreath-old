@@ -15,7 +15,7 @@ June 4th | **John Galbreath** in [???] has a lawful son baptized Neill
 
 ## 1800-01-00 Donald Galbreath
 
-**Lachlane Galbreath**
+**[Lachlane Galbreath](/people/galbraith-lachlan-1780-mcphail.md)**
 
 ## 1802-08-00 Elizabeth Galbreath
 
@@ -26,23 +26,23 @@ June 4th | **John Galbreath** in [???] has a lawful son baptized Neill
 
 ## 1804-01-22 Lauchlane Galbreath
 
-**Lauchlane Galbreath**
+**[Lauchlane Galbreath](/people/galbraith-lachlan-1780-mcphail.md)**
 
 ## 1804-01-22 Christine Galbreath
 
-**Lauchlane Galbreath**
+**[Lauchlane Galbreath](/people/galbraith-lachlan-1780-mcphail.md)**
 
 ## 1806-10-08 Margaret Galbreath
 
-**Lachlin Galbreath**
+**[Lachlin Galbreath](/people/galbraith-lachlan-1780-mcphail.md)**
 
 ## 1809-05-29 John Galbreath
 
-**Lachlin Galbreath**
+**[Lachlin Galbreath](/people/galbraith-lachlan-1780-mcphail.md)**
 
 ## 1811-07-11 Duncan Galbreath
 
-**Lachlan Galbreath**
+**[Lachlan Galbreath](/people/galbraith-lachlan-1780-mcphail.md)**
 
 ## 1820-03-00 Archibald Galbreath
 
