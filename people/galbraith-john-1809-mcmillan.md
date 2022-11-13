@@ -17,9 +17,8 @@ Children of John and Mary (McMillan) Galbraith:
 3. *Donald Galbraith*, b. 22 May 1845;[^donald-birth] m. *Mary Ann Hill*
 4. *Margaret Galbraith*, b. 1846; m. *Angus McLachlan*; 9 children
 5. *Lachlan Galbraith*, b. 1849 Canada; m. *Agnes Lake*
-6. *Mary Galbraith*, b. 1855 Canada; m. *George Clark*; 5 children, Michigan, USA
-7. *Elizabeth Galbraith*, b. March 1853; m. *Duncan Galbraith*
-
+6. *Elizabeth Galbraith*, b. 4 Mar 1853, Ontario, Canada; d. 18 Apr 1932, Harwich, Kent, Ontario, Canada; m. *Duncan Galbraith*
+7. *Mary Galbraith*, b. 18 Feb 1855, Ontario, Canada; d. 7 Aug 1935, Bad Axe, Huron, Michigan, USA; m. *George Clark*; 5 children
 
 [^birth]: OPR [John Galbreath](/sources/opr-kilcalmonell-kilberry-births.md#1809-05-29-john-galbreath)
 
