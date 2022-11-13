@@ -34,6 +34,6 @@ Children of Lachlan and Mary (McPhail) Galbraith:
 
 [^john-birth]: OPR [John Galbreath](/sources/opr-kilcalmonell-kilberry-births.md#1809-05-29-john-galbreath)
 
-[^mary-birth]: XXX
+[^mary-birth]: [06/08/1818 GALBREATH, MARY (Old Parish Registers Births 533/ 10 124 South Knapdale) Page 124 of 223](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2358434?image=124)
 
 [^duncan-birth]: OPR [Duncan Galbreath](/sources/opr-kilcalmonell-kilberry-births.md#1811-07-11-duncan-galbreath)
