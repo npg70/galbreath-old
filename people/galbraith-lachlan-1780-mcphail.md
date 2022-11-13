@@ -3,8 +3,10 @@ title: Lachlan Galbraith b. 1769 m. Mary McPhail
 familysearch: xx
 findagrave: xx
 ---
+***Lachlan Galbraith**, son of unknown origin, was born about 1769.
+He died in 1849 (age 69).
 
-He married **Mary McPhail**.  She died November 1763, age 92.
+He married **Mary McPhail**.  She was born around 1771, and died November 1863, age 92.
 
 Children of Lachlan and Mary (McPhail) Galbraith:
 
@@ -14,5 +16,5 @@ Children of Lachlan and Mary (McPhail) Galbraith:
 4. *Margaret Galbraith*, ; d. 1864; m. *Neil Galbraith*
 5. *Isabella Galbraith*, d. ; m. *John McKenzie*
 6. *John Galbraith*, b. May 1809; m. *Margaret McMillan*
-7. *Mary Galbraith*, b. m. *Alexander McLeish*
+7. *Mary Galbraith*, b. ; d. May 1885; m. *Alexander McLeish*
 8. *Duncan Galbraith*, b. 1811.  d. 1839, Glasgow.
