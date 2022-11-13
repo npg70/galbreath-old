@@ -11,7 +11,7 @@ He was a school teacher.
 
 Children of Angus and Mary (McLeod) Galbraith, all baptized at Kilcalmonell:
 
-1. *[Angus Galbraith](galbraith-angus-1827-smith.md)*, bp. 18 Feb 1827; m. *Agnes Mackie Smith*
+1. *[Angus Galbraith](galbraith-angus-1827-smith.md)*, bp. 18 Feb 1827;[^angus-birth] m. *Agnes Mackie Smith*
 2. *Jean/Jane Galbraith*, bp. 8 Jun 1829, d. 12 Mar 1891[^burial1]
 3. *[Daniel Galbreath](galbraith-daniel-1831-mcqueen.md)*, b. 8 Jul 1831; m. *Jess MacQueen*
 4. *[William Galbraith](galbraith-william-1833.md)*, b. 9 Aug 1833; umn; watchmaker/jeweler
@@ -22,3 +22,6 @@ Children of Angus and Mary (McLeod) Galbraith, all baptized at Kilcalmonell:
 [^burial1]: Find a Grave, database and images (https://www.findagrave.com/memorial/179310014/angus-galbraith : accessed 02 July 2022), memorial page for Angus Galbraith (1784–1836), Find a Grave Memorial ID 179310014, citing Kilkerran Cemetery, Campbeltown, Argyll and Bute, Scotland ; Maintained by Pixturmn (contributor 47729036).
 
 [^burial2]: Find a Grave, database and images (https://www.findagrave.com/memorial/160593770/angus-galbraith: accessed 16 October 2022), memorial page for Angus Galbraith (1793–14 Jan 1836), Find a Grave Memorial ID 160593770, citing Largnahension Graveyard, Lochgilphead, Argyll and Bute, Scotland; Maintained by Pixturmn (contributor 47729036) .
+
+[^angus-birth]: OPR Kilcalmonell and Kilberry, Baptism of [Angus Galbraith](/sources/opr-kilcalmonell-kilberry-births.md#1827-02-18-angus-galbraith)
+
