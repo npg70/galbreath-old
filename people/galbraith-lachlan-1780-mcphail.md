@@ -10,8 +10,8 @@ He married **Mary McPhail**.  She was born around 1771, and died November 1863, 
 
 Children of Lachlan and Mary (McPhail) Galbraith:
 
-1. *Donald Galbraith*, b. 1800[^donald-birth]; d. 1839.
-2. *[Lachlan Galbraith](galbraith-lachlan-1804-glen.md)*, b. Jan 1804; m. *Mary Glen*
+1. *Donald Galbraith*, b. 1800;[^donald-birth] d. 1839.
+2. *[Lachlan Galbraith](galbraith-lachlan-1804-glen.md)*, b. 22 Jan 1804;[^lachlan-birth] m. *Mary Glen*
 3. *Christina Galbraith*, b. Jan 1804; d. Bute, Scotland; m. *John McKeich*
 4. *Margaret Galbraith*, ; d. 1864; m. *Neil Galbraith*
 5. *Isabella Galbraith*, d. ; m. *John McKenzie*
@@ -20,3 +20,5 @@ Children of Lachlan and Mary (McPhail) Galbraith:
 8. *Duncan Galbraith*, b. 1811.  d. 1839, Glasgow.
 
 [^donald-birth]: OPR [Donald Galbreath](/sources/opr-kilcalmonell-kilberry-births.md#1800-01-00-donald-galbreath)
+
+[^lachlan-birth]: OPR [Lauchlane Galbreath](/sources/opr-kilcalmonell-kilberry-births.md#1804-01-22-lauchlane-galbreath)
