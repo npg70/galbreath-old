@@ -11,7 +11,7 @@ Children of John and Mary (McMillan) Galbraith:
 
 1. *Mary Galbraith*, b. 9 Sep 1841;[^mary1-birth] d. 1848 "died in Canada at age 7"
 2. *Duncan Galbraith*, ; d. 1843 "killed by a falling tree"
-3. *Donald Galbraith*, b. 1845; m. *Mary A. Hill*
+3. *Donald Galbraith*, b. 22 May 1845;[^donald-birth] m. *Mary A. Hill*
 4. *Margaret Galbraith*, b. 1846; m. *Angus McLachlan*; 9 children
 5. *Lachlan Galbraith*, b. 1849 Canada; m. *Agnes Lake*
 6. *Mary Galbraith*, b. 1855 Canada; m. *George Clark*; 5 children, Michigan, USA
@@ -21,3 +21,5 @@ Children of John and Mary (McMillan) Galbraith:
 [^birth]: OPR [John Galbreath](/sources/opr-kilcalmonell-kilberry-births.md#1809-05-29-john-galbreath)
 
 [^mary1-birth]: OPR [Mary Galbraith](/sources/opr-kilcalmonell-kilberry-births.md#1841-09-09-mary-galbraith)
+
+[^donald-birth]: OPR [Donald Galbraith](/sources/opr-kilcalmonell-kilberry-births.md#1845-05-22-donald-galbraith)
