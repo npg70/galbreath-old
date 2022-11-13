@@ -25,3 +25,9 @@ Children of Angus and Mary (McLeod) Galbraith, all baptized at Kilcalmonell:
 
 [^angus-birth]: OPR Kilcalmonell and Kilberry, Baptism of [Angus Galbraith](/sources/opr-kilcalmonell-kilberry-births.md#1827-02-18-angus-galbraith)
 
+[^jean-birth]: OPR Kilcalmonell and Kilberry, Baptism of [Jean Galbraith](/sources/opr-kilcalmonell-kilberry-births.md#1829-06-08-jean-galbraith)
+
+[^daniel-birth]: OPR Kilcalmonell and Kilberry, Baptism of [Daniel Galbraith](/sources/opr-kilcalmonell-kilberry-births.md#1831-07-08-daniel-galbraith)
+
+[^william-birth]: OPR Kilcalmonell and Kilberry, Baptism of [Willielmus Galbraith](/sources/opr-kilcalmonell-kilberry-births.md#1833-08-09-willielmus-galbraith)
+
