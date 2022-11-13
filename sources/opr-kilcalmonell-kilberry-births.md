@@ -36,7 +36,7 @@ June 4th | **John Galbreath** in [???] has a lawful son baptized Neill
 
 **[Lachlin Galbreath](/people/galbraith-lachlan-1780-mcphail.md)**
 
-## 1809-05-29 John Galbreath
+## [1809-05-29 John Galbreath](/people/galbraith-john-1809-mcmillan.md)
 
 **[Lachlin Galbreath](/people/galbraith-lachlan-1780-mcphail.md)**
 
