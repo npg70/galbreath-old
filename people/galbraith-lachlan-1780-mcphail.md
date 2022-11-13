@@ -35,4 +35,4 @@ Children of Lachlan and Mary (McPhail) Galbraith:
 
 [^mary-birth]: XXX
 
-[^duncan-birth]: XX
+[^duncan-birth]: OPR [Duncan Galbreath](/sources/opr-kilcalmonell-kilberry-births.md#1811-07-11-duncan-galbreath)
