@@ -1,0 +1,7 @@
+---
+title: John Galbraith b. 1809 m. Mary McMillan
+---
+***John Galbraith***, son of xxx, was baptized in 1809.
+
+Children of John and Mary (McMillan) Galbraith:
+
