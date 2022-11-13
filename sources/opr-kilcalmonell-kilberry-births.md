@@ -287,6 +287,10 @@ June 4th | **John Galbreath** in [???] has a lawful son baptized Neill
 
 **John Galbreath** & **Mary McPhail**
 
+## 1836-03-25 John Galbraith
+
+[25/03/1836 GALBRAITH, JOHN (Old Parish Registers Births 516/ 20 113 Kilcalmonell and Kilberry) Page 113 of 405]
+
 ## 1836-09-05 Archibald Galbreath
 
 [05/09/1836 GALBREATH, ARCHIBALD (Old Parish Registers Births 516/ 20 115 Kilcalmonell and Kilberry) Page 115 of 405](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356779?image=115)
