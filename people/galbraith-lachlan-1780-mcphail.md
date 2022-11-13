@@ -1,10 +1,9 @@
 ---
-title: Lachlan Galbraith b. 1769 m. Mary McPhail
+title: Lachlan Galbraith b. 1778 m. Mary McPhail
 familysearch: xx
-findagrave: xx
+findagrave: https://www.findagrave.com/memorial/160594309/lachlan-galbraith
 ---
-***Lachlan Galbraith***, son of unknown origin, was born about 1769.
-He died in 1849 (age 69).
+***Lachlan Galbraith***, son of unknown origin, was born about 1778. He died in 1850 (age 72), and buried at Largnahension Graveyard.[^burial]
 
 He married **Mary McPhail**.  She was born around 1771, and died November 1863, age 92.
 
@@ -18,6 +17,8 @@ Children of Lachlan and Mary (McPhail) Galbraith:
 6. *[John Galbraith](galbraith-john-1809-mcmillan.md)*, b. 29 May 1809;[^john-birth] m. *Margaret McMillan*
 7. *Mary Galbraith*, b. ; d. May 1885;[^mary-birth] m. *Alexander McLeish*
 8. *Duncan Galbraith*, b. 11 Jul 1811;[^duncan-birth]  d. 1839, Glasgow.
+
+[^burial]: Find a Grave, database and images (https://www.findagrave.com/memorial/160594309/lachlan-galbraith: accessed 12 November 2022), memorial page for Lachlan Galbraith (1778–8 Sep 1850), Find a Grave Memorial ID 160594309, citing Largnahension Graveyard, Lochgilphead, Argyll and Bute, Scotland; Maintained by Pixturmn (contributor 47729036).
 
 [^donald-birth]: OPR [Donald Galbreath](/sources/opr-kilcalmonell-kilberry-births.md#1800-01-00-donald-galbreath)
 
