@@ -7,4 +7,4 @@ Children of John and Mary (McMillan) Galbraith:
 
 
 
-[^birth]: XXX
+[^birth]: OPR [John Galbreath](/sources/opr-kilcalmonell-kilberry-births.md#1809-05-29-john-galbreath)
