@@ -329,7 +329,7 @@ June 4th | **John Galbreath** in [???] has a lawful son baptized Neill
 
 ## 1841-09-09 Mary Galbraith
 
-**[John Galbraith](/poeple/galbraith-john-1809-mcmillan.md)** & **Margarate McMillan**
+**[John Galbraith](/people/galbraith-john-1809-mcmillan.md)** & **Margarate McMillan**
 
 ## 1845-02-07 Duncan Galbraith
 
