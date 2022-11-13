@@ -4,7 +4,7 @@ familysearch: https://www.familysearch.org/tree/person/vitals/MDCL-FPH
 ---
 ***Lachlan Galbraith***, son of *[Lachlan Galbraith](galbraith-lachlan-1780-mcphail.md)* and *Mary McPhail*, born 22 Jan 1804.[^birth]
 
-He married **Mary Glen**
+He married 8 Feb 1834 to **Mary Glen**.
 
 Children of Lachlan and Mary (Glen) Galbraith:
 
