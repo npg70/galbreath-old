@@ -1,5 +1,6 @@
 ---
 title: Lachlan Galbraith b. 1804 m. Mary Glen
+familysearch: https://www.familysearch.org/tree/person/vitals/MDCL-FPH
 ---
 ***Lachlan Galbraith***, son of *[Lachlan Galbraith](galbraith-lachlan-1780-mcphail.md)* and *Mary McPhail*, born 22 Jan 1804.[^birth]
 
