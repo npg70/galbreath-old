@@ -8,8 +8,11 @@ He married **Mary Glen**
 Children of Lachlan and Mary (Glen) Galbraith:
 
 1. *John Galbraith*, b. 23 Nov 1834[^john-birth]
-2. *
+2. *Robert Galbraith*, b. 2 Mar 1841[^robert-birth]
 
 [^birth]: OPR [Lauchlane Galbreath](/sources/opr-kilcalmonell-kilberry-births.md#1804-01-22-lauchlane-galbreath)
 
 [^john-birth]: OPR [John Galbreath](/sources/opr-kilcalmonell-kilberry-births.md#1834-11-23-john-galbreath)
+
+[^robert-birth]: OPR [Robert Galbreath](/sources/opr-kilcalmonell-kilberry-births.md#1841-03-02-robert-galbreath)
+
