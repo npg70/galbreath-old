@@ -4,6 +4,8 @@ familysearch: https://www.familysearch.org/tree/person/vitals/L551-42V
 ---
 ***John Galbraith***, son of *[Lachlan Galbraith](galbraith-lachlan-1780-mcphail.md)* and *Mary McPhail*, was baptized in 1809.[^birth]
 
+He married 21 Mar 1840 at ?? to **Margarate McMillan**.
+
 Maybe an Elder of the Presbyterian Church.
 
 Entire family immigrated to Canada in 1847.
