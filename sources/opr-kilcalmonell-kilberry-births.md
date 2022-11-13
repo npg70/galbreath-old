@@ -267,9 +267,9 @@ June 4th | **John Galbreath** in [???] has a lawful son baptized Neill
 > South Couighatro and **Annie Campbell** there.
 > Born 10th April 1833 Regd 27th April 1833
 
-## 1833-08-09 Willielmus Galbraith
+## [1833-08-09 Willielmus Galbraith](/people/galbraith-william-1833.md)
 
-**Angus Galbraith** & **Mary MacLeod**
+**[Angus Galbraith](/people/galbraith-angus-1784-mcleod.md)** & **Mary MacLeod**
 
 ## 1833-11-07 Angus Galbraith
 
