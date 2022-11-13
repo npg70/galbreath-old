@@ -12,9 +12,9 @@ He was a school teacher.
 Children of Angus and Mary (McLeod) Galbraith, all baptized at Kilcalmonell:
 
 1. *[Angus Galbraith](galbraith-angus-1827-smith.md)*, bp. 18 Feb 1827;[^angus-birth] m. *Agnes Mackie Smith*
-2. *Jean/Jane Galbraith*, bp. 8 Jun 1829, d. 12 Mar 1891[^burial1]
-3. *[Daniel Galbreath](galbraith-daniel-1831-mcqueen.md)*, b. 8 Jul 1831; m. *Jess MacQueen*
-4. *[William Galbraith](galbraith-william-1833.md)*, b. 9 Aug 1833; umn; watchmaker/jeweler
+2. *Jean/Jane Galbraith*, bp. 8 Jun 1829,[^jean-birth] d. 12 Mar 1891[^burial1]
+3. *[Daniel Galbreath](galbraith-daniel-1831-mcqueen.md)*, b. 8 Jul 1831;[^daniel-birth] m. *Jess MacQueen*
+4. *[William Galbraith](galbraith-william-1833.md)*, b. 9 Aug 1833;[^william-birth] umn; watchmaker/jeweler
 5. John Galbraith, b. 25 Mar 1836
 
 [^marriage]: OPR Kilcalmonell and Kilberry; Marriage of Angus Gilbreth and Mary McLeod; [ScotlandsPeople](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/8480524?image=219).  Angus was a school teacher and both were from Clachan.
