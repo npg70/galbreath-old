@@ -17,7 +17,7 @@ Children of Lachlan and Mary (McPhail) Galbraith:
 5. *Isabella Galbraith*, b. ;[^isabella-birth] m. *John McKenzie*
 6. *John Galbraith*, b. 29 May 1809;[^john-birth] m. *Margaret McMillan*
 7. *Mary Galbraith*, b. ; d. May 1885;[^mary-birth] m. *Alexander McLeish*
-8. *Duncan Galbraith*, b. 1811;[^duncan-birth]  d. 1839, Glasgow.
+8. *Duncan Galbraith*, b. 11 Jul 1811;[^duncan-birth]  d. 1839, Glasgow.
 
 [^donald-birth]: OPR [Donald Galbreath](/sources/opr-kilcalmonell-kilberry-births.md#1800-01-00-donald-galbreath)
 
