@@ -12,10 +12,10 @@ Children of Lachlan and Mary (McPhail) Galbraith:
 1. *Donald Galbraith*, b. 1800;[^donald-birth] d. 1839.
 2. *[Lachlan Galbraith](galbraith-lachlan-1804-glen.md)*, b. 22 Jan 1804;[^lachlan-birth] m. *Mary Glen*
 3. *Christina Galbraith*, b. 22 Jan 1804;[^christina-birth] d. Bute, Scotland; m. *John McKeich*
-4. *Margaret Galbraith*, b. 8 Oct 1806;[^margaret-birth] d. 1864; m. *Neil Galbraith*
+4. *Margaret Galbraith*, b. 8 Oct 1806;[^margaret-birth] d. 1865; m. *Neil Galbraith*
 5. *Isabella Galbraith*, b. ;[^isabella-birth] m. *John McKenzie*
 6. *[John Galbraith](galbraith-john-1809-mcmillan.md)*, b. 29 May 1809;[^john-birth] m. *Margaret McMillan*
-7. *Mary Galbraith*, b. ; d. May 1885;[^mary-birth] m. *Alexander McLeish*
+7. *Mary Galbraith*, b. 6 Aug 1818;[^mary-birth] d. 12 May 1885, East Williams Township, Middlesex, Ontario, Canada; m. *Alexander McLeish*
 8. *Duncan Galbraith*, b. 11 Jul 1811;[^duncan-birth]  d. 1839, Glasgow.
 
 [^burial]: Find a Grave, database and images (https://www.findagrave.com/memorial/160594309/lachlan-galbraith: accessed 12 November 2022), memorial page for Lachlan Galbraith (1778–8 Sep 1850), Find a Grave Memorial ID 160594309, citing Largnahension Graveyard, Lochgilphead, Argyll and Bute, Scotland; Maintained by Pixturmn (contributor 47729036).
