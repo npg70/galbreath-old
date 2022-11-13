@@ -80,12 +80,44 @@ June 4th | **John Galbreath** in [???] has a lawful son baptized Neill
 > George lawful son to **Archd Galbreath** & **Mary Crawford**
 > in Clachan born 14th May 1820 regd 10th June.
 
+## 1820-12-28 Mary Galbreath
+
+**Lachan Galbreath**  **Mary Galbreath**
+
+## 1821-09-10 Katherine Galbreath
+
+**Hector Galbreath**  **Nany Campbell**
+
+## 1821-10-04 Flory Galbreath
+
+**Niel Galbreath** **Flory Mcalchallum**
+
+## 1821-11-07 Peggt Galbreath
+
+**John Galbreath** **Mary Sinclair**
+
+## 1822 John Galbreath
+
+**Angus Galbreath**  **Isabella Thomson**
+
+## 1822-09-05 Peggy Galbreath
+
+**Donald Galbreath** **Peggy McMillan**
+
 ## 1822-09-30 Duncan Galbreath
 
 [30/09/1822 GALBREATH, DUNCAN (Old Parish Registers Births 516/ 20 43 Kilcalmonell and Kilberry) Page 43 of 405](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356816?image=43)
 
 > Duncan lawful son to **Archd Galbreath** & **Mary Crawford**
 > in Ceannadrochit born 30th Sep. 1822 reg 25 Apr [??]
+
+## 1823-12-05 John Galbraith
+
+**John Galbraith**  **Mary MacPhail**
+
+## 1824-07-10 Peter Galbraith
+
+**John Galbraith**  **Mary Sinclair**
 
 ## 1824-09-26 Jean Galbreath
 
@@ -107,6 +139,14 @@ June 4th | **John Galbreath** in [???] has a lawful son baptized Neill
 
 > Angus lawful son to **John Galbraith** & **Mary McPhail**
 > in Culghailure born th 20th Oct 1825 Registered the 8th Nov.
+
+## 1826-04-25 Ann Galbraith
+
+**Archibald Galbraith**  **Mary McLean**
+
+## 1826-11-00 Angus Galbraith
+
+**Lachlan Galbraith** **Mary Galbraith**
 
 ## 1827-01-27 Mary Galbraith
 
