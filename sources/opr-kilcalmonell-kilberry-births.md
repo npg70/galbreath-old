@@ -8,6 +8,7 @@ title: OPR Baptisms Kilcalmonell and Kilberry
 
 Roots:
 
+- Lachlan Galbraith b. 1778 m. Mary McPhail
 - Neil Galbraith b. 1797 m. Janet McQuilkan
 - 
 
