@@ -4,7 +4,7 @@ familysearch: https://www.familysearch.org/tree/person/details/L8MT-MCN
 ---
 ***John Galbraith***, of unknown origin,
 
-He married 17 Aug 1822 at Kilcolmonell to **Mary McPhail**, daughter of John McPhail and Catherine Walker, born 22 Apr 1801, died 26 Oct 1866, and burried at [^mary-mcphail-burial]
+He married 17 Aug 1822 at Kilcolmonell to **Mary McPhail**, daughter of John McPhail and Catherine Walker, born 22 Apr 1801, died 26 Oct 1866, and burried at Largnahension Graveyard, Lochgilphead.[^mary-mcphail-burial]
 
 Census of 1861, via [Find My Past](https://www.findmypast.com/transcript?id=GBC/1861/0022460336&expand=true)
 
