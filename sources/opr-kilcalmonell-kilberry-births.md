@@ -6,6 +6,10 @@ title: OPR Baptisms Kilcalmonell and Kilberry
 * [130 Records](https://www.scotlandspeople.gov.uk/record-results?search_type=people&event=%28B%20OR%20C%20OR%20S%29&record_type%5B0%5D=opr_births&church_type=Old%20Parish%20Registers&dl_cat=church&dl_rec=church-births-baptisms&surname=Galbr&surname_so=starts&forename_so=starts&parent_names_so=exact&parent_name_two_so=exact&county=ARGYLL&record=Church%20of%20Scotland%20%28old%20parish%20registers%29%20Roman%20Catholic%20Church%20Other%20churches&rd_real_name%5B0%5D=KILBERRY%20OR%20KILCALMONELL%20AND%20KILBERRY&rd_real_name%5B1%5D=KILCALMONELL%20OR%20KILCALMONELL%20AND%20KILBERRY&rd_display_name%5B0%5D=KILBERRY%7CKILCALMONELL%20AND%20KILBERRY_KILBERRY&rd_display_name%5B1%5D=KILCALMONELL%7CKILCALMONELL%20AND%20KILBERRY_KILCALMONELL&rd_label%5B0%5D=KILBERRY&rd_label%5B1%5D=KILCALMONELL&rd_name%5B0%5D=KILBERRY%20OR%20KILCALMONELL%20AND%20KILBERRY&rd_name%5B1%5D=KILCALMONELL%20OR%20KILCALMONELL%20AND%20KILBERRY&sort=asc&order=Date&field=year)
 * Unlike other Scotlands People OPR indexes, this parish appears to be indexed by birth date, not baptism date.
 
+Roots:
+
+- Neil Galbraith b. 1797 m. Janet McQuilkan
+- 
 
 ## [1797-06-04 Neill Galbreath](/people/galbraith-neil-1797-mcquilkan.md)
 
