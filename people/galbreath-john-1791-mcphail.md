@@ -2,7 +2,7 @@
 title: John Galbreath b. 1791 m. Mary McPhail
 familysearch: https://www.familysearch.org/tree/person/details/L8MT-MCN
 ---
-***John Galbraith**, of unknown origin,
+***John Galbraith***, of unknown origin,
 
 He married **Mary McPhail**
 
