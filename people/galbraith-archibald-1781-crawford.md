@@ -4,7 +4,7 @@ familysearch: https://www.familysearch.org/tree/person/details/K45Y-S92
 ---
 ***Archibald Galbraith***, of unknown origin, was born about 1781.[^birth] He died between 1841 and 1851.[^death]
 
-He married **Mary Crawford**.  Mary is listed in the 1851 Census living in the household of XX Crawford as a "relative."[^1851-census-mary]
+He married **Mary Crawford**.  Mary is listed in the 1851 Census living in the household of XX Crawford as a "relative."[^census-1851-mary]
 
 Children of Archibald and Mary (Crawford) Galbraith, all baptismed in Kilcalmonell or Kilberry:
 
