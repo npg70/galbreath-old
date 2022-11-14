@@ -4,7 +4,7 @@ familysearch: https://www.familysearch.org/tree/person/details/L8MT-MCN
 ---
 ***John Galbraith***, of unknown origin,
 
-He married **Mary McPhail**
+He married 17 Aug 1822 at Kilcolmonell to **Mary McPhail**, daughter of John McPhail and Catherine Walker, born 22 Apr 1801, died 26 Oct 1866, and burried at [^mary-mcphail-burial]
 
 Census of 1861, via [Find My Past](https://www.findmypast.com/transcript?id=GBC/1861/0022460336&expand=true)
 
@@ -29,3 +29,6 @@ Children of John and Mary (McPhail) Galbraith:
 7. *Catharine Galbraith*, b. 19 January 1836; d. 7 Oct 1896; m. *Archibald McGougan*
 8. *Betsy Galbraith*, b. 16 Aug 1839; d. 18 Dec 1890; Unmarried.
 9. *Duncan Galbraith*, b. 7 Feb 1845; d. 17 Jun 1866; Unmarried.
+
+
+[^mary-mcphail-burial]: Find a Grave, database and images (https://www.findagrave.com/memorial/92284396/mary-galbraith: accessed 14 November 2022), memorial page for Mary McPhail Galbraith (1771–1863), Find a Grave Memorial ID 92284396, citing Largnahension Graveyard, Lochgilphead, Argyll and Bute, Scotland; Maintained by Whit Larson (contributor 47856003) .
