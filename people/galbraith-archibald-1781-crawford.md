@@ -11,7 +11,7 @@ Children of Archibald and Mary (Crawford) Galbraith, all baptismed in Kilcalmone
 1. *George Galbraith*, b. 14 May 1820[^george-birth]
 2. *Duncan Galbraith*, b. 30 Sep 1822[^duncan-birth]
 3. *Jean Galbraith*, b. 26 Sep 1824[^jean-birth]
-4. *Mary Galbraith*, [^mary-birth]
+4. *Mary Galbraith*, b. 30 Jan 1827[^mary-birth]
 5. *Donald Galbraith*, [^donald-birth]
 6. *Archibald Galbraith*, [^archibald-birth]
 
@@ -25,7 +25,7 @@ Children of Archibald and Mary (Crawford) Galbraith, all baptismed in Kilcalmone
 
 [^jean-birth]: OPR Kilcalmonell and Kilberry, Baptism of [Jean Galbreath](/sources/opr-kilcalmonell-kilberry-births.md#1824-09-26-jean-galbreath)
 
-[^mary-birth]: OPR Kilcalmonell and Kilberry, Baptism of 
+[^mary-birth]: OPR Kilcalmonell and Kilberry, Baptism of [Mary Galbraith](/sources/opr-kilcalmonell-kilberry-births.md#1827-01-30-mary-galbraith)
 
 [^donald-birth]: OPR Kilcalmonell and Kilberry, Baptism of 
 
