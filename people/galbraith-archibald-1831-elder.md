@@ -10,6 +10,7 @@ He married 23 Jan 1865 in Enzie, Banff[^marriage] to **Elizabeth "Betsy" Elder**
 
 Notes:
 
+* 1861 Census @ Kilberry: https://www.findmypast.com/transcript?id=GBC/1861/0022460171&expand=true
 * 1871 Census -- TBD
 * 1881 Census @ Whitehouse, Kilcalmonell, Argyllshire, Scotland; [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1881/0029366053&expand=true).  Angus lised at age 4, born 1877.
 * 1891 Census @ Debaig Sch, Applecross, Shieldaig, Ross and Cromarty, Scotland; [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1891/0031922858&expand=true).  Angus listed at age 14, born 1877.
