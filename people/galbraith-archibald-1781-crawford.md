@@ -6,6 +6,17 @@ familysearch: https://www.familysearch.org/tree/person/details/K45Y-S92
 
 He married **Mary Crawford**.  Mary is listed in the 1851 Census living in the household of XX Crawford as a "relative."[^census-1851-mary]
 
+He was a weaver.[^census-1841]
+
+- Archibald Age 60
+- (wife unamed) Age 40
+- George Age 20
+- Donald Age 10
+- Mary Age 15
+- Archibald Age 5
+
+Note: Duncan and Jean not listed.
+
 Children of Archibald and Mary (Crawford) Galbraith, all baptismed in Kilcalmonell or Kilberry:
 
 1. *George Galbraith*, b. 14 May 1820[^george-birth]
@@ -30,5 +41,7 @@ Children of Archibald and Mary (Crawford) Galbraith, all baptismed in Kilcalmone
 [^donald-birth]: OPR Kilcalmonell and Kilberry, Baptism of [Donald Galbraith](/sources/opr-kilcalmonell-kilberry-births.md#1829-03-21-donald-galbraith)
 
 [^archibald-birth]: OPR Kilcalmonell and Kilberry, Baptism of [Archibald Galbraith](/sources/opr-kilcalmonell-kilberry-births.md#1836-09-05-archibald-galbreath)
+
+[^census-1841]: Also on [Find My Past](https://www.findmypast.com/transcript?id=GBC/1841/0016612623&expand=true)
 
 [^census-1851-mary]: [1851 GALBRAITH, MARY (Census 516/ 4/ 4) Page 4 of 19](https://www.scotlandspeople.gov.uk/view-image/nrs_census/3015186?image=4)
