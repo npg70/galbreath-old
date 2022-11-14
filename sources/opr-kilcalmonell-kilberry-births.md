@@ -77,7 +77,7 @@ June 4th | **John Galbreath** in [???] has a lawful son baptized Neill
 
 [14/05/1820 GALBREATH, GEORGE (Old Parish Registers Births 516/ 20 9 Kilcalmonell and Kilberry) Page 9 of 405](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356826?image=9)
 
-> George lawful son to **Archd Galbreath** & **Mary Crawford**
+> George lawful son to **[Archd Galbreath](/people/galbraith-archibald-1781-crawford.md)** & **Mary Crawford**
 > in Clachan born 14th May 1820 regd 10th June.
 
 ## 1820-12-28 Mary Galbreath
@@ -108,7 +108,7 @@ June 4th | **John Galbreath** in [???] has a lawful son baptized Neill
 
 [30/09/1822 GALBREATH, DUNCAN (Old Parish Registers Births 516/ 20 43 Kilcalmonell and Kilberry) Page 43 of 405](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356816?image=43)
 
-> Duncan lawful son to **Archd Galbreath** & **Mary Crawford**
+> Duncan lawful son to **[Archd Galbreath](/people/galbraith-archibald-1781-crawford.md)** & **Mary Crawford**
 > in Ceannadrochit born 30th Sep. 1822 reg 25 Apr [??]
 
 ## 1823-12-05 John Galbraith
@@ -123,7 +123,7 @@ June 4th | **John Galbreath** in [???] has a lawful son baptized Neill
 
 [26/09/1824 GALBREATH, JEAN (Old Parish Registers Births 516/ 20 43 Kilcalmonell and Kilberry) Page 43 of 405](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2357091?image=43)
 
-> Jean lawful daut. to **Archd Galbreath** & **Mary Crawford**
+> Jean lawful daut. to **[Archd Galbreath](/people/galbraith-archibald-1781-crawford.md)** & **Mary Crawford**
 > in Ceamandrochit born 26th Sep. 1824 register 25th Apr 1825
 
 ## 1825-10-04 John Galbraith
@@ -156,7 +156,7 @@ June 4th | **John Galbreath** in [???] has a lawful son baptized Neill
 
 [30/01/1827 GALBRAITH, MARY (Old Parish Registers Births 516/ 20 64 Kilcalmonell and Kilberry) Page 64 of 405](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/565?image=64)
 
-> Mary lawful daut to **Archd Galbraith** and **Mary Crawford** 
+> Mary lawful daut to **[Archd Galbraith](/people/galbraith-archibald-1781-crawford.md)** and **Mary Crawford** 
 > in Clachan born 30 Jan 1827 registered 8 May 1829
 
 ## [1827-02-18 Angus Galbraith](/people/galbraith-angus-1827-smith.md)
@@ -200,7 +200,7 @@ June 4th | **John Galbreath** in [???] has a lawful son baptized Neill
 
 [21/03/1829 GALBRAITH, DONALD (Old Parish Registers Births 516/ 20 65 Kilcalmonell and Kilberry) Page 65 of 405](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/116?image=65)
 
-> Donald lawful son to **Archd Galbraith** & **Mary Crawford**
+> Donald lawful son to **[Archd Galbraith](/people/galbraith-archibald-1781-crawford.md)** & **Mary Crawford**
 > in Clachan born 21 March 1829 registered 8th May
 
 ## 1829-06-00 Lachlan Galbraith
@@ -300,7 +300,7 @@ June 4th | **John Galbreath** in [???] has a lawful son baptized Neill
 
 [05/09/1836 GALBREATH, ARCHIBALD (Old Parish Registers Births 516/ 20 115 Kilcalmonell and Kilberry) Page 115 of 405](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/2356779?image=115)
 
-> Archd lawful son to **Archd Galbreath** Weaver Clachan & 
+> Archd lawful son to **[Archd Galbreath](/people/galbraith-archibald-1781-crawford.md)** Weaver Clachan & 
 > **Mary Crawford** his spouse born the 5th day of Sept 1836
 > registered the 6th day of December 1836
 
