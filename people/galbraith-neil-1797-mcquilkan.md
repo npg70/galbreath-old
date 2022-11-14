@@ -7,6 +7,8 @@ familysearch: https://www.familysearch.org/tree/person/details/273X-NNN
 
 He married 25 Dec 1824 at Kilcolmonell[^marriage] to **Janet McQuilkan** (MacQuilkan)
 
+Present in 1861 Census in Kilberry: https://www.findmypast.com/transcript?id=GBC/1861/0022460171&expand=true
+
 Present in 1881 Census (TBD lookup)
 
 Children of Neil and Janet (McQuilkan) Galbraith:
