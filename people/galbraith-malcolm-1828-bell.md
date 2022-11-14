@@ -6,9 +6,11 @@ familysearch: https://www.familysearch.org/tree/person/details/273X-NLG
 
 He married 6 Dec 1859 at Kilberry, Argyll[^marriage] to **Catherine Bell**.
 
+- 1861 Census: https://www.findmypast.com/transcript?id=GBC/1861/0022460171&expand=true
+
 Children of Malcolm and Catherine (Bell) Galbraith:
 
-1. TBD Many
+1. *Neil Galbraith*, b. 1861
 
 [^birth]: OPR Kilcalmonell and Kilberry, baptism of [Malcolm Galbraith](/sources/opr-kilcalmonell-kilberry-births.md#1828-04-29-malcolm-galbraith)
 
