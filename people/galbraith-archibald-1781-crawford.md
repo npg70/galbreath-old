@@ -12,7 +12,7 @@ Children of Archibald and Mary (Crawford) Galbraith, all baptismed in Kilcalmone
 2. *Duncan Galbraith*, b. 30 Sep 1822[^duncan-birth]
 3. *Jean Galbraith*, b. 26 Sep 1824[^jean-birth]
 4. *Mary Galbraith*, b. 30 Jan 1827[^mary-birth]
-5. *Donald Galbraith*, [^donald-birth]
+5. *Donald Galbraith*, b. 21 Mar 1829[^donald-birth]
 6. *Archibald Galbraith*, [^archibald-birth]
 
 [^birth]: The birth year of 1781 is infered from the 1841 Census that listed his age as 60.  However due to rounding in this census, his age could +/- 5 years.
@@ -27,6 +27,6 @@ Children of Archibald and Mary (Crawford) Galbraith, all baptismed in Kilcalmone
 
 [^mary-birth]: OPR Kilcalmonell and Kilberry, Baptism of [Mary Galbraith](/sources/opr-kilcalmonell-kilberry-births.md#1827-01-30-mary-galbraith)
 
-[^donald-birth]: OPR Kilcalmonell and Kilberry, Baptism of 
+[^donald-birth]: OPR Kilcalmonell and Kilberry, Baptism of [Donald Galbraith](/sources/opr-kilcalmonell-kilberry-births.md#1829-03-21-donald-galbraith)
 
 [^archibald-birth]: OPR Kilcalmonell and Kilberry, Baptism of 
