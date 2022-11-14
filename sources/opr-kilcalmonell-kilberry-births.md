@@ -9,7 +9,8 @@ title: OPR Baptisms Kilcalmonell and Kilberry
 Roots:
 
 - [Lachlan Galbraith b. 1778 m. Mary McPhail](/people/galbraith-lachlan-1780-mcphail.md)
-- [Neil Galbraith b. 1797 m. Janet McQuilkan](/people/galbraith-archibald-1781-crawford.md)
+- [Neil Galbraith b. 1797 m. Janet McQuilkan](/people/people/galbraith-neil-1797-mcquilkan.md)
+- [Archibald Galbreath b. 1781 m. Mary Crawford](/people/galbraith-archibald-1781-crawford.md)
 - [Angus Galbraith b. 1784 m. Mary McLeod](/people/galbraith-angus-1784-mcleod.md)
 
 ## [1797-06-04 Neill Galbreath](/people/galbraith-neil-1797-mcquilkan.md)
