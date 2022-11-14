@@ -18,6 +18,15 @@ He was a weaver.[^census-1841]
 - Archibald Age 5
 
 Note: Duncan and Jean not listed.
+in 1851, four fo the children turn up in Greenock
+https://www.findmypast.com/transcript?id=GBC/1851/0019098585
+
+- Duncan
+- Jean
+- Donald
+- Archibald
+
+With George and Mary missing
 
 Children of Archibald and Mary (Crawford) Galbraith, all baptismed in Kilcalmonell or Kilberry:
 
