@@ -9,7 +9,7 @@ He married **Mary Crawford**
 Children of Archibald and Mary (Crawford) Galbraith, all baptismed in Kilcalmonell or Kilberry:
 
 1. *George Galbraith*, b. 14 May 1820[^george-birth]
-2. *Duncan Galbraith*, [^duncan-birth]
+2. *Duncan Galbraith*, b. 30 Sep 1822[^duncan-birth]
 3. *Jean Galbraith*, [^jean-birth]
 4. *Mary Galbraith*, [^mary-birth]
 5. *Donald Galbraith*, [^donald-birth]
@@ -19,9 +19,9 @@ Children of Archibald and Mary (Crawford) Galbraith, all baptismed in Kilcalmone
 
 [^death]: His wife Mary is listed as living with relatives in the 1851 Census, impling she was a widower.
 
-[^george-birth]: OPR Kilcalmonell and Kilberry, Baptism of [George Galbraith](/sources/opr-kilcalmonell-kilberry-births.md#1820-05-14-george-galbreath)
+[^george-birth]: OPR Kilcalmonell and Kilberry, Baptism of [George Galbreath](/sources/opr-kilcalmonell-kilberry-births.md#1820-05-14-george-galbreath)
 
-[^duncan-birth]: OPR Kilcalmonell and Kilberry, Baptism of 
+[^duncan-birth]: OPR Kilcalmonell and Kilberry, Baptism of [Duncan Galbreath](/sources/opr-kilcalmonell-kilberry-births.md#1822-09-30-duncan-galbreath)
 
 [^jean-birth]: OPR Kilcalmonell and Kilberry, Baptism of 
 
