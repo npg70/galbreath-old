@@ -144,7 +144,7 @@ June 4th | **John Galbreath** in [???] has a lawful son baptized Neill
 
 [20/10/1825 GALBRAITH, ANGUS (Old Parish Registers Births 516/ 20 301 Kilcalmonell and Kilberry) Page 301 of 405](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/99?image=301)
 
-> Angus lawful son to **John Galbraith** & **Mary McPhail**
+> Angus lawful son to **[John Galbraith](/people/galbreath-john-1791-mcphail.md)** & **Mary McPhail**
 > in Culghailure born th 20th Oct 1825 Registered the 8th Nov.
 
 ## 1826-04-25 Ann Galbraith
@@ -178,7 +178,7 @@ June 4th | **John Galbreath** in [???] has a lawful son baptized Neill
 
 [08/03/1828 GALBRAITH, NIEL (Old Parish Registers Births 516/ 20 310 Kilcalmonell and Kilberry) Page 310 of 405](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/9530889?image=682)
 
-> Niel lawful son to **John Galbraith** and **Mary McPhail**
+> Niel lawful son to **[John Galbraith](/people/galbreath-john-1791-mcphail.md)** and **Mary McPhail**
 > Mulchin born the 8th March 1828 Registered the 10th [??]
 
 ## [1828-04-29 Malcolm Galbraith](/people/galbraith-malcolm-1828-bell.md)
