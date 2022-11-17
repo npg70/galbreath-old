@@ -225,7 +225,7 @@ June 4th | **John Galbreath** in [???] has a lawful son baptized Neill
 
 ## 1830-08-03 Archibald Galbrith
 
-**John Galbrith** & **Mary MacPhail**
+**[John Galbrith](/people/galbreath-john-1791-mcphail.md)** & **Mary MacPhail**
 
 ## 1831-01-02 Robert Galbraith
 
