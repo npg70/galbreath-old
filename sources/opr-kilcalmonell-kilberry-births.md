@@ -120,7 +120,7 @@ June 4th | **John Galbreath** in [???] has a lawful son baptized Neill
 
 ## 1823-12-05 John Galbraith
 
-**John Galbraith**  **Mary MacPhail**
+**[John Galbraith](/people/galbreath-john-1791-mcphail.md)**  **Mary MacPhail**
 
 ## 1824-07-10 Peter Galbraith
 
@@ -254,7 +254,7 @@ June 4th | **John Galbreath** in [???] has a lawful son baptized Neill
 
 [14/02/1833 GALBRAITH, DONALD (Old Parish Registers Births 516/ 20 333 Kilcalmonell and Kilberry) Page 333 of 405](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/117?image=333)
 
-> Donald lawful son of **John Galbraith**
+> Donald lawful son of **[John Galbraith](/people/galbreath-john-1791-mcphail.md)**
 > tenant Terilgay and **Mary MacPhaile** there
 > Born 14th Feby Registered 18th 1833
 
@@ -292,7 +292,7 @@ June 4th | **John Galbreath** in [???] has a lawful son baptized Neill
 
 ## 1836-01-19 Catharine Galbreath
 
-**John Galbreath** & **Mary McPhail**
+**[John Galbreath](/people/galbreath-john-1791-mcphail.md)** & **Mary McPhail**
 
 ## 1836-03-25 John Galbraith
 
@@ -329,7 +329,7 @@ June 4th | **John Galbreath** in [???] has a lawful son baptized Neill
 
 ## 1839-08-16 Betty Galbraith
 
-**John Galbraith**  **Mary McPhail**
+**[John Galbraith](/people/galbreath-john-1791-mcphail.md)**  **Mary McPhail**
 
 ## 1840-05-18 Archibald Galbraith
 
@@ -351,7 +351,7 @@ June 4th | **John Galbreath** in [???] has a lawful son baptized Neill
 
 [07/02/1845 GALBRAITH, DUNCAN (Old Parish Registers Births 516/ 20 359 Kilcalmonell and Kilberry) Page 359 of 405](https://www.scotlandspeople.gov.uk/view-image/nrs_opr_records/125?image=359)
 
-> Duncan Lawful son to **John Galbraith** Tenant in Firehgam
+> Duncan Lawful son to **[John Galbraith](/people/galbreath-john-1791-mcphail.md)** Tenant in Firehgam
 > and **Mary MacPhaile** there Born 7th February 1845 Registered
 > 30th June 1845 years
 
