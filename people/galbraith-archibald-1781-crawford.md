@@ -4,7 +4,7 @@ familysearch: https://www.familysearch.org/tree/person/details/K45Y-S92
 ---
 ***Archibald Galbraith***, of unknown origin, was born about 1781.[^birth] He died between 1841 and 1851.[^death]
 
-He married **Mary Crawford**.  She was about about 1795 in South Knapdale.[^census-1851-mary]
+He married **Mary Crawford**.  She was born about 1795 in South Knapdale.[^census-1851-mary]
 
 Mary is listed in the 1851 Census living in the household of Isabella Crawford (widow) as a "relative."[^census-1851-mary]
 
