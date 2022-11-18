@@ -52,7 +52,7 @@ Children of John and Mary (McPhail) Galbraith:
 3. *Neil Galbraith*, b. 8 Mar 1828;[^neil-birth] d. 22 Nov 1888; Unmarried.
 4. *Archibald Galbraith*, b. 3 Aug 1830;[^archibald-birth] d. 26 Aug 1878; Unmarried.
 5. *Nancy Galbraith*, b. 1833?
-6. *Donald Galbraith*, b. 14 Feb 1833; d. 1858
+6. *Donald Galbraith*, b. 14 Feb 1833;[^donald-birth] d. 1858
 7. *Catharine Galbraith*, b. 19 January 1836;[^catharine-birth] d. 7 Oct 1896; m. *Archibald McGougan*
 8. *Betsy Galbraith*, b. 16 Aug 1839;[^betsy-birth] d. 18 Dec 1890; Unmarried.
 9. *Duncan Galbraith*, b. 7 Feb 1845;[^duncan-birth] d. 17 Jun 1866; Unmarried.
@@ -65,6 +65,8 @@ Children of John and Mary (McPhail) Galbraith:
 [^neil-birth]: OPR Kilcalmonell and Kilberry; Baptism of [Neil Galbraith](/sources/opr-kilcalmonell-kilberry-births.md#1828-03-08-neil-galbraith)
 
 [^archibald-birth]: OPR Kilcalmonell and Kilberry; Baptism of [Archibald Galbrith](/sources/opr-kilcalmonell-kilberry-births.md#1830-08-03-archibald-galbrith)
+
+[^donald-birth]:OPR Kilcalmonell and Kilberry; Baptism of [Donald Galbraith](/sources/opr-kilcalmonell-kilberry-births.md#1833-02-14-donald-galbraith)
 
 [^catharine-birth]: OPR Kilcalmonell and Kilberry; Baptism of [Catharine Galbreath](/sources/opr-kilcalmonell-kilberry-births.md#1836-01-19-catharine-galbreath)
 
