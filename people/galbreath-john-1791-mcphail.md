@@ -18,9 +18,15 @@ Census of 1861, via [Find My Past](https://www.findmypast.com/transcript?id=GBC/
 | Duncan Galbreath | Brother | 16 | 1845 | Unmarried |
 | Lachlan Galbreath | Visitor | 31 | 1830 | Unmarried |
 
-Census of 1871
+Census of 1871, via [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1871/0023465553)
 
-((TBD: not in findmysearch))
+| Name | Role | Age | Birth | Martial Status | Town |
+|------|------|-----|-------|----------------|------|
+| Neil Galbraith | Head | 39 | 1832 | Unmarried | Kilberry |
+| Archibald Galbraith | Brother | 37 | 1834 | Unmarried | Kilberry |
+| Catherine Galbraith | Sister | 30 | 1841 | Unmarried | Kilberry |
+| Betsy Galbraith | Sister | 28 | 1843 | Unmarried | Kilberry |
+| Robert McDonald | Servant | 14 | 1857 | - | Glasgow |
 
 Census of 1881, via [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1881/0029366990)
 
