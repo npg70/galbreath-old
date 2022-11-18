@@ -14,7 +14,7 @@ Census of 1851, via [Find My Past](https://www.findmypast.com/transcript?id=GBC/
 | John Galbraith | Son | 25 | 1826 | Unmarried | Kilberry |
 | Neil Galbraith | Son | 22 | 1829 | Unmarried | Kilberry |
 | Archibald Galbraith | Son | 19 | 1832 | Unmaried | Kilberry |
-| Catharine Galbraith | Dau | 15  1836 | Unmarried | Kilberry |
+| Catharine Galbraith | Dau | 15 | 1836 | Unmarried | Kilberry |
 | Betsy Galbraith | Dau | 11 | 1840 | Unmarried | Kilberry |
 | Duncan Galbraith | Son | 6 | 1845 | Unmarried | Kilberry |
 
