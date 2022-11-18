@@ -6,6 +6,18 @@ familysearch: https://www.familysearch.org/tree/person/details/L8MT-MCN
 
 He married 17 Aug 1822 at Kilcolmonell to **Mary McPhail**, daughter of John McPhail and Catherine Walker, born 22 Apr 1801, died 26 Oct 1866.  Note there is another Mary McPhail.
 
+Census of 1851, via [Find My Past](https://www.findmypast.com/transcript?id=GBC/1851/0019282944&expand=true)
+
+| Name | Role | Age | Birth | Martial Status | Birth Town |
+|------|------|-----|------------|----------------|-------|
+| Mary Galbraith | Head | 49 | 1802 | Widow | Kilberry |
+| John Galbraith | Son | 25 | 1826 | Unmarried | Kilberry |
+| Neil Galbraith | Son | 22 | 1829 | Unmarried | Kilberry |
+| Archibald Galbraith | Son | 19 | 1832 | Unmaried | Kilberry |
+| Catharine Galbraith | Dau | 15  1836 | Unmarried | Kilberry |
+| Betsy Galbraith | Dau | 11 | 1840 | Unmarried | Kilberry |
+| Duncan Galbraith | Son | 6 | 1845 | Unmarried | Kilberry |
+
 Census of 1861, via [Find My Past](https://www.findmypast.com/transcript?id=GBC/1861/0022460336&expand=true)
 
 | Name | Role | Age | Birth | Martial Status | Birth Town |
