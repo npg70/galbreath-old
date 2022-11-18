@@ -22,7 +22,7 @@ Census of 1871
 
 ((TBD: not in findmysearch))
 
-Census of 1881
+Census of 1881, via [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1881/0029366990)
 
 | Name | Role | Age | Birth | Martial Status | Town |
 |------|------|-----|-------|----------------|------|
@@ -31,6 +31,13 @@ Census of 1881
 | Betsy Galbraith | Sister | 37 | 1844 | Unmarried | Kilberry |
 | Archibald Galbraith | Servant | 21 | 1860 | Unmarried | Kilberry |
 | Jessie McFatter | Servant | 16 | 1865 | Unmarried | Greenock |
+
+Census of 1891, via [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1891/0035208672)
+
+| Name | Role | Age | Birth | Martial Status | Town |
+|------|------|-----|-------|----------------|------|
+| Archibald McCougan | Head | 58 | 1833 | Married | Gigha |
+| Catherine McGougan | Wife | 50 | 1841 | Married | Kilberry |
 
 Children of John and Mary (McPhail) Galbraith:
 
