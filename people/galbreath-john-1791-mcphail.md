@@ -2,7 +2,8 @@
 title: John Galbreath b. 1791 m. Mary McPhail
 familysearch: https://www.familysearch.org/tree/person/details/L8MT-MCN
 ---
-***John Galbraith***, of unknown origin,
+***John Galbraith***, of unknown origin. He died 
+5 Nov 1849?
 
 He married 17 Aug 1822 at Kilcolmonell to **Mary McPhail**, daughter of John McPhail and Catherine Walker, born 22 Apr 1801, died 26 Oct 1866.  Note there is another Mary McPhail.
 
