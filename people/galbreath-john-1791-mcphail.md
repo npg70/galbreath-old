@@ -14,8 +14,8 @@ Census of 1861, via [Find My Past](https://www.findmypast.com/transcript?id=GBC/
 | Mary Galbreath | Mother | 58 | 1803 | Widow | 
 | John Galbreath | Brother | 36 | 1825 | Unmarried |
 | Archibald Galbreath | Brother | 30 | 1831 | Unmarried |
-| Betsy Galbreath | Brother | 21 | 1840 | Unmarried |
-| Duncan Galbreath | Brother | 16 | 1745 | Unmarried |
+| Betsy Galbreath | Sister | 21 | 1840 | Unmarried |
+| Duncan Galbreath | Brother | 16 | 1845 | Unmarried |
 | Lachlan Galbreath | Visitor | 31 | 1830 | Unmarried |
 
 Children of John and Mary (McPhail) Galbraith:
