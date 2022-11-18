@@ -33,7 +33,7 @@ Census of 1881, via [FindMyPast](https://www.findmypast.com/transcript?id=GBC/18
 | Name | Role | Age | Birth | Martial Status | Town |
 |------|------|-----|-------|----------------|------|
 | Neil Galbraith | Head | 51 | 1830 | Unmarried | Kilberry |
-| Catherine McGuan | Sister | 40 | 1841 | Married | Kilberry |
+| Catherine McGougan | Sister | 40 | 1841 | Married | Kilberry |
 | Betsy Galbraith | Sister | 37 | 1844 | Unmarried | Kilberry |
 | Archibald Galbraith | Servant | 21 | 1860 | Unmarried | Kilberry |
 | Jessie McFatter | Servant | 16 | 1865 | Unmarried | Greenock |
@@ -42,7 +42,7 @@ Census of 1891, via [FindMyPast](https://www.findmypast.com/transcript?id=GBC/18
 
 | Name | Role | Age | Birth | Martial Status | Town |
 |------|------|-----|-------|----------------|------|
-| Archibald McCougan | Head | 58 | 1833 | Married | Gigha |
+| Archibald McGougan | Head | 58 | 1833 | Married | Gigha |
 | Catherine McGougan | Wife | 50 | 1841 | Married | Kilberry |
 
 Children of John and Mary (McPhail) Galbraith:
@@ -58,7 +58,7 @@ Children of John and Mary (McPhail) Galbraith:
 9. *Duncan Galbraith*, b. 7 Feb 1845;[^duncan-birth] d. 17 Jun 1866; Unmarried.
 
 
-[^john-birth]: OPR Kilcalmonell and Kilberry; Baptism of [John Galbraith(/sources/opr-kilcalmonell-kilberry-births.md#1823-12-05-john-galbraith)
+[^john-birth]: OPR Kilcalmonell and Kilberry; Baptism of [John Galbraith](/sources/opr-kilcalmonell-kilberry-births.md#1823-12-05-john-galbraith)
 
 [^angus-birth]: OPR Kilcalmonell and Kilberry; Baptism of [Angus Galbraith](/sources/opr-kilcalmonell-kilberry-births.md#1825-10-20-angus-galbraith)
 
