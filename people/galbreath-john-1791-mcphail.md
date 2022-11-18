@@ -18,6 +18,20 @@ Census of 1861, via [Find My Past](https://www.findmypast.com/transcript?id=GBC/
 | Duncan Galbreath | Brother | 16 | 1845 | Unmarried |
 | Lachlan Galbreath | Visitor | 31 | 1830 | Unmarried |
 
+Census of 1871
+
+((TBD: not in findmysearch))
+
+Census of 1881
+
+| Name | Role | Age | Birth | Martial Status | Town |
+|------|------|-----|-------|----------------|------|
+| Neil Galbraith | Head | 51 | 1830 | Unmarried | Kilberry |
+| Catherine McGuan | Sister | 40 | 1841 | Married | Kilberry |
+| Betsy Galbraith | Sister | 37 | 1844 | Unmarried | Kilberry |
+| Archibald Galbraith | Servant | 21 | 1860 | Unmarried | Kilberry |
+| Jessie McFatter | Servant | 16 | 1865 | Unmarried | Greenock |
+
 Children of John and Mary (McPhail) Galbraith:
 
 1. *John Galbraith*, b. 5 Dec 1823;[^john-birth] d. 3 Apr 1862; Unmarried.
