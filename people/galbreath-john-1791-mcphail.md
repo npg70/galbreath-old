@@ -8,15 +8,15 @@ He married 17 Aug 1822 at Kilcolmonell to **Mary McPhail**, daughter of John McP
 
 Census of 1861, via [Find My Past](https://www.findmypast.com/transcript?id=GBC/1861/0022460336&expand=true)
 
-| Name | Role | Age | Birth | Martial Status |
-|------|------|-----|------------|----------------|
-| Niel Galbreath | Head | 32 | 1829 | Unmarried |
-| Mary Galbreath | Mother | 58 | 1803 | Widow | 
-| John Galbreath | Brother | 36 | 1825 | Unmarried |
-| Archibald Galbreath | Brother | 30 | 1831 | Unmarried |
-| Betsy Galbreath | Sister | 21 | 1840 | Unmarried |
-| Duncan Galbreath | Brother | 16 | 1845 | Unmarried |
-| Lachlan Galbreath | Visitor | 31 | 1830 | Unmarried |
+| Name | Role | Age | Birth | Martial Status | Birth Town |
+|------|------|-----|------------|----------------|-------|
+| Niel Galbreath | Head | 32 | 1829 | Unmarried | Kilberry |
+| Mary Galbreath | Mother | 58 | 1803 | Widow | Kilberry |
+| John Galbreath | Brother | 36 | 1825 | Unmarried | Kilberry |
+| Archibald Galbreath | Brother | 30 | 1831 | Unmarried | Kilberry |
+| Betsy Galbreath | Sister | 21 | 1840 | Unmarried | Kilberry |
+| Duncan Galbreath | Brother | 16 | 1845 | Unmarried | Kilberry |
+| Lachlan Galbreath | Visitor | 31 | 1830 | Unmarried | Kilberry |
 
 Census of 1871, via [FindMyPast](https://www.findmypast.com/transcript?id=GBC/1871/0023465553)
 
