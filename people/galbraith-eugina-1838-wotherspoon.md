@@ -26,7 +26,7 @@ Children of James and Eugina (Galbraith) Wotherspoon, born in Gigha:
 3. *Eugina Wotherspoon*, b. 5 Nov 1870
 4. *Mary Wotherspoon*, b. 21 Dec 1871
 5. *James Wotherspoon*, b. 30 Apr 1874
-6. *Helen Wotherspoon*, b. 8 Aug 1875, d. 2 Jun 1951, Kilberry, m. *Archibald Galbraith*
+6. *Helen Wotherspoon*, b. 8 Aug 1875, d. 2 Jun 1951, Kilberry, m. *[Archibald Galbraith](galbraith-archibald-1861-wotherspoon.md)*
 7. *Martha Wotherspoon*, b. 13 Jun 1878
 8. *William Wotherspoon*, b. 19 May 1880
 
