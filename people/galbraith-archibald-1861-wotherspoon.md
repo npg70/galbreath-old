@@ -5,7 +5,7 @@ findagrave: https://www.findagrave.com/memorial/159989421/archibald-galbraith
 ---
 ***Archibald Galbraith***, son of *Malcolm Galbraith* and *Christina Wotherspoon*, born 27 May 1861 in Kilbery. He died 29 Jan 1940 in Kilbery.
 
-He married 26 Aug 1897 in Kilberry to **Helen Wotherspoon**, daughter of XX and YYY.  She died in 2 Jun 1951 in Kilberry.
+He married 26 Aug 1897 in Kilberry to **Helen Wotherspoon**, daughter of *James Wotherspoon* and *[Eugina Galbraith](galbraith-eugina-1838-wotherspoon.md)*. She died in 2 Jun 1951 in Kilberry.
 
 Children of Archibald and Helen (Wotherspoon) Galbraith:
 
